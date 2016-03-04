@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>World Map</title>
+
+ <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+<style>
+
+body {
+	padding: 0;
+	margin: 0;
+	background-color: #efefef;
+}
+
+.coastline {
+  fill: none;
+  stroke: #D5D5D5;
+  stroke-linejoin: round;
+}
+
+.country {
+  fill: #fff;
+  stroke: #fff;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+
+.retentionist {
+  fill: #cb4b2e;
+}
+
+.abolitionist-practice	{
+  fill: #ea6f21;
+}
+
+.abolitionist-ordinary {
+  fill: #ed9819;
+}
+
+.abolitionist-all {
+   fill: #fff31b;
+}
+
+.retentionist:hover, .abolitionist-practice:hover {
+	fill: #d95b12;
+	cursor: pointer;
+	cursor: hand;
+}
+
+.hidden {
+  display: none;
+}
+
+div.tooltip {
+  color: #222;
+  background: #fff;
+  padding: .5em;
+  border-radius: 2px;
+  box-shadow: 0px 0px 2px 0px #a6a6a6;
+  position: absolute;
+  z-index: 2;
+}
+
+
+</style>
+
+</head>
+<body>
+
+<div id="map-no-show"></div>
+
+<script src="javascripts/d3.min.js"></script>
+<script src="javascripts/topojson.v1.min.js"></script>
+<script src="javascripts/queue.v1.min.js"></script>
+<script src="javascripts/modernizr-svg-only.js"></script>
+
+<script>
+
+// check for
+if('querySelector' in document
+     && 'addEventListener' in window) {
+     	var jsCheck = document.getElementById('map-no-show');
+			jsCheck.id="map";
+     }
+
+// Calls the resize function
+d3.select(window).on("resize", throttle);
+
+// Set the height and width
+var padding = 5;
+var scaleSetting = 1.7;
+var width = document.getElementById('map').offsetWidth-padding;
+var height = width / scaleSetting;
+var activeCountries, yearCountries, topo, borders, coastline, projection, path, svg, g;
+var tooltip = d3.select("#map").append("div").attr("class", "tooltip hidden");
+
+setup(width,height);
+
+
+//initial setup
+function setup(width,height){
+	//Try d3.geo.azimuthalEqualArea() / d3.geo.mercator()
+  projection = d3.geo.mercator()
+    .translate([(width/2), (height/2)])
+    .scale(width / scaleSetting / Math.PI);
+
+  path = d3.geo.path().projection(projection);
+
+  svg = d3.select("#map").append("svg")
+      .attr("width", width)
+      .attr("height", height)
+      .append("g");
+
+  g = svg.append("g");
+}
+
+//Loads in the world data and the active countries
+queue()
+    .defer(d3.json, "data/world-topo.json")
+    .defer(d3.json, "data/data.json")
+    .await(ready);
+
+function ready(error, world, active) {
+
+	var countries = topojson.feature(world, world.objects.countries).features;
+  topo = countries;
+  activeCountries = active;
+
+  coastline = topojson.mesh(world, world.objects.countries, function(a, b) { return a === b });
+
+ var getYear = function (info) {
+    return info.year === '2014';
+  };
+
+  var yearData = activeCountries.filter(getYear);
+  yearCountries = yearData[0].countries;
+
+  topo.forEach(function(d, i) {
+        yearCountries.forEach(function(e, j) {
+            if (d.id === e.id) {
+                e.geometry = d.geometry;
+                e.type = d.type;
+            }
+        })
+    })
+
+  draw(topo, yearCountries, coastline);
+}
+
+function draw(topo, yearCountries, coastline) {
+	 var activeCountry = g.selectAll(".activeCountry").data(yearCountries);
+
+	 g.selectAll(".country")
+	      .data(topo)
+	     .enter().append("path")
+	    	.attr("class", "country")
+	    	.attr("id", function(d) { return d.id; })
+	      .attr("d", path);
+
+	 g.insert("path", ".graticule")
+	 		.datum(coastline)
+	 		.attr("class","coastline")
+			.attr("d", path);
+
+	activeCountry.enter().append("path")
+    	.attr("class", function(d,i) { return d.status.toLowerCase();})
+    	.attr("id", function(d) { return d.id; })
+      .attr("d", path);
+
+  //ofsets plus width/height of transform, plus 20 px of padding, plus 20 extra for tooltip offset off mouse
+  var offsetL = document.getElementById('map').offsetLeft+(width/80);
+  var offsetT =document.getElementById('map').offsetTop+(height/80);
+
+  activeCountry
+	  .on("mousemove", function(d,i) {
+	      var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
+	        tooltip
+	          .classed("hidden", false)
+	          .attr("style", "left:"+(mouse[0]+offsetL)+"px;top:"+(mouse[1]+offsetT)+"px")
+	          .html('<a href="'+ d.url + '">' + d.name + '</a>')
+	      })
+	      .on("mouseout",  function(d,i) {
+	        tooltip.classed("hidden", true)
+	      });
+
+  activeCountry.on('click', function(d){ window.location = d.url;});
+
+}
+
+function redraw() {
+  width = document.getElementById('map').offsetWidth-padding;
+  height = width / scaleSetting;
+  d3.select('svg').remove();
+  setup(width,height);
+  draw(topo, yearCountries, coastline);
+}
+
+var throttleTimer;
+function throttle() {
+  window.clearTimeout(throttleTimer);
+    throttleTimer = window.setTimeout(function() {
+      redraw();
+    }, 200);
+}
+
+</script>
+</body>
+</html>
