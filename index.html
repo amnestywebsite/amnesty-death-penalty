@@ -105,7 +105,7 @@ div.tooltip {
 
 </head>
 <body>
-<div id="detail-box">Detail info box <div id="btn-close">X</div></div>
+<div id="detail-box"></div>
 <div class="info-box">Static info box</div>
 <div id="map-no-show"></div>
 
@@ -113,9 +113,9 @@ div.tooltip {
 <script src="javascripts/topojson.v1.min.js"></script>
 <script src="javascripts/queue.v1.min.js"></script>
 <script src="javascripts/modernizr-svg-only.js"></script>
+<script src="javascripts/hogan.js"></script>
 
 <script>
-
 // check for
 if('querySelector' in document
      && 'addEventListener' in window) {
@@ -226,7 +226,9 @@ function draw(topo, yearCountries, coastline) {
   activeCountry.on('click', function(d){
     var detailBox = document.getElementById('detail-box');
     detailBox.classList.add("reveal");
-    console.log ("clicked");
+    var template = Hogan.compile("<div id='btn-close'>X</div><h1>{{name}}</h1> <h2>{{status}}</h2><h3>{{death-penalties}}</h3><h3>{{executions}}</h3> ");
+    var output = template.render(d);
+    detailBox.innerHTML = output;
 
     var btnClose = document.getElementById('btn-close');
     btnClose.addEventListener('click', function(event) {
