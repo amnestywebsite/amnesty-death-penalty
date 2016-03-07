@@ -7,10 +7,48 @@
 
 <style>
 
+html, body {
+  height: 100%;
+}
+
 body {
 	padding: 0;
 	margin: 0;
-	background-color: #efefef;
+	background-color: #fff;
+}
+
+.info-box {
+  width: 20%;
+  float: left;
+  background-color: #e5e5e5;
+  height: 100%;
+}
+
+#detail-box {
+  width: 60%;
+  float: left;
+  background-color: #e5e5e5;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow:hidden;
+  display: none;
+}
+
+.reveal {
+  display: block !important;
+}
+
+#btn-close {
+  float: right;
+  font-size: 32px;
+  margin: 16px;
+}
+
+#map {
+  width: 80%;
+  float: right;
 }
 
 .coastline {
@@ -20,8 +58,8 @@ body {
 }
 
 .country {
-  fill: #fff;
-  stroke: #fff;
+  fill: #8f9ca4;
+  stroke: #e5e5e5;
   stroke-linejoin: round;
   stroke-linecap: round;
 }
@@ -67,7 +105,8 @@ div.tooltip {
 
 </head>
 <body>
-
+<div id="detail-box">Detail info box <div id="btn-close">X</div></div>
+<div class="info-box">Static info box</div>
 <div id="map-no-show"></div>
 
 <script src="javascripts/d3.min.js"></script>
@@ -184,8 +223,16 @@ function draw(topo, yearCountries, coastline) {
 	        tooltip.classed("hidden", true)
 	      });
 
-  activeCountry.on('click', function(d){ window.location = d.url;});
+  activeCountry.on('click', function(d){
+    var detailBox = document.getElementById('detail-box');
+    detailBox.classList.add("reveal");
+    console.log ("clicked");
 
+    var btnClose = document.getElementById('btn-close');
+    btnClose.addEventListener('click', function(event) {
+      detailBox.classList.remove("reveal");
+    });
+  });
 }
 
 function redraw() {
