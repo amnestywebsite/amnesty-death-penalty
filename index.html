@@ -214,7 +214,7 @@ function draw(topo, activeCountries, coastline) {
     });
 
     var infoBox = document.getElementById('info-box');
-    var template = Hogan.compile("<div class='wrapper'><h1>Year: {{year}}</h1> <h2>Executions: {{total-executions}}</h2><h3>Abolitionist: {{abolitionist-all}}</h3> </div>");
+    var template = Hogan.compile("<div class='wrapper'><h1>{{year}}</h1> <h2>{{total-executions}} EXECUTIONS</h2><h3>Abolitionist: {{abolitionist-all}}</h3> </div>");
 
     var output = template.render(yearData[0]);
     infoBox.innerHTML = output;
