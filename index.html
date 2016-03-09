@@ -255,6 +255,7 @@ function draw(topo, activeCountries, coastline) {
 	      });
 
   activeCountry.on('click', function(d){
+    console.log (d);
     var detailBox = document.getElementById('detail-box');
     detailBox.classList.add("reveal");
     var detailTemplate = Hogan.compile("<div class='wrapper'><div id='btn-close'>X</div><h1>{{name}}</h1> <h2>{{status}}</h2><h3>{{death-penalties}}</h3><h3>{{executions}}</h3></div>");
