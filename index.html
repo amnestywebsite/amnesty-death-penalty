@@ -98,7 +98,7 @@ body {
   display: none;
 }
 
-div.tooltip {
+.tooltip {
   color: #222;
   background: #fff;
   padding: .5em;
@@ -106,6 +106,11 @@ div.tooltip {
   box-shadow: 0px 0px 2px 0px #a6a6a6;
   position: absolute;
   z-index: 2;
+}
+
+.tooltip a {
+  text-decoration: none;
+  color: #cb4b2e;
 }
 
 #slider {
@@ -209,7 +214,7 @@ function draw(topo, activeCountries, coastline) {
     });
 
     var infoBox = document.getElementById('info-box');
-    var template = Hogan.compile("<div class='wrapper'><h1>Year: {{year}}</h1> <h2>Executions: {{total-executions}}</h2><h3>Abolitionst: {{abolitionist-all}}</h3> </div>");
+    var template = Hogan.compile("<div class='wrapper'><h1>Year: {{year}}</h1> <h2>Executions: {{total-executions}}</h2><h3>Abolitionist: {{abolitionist-all}}</h3> </div>");
 
     var output = template.render(yearData[0]);
     infoBox.innerHTML = output;
@@ -284,6 +289,8 @@ customSlider
       console.log (date.getFullYear().toString());
       console.log ('current year ' + currentYear);
       currentYear = newYear;
+      g.selectAll(".country").remove();
+      g.selectAll(".coastline").remove();
       draw(topo, activeCountries, coastline);
     }
   });
