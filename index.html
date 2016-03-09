@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
 <title>World Map</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
- <!-- Enable responsiveness on mobile devices-->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  <link href="chroniton.css" rel="stylesheet">
 
 <style>
 
@@ -17,7 +18,7 @@ body {
 	background-color: #fff;
 }
 
-.info-box {
+#info-box {
   width: 20%;
   float: left;
   background-color: #e5e5e5;
@@ -34,6 +35,7 @@ body {
   left: 0;
   overflow:hidden;
   display: none;
+  z-index: 100;
 }
 
 .reveal {
@@ -100,20 +102,30 @@ div.tooltip {
   z-index: 2;
 }
 
+#slider {
+  position: absolute;
+  left: 0;
+  bottom: 20px;
+  width: 100%;
+  height: 50px;
+}
+
 
 </style>
 
 </head>
 <body>
 <div id="detail-box"></div>
-<div class="info-box">Static info box</div>
+<div id="info-box"></div>
 <div id="map-no-show"></div>
+<div id="slider"></div>
 
-<script src="javascripts/d3.min.js"></script>
+<script src="javascripts/d3.js"></script>
 <script src="javascripts/topojson.v1.min.js"></script>
 <script src="javascripts/queue.v1.min.js"></script>
 <script src="javascripts/modernizr-svg-only.js"></script>
 <script src="javascripts/hogan.js"></script>
+<script src="javascripts/chroniton-only.js"></script>
 
 <script>
 // check for
@@ -131,11 +143,13 @@ var padding = 5;
 var scaleSetting = 1.7;
 var width = document.getElementById('map').offsetWidth-padding;
 var height = width / scaleSetting;
+
 var activeCountries, yearCountries, topo, borders, coastline, projection, path, svg, g;
+var startYear = '2014';
+var currentYear = startYear;
 var tooltip = d3.select("#map").append("div").attr("class", "tooltip hidden");
 
 setup(width,height);
-
 
 //initial setup
 function setup(width,height){
@@ -144,7 +158,8 @@ function setup(width,height){
     .translate([(width/2), (height/2)])
     .scale(width / scaleSetting / Math.PI);
 
-  path = d3.geo.path().projection(projection);
+  path = d3.geo.path()
+  .projection(projection);
 
   svg = d3.select("#map").append("svg")
       .attr("width", width)
@@ -161,18 +176,21 @@ queue()
     .await(ready);
 
 function ready(error, world, active) {
-
 	var countries = topojson.feature(world, world.objects.countries).features;
   topo = countries;
   activeCountries = active;
-
   coastline = topojson.mesh(world, world.objects.countries, function(a, b) { return a === b });
+  draw(topo, activeCountries, coastline);
+}
 
- var getYear = function (info) {
-    return info.year === '2014';
-  };
+function draw(topo, activeCountries, coastline) {
 
-  var yearData = activeCountries.filter(getYear);
+  var yearData = activeCountries.filter(function(val) {
+    return val.year === currentYear;
+  });
+
+  console.log (yearData);
+
   yearCountries = yearData[0].countries;
 
   topo.forEach(function(d, i) {
@@ -182,12 +200,14 @@ function ready(error, world, active) {
                 e.type = d.type;
             }
         })
-    })
+    });
 
-  draw(topo, yearCountries, coastline);
-}
+    var infoBox = document.getElementById('info-box');
+    var template = Hogan.compile("<h1>Year: {{year}}</h1> <h2>Executions: {{total-executions}}</h2><h3>Abolitionst: {{abolitionist-all}}</h3> ");
 
-function draw(topo, yearCountries, coastline) {
+    var output = template.render(yearData[0]);
+    infoBox.innerHTML = output;
+
 	 var activeCountry = g.selectAll(".activeCountry").data(yearCountries);
 
 	 g.selectAll(".country")
@@ -226,8 +246,8 @@ function draw(topo, yearCountries, coastline) {
   activeCountry.on('click', function(d){
     var detailBox = document.getElementById('detail-box');
     detailBox.classList.add("reveal");
-    var template = Hogan.compile("<div id='btn-close'>X</div><h1>{{name}}</h1> <h2>{{status}}</h2><h3>{{death-penalties}}</h3><h3>{{executions}}</h3> ");
-    var output = template.render(d);
+    var detailTemplate = Hogan.compile("<div id='btn-close'>X</div><h1>{{name}}</h1> <h2>{{status}}</h2><h3>{{death-penalties}}</h3><h3>{{executions}}</h3> ");
+    var output = detailTemplate.render(d);
     detailBox.innerHTML = output;
 
     var btnClose = document.getElementById('btn-close');
@@ -237,12 +257,33 @@ function draw(topo, yearCountries, coastline) {
   });
 }
 
+var customSlider = chroniton()
+  .domain([new Date('2000'), new Date('2014')])
+  .labelFormat(d3.time.format('%Y'))
+  .width(700);
+
+d3.select("#slider")
+    .call(customSlider);
+
+customSlider.setValue(new Date('2014'));
+
+customSlider
+  .on('change', function(date) {
+    var newYear = date.getFullYear().toString();
+    if (newYear != currentYear) {
+      console.log (date.getFullYear().toString());
+      console.log ('current year ' + currentYear);
+      currentYear = newYear;
+      draw(topo, activeCountries, coastline);
+    }
+  });
+
 function redraw() {
   width = document.getElementById('map').offsetWidth-padding;
   height = width / scaleSetting;
   d3.select('svg').remove();
   setup(width,height);
-  draw(topo, yearCountries, coastline);
+  draw(topo, activeCountries, coastline);
 }
 
 var throttleTimer;
