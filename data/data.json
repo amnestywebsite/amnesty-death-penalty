@@ -76,5 +76,109 @@
         "death-penalties": "509"
       }
      ]
+  },
+  {
+    "year": "2011",
+    "total-executions": "113",
+    "abolitionist-all": "60",
+    "abolitionist-ordinary": "87",
+    "abolitionist-practice": "47",
+    "retentionist": "25",
+    "countries": [
+      {
+        "name": "Iran",
+        "id":"IRN",
+        "status": "Retentionist",
+        "region": "MENA",
+        "executions": "61",
+        "death-penalties": "38"
+      },
+      {
+        "name": "Egypt",
+        "id":"EGY",
+        "status": "Retentionist",
+        "region": "MENA",
+        "executions": "15",
+        "death-penalties": "509"
+      }
+     ]
+  },
+  {
+    "year": "2010",
+    "total-executions": "412",
+    "abolitionist-all": "104",
+    "abolitionist-ordinary": "57",
+    "abolitionist-practice": "56",
+    "retentionist": "38",
+    "countries": [
+      {
+        "name": "Iran",
+        "id":"IRN",
+        "status": "abolitionist-practice",
+        "region": "MENA",
+        "executions": "61",
+        "death-penalties": "38"
+      },
+      {
+        "name": "Egypt",
+        "id":"EGY",
+        "status": "Retentionist",
+        "region": "MENA",
+        "executions": "15",
+        "death-penalties": "509"
+      }
+    ]
+  },
+  {
+    "year": "2009",
+    "total-executions": "315",
+    "abolitionist-all": "104",
+    "abolitionist-ordinary": "57",
+    "abolitionist-practice": "56",
+    "retentionist": "38",
+    "countries": [
+      {
+        "name": "Iran",
+        "id":"IRN",
+        "status": "abolitionist-practice",
+        "region": "MENA",
+        "executions": "61",
+        "death-penalties": "38"
+      },
+      {
+        "name": "Egypt",
+        "id":"EGY",
+        "status": "Retentionist",
+        "region": "MENA",
+        "executions": "15",
+        "death-penalties": "509"
+      }
+    ]
+  },
+  {
+    "year": "2008",
+    "total-executions": "113",
+    "abolitionist-all": "190",
+    "abolitionist-ordinary": "87",
+    "abolitionist-practice": "47",
+    "retentionist": "25",
+    "countries": [
+      {
+        "name": "Iran",
+        "id":"IRN",
+        "status": "abolitionist-ordinary",
+        "region": "MENA",
+        "executions": "61",
+        "death-penalties": "38"
+      },
+      {
+        "name": "Egypt",
+        "id":"EGY",
+        "status": "Retentionist",
+        "region": "MENA",
+        "executions": "15",
+        "death-penalties": "509"
+      }
+     ]
   }
 ]

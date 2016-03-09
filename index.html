@@ -25,6 +25,10 @@ body {
   height: 100%;
 }
 
+.wrapper {
+  margin: 1rem;
+}
+
 #detail-box {
   width: 60%;
   float: left;
@@ -203,7 +207,7 @@ function draw(topo, activeCountries, coastline) {
     });
 
     var infoBox = document.getElementById('info-box');
-    var template = Hogan.compile("<h1>Year: {{year}}</h1> <h2>Executions: {{total-executions}}</h2><h3>Abolitionst: {{abolitionist-all}}</h3> ");
+    var template = Hogan.compile("<div class='wrapper'><h1>Year: {{year}}</h1> <h2>Executions: {{total-executions}}</h2><h3>Abolitionst: {{abolitionist-all}}</h3> </div>");
 
     var output = template.render(yearData[0]);
     infoBox.innerHTML = output;
@@ -246,7 +250,7 @@ function draw(topo, activeCountries, coastline) {
   activeCountry.on('click', function(d){
     var detailBox = document.getElementById('detail-box');
     detailBox.classList.add("reveal");
-    var detailTemplate = Hogan.compile("<div id='btn-close'>X</div><h1>{{name}}</h1> <h2>{{status}}</h2><h3>{{death-penalties}}</h3><h3>{{executions}}</h3> ");
+    var detailTemplate = Hogan.compile("<div class='wrapper'><div id='btn-close'>X</div><h1>{{name}}</h1> <h2>{{status}}</h2><h3>{{death-penalties}}</h3><h3>{{executions}}</h3></div>");
     var output = detailTemplate.render(d);
     detailBox.innerHTML = output;
 
@@ -258,14 +262,18 @@ function draw(topo, activeCountries, coastline) {
 }
 
 var customSlider = chroniton()
-  .domain([new Date('2000'), new Date('2014')])
+  .domain([new Date('2008'), new Date('2014')])
   .labelFormat(d3.time.format('%Y'))
-  .width(700);
+  .width(700)
+  .playButton(true)
+      .playbackRate(1)
+      .loop(true);
 
 d3.select("#slider")
     .call(customSlider);
 
-customSlider.setValue(new Date('2014'));
+customSlider
+  .setValue(new Date('2014'));
 
 customSlider
   .on('change', function(date) {
@@ -277,6 +285,7 @@ customSlider
       draw(topo, activeCountries, coastline);
     }
   });
+
 
 function redraw() {
   width = document.getElementById('map').offsetWidth-padding;
