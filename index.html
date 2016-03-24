@@ -131,12 +131,14 @@ body {
 <div id="map-no-show"></div>
 <div id="slider"></div>
 
+<script src="javascripts/pym.js"></script>
 <script src="javascripts/d3.js"></script>
 <script src="javascripts/topojson.v1.min.js"></script>
 <script src="javascripts/queue.v1.min.js"></script>
 <script src="javascripts/modernizr-svg-only.js"></script>
 <script src="javascripts/hogan.js"></script>
 <script src="javascripts/chroniton-only.js"></script>
+
 
 <script>
 // check for
@@ -178,6 +180,7 @@ function setup(width,height){
       .append("g");
 
   g = svg.append("g");
+
 }
 
 //Loads in the world data and the active countries
@@ -192,6 +195,8 @@ function ready(error, world, active) {
   activeCountries = active;
   coastline = topojson.mesh(world, world.objects.countries, function(a, b) { return a === b });
   draw(topo, activeCountries, coastline);
+
+
 }
 
 function draw(topo, activeCountries, coastline) {
@@ -312,6 +317,8 @@ function throttle() {
       redraw();
     }, 200);
 }
+
+
 
 </script>
 </body>
