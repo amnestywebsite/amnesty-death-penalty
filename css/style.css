@@ -1,0 +1,111 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #fff;
+}
+
+#info-box {
+  width: 30%;
+  float: left;
+  background-color: #e5e5e5;
+  height: 100%;
+}
+
+.wrapper {
+  margin: 1rem;
+}
+
+#detail-box {
+  width: 60%;
+  float: left;
+  background-color: #e5e5e5;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow:hidden;
+  display: none;
+  z-index: 100;
+}
+
+.reveal {
+  display: block !important;
+}
+
+#btn-close {
+  float: right;
+  font-size: 32px;
+  margin: 16px;
+}
+
+#map {
+  width: 70%;
+  float: right;
+  padding-top: 3em;
+}
+
+.coastline {
+  fill: none;
+  stroke: #D5D5D5;
+  stroke-linejoin: round;
+  stroke-width: 0.2px;
+}
+
+.country {
+  fill: #8f9ca4;
+  stroke: #e5e5e5;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-width: 0.2px;
+}
+
+.retentionist {
+  fill: #cb4b2e;
+}
+
+.abolitionist-practice  {
+  fill: #ea6f21;
+}
+
+.abolitionist-ordinary {
+  fill: #ed9819;
+}
+
+.abolitionist-all {
+   fill: #fff31b;
+}
+
+.retentionist:hover, .abolitionist-practice:hover {
+  fill: #d95b12;
+  cursor: pointer;
+  cursor: hand;
+}
+
+.hidden {
+  display: none;
+}
+
+.tooltip {
+  color: #222;
+  background: #fff;
+  padding: .5em;
+  border-radius: 2px;
+  box-shadow: 0px 0px 2px 0px #a6a6a6;
+  position: absolute;
+  z-index: 2;
+}
+
+.tooltip a {
+  text-decoration: none;
+  color: #cb4b2e;
+}
+
+.buttons {
+  position: absolute;
+  right: 30px;
+  top: 30px;
+}
