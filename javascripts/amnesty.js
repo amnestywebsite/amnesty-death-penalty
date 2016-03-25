@@ -1,8 +1,8 @@
 if('querySelector' in document
-     && 'addEventListener' in window) {
-      var jsCheck = document.getElementById('map-no-show');
-      jsCheck.id="map";
-     }
+  && 'addEventListener' in window) {
+    var jsCheck = document.getElementById('map-no-show');
+    jsCheck.id="map";
+  }
 
 d3.select(window).on("resize", throttle);
 
@@ -10,18 +10,18 @@ var zoom = d3.behavior.zoom()
     .scaleExtent([1, 7])
     .on("zoom", move);
 
+var scaleAdjust = 1.08;
 var width = document.getElementById('map').offsetWidth;
-var height = width / 1.2;
+var height = width / scaleAdjust;
 
 var topo,projection,path,svg,g;
 
 setup(width,height);
 
 function setup(width,height){
-  projection = d3.geo.times()
+  projection = d3.geo.mercator()
     .translate([(width/2), (height/2)])
-    .scale(160)
-    .precision(.1);
+    .scale( width / 2 / Math.PI);
 
   path = d3.geo.path().projection(projection);
 
@@ -60,7 +60,7 @@ function draw(topo) {
 
 function redraw() {
   width = document.getElementById('map').offsetWidth;
-  height = width / 1.3;
+  var height = width / scaleAdjust;
   d3.select('svg').remove();
   setup(width,height);
   draw(topo);
