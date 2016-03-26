@@ -9,20 +9,11 @@ d3.select(window).on("resize", throttle);
 var scaleAdjust = 1.08;
 var width = document.getElementById('map').offsetWidth;
 var height = width / scaleAdjust;
-
-//different width + height
-var altWidth = d3.select('#map').node().getBoundingClientRect().width;
-var altHeight = d3.select('#map').node().getBoundingClientRect().height;
-
 var center = [width / 2, height / 2];
 
 console.log ("width: " + width);
 console.log ("height: " + height);
-console.log ("alt width: " + altWidth);
-console.log ("alt height: " + altHeight);
-
 console.log ("centre: " + center);
-
 
 var topo,projection,path,svg,g;
 
@@ -62,13 +53,15 @@ function draw(topo) {
 
 
 var zoom = d3.behavior.zoom()
-            .scaleExtent([1, 8]);
+            .scaleExtent([1, 8])
+            .on("zoom", move);
             svg.call(zoom);
 
 function redraw() {
   width = document.getElementById('map').offsetWidth;
   var height = width / scaleAdjust;
   d3.select('svg').remove();
+  center = [width / 2, height / 2];
   setup(width,height);
   draw(topo);
 }
@@ -106,55 +99,55 @@ function throttle() {
 }
 
 d3.select('#zoom-in').on('click', function () {
-                var scale = zoom.scale(), extent = zoom.scaleExtent(), translate = zoom.translate();
-                var x = translate[0], y = translate[1];
-                var factor = 1.2;
+    var scale = zoom.scale(), extent = zoom.scaleExtent(), translate = zoom.translate();
+    var x = translate[0], y = translate[1];
+    var factor = 1.2;
 
-                var target_scale = scale * factor;
+    var target_scale = scale * factor;
 
-                if (scale === extent[1]) {
-                    return false;
-                }
-                var clamped_target_scale = Math.max(extent[0], Math.min(extent[1], target_scale));
-                if (clamped_target_scale != target_scale) {
-                    target_scale = clamped_target_scale;
-                    factor = target_scale / scale;
-                }
-                x = (x - center[0]) * factor + center[0];
-                y = (y - center[1]) * factor + center[1];
+    if (scale === extent[1]) {
+        return false;
+    }
+    var clamped_target_scale = Math.max(extent[0], Math.min(extent[1], target_scale));
+    if (clamped_target_scale != target_scale) {
+        target_scale = clamped_target_scale;
+        factor = target_scale / scale;
+    }
+    x = (x - center[0]) * factor + center[0];
+    y = (y - center[1]) * factor + center[1];
 
-                zoom.scale(target_scale).translate([x, y]);
+    zoom.scale(target_scale).translate([x, y]);
 
-                g.transition().attr("transform", "translate(" + zoom.translate().join(",") + ") scale(" + zoom.scale() + ")");
-                g.selectAll("path")
-                        .attr("d", path.projection(projection));
+    g.transition().attr("transform", "translate(" + zoom.translate().join(",") + ") scale(" + zoom.scale() + ")");
+    g.selectAll("path")
+            .attr("d", path.projection(projection));
 
-            });
+});
 
-            d3.select('#zoom-out').on('click', function () {
-                var scale = zoom.scale(), extent = zoom.scaleExtent(), translate = zoom.translate();
-                var x = translate[0], y = translate[1];
-                var factor = 1 / 1.2;
+d3.select('#zoom-out').on('click', function () {
+    var scale = zoom.scale(), extent = zoom.scaleExtent(), translate = zoom.translate();
+    var x = translate[0], y = translate[1];
+    var factor = 1 / 1.2;
 
-                var target_scale = scale * factor;
+    var target_scale = scale * factor;
 
-                if (scale === extent[0]) {
-                    return false;
-                }
-                var clamped_target_scale = Math.max(extent[0], Math.min(extent[1], target_scale));
-                if (clamped_target_scale != target_scale) {
-                    target_scale = clamped_target_scale;
-                    factor = target_scale / scale;
-                }
-                x = (x - center[0]) * factor + center[0];
-                y = (y - center[1]) * factor + center[1];
+    if (scale === extent[0]) {
+        return false;
+    }
+    var clamped_target_scale = Math.max(extent[0], Math.min(extent[1], target_scale));
+    if (clamped_target_scale != target_scale) {
+        target_scale = clamped_target_scale;
+        factor = target_scale / scale;
+    }
+    x = (x - center[0]) * factor + center[0];
+    y = (y - center[1]) * factor + center[1];
 
-                zoom.scale(target_scale).translate([x, y]);
+    zoom.scale(target_scale).translate([x, y]);
 
-                g.transition()
-                        .attr("transform", "translate(" + zoom.translate().join(",") + ") scale(" + zoom.scale() + ")");
-                g.selectAll("path")
-                        .attr("d", path.projection(projection));
+    g.transition()
+            .attr("transform", "translate(" + zoom.translate().join(",") + ") scale(" + zoom.scale() + ")");
+    g.selectAll("path")
+            .attr("d", path.projection(projection));
 
-            });
+});
 

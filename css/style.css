@@ -9,11 +9,32 @@ body {
 }
 
 #info-box {
-  width: 30%;
-  float: left;
+  width: 100%;
+  display: block;
   background-color: #e5e5e5;
   height: 100%;
 }
+
+@media screen and (min-width: 30em) {
+  #info-box {
+    width: 30%;
+    float: left;
+    background-color: #e5e5e5;
+    height: 100%;
+  }
+}
+
+#map {
+  width: 100%;
+  display: block;
+}
+
+@media screen and (min-width: 30em) {
+  #map {
+    width: 70%;
+    float: right;
+  }
+ }
 
 .wrapper {
   margin: 1rem;
@@ -40,11 +61,6 @@ body {
   float: right;
   font-size: 32px;
   margin: 16px;
-}
-
-#map {
-  width: 70%;
-  float: right;
 }
 
 .coastline {
