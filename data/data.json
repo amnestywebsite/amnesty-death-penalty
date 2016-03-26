@@ -1,184 +1,1620 @@
 [
-  {
-    "year": "2014",
-    "total-executions": "615",
-    "abolitionist-all": "110",
-    "abolitionist-ordinary": "97",
-    "abolitionist-practice": "57",
-    "retentionist": "48",
-    "countries": [
-      {
-        "name": "Iran",
-        "id":"IRN",
-        "status": "Retentionist",
-        "region": "MENA",
-        "executions": "61",
-        "death-penalties": "38"
-      },
-      {
-        "name": "Egypt",
-        "id":"EGY",
-        "status": "Retentionist",
-        "Region": "MENA",
-        "executions": "15",
-        "death-penalties": "414"
-      }
-    ]
-  },
-  {
-    "year": "2013",
-    "total-executions": "412",
-    "abolitionist-all": "104",
-    "abolitionist-ordinary": "57",
-    "abolitionist-practice": "56",
-    "retentionist": "38",
-    "countries": [
-      {
-        "name": "Iran",
-        "id":"IRN",
-        "status": "abolitionist-practice",
-        "region": "MENA",
-        "executions": "61",
-        "death-penalties": "38"
-      },
-      {
-        "name": "Egypt",
-        "id":"EGY",
-        "status": "Retentionist",
-        "region": "MENA",
-        "executions": "15",
-        "death-penalties": "413"
-      }
-    ]
-  },
-  {
-    "year": "2012",
-    "total-executions": "213",
-    "abolitionist-all": "90",
-    "abolitionist-ordinary": "87",
-    "abolitionist-practice": "47",
-    "retentionist": "25",
-    "countries": [
-      {
-        "name": "Iran",
-        "id":"IRN",
-        "status": "abolitionist-ordinary",
-        "region": "MENA",
-        "executions": "61",
-        "death-penalties": "38"
-      },
-      {
-        "name": "Egypt",
-        "id":"EGY",
-        "status": "Retentionist",
-        "region": "MENA",
-        "executions": "15",
-        "death-penalties": "412"
-      }
-     ]
-  },
-  {
-    "year": "2011",
-    "total-executions": "113",
-    "abolitionist-all": "60",
-    "abolitionist-ordinary": "87",
-    "abolitionist-practice": "47",
-    "retentionist": "25",
-    "countries": [
-      {
-        "name": "Iran",
-        "id":"IRN",
-        "status": "Retentionist",
-        "region": "MENA",
-        "executions": "61",
-        "death-penalties": "38"
-      },
-      {
-        "name": "Egypt",
-        "id":"EGY",
-        "status": "Retentionist",
-        "region": "MENA",
-        "executions": "15",
-        "death-penalties": "509"
-      }
-     ]
-  },
-  {
-    "year": "2010",
-    "total-executions": "412",
-    "abolitionist-all": "104",
-    "abolitionist-ordinary": "57",
-    "abolitionist-practice": "56",
-    "retentionist": "38",
-    "countries": [
-      {
-        "name": "Iran",
-        "id":"IRN",
-        "status": "abolitionist-practice",
-        "region": "MENA",
-        "executions": "61",
-        "death-penalties": "38"
-      },
-      {
-        "name": "Egypt",
-        "id":"EGY",
-        "status": "Retentionist",
-        "region": "MENA",
-        "executions": "15",
-        "death-penalties": "509"
-      }
-    ]
-  },
-  {
-    "year": "2009",
-    "total-executions": "315",
-    "abolitionist-all": "104",
-    "abolitionist-ordinary": "57",
-    "abolitionist-practice": "56",
-    "retentionist": "38",
-    "countries": [
-      {
-        "name": "Iran",
-        "id":"IRN",
-        "status": "abolitionist-practice",
-        "region": "MENA",
-        "executions": "61",
-        "death-penalties": "38"
-      },
-      {
-        "name": "Egypt",
-        "id":"EGY",
-        "status": "Retentionist",
-        "region": "MENA",
-        "executions": "15",
-        "death-penalties": "509"
-      }
-    ]
-  },
-  {
-    "year": "2008",
-    "total-executions": "113",
-    "abolitionist-all": "190",
-    "abolitionist-ordinary": "87",
-    "abolitionist-practice": "47",
-    "retentionist": "25",
-    "countries": [
-      {
-        "name": "Iran",
-        "id":"IRN",
-        "status": "abolitionist-ordinary",
-        "region": "MENA",
-        "executions": "61",
-        "death-penalties": "38"
-      },
-      {
-        "name": "Egypt",
-        "id":"EGY",
-        "status": "Retentionist",
-        "region": "MENA",
-        "executions": "15",
-        "death-penalties": "509"
-      }
-     ]
-  }
+   {
+      "year":"2015",
+      "total-executions":"28",
+      "abolitionist-all":"98",
+      "abolitionist-ordinary":"7",
+      "abolitionist-practice":"35",
+      "retentionist":"58",
+      "countries":[
+         {
+            "id":"ALB",
+            "name":"ALBANIA",
+            "since":"2007",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"AND",
+            "name":"ANDORRA",
+            "since":"1990",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"AGO",
+            "name":"ANGOLA",
+            "since":"1992",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"ARG",
+            "name":"ARGENTINA",
+            "since":"2008",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"ARM",
+            "name":"ARMENIA",
+            "since":"2003",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"AUS",
+            "name":"AUSTRALIA",
+            "since":"1985",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"AUT",
+            "name":"AUSTRIA",
+            "since":"1968",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"AZE",
+            "name":"AZERBAIJAN",
+            "since":"1998",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"BEL",
+            "name":"BELGIUM",
+            "since":"1996",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"BTN",
+            "name":"BHUTAN",
+            "since":"2004",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"BOL",
+            "name":"BOLIVIA",
+            "since":"2009",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"BIH",
+            "name":"BOSNIA-HERZEGOVINA",
+            "since":"2001",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"BRG",
+            "name":"BULGARIA",
+            "since":"1998",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"BDI",
+            "name":"BURUNDI",
+            "since":"2009",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"KHM",
+            "name":"CAMBODIA",
+            "since":"1989",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"CAN",
+            "name":"CANADA",
+            "since":"1998",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"CPV",
+            "name":"CAPE VERDE",
+            "since":"1981",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"COL",
+            "name":"COLOMBIA",
+            "since":"1910",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"COG",
+            "name":"CONGO (Republic of)",
+            "since":"2015",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"COK",
+            "name":"COOK ISLANDS",
+            "since":"2007",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"CRI",
+            "name":"COSTA RICA",
+            "since":"1877",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"CIV",
+            "name":"COTE D'IVOIRE",
+            "since":"2000",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"HRV",
+            "name":"CROATIA",
+            "since":"1990",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"CYP",
+            "name":"CYPRUS",
+            "since":"2002",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"CZE",
+            "name":"CZECH REPUBLIC",
+            "since":"1990",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"DNK",
+            "name":"DENMARK",
+            "since":"1978",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"DJI",
+            "name":"DJIBOUTI",
+            "since":"1995",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"DOM",
+            "name":"DOMINICAN REPUBLIC",
+            "since":"1966",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"ECU",
+            "name":"ECUADOR",
+            "since":"1906",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"EST",
+            "name":"ESTONIA",
+            "since":"1998",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"FIN",
+            "name":"FINLAND",
+            "since":"1972",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"FJI",
+            "name":"FIJI",
+            "since":"2015",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"FRA",
+            "name":"FRANCE",
+            "since":"1981",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"GMB",
+            "name":"GABON",
+            "since":"2010",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"GEO",
+            "name":"GEORGIA",
+            "since":"1997",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"DEU",
+            "name":"GERMANY",
+            "since":"1987",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"GRC",
+            "name":"GREECE",
+            "since":"2004",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"GNB",
+            "name":"GUINEA-BISSAU",
+            "since":"1993",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"HTI",
+            "name":"HAITI",
+            "since":"1987",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"VAT",
+            "name":"HOLY SEE",
+            "since":"1969",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"HND",
+            "name":"HONDURAS",
+            "since":"1956",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"HUN",
+            "name":"HUNGARY",
+            "since":"1990",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"ISL",
+            "name":"ICELAND",
+            "since":"1928",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"IRL",
+            "name":"IRELAND",
+            "since":"1990",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"ITA",
+            "name":"ITALY",
+            "since":"1994",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"KGZ",
+            "name":"KYRGYZSTAN",
+            "since":"2007",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"KIR",
+            "name":"KIRIBATI",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"LVA",
+            "name":"LATVIA",
+            "since":"2012",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"LIE",
+            "name":"LIECHTENSTEIN",
+            "since":"1987",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"LTU",
+            "name":"LITHUANIA",
+            "since":"1998",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"LUX",
+            "name":"LUXEMBOURG",
+            "since":"1979",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"MKD",
+            "name":"MACEDONIA",
+            "since":"1991",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"MDG",
+            "name":"MADAGASCAR",
+            "since":"2015",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"MLT",
+            "name":"MALTA",
+            "since":"2000",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"MHL",
+            "name":"MARSHALL ISLANDS",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"MUS",
+            "name":"MAURITIUS",
+            "since":"1995",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"MEX",
+            "name":"MEXICO",
+            "since":"2005",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"FSM",
+            "name":"MICRONESIA",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"MDA",
+            "name":"MOLDOVA",
+            "since":"1995",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"MCO",
+            "name":"MONACO",
+            "since":"1962",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"MNE",
+            "name":"MONTENEGRO",
+            "since":"2002",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"MOZ",
+            "name":"MOZAMBIQUE",
+            "since":"1990",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"NAM",
+            "name":"NAMIBIA",
+            "since":"1990",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"NPL",
+            "name":"NEPAL",
+            "since":"1997",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"NLD",
+            "name":"NETHERLANDS",
+            "since":"1982",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"NZL",
+            "name":"NEW ZEALAND",
+            "since":"1989",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"NIC",
+            "name":"NICARAGUA",
+            "since":"1979",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"NIU",
+            "name":"NIUE",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"NOR",
+            "name":"NORWAY",
+            "since":"1979",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"PLW",
+            "name":"PALAU",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"PAN",
+            "name":"PANAMA",
+            "since":"1922",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"PRY",
+            "name":"PARAGUAY",
+            "since":"1992",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"PHL",
+            "name":"PHILIPPINES",
+            "since":"2006 (1987)",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"POL",
+            "name":"POLAND",
+            "since":"1997",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"PRT",
+            "name":"PORTUGAL",
+            "since":"1976",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"ROU",
+            "name":"ROMANIA",
+            "since":"1989",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"RWA",
+            "name":"RWANDA",
+            "since":"2007",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"SOM",
+            "name":"SAMOA",
+            "since":"2004",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"SMR",
+            "name":"SAN MARINO",
+            "since":"1865",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"STP",
+            "name":"SAO TOME AND PRINCIPE",
+            "since":"1990",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"SEN",
+            "name":"SENEGAL",
+            "since":"2004",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"SRB",
+            "name":"SERBIA (Incl. Kosovo)",
+            "since":"2002",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"SYC",
+            "name":"SEYCHELLES",
+            "since":"1993",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"SVK",
+            "name":"SLOVAKIA",
+            "since":"1990",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"SVN",
+            "name":"SLOVENIA",
+            "since":"1989",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"SLB",
+            "name":"SOLOMON ISLANDS",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"ZAF",
+            "name":"SOUTH AFRICA",
+            "since":"1997",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"ESP",
+            "name":"SPAIN",
+            "since":"1995",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"SUR",
+            "name":"SURINAME",
+            "since":"2015",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"SWE",
+            "name":"SWEDEN",
+            "since":"1972",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"CHE",
+            "name":"SWITZERLAND",
+            "since":"1992",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"TGO",
+            "name":"TOGO",
+            "since":"2009",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"TLS",
+            "name":"TIMOR-LESTE",
+            "since":"1999",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"TUR",
+            "name":"TURKEY",
+            "since":"2004",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"TKM",
+            "name":"TURKMENISTAN",
+            "since":"1999",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"TUV",
+            "name":"TUVALU",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"UKR",
+            "name":"UKRAINE",
+            "since":"1999",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"GBR",
+            "name":"UNITED KINGDOM",
+            "since":"1998",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"URY",
+            "name":"URUGUAY",
+            "since":"1907",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"UZB",
+            "name":"UZBEKISTAN",
+            "since":"2008",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"VUT",
+            "name":"VANUATU",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"VEN",
+            "name":"VENEZUELA",
+            "since":"1863",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist"
+         },
+         {
+            "id":"ISR",
+            "name":"Israel",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist for ordinary crimes"
+         },
+         {
+            "id":"PER",
+            "name":"Peru",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist for ordinary crimes"
+         },
+         {
+            "id":"KAZ",
+            "name":"Kazakhstan",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist for ordinary crimes"
+         },
+         {
+            "id":"CHL",
+            "name":"Chile",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist for ordinary crimes"
+         },
+         {
+            "id":"SLV",
+            "name":"El Salvador",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist for ordinary crimes"
+         },
+         {
+            "id":"BRA",
+            "name":"Brazil",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abolitionist for ordinary crimes"
+         },
+         {
+            "id":"BEN",
+            "name":"Benin",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"BFA",
+            "name":"Burkina Faso",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"BRN",
+            "name":"Brunei Darussalam",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"CAF",
+            "name":"Central African Republic",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"CMR",
+            "name":"Cameroon",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"DZA",
+            "name":"Algeria",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"ERI",
+            "name":"Eritrea",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"ESH",
+            "name":"Western Sahara",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"GHA",
+            "name":"Ghana",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"",
+            "name":"",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":""
+         },
+         {
+            "id":"GRD",
+            "name":"Grenada",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"KEN",
+            "name":"Kenya",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"KOR",
+            "name":"South Korea",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"LAO",
+            "name":"Laos",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"LBR",
+            "name":"Liberia",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"LKA",
+            "name":"Sri Lanka",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"MAR",
+            "name":"Morocco",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"MDV",
+            "name":"Maldives",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"MLI",
+            "name":"Mali",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"MMR",
+            "name":"Myanmar",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"MNG",
+            "name":"Mongolia",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"MRT",
+            "name":"Mauritania",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"MWI",
+            "name":"Malawi",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"NGA",
+            "name":"Niger",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"NRU",
+            "name":"Nauru",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"PNG",
+            "name":"Papua New Guinea",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"RUS",
+            "name":"Russian Federation",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"SLE",
+            "name":"Sierra Leone",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"SWZ",
+            "name":"Swaziland",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"TJK",
+            "name":"Tajikistan",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"TON",
+            "name":"Tonga",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"TUN",
+            "name":"Tunisia",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"TZA",
+            "name":"Tanzania",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"ZMB",
+            "name":"Zambia",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Abol. in Practice"
+         },
+         {
+            "id":"AFG",
+            "name":"Afghanistan",
+            "since":"",
+            "executions":"1",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"ARE",
+            "name":"United Arab Emirates",
+            "since":"",
+            "executions":"1",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"ATG",
+            "name":"Antigua and Barbuda",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"BGD",
+            "name":"Bangladesh",
+            "since":"",
+            "executions":"4",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"BHR",
+            "name":"Bahrain",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"BHS",
+            "name":"Bahamas",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"BLR",
+            "name":"Belarus",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"BLZ",
+            "name":"Belize",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"BRB",
+            "name":"Barbados",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"BWA",
+            "name":"Botswana",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"COD",
+            "name":"Democratic Republic of Congo",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"COM",
+            "name":"Comoros",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"CUB",
+            "name":"Cuba",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"DOM",
+            "name":"Dominica",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"EGY",
+            "name":"Egypt",
+            "since":"",
+            "executions":"22 plus",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"ETH",
+            "name":"Ethiopia",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"GIN",
+            "name":"Guinea",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"GNQ",
+            "name":"Equatorial Guinea",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"GTM",
+            "name":"Guatemala",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"GUY",
+            "name":"Guyana",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"IDN",
+            "name":"Indonesia",
+            "since":"",
+            "executions":"14",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"IND",
+            "name":"India",
+            "since":"",
+            "executions":"1",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"IRN",
+            "name":"Iran",
+            "since":"",
+            "executions":"977 plus",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"IRQ",
+            "name":"Iraq",
+            "since":"",
+            "executions":"26 plus",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"JAM",
+            "name":"Jamaica",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"JOR",
+            "name":"Jordan",
+            "since":"",
+            "executions":"2",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"JPN",
+            "name":"Japan",
+            "since":"",
+            "executions":"3",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"KNA",
+            "name":"Saint Kitts and Nevis",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"KWT",
+            "name":"Kuwait",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"LBN",
+            "name":"Lebanon",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"LBY",
+            "name":"Libya",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"LCA",
+            "name":"Saint Lucia",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"LSO",
+            "name":"Lesotho",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"MYS",
+            "name":"Malaysia",
+            "since":"",
+            "executions":"plus",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"NGA",
+            "name":"Nigeria",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"PAK",
+            "name":"Pakistan",
+            "since":"",
+            "executions":"326",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"PRI",
+            "name":"Puerto Rico",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"PRK",
+            "name":"North Korea",
+            "since":"",
+            "executions":"plus",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"PSE",
+            "name":"Palestine",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"QAT",
+            "name":"Qatar",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"ROU",
+            "name":"Oman",
+            "since":"",
+            "executions":"2",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"SAU",
+            "name":"Saudi Arabia",
+            "since":"",
+            "executions":"158 plus",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"SDN",
+            "name":"Sudan",
+            "since":"",
+            "executions":"3",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"SGP",
+            "name":"Singapore",
+            "since":"",
+            "executions":"4",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"SOM",
+            "name":"Somalia",
+            "since":"",
+            "executions":"25 plus",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"SSD",
+            "name":"South Sudan",
+            "since":"",
+            "executions":"5 plus",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"SYR",
+            "name":"Syria",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"TCD",
+            "name":"Chad",
+            "since":"",
+            "executions":"10",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"THA",
+            "name":"Thailand",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"TTO",
+            "name":"Trinidad and Tobago",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"TWN",
+            "name":"Taiwan",
+            "since":"",
+            "executions":"6",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"TWN",
+            "name":"China",
+            "since":"",
+            "executions":"plus",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"UGA",
+            "name":"Uganda",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"USA",
+            "name":"United States of America",
+            "since":"",
+            "executions":"28",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"VCT",
+            "name":"Saint Vincent and the Grenadines",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"VNM",
+            "name":"Viet Nam",
+            "since":"",
+            "executions":"plus",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"YEM",
+            "name":"Yemen",
+            "since":"",
+            "executions":"8 plus",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"ZWE",
+            "name":"Zimbabwe",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         },
+         {
+            "id":"GMB",
+            "name":"Gambia",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"Retentionist"
+         }
+      ]
+   }
 ]
