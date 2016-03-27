@@ -57,14 +57,7 @@ var zoom = d3.behavior.zoom()
             .on("zoom", move);
             svg.call(zoom);
 
-function redraw() {
-  width = document.getElementById('map').offsetWidth;
-  var height = width / scaleAdjust;
-  d3.select('svg').remove();
-  center = [width / 2, height / 2];
-  setup(width,height);
-  draw(topo);
-}
+
 
 function move() {
 
@@ -86,14 +79,6 @@ function move() {
   zoom.translate(t);
   g.attr("transform", "translate(" + t + ")scale(" + s + ")");
 
-}
-
-var throttleTimer;
-function throttle() {
-  window.clearTimeout(throttleTimer);
-    throttleTimer = window.setTimeout(function() {
-      redraw();
-    }, 200);
 }
 
 d3.select('#zoom-in').on('click', function () {
@@ -146,7 +131,6 @@ d3.select('#zoom-out').on('click', function () {
             .attr("transform", "translate(" + zoom.translate().join(",") + ") scale(" + zoom.scale() + ")");
     g.selectAll("path")
             .attr("d", path.projection(projection));
-
 });
 
 var data = [{
@@ -168,6 +152,10 @@ var donutHeight = (donutWidth)/2
 var radius = Math.min(donutWidth, donutHeight) / 2;
 
 console.log (donutWidth);
+
+setupDonut(donutWidth,donutHeight);
+
+function setupDonut (donutWidth,donutHeight){
 
 var color = d3.scale.ordinal()
     .range(["#FFFF00", "#515151", "#808080", "#000000"]);
@@ -216,6 +204,7 @@ var svgPie = d3.select("#donut-chart").append("svg")
       .text(function(d) {
         return d.data.fullname; })
       .call(wrap, 100);
+}
 
 function wrap(text, width) {
     text.each(function() {
@@ -244,3 +233,26 @@ function wrap(text, width) {
 }
 
 
+function redraw() {
+  width = document.getElementById('map').offsetWidth;
+  var height = width / scaleAdjust;
+  d3.select('svg').remove();
+  center = [width / 2, height / 2];
+  setup(width,height);
+  draw(topo);
+
+
+  donutWidth = document.getElementById('info-box-inner').offsetWidth;
+  donutHeight = (donutWidth)/2;
+  radius = Math.min(donutWidth, donutHeight) / 2;
+  d3.select("#donut-chart > svg").remove();
+  setupDonut(donutWidth,donutHeight);
+}
+
+var throttleTimer;
+function throttle() {
+  window.clearTimeout(throttleTimer);
+    throttleTimer = window.setTimeout(function() {
+      redraw();
+    }, 200);
+}
