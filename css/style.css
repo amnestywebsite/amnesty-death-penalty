@@ -24,7 +24,7 @@ h1, h2, h3, h4, h5, h6  {
 .giga{
     font-size:80px;
     font-size:5rem;     /* 80px */
-    line-height:1.2;    /* 96px */
+    line-height:1;    /* 96px */
 }
 .mega{
     font-size:64px;
@@ -204,4 +204,45 @@ small,.milli {
   position: absolute;
   right: 30px;
   top: 30px;
+}
+
+.cf {
+  content:"";
+  display:table;
+  clear:both;
+}
+
+.media{
+    display:block;
+}
+
+.media__img{
+  float:left;
+  margin-right: 0.5rem;
+  width: 20%;
+}
+/**
+* Reversed image location (right instead of left).
+*/
+.media__img--rev{
+  float:right;
+  margin-left:0.1rem;
+}
+
+.media__img img,
+.media__img--rev img{
+  display:block;
+}
+
+.media__body{
+  overflow:hidden;
+  width: 74%;
+}
+.media__body,
+.media__body > :last-child{
+  margin-bottom:0;
+}
+
+.lh-reset {
+  line-height: 1;
 }
