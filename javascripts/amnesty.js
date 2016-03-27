@@ -163,8 +163,8 @@ var data = [{
         "value": 58
 }];
 
-var donutWidth = document.getElementById('info-box').offsetWidth;
-var donutHeight = (donutWidth + 40)/2
+var donutWidth = document.getElementById('info-box-inner').offsetWidth;
+var donutHeight = (donutWidth)/2
 var radius = Math.min(donutWidth, donutHeight) / 2;
 
 console.log (donutWidth);
@@ -242,4 +242,5 @@ function wrap(text, width) {
         }
     });
 }
+
 

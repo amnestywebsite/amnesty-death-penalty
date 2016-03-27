@@ -43,6 +43,15 @@ h1,.alpha{
     font-size:2rem;     /* 32px */
     line-height:1.5;    /* 48px */
 }
+
+@media screen and (min-width: 40em) and (max-width: 54em) {
+  h1,.alpha{
+    font-size:24px;
+    font-size:1.5rem;     /* 32px */
+    line-height:1;    /* 48px */
+}
+}
+
 h2,.beta{
     font-size:1.5em;    /* 24px */
     line-height:1;      /* 24px */
@@ -88,6 +97,7 @@ small,.milli {
     bottom: 1px;                    /* <- distance */
     border-bottom: 8px solid #000;
 }
+
 
 #info-box {
   width: 100%;
@@ -206,6 +216,10 @@ small,.milli {
   top: 30px;
 }
 
+.total-executions {
+  border-top: 4px solid #939598;
+}
+
 .cf {
   content:"";
   display:table;
@@ -245,4 +259,11 @@ small,.milli {
 
 .lh-reset {
   line-height: 1;
+}
+
+.title-text {
+  text-transform: uppercase;
+  font-family: "AmnestyTradeGothicW04BdCnNo-20", HelveticaNeue-CondensedBold, "Franklin Gothic Medium", sans-serif;
+  font-size: 14px;
+  font-size: 0.8rem;
 }
