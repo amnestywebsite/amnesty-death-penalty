@@ -147,8 +147,8 @@ var data = [{
         "value": 58
 }];
 
-var donutWidth = document.getElementById('info-box-inner').offsetWidth;
-var donutHeight = (donutWidth)/2
+var donutWidth = document.getElementById('donut-chart-wrapper').offsetWidth;
+var donutHeight = (donutWidth/2)+(donutWidth/2.5);
 var radius = Math.min(donutWidth, donutHeight) / 2;
 
 console.log (donutWidth);
@@ -171,7 +171,7 @@ var pie = d3.layout.pie()
 var svgPie = d3.select("#donut-chart").append("svg")
     .attr("width", donutWidth)
     .data([data])
-    .attr("height", donutHeight)
+    .attr("height", (donutHeight+10))
   .append("g")
     .attr("transform", "translate(" + donutWidth / 2 + "," + donutHeight / 2 + ")");
 
@@ -242,8 +242,8 @@ function redraw() {
   draw(topo);
 
 
-  donutWidth = document.getElementById('info-box-inner').offsetWidth;
-  donutHeight = (donutWidth)/2;
+  donutWidth = document.getElementById('donut-chart-wrapper').offsetWidth;
+  donutHeight = (donutWidth/2)+(donutWidth/2.5);
   radius = Math.min(donutWidth, donutHeight) / 2;
   d3.select("#donut-chart > svg").remove();
   setupDonut(donutWidth,donutHeight);

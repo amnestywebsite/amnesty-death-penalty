@@ -127,6 +127,43 @@ small,.milli {
   }
  }
 
+.overview-year-ns {
+  display: none;
+}
+
+@media screen and (min-width: 40em) {
+  .overview-year-ns {
+    display: block;
+  }
+ }
+
+#donut-chart-wrapper {
+  width: 50%;
+  float: left;
+  background-color: white;
+}
+
+@media screen and (min-width: 40em) {
+  #donut-chart-wrapper {
+    width: 100%;
+    float: none;
+    background-color: #e5e5e5;
+  }
+ }
+
+.total-executions {
+  width: 50%;
+  float: right;
+}
+
+@media screen and (min-width: 40em) {
+  .total-executions {
+    border-top: 4px solid #939598;
+    width: 100%;
+    float: none;
+  }
+ }
+
 .wrapper {
   margin: 1rem;
 }
@@ -214,10 +251,6 @@ small,.milli {
   position: absolute;
   right: 30px;
   top: 30px;
-}
-
-.total-executions {
-  border-top: 4px solid #939598;
 }
 
 .cf {
