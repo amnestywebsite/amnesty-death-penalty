@@ -349,3 +349,9 @@ small,.milli {
   font-size: 14px;
   font-size: 0.8rem;
 }
+
+.zoom-buttons {
+  display: block;
+  width: 2rem;
+  height: 2rem;
+}
