@@ -6,7 +6,17 @@ if('querySelector' in document
 
 d3.select(window).on("resize", throttle);
 
-var scaleAdjust = 1.05;
+var scaleAdjust;
+var windowWidth = window.innerWidth;
+
+if (windowWidth < 640) {
+  scaleAdjust = 2;
+}
+
+else {
+  scaleAdjust = 1.05;
+}
+
 var width = document.getElementById('map').offsetWidth;
 var height = width / scaleAdjust;
 var center = [width / 2, height / 2];
@@ -235,12 +245,26 @@ function wrap(text, width) {
 
 function redraw() {
   width = document.getElementById('map').offsetWidth;
+  windowWidth = window.innerWidth;
+  console.log ("width: " + windowWidth);
+
+  if (windowWidth < 640) {
+    scaleAdjust = 2;
+  }
+
+  else {
+    scaleAdjust = 1.05;
+  }
+
   var height = width / scaleAdjust;
   d3.select('svg').remove();
   center = [width / 2, height / 2];
   setup(width,height);
   draw(topo);
 
+
+
+  console.log (scaleAdjust);
 
   donutWidth = document.getElementById('donut-chart-wrapper').offsetWidth;
   donutHeight = (donutWidth/2)+(donutWidth/2.5);
