@@ -6,7 +6,7 @@ if('querySelector' in document
 
 d3.select(window).on("resize", throttle);
 
-var scaleAdjust = 1.08;
+var scaleAdjust = 1.05;
 var width = document.getElementById('map').offsetWidth;
 var height = width / scaleAdjust;
 var center = [width / 2, height / 2];

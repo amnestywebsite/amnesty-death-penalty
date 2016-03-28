@@ -10,6 +10,12 @@ html {
   line-height:1.5;
 }
 
+@media screen and (min-width: 40em) {
+  html {
+    overflow: hidden;
+  }
+ }
+
 body {
   height: 100%;
   padding: 0;
@@ -98,12 +104,11 @@ small,.milli {
     border-bottom: 8px solid #000;
 }
 
-
 #info-box {
   width: 100%;
   display: block;
   background-color: #e5e5e5;
-  height: 100%;
+  border-top: 2px solid #939598;
 }
 
 @media screen and (min-width: 40em) {
@@ -112,8 +117,22 @@ small,.milli {
     float: left;
     background-color: #e5e5e5;
     height: 100%;
+    border-top: none;
   }
 }
+
+#info-box-inner {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@media screen and (min-width: 40em) {
+  #info-box-inner {
+    display: block;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    }
+  }
 
 #map {
   width: 100%;
@@ -137,30 +156,58 @@ small,.milli {
   }
  }
 
-#donut-chart-wrapper {
+.footer-left-m {
   width: 50%;
-  float: left;
   background-color: white;
+  border-right: 2px solid #939598;
+  display: flex
+  justify-content: center;
+  padding-top: 2rem;
+}
+
+@media screen and (min-width: 40em) {
+  .footer-left-m {
+    width: 100%;
+    background-color: #e5e5e5;
+    border-right: none;
+    display: block;
+    padding-top: 0;
+  }
+ }
+
+.footer-right-m {
+  width: 50%;
+  display: flex
+  justify-content: center;
+}
+
+@media screen and (min-width: 40em) {
+  .footer-right-m {
+    width: 100%;
+    display: block;
+  }
+}
+
+#donut-chart-wrapper {
+  width: 80%;
+  padding-left: 10%;
 }
 
 @media screen and (min-width: 40em) {
   #donut-chart-wrapper {
     width: 100%;
-    float: none;
-    background-color: #e5e5e5;
+    padding-left: 0;
   }
- }
+}
 
 .total-executions {
-  width: 50%;
-  float: right;
+  padding-left: 10%;
 }
 
 @media screen and (min-width: 40em) {
   .total-executions {
     border-top: 4px solid #939598;
-    width: 100%;
-    float: none;
+    padding-left: 0;
   }
  }
 
