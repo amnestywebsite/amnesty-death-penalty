@@ -10,7 +10,7 @@ var scaleAdjust;
 var windowWidth = window.innerWidth;
 
 if (windowWidth < 640) {
-  scaleAdjust = 2;
+  scaleAdjust = 1.6;
 }
 
 else {
@@ -249,7 +249,7 @@ function redraw() {
   console.log ("width: " + windowWidth);
 
   if (windowWidth < 640) {
-    scaleAdjust = 2;
+    scaleAdjust = 1.6;
   }
 
   else {

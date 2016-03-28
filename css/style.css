@@ -109,6 +109,7 @@ small,.milli {
   display: block;
   background-color: #e5e5e5;
   border-top: 2px solid #939598;
+  margin-top: -3rem;
 }
 
 @media screen and (min-width: 40em) {
@@ -118,6 +119,7 @@ small,.milli {
     background-color: #e5e5e5;
     height: 100%;
     border-top: none;
+    margin-top: 0;
   }
 }
 
