@@ -1,7 +1,7 @@
 @font-face{
   font-family:"AmnestyTradeGothicW04BdCnNo-20";
-  src:url("Fonts/AmnestyTradeGothicW04BdCnNo-20.eot?#iefix");
-  src:url("Fonts/AmnestyTradeGothicW04BdCnNo-20.eot?#iefix") format("eot"),url("Fonts/AmnestyTradeGothicW04BdCnNo-20.woff") format("woff"),url("Fonts/AmnestyTradeGothicW04BdCnNo-20.ttf") format("truetype"),url("Fonts/AmnestyTradeGothicW04BdCnNo-20.svg#AmnestyTradeGothicW04BdCnNo-20") format("svg");
+  src:url("fonts/AmnestyTradeGothicW04BdCnNo-20.eot?#iefix");
+  src:url("fonts/AmnestyTradeGothicW04BdCnNo-20.eot?#iefix") format("eot"),url("fonts/AmnestyTradeGothicW04BdCnNo-20.woff") format("woff"),url("fonts/AmnestyTradeGothicW04BdCnNo-20.ttf") format("truetype"),url("fonts/AmnestyTradeGothicW04BdCnNo-20.svg#AmnestyTradeGothicW04BdCnNo-20") format("svg");
 }
 
 html {
