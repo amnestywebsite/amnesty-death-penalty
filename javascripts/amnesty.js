@@ -21,11 +21,15 @@ var width = document.getElementById('map').offsetWidth;
 var height = width / scaleAdjust;
 var center = [width / 2, height / 2];
 
+var startYear = '2015';
+var currentYear = startYear;
+var tooltip = d3.select("#map").append("div").attr("class", "tooltip hidden");
+
 console.log ("width: " + width);
 console.log ("height: " + height);
 console.log ("centre: " + center);
 
-var topo,projection,path,svg,g;
+var activeCountries, yearCountries, topo, borders, coastline, projection, path, svg, g;
 
 setup(width,height);
 
@@ -34,7 +38,8 @@ function setup(width,height){
     .translate([(width/2), (height/2)])
     .scale( width / 2 / Math.PI);
 
-  path = d3.geo.path().projection(projection);
+  path = d3.geo.path()
+          .projection(projection);
 
   svg = d3.select("#map").append("svg")
       .attr("width", width)
@@ -42,16 +47,46 @@ function setup(width,height){
       .append("g");
 
   g = svg.append("g");
-
 }
 
-d3.json("data/world-topo.json", function(error, world) {
+//Loads in the world data and the active countries
+queue()
+    .defer(d3.json, "data/world-topo.json")
+    .defer(d3.json, "data/data.json")
+    .await(ready);
+
+function ready(error, world, active) {
   var countries = topojson.feature(world, world.objects.countries).features;
   topo = countries;
-  draw(topo);
-});
+  activeCountries = active;
+  coastline = topojson.mesh(world, world.objects.countries, function(a, b) { return a === b });
+  draw(topo, activeCountries, coastline);
+}
 
-function draw(topo) {
+function draw(topo, activeCountries, coastline) {
+
+  var yearData = activeCountries.filter(function(val) {
+    return val.year === currentYear;
+  });
+  console.log (yearData);
+  yearCountries = yearData[0].countries;
+
+  topo.forEach(function(d, i) {
+        yearCountries.forEach(function(e, j) {
+            if (d.id === e.id) {
+                e.geometry = d.geometry;
+                e.type = d.type;
+            }
+        })
+    });
+
+  var executionsTotal = document.getElementById('executions-total');
+  var template = Hogan.compile("{{total-executions}}");
+
+  var output = template.render(yearData[0]);
+  executionsTotal.innerHTML = output;
+
+
   var country = g.selectAll(".country").data(topo);
   country.enter().insert("path")
       .attr("class", "country")
