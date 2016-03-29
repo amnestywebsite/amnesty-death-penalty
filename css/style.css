@@ -349,7 +349,18 @@ small,.milli {
 }
 
 .zoom-buttons {
+  background-color: #cccccc;
+  border: 0 none;
+  color: #333333;
   display: block;
-  width: 2rem;
   height: 2rem;
+  margin-bottom: 0.2rem;
+  width: 2rem;
+}
+
+.zoom-buttons:hover {
+  background-color: #C5C5C5;
+  color: #fff;
+  cursor: pointer;
+  cursor: hand;
 }
