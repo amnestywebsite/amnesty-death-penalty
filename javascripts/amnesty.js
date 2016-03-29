@@ -328,7 +328,7 @@ function redraw() {
   d3.select('svg').remove();
   center = [width / 2, height / 2];
   setup(width,height);
-  draw(topo);
+  draw(topo, activeCountries, coastline);
 
   console.log (scaleAdjust);
 
