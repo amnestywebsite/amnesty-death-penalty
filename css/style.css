@@ -256,22 +256,22 @@ small,.milli {
 }
 
 .retentionist {
-  fill: #cb4b2e;
+  fill: #000000;
 }
 
-.abolitionist-practice  {
-  fill: #ea6f21;
+.abolipractice  {
+  fill: #808080;
 }
 
-.abolitionist-ordinary {
-  fill: #ed9819;
+.abolitionisfoordinarcrimes {
+  fill: #515151;
 }
 
-.abolitionist-all {
-   fill: #fff31b;
+.abolitionist {
+   fill: #ffff00;
 }
 
-.retentionist:hover, .abolitionist-practice:hover {
+.retentionist:hover, .abolipractice:hover, .abolitionisfoordinarcrimes:hover, .abolitionist:hover {
   fill: #d95b12;
   cursor: pointer;
   cursor: hand;

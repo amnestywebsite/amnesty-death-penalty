@@ -86,6 +86,28 @@ function draw(topo, activeCountries, coastline) {
   var output = template.render(yearData[0]);
   executionsTotal.innerHTML = output;
 
+  var activeCountry = g.selectAll(".activeCountry").data(yearCountries);
+
+   g.selectAll(".country")
+        .data(topo)
+       .enter().append("path")
+        .attr("class", "country")
+        .attr("id", function(d) { return d.id; })
+        .attr("d", path);
+
+   g.insert("path", ".graticule")
+      .datum(coastline)
+      .attr("class","coastline")
+      .attr("d", path);
+
+  activeCountry.enter().append("path")
+      .attr("class", function(d,i) {
+        var status = d.status.toLowerCase().replace(/.\s/g,"");
+        console.log (status);
+        return status;
+      })
+      .attr("id", function(d) { return d.id; })
+      .attr("d", path);
 
   var country = g.selectAll(".country").data(topo);
   country.enter().insert("path")
@@ -96,16 +118,12 @@ function draw(topo, activeCountries, coastline) {
       .style("fill", function(d, i) { return d.properties.color; });
 }
 
-
 var zoom = d3.behavior.zoom()
             .scaleExtent([1, 8])
             .on("zoom", move);
             svg.call(zoom);
 
-
-
 function move() {
-
   var t = d3.event.translate;
   var s = d3.event.scale;
   zscale = s;
@@ -123,7 +141,6 @@ function move() {
 
   zoom.translate(t);
   g.attr("transform", "translate(" + t + ")scale(" + s + ")");
-
 }
 
 d3.select('#zoom-in').on('click', function () {
@@ -149,7 +166,6 @@ d3.select('#zoom-in').on('click', function () {
     g.transition().attr("transform", "translate(" + zoom.translate().join(",") + ") scale(" + zoom.scale() + ")");
     g.selectAll("path")
             .attr("d", path.projection(projection));
-
 });
 
 d3.select('#zoom-out').on('click', function () {
@@ -296,8 +312,6 @@ function redraw() {
   center = [width / 2, height / 2];
   setup(width,height);
   draw(topo);
-
-
 
   console.log (scaleAdjust);
 
