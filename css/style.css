@@ -252,7 +252,7 @@ small,.milli {
   stroke: #e5e5e5;
   stroke-linejoin: round;
   stroke-linecap: round;
-  stroke-width: 0.2px;
+  stroke-width: 0.5px;
 }
 
 .retentionist {
@@ -272,7 +272,7 @@ small,.milli {
 }
 
 .retentionist:hover, .abolipractice:hover, .abolitionisfoordinarcrimes:hover, .abolitionist:hover {
-  fill: #d95b12;
+  fill: #C5C5C5;
   cursor: pointer;
   cursor: hand;
 }
@@ -282,18 +282,16 @@ small,.milli {
 }
 
 .tooltip {
-  color: #222;
+  color: #000;
   background: #fff;
-  padding: .5em;
+  padding-top: .2em;
+  padding-bottom: .2em;
+  padding-left: .4em;
+  padding-right: .4em;
   border-radius: 2px;
-  box-shadow: 0px 0px 2px 0px #a6a6a6;
+  border: 1px solid #939598;
   position: absolute;
   z-index: 2;
-}
-
-.tooltip a {
-  text-decoration: none;
-  color: #cb4b2e;
 }
 
 .buttons {

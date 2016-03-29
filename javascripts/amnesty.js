@@ -82,9 +82,16 @@ function draw(topo, activeCountries, coastline) {
 
   var executionsTotal = document.getElementById('executions-total');
   var template = Hogan.compile("{{total-executions}}");
-
   var output = template.render(yearData[0]);
   executionsTotal.innerHTML = output;
+
+  var country = g.selectAll(".country").data(topo);
+  country.enter().insert("path")
+      .attr("class", "country")
+      .attr("d", path)
+      .attr("id", function(d,i) { return d.id; })
+      .attr("title", function(d,i) { return d.properties.name; })
+      .style("fill", function(d, i) { return d.properties.color; });
 
   var activeCountry = g.selectAll(".activeCountry").data(yearCountries);
 
@@ -109,13 +116,23 @@ function draw(topo, activeCountries, coastline) {
       .attr("id", function(d) { return d.id; })
       .attr("d", path);
 
-  var country = g.selectAll(".country").data(topo);
-  country.enter().insert("path")
-      .attr("class", "country")
-      .attr("d", path)
-      .attr("id", function(d,i) { return d.id; })
-      .attr("title", function(d,i) { return d.properties.name; })
-      .style("fill", function(d, i) { return d.properties.color; });
+  //ofsets plus width/height of transform, plus 20 px of padding, plus 20 extra for tooltip offset off mouse
+  var offsetL = document.getElementById('map').offsetLeft+(width/80);
+  var offsetT =document.getElementById('map').offsetTop+(height/80);
+
+  activeCountry
+    .on("mousemove", function(d,i) {
+        var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
+          tooltip
+            .classed("hidden", false)
+            .attr("style", "left:"+(mouse[0]+offsetL)+"px;top:"+(mouse[1]+offsetT)+"px")
+            .html('<div class="title-text">'+ d.name + '</div>')
+        })
+        .on("mouseout",  function(d,i) {
+          tooltip.classed("hidden", true)
+        });
+
+
 }
 
 var zoom = d3.behavior.zoom()
