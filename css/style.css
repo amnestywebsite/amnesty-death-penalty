@@ -218,7 +218,7 @@ small,.milli {
 }
 
 #detail-box {
-  width: 60%;
+  width: 100%;
   float: left;
   background-color: #e5e5e5;
   height: 100%;
@@ -230,15 +230,36 @@ small,.milli {
   z-index: 100;
 }
 
+@media screen and (min-width: 40em) {
+  #detail-box {
+    width: 30%;
+  }
+}
+
 .reveal {
   display: block !important;
 }
 
 #btn-close {
   float: right;
-  font-size: 32px;
-  margin: 16px;
+  background-color: #fff;
+  border: 0 none;
+  color: #cccccc;
+  display: block;
+  height: 2rem;
+  width: 2rem;
+  position: relative;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 1.4rem;
 }
+
+#btn-close:hover {
+  color: #000000;
+  cursor: pointer;
+  cursor: hand;
+}
+
 
 .coastline {
   fill: none;
@@ -348,6 +369,20 @@ small,.milli {
   font-size: 0.8rem;
 }
 
+.buttons {
+  position: absolute;
+  right: 2rem;
+  top: 2rem;
+}
+
+@media screen and (min-width: 40em) {
+  .buttons {
+    position: absolute;
+    right: 2rem;
+    top: 2rem;
+  }
+}
+
 .zoom-buttons {
   background-color: #cccccc;
   border: 0 none;
@@ -363,4 +398,31 @@ small,.milli {
   color: #fff;
   cursor: pointer;
   cursor: hand;
+}
+
+.no-caps-title {
+  line-height: 1.1;
+}
+
+.status-block {
+  background-color: #000000;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-weight: normal;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+}
+
+.totals-block {
+  margin-top: 2rem;
+}
+
+.death-sentences-icon {
+  height: 3.5rem;
+}
+
+.executions-icon {
+  height: 5rem;
 }
