@@ -220,7 +220,7 @@ small,.milli {
 #detail-box {
   width: 100%;
   float: left;
-  background-color: #e5e5e5;
+  background-color: #cccccc;
   height: 100%;
   position: absolute;
   top: 0;
@@ -232,7 +232,9 @@ small,.milli {
 
 @media screen and (min-width: 40em) {
   #detail-box {
-    width: 30%;
+    width: 25%;
+    top: 21%;
+    height: 79%;
   }
 }
 
