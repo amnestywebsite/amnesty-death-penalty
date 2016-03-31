@@ -114,7 +114,7 @@ small,.milli {
 
 @media screen and (min-width: 40em) {
   #info-box {
-    width: 30%;
+    width: 25%;
     float: left;
     background-color: #e5e5e5;
     height: 100%;
@@ -143,7 +143,7 @@ small,.milli {
 
 @media screen and (min-width: 40em) {
   #map {
-    width: 70%;
+    width: 75%;
     float: right;
   }
  }
@@ -285,7 +285,7 @@ small,.milli {
 }
 
 .abolipractice  {
-  fill: #808080;
+  fill: #7a7d81;
   stroke: #e5e5e5;
   stroke-linejoin: round;
   stroke-linecap: round;
@@ -293,7 +293,7 @@ small,.milli {
 }
 
 .abolitionisfoordinarcrimes {
-  fill: #515151;
+  fill: #b6b6b6;
   stroke: #e5e5e5;
   stroke-linejoin: round;
   stroke-linecap: round;
@@ -301,8 +301,8 @@ small,.milli {
 }
 
 .abolitionist {
-   fill: #ffff00;
-   stroke: #e5e5e5;
+  fill: #ffff00;
+  stroke: #e5e5e5;
   stroke-linejoin: round;
   stroke-linecap: round;
   stroke-width: 0.5px;
