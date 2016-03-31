@@ -24,16 +24,15 @@ var center = [width / 2, height / 2];
 var startYear = '2015';
 var currentYear = startYear;
 var tooltip = d3.select("#map").append("div").attr("class", "tooltip hidden");
-
-console.log ("width: " + width);
-console.log ("height: " + height);
-console.log ("centre: " + center);
-
-var activeCountries, yearCountries, topo, borders, coastline, projection, path, svg, g;
+var activeCountries, yearCountries, topo, borders, coastline, projection, path, svg, g, zoom;
 
 setup(width,height);
 
 function setup(width,height){
+  zoom = d3.behavior.zoom()
+            .scaleExtent([1, 6])
+            .on("zoom", move);
+
   projection = d3.geo.mercator()
     .translate([(width/2), (height/2)])
     .scale( width / 2 / Math.PI);
@@ -44,10 +43,12 @@ function setup(width,height){
   svg = d3.select("#map").append("svg")
       .attr("width", width)
       .attr("height", height)
+      .call(zoom)
       .append("g");
 
   g = svg.append("g");
 }
+
 
 //Loads in the world data and the active countries
 queue()
@@ -148,11 +149,6 @@ function draw(topo, activeCountries, coastline) {
 
 }
 
-var zoom = d3.behavior.zoom()
-            .scaleExtent([1, 8])
-            .on("zoom", move);
-            svg.call(zoom);
-
 function move() {
   var t = d3.event.translate;
   var s = d3.event.scale;
@@ -249,7 +245,7 @@ setupDonut(donutWidth,donutHeight);
 function setupDonut (donutWidth,donutHeight){
 
 var color = d3.scale.ordinal()
-    .range(["#FFFF00", "#515151", "#808080", "#000000"]);
+    .range(["#FFFF00", "#b6b6b6", "#7a7d81", "#000000"]);
 
 var arc = d3.svg.arc()
     .outerRadius(radius)
