@@ -1,1619 +1,1839 @@
 [
    {
       "year":"2015",
-      "total-executions":"28",
-      "abolitionist-all":"98",
-      "abolitionist-ordinary":"7",
-      "abolitionist-practice":"35",
+      "total-executions":"1634+",
+      "total-death-sentences":"1998+",
+      "abolitionist-all":"102",
+      "abolitionist-ordinary":"6",
+      "abolitionist-practice":"32",
       "retentionist":"58",
       "countries":[
          {
             "id":"ALB",
-            "name":"ALBANIA",
+            "name":"Albania",
             "since":"2007",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"AND",
-            "name":"ANDORRA",
+            "name":"Andorra",
             "since":"1990",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"AGO",
-            "name":"ANGOLA",
+            "name":"Angola",
             "since":"1992",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"ARG",
-            "name":"ARGENTINA",
+            "name":"Argentina",
             "since":"2008",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"ARM",
-            "name":"ARMENIA",
+            "name":"Armenia",
             "since":"2003",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"AUS",
-            "name":"AUSTRALIA",
+            "name":"Australia",
             "since":"1985",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"AUT",
-            "name":"AUSTRIA",
+            "name":"Austria",
             "since":"1968",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"AZE",
-            "name":"AZERBAIJAN",
+            "name":"Azerbaijan",
             "since":"1998",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"BEL",
-            "name":"BELGIUM",
+            "name":"Belgium",
             "since":"1996",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"BTN",
-            "name":"BHUTAN",
+            "name":"Bhutan",
             "since":"2004",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"BOL",
-            "name":"BOLIVIA",
+            "name":"Bolivia",
             "since":"2009",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"BIH",
-            "name":"BOSNIA-HERZEGOVINA",
+            "name":"Bosnia-Herzegovina",
             "since":"2001",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"BRG",
-            "name":"BULGARIA",
+            "name":"Bulgaria",
             "since":"1998",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"BDI",
-            "name":"BURUNDI",
+            "name":"Burundi",
             "since":"2009",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"KHM",
-            "name":"CAMBODIA",
+            "name":"Cambodia",
             "since":"1989",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"CAN",
-            "name":"CANADA",
+            "name":"Canada",
             "since":"1998",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"CPV",
-            "name":"CAPE VERDE",
+            "name":"Cape Verde",
             "since":"1981",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"COL",
-            "name":"COLOMBIA",
+            "name":"Colombia",
             "since":"1910",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"COG",
-            "name":"CONGO (Republic of)",
+            "name":"Congo (Republic of)",
             "since":"2015",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"COK",
-            "name":"COOK ISLANDS",
+            "name":"Cook Islands",
             "since":"2007",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"CRI",
-            "name":"COSTA RICA",
+            "name":"Costa Rica",
             "since":"1877",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"CIV",
-            "name":"COTE D'IVOIRE",
+            "name":"Cote D'ivoire",
             "since":"2000",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"HRV",
-            "name":"CROATIA",
+            "name":"Croatia",
             "since":"1990",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"CYP",
-            "name":"CYPRUS",
+            "name":"Cyprus",
             "since":"2002",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"CZE",
-            "name":"CZECH REPUBLIC",
+            "name":"Czech Republic",
             "since":"1990",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"DNK",
-            "name":"DENMARK",
+            "name":"Denmark",
             "since":"1978",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"DJI",
-            "name":"DJIBOUTI",
+            "name":"Djibouti",
             "since":"1995",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"DOM",
-            "name":"DOMINICAN REPUBLIC",
+            "name":"Dominican Republic",
             "since":"1966",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"ECU",
-            "name":"ECUADOR",
+            "name":"Ecuador",
             "since":"1906",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"EST",
-            "name":"ESTONIA",
+            "name":"Estonia",
             "since":"1998",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"FIN",
-            "name":"FINLAND",
+            "name":"Finland",
             "since":"1972",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"FJI",
-            "name":"FIJI",
+            "name":"Fiji",
             "since":"2015",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"FRA",
-            "name":"FRANCE",
+            "name":"France",
             "since":"1981",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"GMB",
-            "name":"GABON",
+            "name":"Gabon",
             "since":"2010",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"GEO",
-            "name":"GEORGIA",
+            "name":"Georgia",
             "since":"1997",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"DEU",
-            "name":"GERMANY",
+            "name":"Germany",
             "since":"1987",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"GRC",
-            "name":"GREECE",
+            "name":"Greece",
             "since":"2004",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
+         },
+         {
+            "id":"GRL",
+            "name":"Greenland / Denmark",
+            "since":"1978",
+            "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"GNB",
-            "name":"GUINEA-BISSAU",
+            "name":"Guinea-Bissau",
             "since":"1993",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"HTI",
-            "name":"HAITI",
+            "name":"Haiti",
             "since":"1987",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"VAT",
-            "name":"HOLY SEE",
+            "name":"Holy See",
             "since":"1969",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"HND",
-            "name":"HONDURAS",
+            "name":"Honduras",
             "since":"1956",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"HUN",
-            "name":"HUNGARY",
+            "name":"Hungary",
             "since":"1990",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"ISL",
-            "name":"ICELAND",
+            "name":"Iceland",
             "since":"1928",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"IRL",
-            "name":"IRELAND",
+            "name":"Ireland",
             "since":"1990",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"ITA",
-            "name":"ITALY",
+            "name":"Italy",
             "since":"1994",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"KGZ",
-            "name":"KYRGYZSTAN",
+            "name":"Kyrgyzstan",
             "since":"2007",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"KIR",
-            "name":"KIRIBATI",
-            "since":"",
+            "name":"Kiribati",
+            "since":"NA",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"LVA",
-            "name":"LATVIA",
+            "name":"Latvia",
             "since":"2012",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"LIE",
-            "name":"LIECHTENSTEIN",
+            "name":"Liechtenstein",
             "since":"1987",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"LTU",
-            "name":"LITHUANIA",
+            "name":"Lithuania",
             "since":"1998",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"LUX",
-            "name":"LUXEMBOURG",
+            "name":"Luxembourg",
             "since":"1979",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"MKD",
-            "name":"MACEDONIA",
+            "name":"Macedonia",
             "since":"1991",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"MDG",
-            "name":"MADAGASCAR",
+            "name":"Madagascar",
             "since":"2015",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"MLT",
-            "name":"MALTA",
+            "name":"Malta",
             "since":"2000",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"MHL",
-            "name":"MARSHALL ISLANDS",
-            "since":"",
+            "name":"Marshell Islands",
+            "since":"NA",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"MUS",
-            "name":"MAURITIUS",
+            "name":"Mauritius",
             "since":"1995",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"MEX",
-            "name":"MEXICO",
+            "name":"Mexico",
             "since":"2005",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"FSM",
-            "name":"MICRONESIA",
-            "since":"",
+            "name":"Micronesia",
+            "since":"NA",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"MDA",
-            "name":"MOLDOVA",
+            "name":"Moldova",
             "since":"1995",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"MCO",
-            "name":"MONACO",
+            "name":"Monaco",
             "since":"1962",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"MNE",
-            "name":"MONTENEGRO",
+            "name":"Montenegro",
             "since":"2002",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"MOZ",
-            "name":"MOZAMBIQUE",
+            "name":"Mozambique",
             "since":"1990",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"NAM",
-            "name":"NAMIBIA",
+            "name":"Namibia",
             "since":"1990",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"NPL",
-            "name":"NEPAL",
+            "name":"Nepal",
             "since":"1997",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"NLD",
-            "name":"NETHERLANDS",
+            "name":"Netherlands",
             "since":"1982",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"NZL",
-            "name":"NEW ZEALAND",
+            "name":"New Zealand",
             "since":"1989",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"NIC",
-            "name":"NICARAGUA",
+            "name":"Nicaragua",
             "since":"1979",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"NIU",
-            "name":"NIUE",
-            "since":"",
+            "name":"Niue",
+            "since":"NA",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"NOR",
-            "name":"NORWAY",
+            "name":"Norway",
             "since":"1979",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"PLW",
-            "name":"PALAU",
-            "since":"",
+            "name":"Palau",
+            "since":"NA",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"PAN",
-            "name":"PANAMA",
+            "name":"Panama",
             "since":"1922",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"PRY",
-            "name":"PARAGUAY",
+            "name":"Paraguay",
             "since":"1992",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"PHL",
-            "name":"PHILIPPINES",
+            "name":"Philippines",
             "since":"2006 (1987)",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"POL",
-            "name":"POLAND",
+            "name":"Poland",
             "since":"1997",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"PRT",
-            "name":"PORTUGAL",
+            "name":"Portugal",
             "since":"1976",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"ROU",
-            "name":"ROMANIA",
+            "name":"Romania",
             "since":"1989",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"RWA",
-            "name":"RWANDA",
+            "name":"Rwanda",
             "since":"2007",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"SOM",
-            "name":"SAMOA",
+            "name":"Samoa",
             "since":"2004",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"SMR",
-            "name":"SAN MARINO",
+            "name":"San Marino",
             "since":"1865",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"STP",
-            "name":"SAO TOME AND PRINCIPE",
+            "name":"Sao Tome and Principe",
             "since":"1990",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"SEN",
-            "name":"SENEGAL",
+            "name":"Senegal",
             "since":"2004",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"SRB",
-            "name":"SERBIA (Incl. Kosovo)",
+            "name":"Serbia ",
             "since":"2002",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
+         },
+         {
+            "id":"RKS",
+            "name":"Kosovo / Serbia",
+            "since":"2002",
+            "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"SYC",
-            "name":"SEYCHELLES",
+            "name":"Seychelles",
             "since":"1993",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"SVK",
-            "name":"SLOVAKIA",
+            "name":"Slovakia",
             "since":"1990",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"SVN",
-            "name":"SLOVENIA",
+            "name":"Slovenia",
             "since":"1989",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"SLB",
-            "name":"SOLOMON ISLANDS",
+            "name":"Solomon Islands",
             "since":"",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"ZAF",
-            "name":"SOUTH AFRICA",
+            "name":"South africa",
             "since":"1997",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"ESP",
-            "name":"SPAIN",
+            "name":"Spain",
             "since":"1995",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"SUR",
-            "name":"SURINAME",
+            "name":"Suriname",
             "since":"2015",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"SWE",
-            "name":"SWEDEN",
+            "name":"Sweden",
             "since":"1972",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"CHE",
-            "name":"SWITZERLAND",
+            "name":"Switzerland",
             "since":"1992",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"TGO",
-            "name":"TOGO",
+            "name":"Togo",
             "since":"2009",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"TLS",
-            "name":"TIMOR-LESTE",
+            "name":"Timor-Leste",
             "since":"1999",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"TUR",
-            "name":"TURKEY",
+            "name":"Turkey",
             "since":"2004",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"TKM",
-            "name":"TURKMENISTAN",
+            "name":"Turkmenistan",
             "since":"1999",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"TUV",
-            "name":"TUVALU",
+            "name":"Tuvalu",
             "since":"",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"UKR",
-            "name":"UKRAINE",
+            "name":"Ukraine",
             "since":"1999",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"GBR",
-            "name":"UNITED KINGDOM",
+            "name":"United Kingdom",
             "since":"1998",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"URY",
-            "name":"URUGUAY",
+            "name":"Uruguay",
             "since":"1907",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"UZB",
-            "name":"UZBEKISTAN",
+            "name":"Uzbekistan",
             "since":"2008",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"VUT",
-            "name":"VANUATU",
+            "name":"Vanuata",
             "since":"",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"VEN",
-            "name":"VENEZUELA",
+            "name":"Venezuela",
             "since":"1863",
             "executions":"",
             "death-penalties":"",
-            "status":"Abolitionist"
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
+         },
+         {
+            "id":"HKG",
+            "name":"Hong Kong",
+            "since":"",
+            "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST",
+            "definitions":"Does not use the death penalty"
          },
          {
             "id":"ISR",
             "name":"Israel",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abolitionist for ordinary crimes"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"ABOLITIONIST FOR ORDINARY CRIMES",
+            "definitions":"Retains the death penalty only for serious crimes, such as murder, or during times of war"
          },
          {
             "id":"PER",
             "name":"Peru",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abolitionist for ordinary crimes"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"ABOLITIONIST FOR ORDINARY CRIMES",
+            "definitions":"Retains the death penalty only for serious crimes, such as murder, or during times of war"
          },
          {
             "id":"KAZ",
             "name":"Kazakhstan",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abolitionist for ordinary crimes"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"ABOLITIONIST FOR ORDINARY CRIMES",
+            "definitions":"Retains the death penalty only for serious crimes, such as murder, or during times of war"
          },
          {
             "id":"CHL",
             "name":"Chile",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abolitionist for ordinary crimes"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"ABOLITIONIST FOR ORDINARY CRIMES",
+            "definitions":"Retains the death penalty only for serious crimes, such as murder, or during times of war"
          },
          {
             "id":"SLV",
             "name":"El Salvador",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abolitionist for ordinary crimes"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"ABOLITIONIST FOR ORDINARY CRIMES",
+            "definitions":"Retains the death penalty only for serious crimes, such as murder, or during times of war"
          },
          {
             "id":"BRA",
             "name":"Brazil",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abolitionist for ordinary crimes"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"ABOLITIONIST FOR ORDINARY CRIMES",
+            "definitions":"Retains the death penalty only for serious crimes, such as murder, or during times of war"
          },
          {
             "id":"BEN",
             "name":"Benin",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"BFA",
             "name":"Burkina Faso",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"2",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"BRN",
             "name":"Brunei Darussalam",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"1",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"CAF",
             "name":"Central African Republic",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"CMR",
             "name":"Cameroon",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"91+",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"DZA",
             "name":"Algeria",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"62+",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"ERI",
             "name":"Eritrea",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"ESH",
-            "name":"Western Sahara",
+            "name":"Morroco / Western Sahara",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"9",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"GHA",
             "name":"Ghana",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
-         },
-         {
-            "id":"",
-            "name":"",
-            "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":""
+            "executions":"0",
+            "death-penalties":"18",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"GRD",
             "name":"Grenada",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"KEN",
             "name":"Kenya",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"30",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"KOR",
             "name":"South Korea",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"1",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"LAO",
             "name":"Laos",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"20+",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"LBR",
             "name":"Liberia",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"LKA",
             "name":"Sri Lanka",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"51+",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"MAR",
             "name":"Morocco",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"9",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"MDV",
             "name":"Maldives",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"3",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"MLI",
             "name":"Mali",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"10",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"MMR",
             "name":"Myanmar",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"17+",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"MNG",
             "name":"Mongolia",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"2+",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"MRT",
             "name":"Mauritania",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"5",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"MWI",
             "name":"Malawi",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"3",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"NGA",
             "name":"Niger",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"NRU",
             "name":"Nauru",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"PNG",
             "name":"Papua New Guinea",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"RUS",
             "name":"Russian Federation",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"SLE",
             "name":"Sierra Leone",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"13",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"SWZ",
             "name":"Swaziland",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"TJK",
             "name":"Tajikistan",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"TON",
             "name":"Tonga",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"TUN",
             "name":"Tunisia",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"11",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"TZA",
             "name":"Tanzania",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"5+",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"ZMB",
             "name":"Zambia",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Abol. in Practice"
+            "executions":"0",
+            "death-penalties":"7+",
+            "status":"ABOLITIONIST IN PRACTICE",
+            "definitions":"Retains the death penalty in law, but hasn’t executed for at least 10 years"
          },
          {
             "id":"AFG",
             "name":"Afghanistan",
             "since":"",
             "executions":"1",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "death-penalties":"12+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"ARE",
             "name":"United Arab Emirates",
             "since":"",
             "executions":"1",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "death-penalties":"8",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"ATG",
             "name":"Antigua and Barbuda",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"BGD",
             "name":"Bangladesh",
             "since":"",
             "executions":"4",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "death-penalties":"197+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"BHR",
             "name":"Bahrain",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"8",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"BHS",
             "name":"Bahamas",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"BLR",
             "name":"Belarus",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"2+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"BLZ",
             "name":"Belize",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"BRB",
             "name":"Barbados",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"BWA",
             "name":"Botswana",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"1",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"COD",
             "name":"Democratic Republic of Congo",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"28",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"COM",
             "name":"Comoros",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"CUB",
             "name":"Cuba",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"DOM",
             "name":"Dominica",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"EGY",
             "name":"Egypt",
             "since":"",
-            "executions":"22 plus",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"22+",
+            "death-penalties":"538+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"ETH",
             "name":"Ethiopia",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"3",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"GIN",
             "name":"Guinea",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"GNQ",
             "name":"Equatorial Guinea",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"GTM",
             "name":"Guatemala",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"GUY",
             "name":"Guyana",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"IDN",
             "name":"Indonesia",
             "since":"",
             "executions":"14",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "death-penalties":"46+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"IND",
             "name":"India",
             "since":"",
             "executions":"1",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "death-penalties":"75+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"IRN",
             "name":"Iran",
             "since":"",
-            "executions":"977 plus",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"977+",
+            "death-penalties":"+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"IRQ",
             "name":"Iraq",
             "since":"",
-            "executions":"26 plus",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"26+",
+            "death-penalties":"89+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"JAM",
             "name":"Jamaica",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"JOR",
             "name":"Jordan",
             "since":"",
             "executions":"2",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "death-penalties":"3+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"JPN",
             "name":"Japan",
             "since":"",
             "executions":"3",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "death-penalties":"4",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"KNA",
             "name":"Saint Kitts and Nevis",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"KWT",
             "name":"Kuwait",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"14",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"LBN",
             "name":"Lebanon",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"28",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"LBY",
             "name":"Libya",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"10+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"LCA",
             "name":"Saint Lucia",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"LSO",
             "name":"Lesotho",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"MYS",
             "name":"Malaysia",
             "since":"",
-            "executions":"plus",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"+",
+            "death-penalties":"39+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"NGA",
             "name":"Nigeria",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"171",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"PAK",
             "name":"Pakistan",
             "since":"",
             "executions":"326",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "death-penalties":"121+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"PRI",
-            "name":"Puerto Rico",
+            "name":"Puerto Rico / USA",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"28",
+            "death-penalties":"52",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"PRK",
             "name":"North Korea",
             "since":"",
-            "executions":"plus",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"+",
+            "death-penalties":"+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"PSE",
             "name":"Palestine",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"12+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"QAT",
             "name":"Qatar",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"9",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
-            "id":"OMN",
+            "id":"ROU",
             "name":"Oman",
             "since":"",
             "executions":"2",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "death-penalties":"0",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"SAU",
             "name":"Saudi Arabia",
             "since":"",
-            "executions":"158 plus",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"158+",
+            "death-penalties":"6+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"SDN",
             "name":"Sudan",
             "since":"",
             "executions":"3",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "death-penalties":"18",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"SGP",
             "name":"Singapore",
             "since":"",
             "executions":"4",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "death-penalties":"5+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"SOM",
             "name":"Somalia",
             "since":"",
-            "executions":"25 plus",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"25+",
+            "death-penalties":"5+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"SSD",
             "name":"South Sudan",
             "since":"",
-            "executions":"5 plus",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"5+",
+            "death-penalties":"17+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"SYR",
             "name":"Syria",
             "since":"",
             "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "death-penalties":"20+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"TCD",
             "name":"Chad",
             "since":"",
             "executions":"10",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "death-penalties":"10",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"THA",
             "name":"Thailand",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"7+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"TTO",
             "name":"Trinidad and Tobago",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"9",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"TWN",
             "name":"Taiwan",
             "since":"",
             "executions":"6",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "death-penalties":"9",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
-            "id":"CHN",
+            "id":"TWN",
             "name":"China",
             "since":"",
-            "executions":"plus",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"+",
+            "death-penalties":"+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"UGA",
             "name":"Uganda",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"1",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"USA",
             "name":"United States of America",
             "since":"",
             "executions":"28",
-            "death-penalties":"28-false",
-            "status":"Retentionist"
+            "death-penalties":"52",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"VCT",
             "name":"Saint Vincent and the Grenadines",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"0",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"VNM",
             "name":"Viet Nam",
             "since":"",
-            "executions":"plus",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"+",
+            "death-penalties":"47+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"YEM",
             "name":"Yemen",
             "since":"",
-            "executions":"8 plus",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"8+",
+            "death-penalties":"+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"ZWE",
             "name":"Zimbabwe",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"2+",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          },
          {
             "id":"GMB",
             "name":"Gambia",
             "since":"",
-            "executions":"",
-            "death-penalties":"",
-            "status":"Retentionist"
+            "executions":"0",
+            "death-penalties":"3",
+            "status":"RETENTIONIST",
+            "definitions":"Retains the death penalty in law"
          }
       ]
    }
