@@ -1,0 +1,446 @@
+@font-face{
+  font-family:"AmnestyTradeGothicW04BdCnNo-20";
+  src:url("fonts/AmnestyTradeGothicW04BdCnNo-20.eot?#iefix");
+  src:url("fonts/AmnestyTradeGothicW04BdCnNo-20.eot?#iefix") format("eot"),url("fonts/AmnestyTradeGothicW04BdCnNo-20.woff") format("woff"),url("fonts/AmnestyTradeGothicW04BdCnNo-20.ttf") format("truetype"),url("fonts/AmnestyTradeGothicW04BdCnNo-20.svg#AmnestyTradeGothicW04BdCnNo-20") format("svg");
+}
+
+html {
+  height: 100%;
+  font-size: 1em;
+  line-height:1.5;
+}
+
+@media screen and (min-width: 40em) {
+  html {
+    overflow: hidden;
+  }
+ }
+
+body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6  {
+  font-family: "AmnestyTradeGothicW04BdCnNo-20", HelveticaNeue-CondensedBold, "Franklin Gothic Medium", sans-serif;
+}
+
+.giga{
+    font-size:80px;
+    font-size:5rem;     /* 80px */
+    line-height:1;    /* 96px */
+}
+.mega{
+    font-size:64px;
+    font-size:4rem;     /* 64px */
+    line-height:1.125;  /* 72px */
+}
+.kilo{
+    font-size:48px;
+    font-size:3rem;     /* 48px */
+    line-height:1;      /* 48px */
+}
+
+/* Define headings and their associated classes here. */
+h1,.alpha{
+    font-size:32px;
+    font-size:2rem;     /* 32px */
+    line-height:1.5;    /* 48px */
+}
+
+@media screen and (min-width: 40em) and (max-width: 54em) {
+  h1,.alpha{
+    font-size:24px;
+    font-size:1.5rem;     /* 32px */
+    line-height:1;    /* 48px */
+}
+}
+
+h2,.beta{
+    font-size:1.5em;    /* 24px */
+    line-height:1;      /* 24px */
+}
+h3,.gamma{
+    font-size:20px;
+    font-size:1.25rem;  /* 20px */
+    line-height:1.2;    /* 24px */
+}
+h4,.delta{
+    font-size:18px;
+    font-size:1.125rem; /* 18px */
+    line-height:1.333;  /* 24px */
+}
+h5,.epsilon{
+    font-size:16px;
+    font-size:1rem;     /* 16px */
+    line-height:1.5;    /* 24px */
+}
+h6,.zeta{
+    font-size:16px;
+    font-size:1rem;     /* 16px */
+    line-height:1.5;    /* 24px */
+}
+
+/* Smaller-than-body-copy sizes here. */
+small,.milli {
+    font-size:12px;
+    font-size:0.75rem;  /* 12px */
+    line-height:2;      /* 24px */
+}
+
+.thick-underline {
+  position: relative;
+}
+
+.thick-underline:after{
+    content:'';
+    position:absolute;
+    width: 100%;
+    height: 0;
+    left:0;
+    bottom: 1px;                    /* <- distance */
+    border-bottom: 8px solid #000;
+}
+
+#info-box {
+  width: 100%;
+  display: block;
+  background-color: #e5e5e5;
+  border-top: 2px solid #939598;
+  margin-top: -3rem;
+}
+
+@media screen and (min-width: 40em) {
+  #info-box {
+    width: 25%;
+    float: left;
+    background-color: #e5e5e5;
+    height: 100%;
+    border-top: none;
+    margin-top: 0;
+  }
+}
+
+#info-box-inner {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@media screen and (min-width: 40em) {
+  #info-box-inner {
+    display: block;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    }
+  }
+
+#map {
+  width: 100%;
+  display: block;
+}
+
+@media screen and (min-width: 40em) {
+  #map {
+    width: 75%;
+    float: right;
+  }
+ }
+
+.overview-year-ns {
+  display: none;
+}
+
+@media screen and (min-width: 40em) {
+  .overview-year-ns {
+    display: block;
+  }
+ }
+
+.footer-left-m {
+  width: 50%;
+  background-color: white;
+  border-right: 2px solid #939598;
+  display: flex
+  justify-content: center;
+  padding-top: 2rem;
+}
+
+@media screen and (min-width: 40em) {
+  .footer-left-m {
+    width: 100%;
+    background-color: #e5e5e5;
+    border-right: none;
+    display: block;
+    padding-top: 0;
+  }
+ }
+
+.footer-right-m {
+  width: 50%;
+  display: flex
+  justify-content: center;
+}
+
+@media screen and (min-width: 40em) {
+  .footer-right-m {
+    width: 100%;
+    display: block;
+  }
+}
+
+#donut-chart-wrapper {
+  width: 80%;
+  padding-left: 10%;
+}
+
+@media screen and (min-width: 40em) {
+  #donut-chart-wrapper {
+    width: 100%;
+    padding-left: 0;
+  }
+}
+
+.total-executions {
+  padding-left: 10%;
+}
+
+@media screen and (min-width: 40em) {
+  .total-executions {
+    border-top: 4px solid #939598;
+    padding-left: 0;
+  }
+ }
+
+.wrapper {
+  margin: 1rem;
+}
+
+#detail-box {
+  width: 100%;
+  float: left;
+  background-color: #cccccc;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow:hidden;
+  display: none;
+  z-index: 100;
+}
+
+@media screen and (min-width: 40em) {
+  #detail-box {
+    width: 25%;
+    top: 21%;
+    height: 79%;
+  }
+}
+
+.reveal {
+  display: block !important;
+}
+
+#btn-close {
+  float: right;
+  background-color: #fff;
+  border: 0 none;
+  color: #cccccc;
+  display: block;
+  height: 2rem;
+  width: 2rem;
+  position: relative;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 1.4rem;
+}
+
+#btn-close:hover {
+  color: #000000;
+  cursor: pointer;
+  cursor: hand;
+}
+
+
+.coastline {
+  fill: none;
+  stroke: #D5D5D5;
+  stroke-linejoin: round;
+  stroke-width: 0.2px;
+}
+
+.country {
+  fill: #8f9ca4;
+  stroke: #e5e5e5;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-width: 0.5px;
+}
+
+.retentionist {
+  fill: #000000;
+  stroke: #e5e5e5;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-width: 0.5px;
+}
+
+.abolitionisipractice  {
+  fill: #7a7d81;
+  stroke: #e5e5e5;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-width: 0.5px;
+}
+
+.abolitionisfoordinarcrimes {
+  fill: #b6b6b6;
+  stroke: #e5e5e5;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-width: 0.5px;
+}
+
+.abolitionist {
+  fill: #ffff00;
+  stroke: #e5e5e5;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-width: 0.5px;
+}
+
+.retentionist:hover, .abolitionisipractice:hover, .abolitionisfoordinarcrimes:hover, .abolitionist:hover {
+  fill: #C5C5C5;
+  cursor: pointer;
+  cursor: hand;
+}
+
+.hidden {
+  display: none;
+}
+
+.tooltip {
+  color: #000;
+  background: #fff;
+  padding-top: .2em;
+  padding-bottom: .2em;
+  padding-left: .4em;
+  padding-right: .4em;
+  border-radius: 2px;
+  border: 1px solid #939598;
+  position: absolute;
+  z-index: 2;
+}
+
+.buttons {
+  position: absolute;
+  right: 30px;
+  top: 30px;
+}
+
+.cf {
+  content:"";
+  display:table;
+  clear:both;
+}
+
+.media{
+    display:block;
+}
+
+.media__img{
+  float:left;
+  margin-right: 0.5rem;
+  width: 20%;
+}
+/**
+* Reversed image location (right instead of left).
+*/
+.media__img--rev{
+  float:right;
+  margin-left:0.1rem;
+}
+
+.media__img img,
+.media__img--rev img{
+  display:block;
+}
+
+.media__body{
+  overflow:hidden;
+  width: 74%;
+}
+.media__body,
+.media__body > :last-child{
+  margin-bottom:0;
+}
+
+.lh-reset {
+  line-height: 1;
+}
+
+.title-text {
+  text-transform: uppercase;
+  font-family: "AmnestyTradeGothicW04BdCnNo-20", HelveticaNeue-CondensedBold, "Franklin Gothic Medium", sans-serif;
+  font-size: 14px;
+  font-size: 0.8rem;
+}
+
+.buttons {
+  position: absolute;
+  right: 2rem;
+  top: 2rem;
+}
+
+@media screen and (min-width: 40em) {
+  .buttons {
+    position: absolute;
+    right: 2rem;
+    top: 2rem;
+  }
+}
+
+.zoom-buttons {
+  background-color: #cccccc;
+  border: 0 none;
+  color: #333333;
+  display: block;
+  height: 2rem;
+  margin-bottom: 0.2rem;
+  width: 2rem;
+}
+
+.zoom-buttons:hover {
+  background-color: #C5C5C5;
+  color: #fff;
+  cursor: pointer;
+  cursor: hand;
+}
+
+.no-caps-title {
+  line-height: 1.1;
+}
+
+.status-block {
+  background-color: #000000;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-weight: normal;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+}
+
+.totals-block {
+  margin-top: 2rem;
+}
+
+.death-sentences-icon {
+  height: 3.5rem;
+}
+
+.executions-icon {
+  height: 5rem;
+}
