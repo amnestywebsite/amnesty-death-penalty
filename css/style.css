@@ -263,6 +263,7 @@ small,.milli {
 }
 
 
+
 .coastline {
   fill: none;
   stroke: #D5D5D5;
@@ -283,7 +284,7 @@ small,.milli {
   stroke: #e5e5e5;
   stroke-linejoin: round;
   stroke-linecap: round;
-  stroke-width: 0.5px;
+  stroke-width: 0.1px;
 }
 
 .abolitionisipractice  {
@@ -291,7 +292,7 @@ small,.milli {
   stroke: #e5e5e5;
   stroke-linejoin: round;
   stroke-linecap: round;
-  stroke-width: 0.5px;
+  stroke-width: 0.1px;
 }
 
 .abolitionisfoordinarcrimes {
@@ -299,7 +300,7 @@ small,.milli {
   stroke: #e5e5e5;
   stroke-linejoin: round;
   stroke-linecap: round;
-  stroke-width: 0.5px;
+  stroke-width: 0.1px;
 }
 
 .abolitionist {
@@ -307,7 +308,11 @@ small,.milli {
   stroke: #e5e5e5;
   stroke-linejoin: round;
   stroke-linecap: round;
-  stroke-width: 0.5px;
+  stroke-width: 0.1px;
+}
+
+.active {
+  fill: #C5C5C5;
 }
 
 .retentionist:hover, .abolitionisipractice:hover, .abolitionisfoordinarcrimes:hover, .abolitionist:hover {

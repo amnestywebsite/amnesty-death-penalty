@@ -25,6 +25,7 @@ var startYear = '2015';
 var currentYear = startYear;
 var tooltip = d3.select("#map").append("div").attr("class", "tooltip hidden");
 var activeCountries, yearCountries, topo, borders, coastline, projection, path, svg, g, zoom;
+var active = d3.select(null);
 
 setup(width,height);
 
@@ -49,6 +50,10 @@ function setup(width,height){
   g = svg.append("g");
 }
 
+function reset() {
+
+  g.transition().duration(750).attr("transform", "");
+}
 
 //Loads in the world data and the active countries
 queue()
@@ -134,7 +139,16 @@ function draw(topo, activeCountries, coastline) {
         });
 
   activeCountry.on('click', function(d){
-    console.log (d);
+    active.classed("active", false);
+    active = d3.select(this).classed("active", true);
+
+    if (windowWidth > 640) {
+    var b = path.bounds(d);
+    g.transition().duration(750).attr("transform",
+      "translate(" + projection.translate() + ")"
+      + "scale(" + .50 / Math.max((b[1][0] - b[0][0]) / width, (b[1][1] - b[0][1]) / height) + ")"
+      + "translate(" + -(b[1][0] + b[0][0]) / 2 + "," + -(b[1][1] + b[0][1]) / 2 + ")");
+    }
     var detailBox = document.getElementById('detail-box');
     detailBox.classList.add("reveal");
     var detailTemplate = Hogan.compile("<div class='wrapper'><div id='btn-close'>×</div><h1 class='no-caps-title'>{{name}}</h1><div class='status-block'><h2>{{status}}{{#since}} since {{since}}{{/since}}</h2></div><div class='totals-block'>{{#death-penalties}}<div class='media bg-white pa3'><div class='media__img'><img class='death-sentences-icon' src='images/death.jpg'></div><div class='media__body'><h2 class='ttu kilo mt0 mb0'>{{death-penalties}}</h2><h3 class='ttu gamma mt0 mb2 lh-reset'>Death Sentences</h3></div></div>{{/death-penalties}}{{#executions}}<div class='media bg-black white pa3'><div class='media__img'><img class='executions-icon' src='images/execution.jpg'></div><div class='media__body'><h2 class='ttu kilo mt0 mb2'>{{executions}}</h2><h3 class='ttu gamma mt0 mb0 lh-reset'>Executions</h3></div></div>{{/executions}}</div></div>");
@@ -143,6 +157,7 @@ function draw(topo, activeCountries, coastline) {
 
     var btnClose = document.getElementById('btn-close');
     btnClose.addEventListener('click', function(event) {
+      reset();
       detailBox.classList.remove("reveal");
     });
   });
@@ -222,13 +237,13 @@ d3.select('#zoom-out').on('click', function () {
 
 var data = [{
     "fullname": "Abolitionists",
-        "value": 98
+        "value": 102
 }, {
     "fullname": "Abolitionists for ordinary crimes",
-        "value": 7
+        "value": 6
 }, {
     "fullname": "Abolitionists in practice",
-        "value": 35
+        "value": 32
 }, {
     "fullname": "Retentionist",
         "value": 58
