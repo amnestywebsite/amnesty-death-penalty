@@ -233,8 +233,7 @@ small,.milli {
 @media screen and (min-width: 40em) {
   #detail-box {
     width: 25%;
-    top: 21%;
-    height: 79%;
+    top: 133px;
   }
 }
 
@@ -261,8 +260,6 @@ small,.milli {
   cursor: pointer;
   cursor: hand;
 }
-
-
 
 .coastline {
   fill: none;
@@ -312,11 +309,11 @@ small,.milli {
 }
 
 .active {
-  fill: #C5C5C5;
+  fill: #ED672B;
 }
 
 .retentionist:hover, .abolitionisipractice:hover, .abolitionisfoordinarcrimes:hover, .abolitionist:hover {
-  fill: #C5C5C5;
+  fill: #ED672B;
   cursor: pointer;
   cursor: hand;
 }

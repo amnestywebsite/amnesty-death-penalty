@@ -11,6 +11,10 @@ var windowWidth = window.innerWidth;
 
 if (windowWidth < 640) {
   scaleAdjust = 1.6;
+  var clientHeight = document.getElementById('overview-year');
+  var distanceFromTop = clientHeight.getBoundingClientRect().bottom;
+  var detailBoxHeight = document.getElementById('detail-box');
+  detailBoxHeight.style.top = '"' + distanceFromTop + 'px"';
 }
 
 else {
@@ -51,7 +55,8 @@ function setup(width,height){
 }
 
 function reset() {
-
+  active.classed("active", false);
+  active = d3.select(null);
   g.transition().duration(750).attr("transform", "");
 }
 
@@ -142,13 +147,6 @@ function draw(topo, activeCountries, coastline) {
     active.classed("active", false);
     active = d3.select(this).classed("active", true);
 
-    if (windowWidth > 640) {
-    var b = path.bounds(d);
-    g.transition().duration(750).attr("transform",
-      "translate(" + projection.translate() + ")"
-      + "scale(" + .50 / Math.max((b[1][0] - b[0][0]) / width, (b[1][1] - b[0][1]) / height) + ")"
-      + "translate(" + -(b[1][0] + b[0][0]) / 2 + "," + -(b[1][1] + b[0][1]) / 2 + ")");
-    }
     var detailBox = document.getElementById('detail-box');
     detailBox.classList.add("reveal");
     var detailTemplate = Hogan.compile("<div class='wrapper'><div id='btn-close'>×</div><h1 class='no-caps-title'>{{name}}</h1><div class='status-block'><h2>{{status}}{{#since}} since {{since}}{{/since}}</h2></div><div class='totals-block'>{{#death-penalties}}<div class='media bg-white pa3'><div class='media__img'><img class='death-sentences-icon' src='images/death.jpg'></div><div class='media__body'><h2 class='ttu kilo mt0 mb0'>{{death-penalties}}</h2><h3 class='ttu gamma mt0 mb2 lh-reset'>Death Sentences</h3></div></div>{{/death-penalties}}{{#executions}}<div class='media bg-black white pa3'><div class='media__img'><img class='executions-icon' src='images/execution.jpg'></div><div class='media__body'><h2 class='ttu kilo mt0 mb2'>{{executions}}</h2><h3 class='ttu gamma mt0 mb0 lh-reset'>Executions</h3></div></div>{{/executions}}</div></div>");
@@ -342,6 +340,10 @@ function redraw() {
 
   if (windowWidth < 640) {
     scaleAdjust = 1.6;
+    var clientHeight = document.getElementById('overview-year');
+    var distanceFromTop = clientHeight.getBoundingClientRect().bottom;
+    var detailBoxHeight = document.getElementById('detail-box');
+    detailBoxHeight.style.top = '"' + distanceFromTop + 'px"';
   }
 
   else {
