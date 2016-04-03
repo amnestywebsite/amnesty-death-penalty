@@ -385,8 +385,9 @@ small,.milli {
 .title-text {
   text-transform: uppercase;
   font-family: "AmnestyTradeGothicW04BdCnNo-20", HelveticaNeue-CondensedBold, "Franklin Gothic Medium", sans-serif;
-  font-size: 14px;
-  font-size: 0.8rem;
+  font-size: 12px;
+  font-size: 0.75rem;
+  background: white;
 }
 
 .buttons {

@@ -39,7 +39,7 @@ function setup(width,height){
             .on("zoom", move);
 
   projection = d3.geo.mercator()
-    .translate([(width/2), (height/2)])
+    .translate([(width/2-30), (height/2)])
     .scale( width / 2 / Math.PI);
 
   path = d3.geo.path()
@@ -250,6 +250,7 @@ var data = [{
 var donutWidth = document.getElementById('donut-chart-wrapper').offsetWidth;
 var donutHeight = (donutWidth/2)+(donutWidth/2.5);
 var radius = Math.min(donutWidth, donutHeight) / 2;
+var labelr = radius - 22;
 
 console.log (donutWidth);
 
@@ -286,24 +287,58 @@ var svgPie = d3.select("#donut-chart").append("svg")
 
   gPie.append("text")
       .attr("transform", function(d) {
-        return "translate(" + ( (radius - 12) * Math.sin( ((d.endAngle - d.startAngle) / 2) + d.startAngle ) ) + "," + ( -1 * (radius - 12) * Math.cos( ((d.endAngle - d.startAngle) / 2) + d.startAngle ) ) + ")"; })
-      .attr("dy", ".35em")
-      .style("text-anchor", function(d) {
-        var rads = ((d.endAngle - d.startAngle) / 2) + d.startAngle;
-        if ( (rads > 7 * Math.PI / 4 && rads < Math.PI / 4) || (rads > 3 * Math.PI / 4 && rads < 5 * Math.PI / 4) ) {
-          return "middle";
-        } else if (rads >= Math.PI / 4 && rads <= 3 * Math.PI / 4) {
-          return "start";
-        } else if (rads >= 5 * Math.PI / 4 && rads <= 7 * Math.PI / 4) {
-          return "end";
-        } else {
-          return "middle";
-        }
-      })
+        var c = arc.centroid(d),
+            x = c[0],
+            y = c[1],
+            labelPlacerX = donutWidth / 2,
+            labelPlacerY = donutHeight / 2,
+            // pythagorean theorem for hypotenuse
+            h = Math.sqrt(x*x + y*y);
+
+            if (d.data.fullname == "Abolitionists")
+              {
+               return "translate(" + (labelPlacerX-15) +  ',' +
+           (-labelPlacerY + 5) +  ")";
+              }
+
+            if (d.data.fullname == "Abolitionists for ordinary crimes")
+              {
+                return "translate(" + (labelPlacerX-15) +  ',' +
+           (labelPlacerY-25) +  ")";
+              }
+
+            if (d.data.fullname == "Abolitionists in practice")
+              {
+                return "translate(" + (-labelPlacerX) +  ',' +
+           (labelPlacerY-10) +  ")";
+              }
+
+            if (d.data.fullname == "Retentionist")
+              {
+                return "translate(" + (-labelPlacerX) +  ',' +
+           (-labelPlacerY + 5) +  ")";
+              }
+
+        return "translate(" + (x/h * labelr) +  ',' +
+           (y/h * labelr) +  ")";
+    })
+    .attr("dy", ".35em")
+    .attr("text-anchor", function(d) {
+        // are we past the center?
+        if (d.data.fullname == "Retentionist") { return "start";}
+
+        if (d.data.fullname == "Abolitionists") { return "end";}
+
+        if (d.data.fullname == "Abolitionists in practice") { return "start";}
+
+        if (d.data.fullname == "Abolitionists for ordinary crimes") { return "end";}
+
+        return (d.endAngle + d.startAngle)/2 > Math.PI ?
+            "end" : "start";
+    })
       .attr("class", "title-text")
-      .text(function(d) {
-        return d.data.fullname; })
-      .call(wrap, 100);
+      .text(function(d) {return d.data.fullname;})
+      .call(wrap, 70);
 }
 
 function wrap(text, width) {
