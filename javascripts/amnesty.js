@@ -9,7 +9,7 @@ d3.select(window).on("resize", throttle);
 var scaleAdjust;
 var windowWidth = window.innerWidth;
 
-if (windowWidth < 640) {
+if (windowWidth < 752) {
   scaleAdjust = 1.6;
   var clientHeight = document.getElementById('overview-year');
   var distanceFromTop = clientHeight.getBoundingClientRect().bottom;
@@ -434,7 +434,7 @@ function redraw() {
   windowWidth = window.innerWidth;
   console.log ("width: " + windowWidth);
 
-  if (windowWidth < 640) {
+  if (windowWidth < 752) {
     scaleAdjust = 1.6;
     var clientHeight = document.getElementById('overview-year');
     var distanceFromTop = clientHeight.getBoundingClientRect().bottom;
