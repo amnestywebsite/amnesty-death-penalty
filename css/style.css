@@ -447,3 +447,8 @@ small,.milli {
 .executions-icon {
   height: 5rem;
 }
+
+.label-line {
+    stroke-width: 2;
+    stroke: #393939;
+}

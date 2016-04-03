@@ -285,6 +285,67 @@ var svgPie = d3.select("#donut-chart").append("svg")
       .attr("d", arc)
       .style("fill", function(d) { return color(d.data.value); });
 
+  gPie.append("line")
+      .attr("class", "label-line")
+      .attr({
+        x1: function (d, i) {
+        return arc.centroid(d)[0];
+    },
+    y1: function (d, i) {
+        return arc.centroid(d)[1];
+    },
+    x2: function (d, i) {
+      var labelPlacerX = donutWidth / 2,
+            labelPlacerY = donutHeight / 2;
+      if (d.data.fullname == "Abolitionists")
+              { x = labelPlacerX-40;
+                return x;
+              }
+        if (d.data.fullname == "Abolitionists for ordinary crimes")
+              {
+                x = labelPlacerX/3;
+                return x;
+              }
+         if (d.data.fullname == "Retentionist")
+              {
+                x = -labelPlacerX+40;
+                return x;
+              }
+
+         if (d.data.fullname == "Abolitionists in practice")
+              {
+                x = -labelPlacerX+40;
+                return x;
+              }
+    },
+    y2: function (d, i) {
+      var labelPlacerX = donutWidth / 2,
+            labelPlacerY = donutHeight / 2;
+        if (d.data.fullname == "Abolitionists")
+              { y = -labelPlacerY+20;
+                return y;
+              }
+        if (d.data.fullname == "Abolitionists for ordinary crimes")
+              {
+                y = labelPlacerY-20;
+                return y;
+              }
+
+         if (d.data.fullname == "Retentionist")
+              {
+                y = -labelPlacerY+20;
+                return y;
+              }
+
+         if (d.data.fullname == "Abolitionists in practice")
+              {
+                y = labelPlacerY-20;
+                return y;
+              }
+
+    }
+    });
+
   gPie.append("text")
       .attr("transform", function(d) {
         var c = arc.centroid(d),
