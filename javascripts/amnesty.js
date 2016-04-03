@@ -30,6 +30,7 @@ var currentYear = startYear;
 var tooltip = d3.select("#map").append("div").attr("class", "tooltip hidden");
 var activeCountries, yearCountries, topo, borders, coastline, projection, path, svg, g, zoom;
 var active = d3.select(null);
+var tooltipPie = d3.select("#donut-chart").append("div").attr("class", "tooltip hidden");
 
 setup(width,height);
 
@@ -53,6 +54,7 @@ function setup(width,height){
 
   g = svg.append("g");
 }
+
 
 function reset() {
   active.classed("active", false);
@@ -149,7 +151,7 @@ function draw(topo, activeCountries, coastline) {
 
     var detailBox = document.getElementById('detail-box');
     detailBox.classList.add("reveal");
-    var detailTemplate = Hogan.compile("<div class='wrapper'><div id='btn-close'>×</div><h1 class='no-caps-title'>{{name}}</h1><div class='status-block'><h2>{{status}}{{#since}} since {{since}}{{/since}}</h2></div><div class='totals-block'>{{#death-penalties}}<div class='media bg-white pa3'><div class='media__img'><img class='death-sentences-icon' src='images/death.jpg'></div><div class='media__body'><h2 class='ttu kilo mt0 mb0'>{{death-penalties}}</h2><h3 class='ttu gamma mt0 mb2 lh-reset'>Death Sentences</h3></div></div>{{/death-penalties}}{{#executions}}<div class='media bg-black white pa3'><div class='media__img'><img class='executions-icon' src='images/execution.jpg'></div><div class='media__body'><h2 class='ttu kilo mt0 mb2'>{{executions}}</h2><h3 class='ttu gamma mt0 mb0 lh-reset'>Executions</h3></div></div>{{/executions}}</div></div>");
+    var detailTemplate = Hogan.compile("<div class='wrapper'><div id='btn-close'>×</div><h1 class='no-caps-title'>{{name}}</h1><div class='status-block'><h2 class='mv2'>{{status}}</h2></div>{{#since}}<div class='since-date'><h3 class='mv2 ttu dark-grey'>since {{since}}</h3></div>{{/since}}<div class='definition'><h3 class='mv2'>{{definitions}}</h3></div></div><div class='totals-block'>{{#death-penalties}}<div class='media bg-white pa3'><div class='media__img'><img class='death-sentences-icon' src='images/hammer.svg'></div><div class='media__body'><h2 class='ttu kilo mt0 mb0'>{{death-penalties}}</h2><h3 class='ttu gamma mt0 mb2 lh-reset'>Death Sentences</h3></div></div>{{/death-penalties}}{{#executions}}<div class='media bg-black white pa3'><div class='media__img'><img class='executions-icon' src='images/WhiteNoose.svg'></div><div class='media__body'><h2 class='ttu kilo mt0 mb2'>{{executions}}</h2><h3 class='ttu gamma mt0 mb0 lh-reset'>Executions</h3></div></div>{{/executions}}</div></div>");
     var output = detailTemplate.render(d);
     detailBox.innerHTML = output;
 
@@ -235,15 +237,19 @@ d3.select('#zoom-out').on('click', function () {
 
 var data = [{
     "fullname": "Abolitionists",
+    "definitions":"do not use the death penalty",
         "value": 102
 }, {
     "fullname": "Abolitionists for ordinary crimes",
+    "definitions":"retain the death penalty only for serious crimes, such as murder, or during times of war",
         "value": 6
 }, {
     "fullname": "Abolitionists in practice",
+    "definitions":"retain the death penalty in law, but haven’t executed for at least 10 years",
         "value": 32
 }, {
     "fullname": "Retentionist",
+    "definitions":"retain the death penalty in law",
         "value": 58
 }];
 
@@ -283,6 +289,7 @@ var svgPie = d3.select("#donut-chart").append("svg")
 
   gPie.append("path")
       .attr("d", arc)
+      .attr("class", "donut-arc")
       .style("fill", function(d) { return color(d.data.value); });
 
   gPie.append("line")
@@ -298,49 +305,49 @@ var svgPie = d3.select("#donut-chart").append("svg")
       var labelPlacerX = donutWidth / 2,
             labelPlacerY = donutHeight / 2;
       if (d.data.fullname == "Abolitionists")
-              { x = labelPlacerX-40;
-                return x;
+              { piex = labelPlacerX-40;
+                return piex;
               }
         if (d.data.fullname == "Abolitionists for ordinary crimes")
               {
-                x = labelPlacerX/3;
-                return x;
+                piex = labelPlacerX/3;
+                return piex;
               }
          if (d.data.fullname == "Retentionist")
               {
-                x = -labelPlacerX+40;
-                return x;
+                piex = -labelPlacerX+40;
+                return piex;
               }
 
          if (d.data.fullname == "Abolitionists in practice")
               {
-                x = -labelPlacerX+40;
-                return x;
+                piex = -labelPlacerX+40;
+                return piex;
               }
     },
     y2: function (d, i) {
       var labelPlacerX = donutWidth / 2,
             labelPlacerY = donutHeight / 2;
         if (d.data.fullname == "Abolitionists")
-              { y = -labelPlacerY+20;
-                return y;
+              { piey = -labelPlacerY+20;
+                return piey;
               }
         if (d.data.fullname == "Abolitionists for ordinary crimes")
               {
-                y = labelPlacerY-20;
-                return y;
+                piey = labelPlacerY-20;
+                return piey;
               }
 
          if (d.data.fullname == "Retentionist")
               {
-                y = -labelPlacerY+20;
-                return y;
+                piey = -labelPlacerY+20;
+                return piey;
               }
 
          if (d.data.fullname == "Abolitionists in practice")
               {
-                y = labelPlacerY-20;
-                return y;
+                piey = labelPlacerY-20;
+                return piey;
               }
 
     }
@@ -400,6 +407,22 @@ var svgPie = d3.select("#donut-chart").append("svg")
       .attr("class", "title-text")
       .text(function(d) {return d.data.fullname;})
       .call(wrap, 70);
+
+  var offsetPieL = document.getElementById('donut-chart').offsetLeft+(width/80);
+  var offsetPieT =document.getElementById('donut-chart').offsetTop+(height/80);
+
+  gPie
+    .on("mousemove", function(d,i) {
+        var mouse = d3.mouse(d3.select('#donut-chart').node());
+          tooltipPie
+            .classed("hidden", false)
+            .attr("style", "left:"+(mouse[0]+offsetPieL)+"px;top:"+(mouse[1]+offsetPieT)+"px")
+            .html('<div class="title-text">' + d.data.value + ' countries ' + d.data.definitions + '</div>')
+        })
+        .on("mouseout",  function(d,i) {
+          tooltipPie.classed("hidden", true)
+        });
+
 }
 
 function wrap(text, width) {
