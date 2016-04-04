@@ -323,13 +323,21 @@ small,.milli {
 }
 
 .active {
-  fill: #ED672B;
+  fill: #b5b5b5;
+  stroke: #000;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-width: 0.5px;
 }
 
 .retentionist:hover, .abolitionisipractice:hover, .abolitionisfoordinarcrimes:hover, .abolitionist:hover {
-  fill: #ED672B;
+  fill: #b5b5b5;
   cursor: pointer;
   cursor: hand;
+  stroke: #000;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-width: 0.5px;
 }
 
 .hidden {
