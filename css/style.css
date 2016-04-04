@@ -10,7 +10,7 @@ html {
   line-height:1.5;
 }
 
-@media screen and (min-width: 47em) {
+@media screen and (min-width: 40em) {
   html {
     overflow: hidden;
   }
@@ -126,7 +126,7 @@ small,.milli {
   margin-top: -3rem;
 }
 
-@media screen and (min-width: 47em) {
+@media screen and (min-width: 40em) {
   #info-box {
     width: 25%;
     float: left;
@@ -142,7 +142,7 @@ small,.milli {
   flex-wrap: wrap;
 }
 
-@media screen and (min-width: 47em) {
+@media screen and (min-width: 40em) {
   #info-box-inner {
     display: block;
     margin-left: 1rem;
@@ -155,7 +155,7 @@ small,.milli {
   display: block;
 }
 
-@media screen and (min-width: 47em) {
+@media screen and (min-width: 40em) {
   #map {
     width: 75%;
     float: right;
@@ -166,7 +166,7 @@ small,.milli {
   display: none;
 }
 
-@media screen and (min-width: 47em) {
+@media screen and (min-width: 40em) {
   .overview-year-ns {
     display: block;
   }
@@ -181,7 +181,7 @@ small,.milli {
   padding-top: 2rem;
 }
 
-@media screen and (min-width: 47em) {
+@media screen and (min-width: 40em) {
   .footer-left-m {
     width: 100%;
     background-color: #e5e5e5;
@@ -197,7 +197,7 @@ small,.milli {
   justify-content: center;
 }
 
-@media screen and (min-width: 47em) {
+@media screen and (min-width: 40em) {
   .footer-right-m {
     width: 100%;
     display: block;
@@ -208,7 +208,7 @@ small,.milli {
   width: 80%;
 }
 
-@media screen and (min-width: 47em) {
+@media screen and (min-width: 40em) {
   #donut-chart-wrapper {
     width: 100%;
     padding-left: 0;
@@ -219,7 +219,7 @@ small,.milli {
   padding-left: 10%;
 }
 
-@media screen and (min-width: 47em) {
+@media screen and (min-width: 40em) {
   .total-executions {
     border-top: 4px solid #939598;
     padding-left: 0;
@@ -243,7 +243,7 @@ small,.milli {
   z-index: 100;
 }
 
-@media screen and (min-width: 47em) {
+@media screen and (min-width: 40em) {
   #detail-box {
     width: 25%;
     top: 133px;
@@ -418,7 +418,7 @@ small,.milli {
   top: 2rem;
 }
 
-@media screen and (min-width: 47em) {
+@media screen and (min-width: 40em) {
   .buttons {
     position: absolute;
     right: 2rem;
