@@ -462,11 +462,16 @@ small,.milli {
 .totals-block {
   margin-top: 2rem;
   text-align: left;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
 @media screen and (min-width: 60em) {
   .totals-block {
     text-align: right;
+    border-right: 1px solid #ccc;
+    width: 25%;
   }
 }
 
