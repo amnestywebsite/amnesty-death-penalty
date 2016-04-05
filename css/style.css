@@ -483,6 +483,7 @@ small,.milli {
 
 .executions-icon {
   height: 5rem;
+  margin: auto;
 }
 
 .label-line {
