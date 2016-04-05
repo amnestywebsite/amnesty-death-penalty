@@ -14,7 +14,7 @@ html {
   html {
     overflow: hidden;
   }
- }
+}
 
 body {
   height: 100%;
@@ -39,15 +39,14 @@ h1, h2, h3, h4, h5, h6  {
 }
 
 @media screen and (min-width: 70em) {
-  .mega{
-        font-size:64px;
+  .mega {
+    font-size:64px;
     font-size:4rem;     /* 64px */
     line-height:1.125;  /* 72px */
-
-    }
+  }
 }
 
-.kilo{
+.kilo {
     font-size:48px;
     font-size:3rem;     /* 48px */
     line-height:1;      /* 48px */
@@ -61,32 +60,36 @@ h1,.alpha{
 }
 
 @media screen and (min-width: 70em) {
-  h1,.alpha{
-        font-size:32px;
+  h1,.alpha {
+    font-size:32px;
     font-size:2rem;     /* 32px */
     line-height:1.5;    /* 48px */
-}
+  }
 }
 
 h2,.beta{
     font-size:1.5em;    /* 24px */
     line-height:1;      /* 24px */
 }
+
 h3,.gamma{
     font-size:20px;
     font-size:1.25rem;  /* 20px */
     line-height:1.2;    /* 24px */
 }
+
 h4,.delta{
     font-size:18px;
     font-size:1.125rem; /* 18px */
     line-height:1.333;  /* 24px */
 }
+
 h5,.epsilon{
     font-size:16px;
     font-size:1rem;     /* 16px */
     line-height:1.5;    /* 24px */
 }
+
 h6,.zeta{
     font-size:16px;
     font-size:1rem;     /* 16px */
@@ -147,8 +150,8 @@ small,.milli {
     display: block;
     margin-left: 1rem;
     margin-right: 1rem;
-    }
   }
+}
 
 #map {
   width: 100%;
@@ -160,7 +163,7 @@ small,.milli {
     width: 75%;
     float: right;
   }
- }
+}
 
 .overview-year-ns {
   display: none;
@@ -322,7 +325,7 @@ small,.milli {
 }
 
 .active {
-  fill: #b5b5b5;
+  fill: #f7f7f7;
   stroke: #000;
   stroke-linejoin: round;
   stroke-linecap: round;
@@ -330,7 +333,7 @@ small,.milli {
 }
 
 .retentionist:hover, .abolitionisipractice:hover, .abolitionisfoordinarcrimes:hover, .abolitionist:hover {
-  fill: #b5b5b5;
+  fill: #f7f7f7;
   cursor: pointer;
   cursor: hand;
   stroke: #000;
@@ -466,7 +469,7 @@ small,.milli {
   width: 100%;
 }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 40em) {
   .totals-block {
     text-align: right;
     border-right: 1px solid #ccc;

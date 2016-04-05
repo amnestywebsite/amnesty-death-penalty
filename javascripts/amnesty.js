@@ -304,6 +304,11 @@ var svgPie = d3.select("#donut-chart").append("svg")
         if (d.data.fullname == "Retentionist") {
           xTrig = xTrig + 15;
         };
+
+        if (d.data.fullname == "Abolitionists in practice") {
+          yTrig = yTrig - 20;
+        };
+
         return "translate(" + xTrig + "," + yTrig + ")"; })
       .attr("dy", ".35em")
       .style("text-anchor", function(d) {
