@@ -11,10 +11,10 @@ var windowWidth = window.innerWidth;
 
 if (windowWidth < 752) {
   scaleAdjust = 1.6;
-  var clientHeight = document.getElementById('overview-year');
+  /*var clientHeight = document.getElementById('overview-year');
   var distanceFromTop = clientHeight.getBoundingClientRect().bottom;
   var detailBoxHeight = document.getElementById('detail-box');
-  detailBoxHeight.style.top = '"' + distanceFromTop + 'px"';
+  detailBoxHeight.style.top = '"' + distanceFromTop + 'px"';*/
 }
 
 else {

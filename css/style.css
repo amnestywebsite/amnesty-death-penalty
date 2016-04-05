@@ -172,6 +172,7 @@ small,.milli {
 @media screen and (min-width: 40em) {
   .overview-year-ns {
     display: block;
+    margin-top: 1rem;
   }
  }
 
@@ -249,7 +250,7 @@ small,.milli {
 @media screen and (min-width: 40em) {
   #detail-box {
     width: 25%;
-    top: 133px;
+    top: 6rem;
   }
 }
 
