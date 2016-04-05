@@ -236,15 +236,15 @@ d3.select('#zoom-out').on('click', function () {
 });
 
 var data = [{
-    "fullname": "Abolitionists",
+    "fullname": "Abolitionist",
     "definitions":"do not use the death penalty",
         "value": 102
 }, {
-    "fullname": "Abolitionists for ordinary crimes",
+    "fullname": "Abolitionist for ordinary crimes",
     "definitions":"retain the death penalty only for serious crimes, such as murder, or during times of war",
         "value": 6
 }, {
-    "fullname": "Abolitionists in practice",
+    "fullname": "Abolitionist in practice",
     "definitions":"retain the death penalty in law, but haven’t executed for at least 10 years",
         "value": 32
 }, {
@@ -296,7 +296,7 @@ var svgPie = d3.select("#donut-chart").append("svg")
       .attr("transform", function(d) {
         var xTrig = ( (radius - 12) * Math.sin( ((d.endAngle - d.startAngle) / 2) + d.startAngle ) );
         var yTrig = ( -1 * (radius - 12) * Math.cos( ((d.endAngle - d.startAngle) / 2) + d.startAngle ) );
-        if (d.data.fullname == "Abolitionists for ordinary crimes") {
+        if (d.data.fullname == "Abolitionist for ordinary crimes") {
           xTrig = xTrig - 15;
           yTrig = yTrig + 5;
         };
@@ -312,10 +312,10 @@ var svgPie = d3.select("#donut-chart").append("svg")
         return "translate(" + xTrig + "," + yTrig + ")"; })
       .attr("dy", ".35em")
       .style("text-anchor", function(d) {
-        if (d.data.fullname == "Abolitionists for ordinary crimes") { return "start";}
-        if (d.data.fullname == "Abolitionists in practice") { return "middle";}
+        if (d.data.fullname == "Abolitionist for ordinary crimes") { return "start";}
+        if (d.data.fullname == "Abolitionist in practice") { return "middle";}
         if (d.data.fullname == "Retentionist") { return "middle";}
-        if (d.data.fullname == "Abolitionists") {return "end";}
+        if (d.data.fullname == "Abolitionist") {return "end";}
         else {
           return "start";
         }
@@ -325,10 +325,10 @@ var svgPie = d3.select("#donut-chart").append("svg")
         return d.data.fullname; })
       .call(wrap, 100)
       .style("fill", function(d) {
-        if (d.data.fullname == "Abolitionists for ordinary crimes") { return "black";}
-        if (d.data.fullname == "Abolitionists in practice") { return "black";}
+        if (d.data.fullname == "Abolitionist for ordinary crimes") { return "black";}
+        if (d.data.fullname == "Abolitionist in practice") { return "black";}
         if (d.data.fullname == "Retentionist") { return "white";}
-        if (d.data.fullname == "Abolitionists") {return "black";}
+        if (d.data.fullname == "Abolitionist") {return "black";}
         else {
           return "white";
         }});
