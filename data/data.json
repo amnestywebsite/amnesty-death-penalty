@@ -1710,6 +1710,15 @@
     "definitions":"Retains the death penalty in law"
   },
   {
+    "id":"SOL",
+    "name":"Somaliland",
+    "since":"",
+    "executions":"25+",
+    "death-penalties":"5+",
+    "status":"RETENTIONIST",
+    "definitions":"Retains the death penalty in law"
+  },
+  {
     "id":"SSD",
     "name":"South Sudan",
     "since":"",
