@@ -30,7 +30,7 @@ h1, h2, h3, h4, h5, h6  {
 .giga{
     font-size:80px;
     font-size:5rem;     /* 80px */
-    line-height:1;    /* 96px */
+    line-height:0.83;    /* 96px */
 }
 .mega{
     font-size:40px;
