@@ -64,7 +64,7 @@ function reset() {
 
 //Loads in the world data and the active countries
 queue()
-    .defer(d3.json, "data/world-topo.json")
+    .defer(d3.json, "data/world-topo-new.json")
     .defer(d3.json, "data/data.json")
     .await(ready);
 
@@ -81,7 +81,6 @@ function draw(topo, activeCountries, coastline) {
   var yearData = activeCountries.filter(function(val) {
     return val.year === currentYear;
   });
-  console.log (yearData);
   yearCountries = yearData[0].countries;
 
   topo.forEach(function(d, i) {
@@ -123,7 +122,6 @@ function draw(topo, activeCountries, coastline) {
   activeCountry.enter().append("path")
       .attr("class", function(d,i) {
         var status = d.status.toLowerCase().replace(/.\s/g,"");
-        console.log (status);
         return status;
       })
       .attr("id", function(d) { return d.id; })
@@ -258,8 +256,6 @@ var donutHeight = (donutWidth/2)+(donutWidth/2.5);
 var radius = Math.min(donutWidth, donutHeight) / 2;
 var labelr = radius - 22;
 
-console.log (donutWidth);
-
 setupDonut(donutWidth,donutHeight);
 
 function setupDonut (donutWidth,donutHeight){
@@ -379,7 +375,6 @@ function wrap(text, width) {
 function redraw() {
   width = document.getElementById('map').offsetWidth;
   windowWidth = window.innerWidth;
-  console.log ("width: " + windowWidth);
 
   if (windowWidth < 752) {
     scaleAdjust = 1.6;
@@ -398,8 +393,6 @@ function redraw() {
   center = [width / 2, height / 2];
   setup(width,height);
   draw(topo, activeCountries, coastline);
-
-  console.log (scaleAdjust);
 
   donutWidth = document.getElementById('donut-chart-wrapper').offsetWidth;
   donutHeight = (donutWidth/2)+(donutWidth/2.5);
