@@ -97,6 +97,11 @@ function draw(topo, activeCountries, coastline) {
   var output = template.render(yearData[0]);
   executionsTotal.innerHTML = output;
 
+  var searchCountries = document.getElementById('search-box');
+  var searchTemplate = Hogan.compile('<form><select name="Country" id="country-selector" autofocus="autofocus" autocorrect="off" autocomplete="off"> <option value="" selected="selected">Select Country</option>{{#countries}}<option value="{{name}}">{{name}}</option>{{/countries}}</select><input type="submit" value="Submit"></form>');
+  var searchOutput = searchTemplate.render(yearData[0]);
+  searchCountries.innerHTML = searchOutput;
+
   var country = g.selectAll(".country").data(topo);
   country.enter().insert("path")
       .attr("class", "country")
