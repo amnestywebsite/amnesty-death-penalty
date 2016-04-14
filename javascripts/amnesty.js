@@ -1,8 +1,7 @@
-if('querySelector' in document
-  && 'addEventListener' in window) {
-    var jsCheck = document.getElementById('map-no-show');
-    jsCheck.id="map";
-  }
+if('querySelector' in document && 'addEventListener' in window) {
+  var jsCheck = document.getElementById('map-no-show');
+  jsCheck.id="map";
+}
 
 d3.select(window).on("resize", throttle);
 
@@ -72,7 +71,7 @@ function ready(error, world, active) {
   var countries = topojson.feature(world, world.objects.countries).features;
   topo = countries;
   activeCountries = active;
-  coastline = topojson.mesh(world, world.objects.countries, function(a, b) { return a === b });
+  coastline = topojson.mesh(world, world.objects.countries, function(a, b) {return a === b});
   draw(topo, activeCountries, coastline);
 }
 
@@ -89,18 +88,13 @@ function draw(topo, activeCountries, coastline) {
                 e.geometry = d.geometry;
                 e.type = d.type;
             }
-        })
+        });
     });
 
   var executionsTotal = document.getElementById('executions-total');
   var template = Hogan.compile("{{total-executions}}");
   var output = template.render(yearData[0]);
   executionsTotal.innerHTML = output;
-
-  var searchCountries = document.getElementById('search-box');
-  var searchTemplate = Hogan.compile('<form><select name="Country" id="country-selector" autofocus="autofocus" autocorrect="off" autocomplete="off"> <option value="" selected="selected">Select Country</option>{{#countries}}<option value="{{name}}">{{name}}</option>{{/countries}}</select><input type="submit" value="Submit"></form>');
-  var searchOutput = searchTemplate.render(yearData[0]);
-  searchCountries.innerHTML = searchOutput;
 
   var country = g.selectAll(".country").data(topo);
   country.enter().insert("path")
@@ -142,10 +136,10 @@ function draw(topo, activeCountries, coastline) {
           tooltip
             .classed("hidden", false)
             .attr("style", "left:"+(mouse[0]+offsetL)+"px;top:"+(mouse[1]+offsetT)+"px")
-            .html('<div class="title-text">'+ d.name + '</div>')
+            .html('<div class="title-text">'+ d.name + '</div>');
         })
         .on("mouseout",  function(d,i) {
-          tooltip.classed("hidden", true)
+          tooltip.classed("hidden", true);
         });
 
   activeCountry.on('click', function(d){
@@ -300,15 +294,15 @@ var svgPie = d3.select("#donut-chart").append("svg")
         if (d.data.fullname == "Abolitionist for ordinary crimes") {
           xTrig = xTrig - 15;
           yTrig = yTrig + 5;
-        };
+        }
 
         if (d.data.fullname == "Retentionist") {
           xTrig = xTrig + 15;
-        };
+        }
 
         if (d.data.fullname == "Abolitionists in practice") {
           yTrig = yTrig - 20;
-        };
+        }
 
         return "translate(" + xTrig + "," + yTrig + ")"; })
       .attr("dy", ".35em")
