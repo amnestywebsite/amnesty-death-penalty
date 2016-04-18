@@ -1776,8 +1776,8 @@
     "id":"CHN",
     "name":"China",
     "since":"",
-    "executions":"+",
-    "death-penalties":"+",
+    "executions":"1,000+",
+    "death-penalties":"1,000+",
     "status":"RETENTIONIST",
     "definitions":"Retains the death penalty in law"
   },
