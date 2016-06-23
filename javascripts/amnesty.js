@@ -30,6 +30,7 @@ var tooltip = d3.select("#map").append("div").attr("class", "tooltip hidden");
 var activeCountries, yearCountries, topo, borders, coastline, projection, path, svg, g, zoom;
 var active = d3.select(null);
 var tooltipPie = d3.select("#donut-chart").append("div").attr("class", "tooltip hidden");
+var pymChild = new pym.Child();
 
 var data = [];
 
@@ -98,6 +99,8 @@ function ready(error, world, active) {
    }
 
   setupDonut(donutWidth,donutHeight,data);
+
+  pymChild.sendHeight();
 }
 
 function draw(topo, activeCountries, coastline) {
@@ -416,5 +419,6 @@ function throttle() {
   window.clearTimeout(throttleTimer);
     throttleTimer = window.setTimeout(function() {
       redraw();
+      pymChild.sendHeight();
     }, 200);
 }
