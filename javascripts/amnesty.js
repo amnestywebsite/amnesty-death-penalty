@@ -97,8 +97,6 @@ function ready(error, world, active) {
      }
    }
 
-  console.log (data);
-
   setupDonut(donutWidth,donutHeight,data);
 }
 
