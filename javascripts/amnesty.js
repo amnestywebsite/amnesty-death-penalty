@@ -73,13 +73,41 @@ function ready(error, world, active) {
   activeCountries = active;
   coastline = topojson.mesh(world, world.objects.countries, function(a, b) {return a === b});
   draw(topo, activeCountries, coastline);
+
+  var yearData = _.filter(activeCountries, function(val) {
+    return val.year === currentYear;
+});
+
+  var data = [];
+
+   var fullnames = {
+     "abolitionist-all": "Abolitionist",
+     "abolitionist-ordinary": "Abolitionist for ordinary crimes",
+     "abolitionist-practice": "Abolitionist in practice",
+     "retentionist": "Retentionist"
+   };
+   var fullnameKeys = _.keys(fullnames);
+
+   for (var yearDataProperty in yearData[0]) {
+     if (fullnameKeys.indexOf(yearDataProperty) > -1) {
+       data.push({
+         fullname: fullnames[yearDataProperty],
+         value: yearData[0][yearDataProperty]
+       });
+     }
+   }
+
+  console.log (data);
+
+  setupDonut(donutWidth,donutHeight,data);
 }
 
 function draw(topo, activeCountries, coastline) {
 
-  var yearData = activeCountries.filter(function(val) {
+ var yearData = _.filter(activeCountries, function(val) {
     return val.year === currentYear;
   });
+
   yearCountries = yearData[0].countries;
 
   topo.forEach(function(d, i) {
@@ -232,32 +260,12 @@ d3.select('#zoom-out').on('click', function () {
             .attr("d", path.projection(projection));
 });
 
-var data = [{
-    "fullname": "Abolitionist",
-    "definitions":"do not use the death penalty",
-        "value": 102
-}, {
-    "fullname": "Abolitionist for ordinary crimes",
-    "definitions":"retain the death penalty only for serious crimes, such as murder, or during times of war",
-        "value": 6
-}, {
-    "fullname": "Abolitionist in practice",
-    "definitions":"retain the death penalty in law, but haven’t executed for at least 10 years",
-        "value": 32
-}, {
-    "fullname": "Retentionist",
-    "definitions":"retain the death penalty in law",
-        "value": 58
-}];
-
 var donutWidth = document.getElementById('donut-chart-wrapper').offsetWidth;
 var donutHeight = (donutWidth/2)+(donutWidth/2.5);
 var radius = Math.min(donutWidth, donutHeight) / 2;
 var labelr = radius - 22;
 
-setupDonut(donutWidth,donutHeight);
-
-function setupDonut (donutWidth,donutHeight){
+function setupDonut (donutWidth,donutHeight,data){
 
 var color = d3.scale.ordinal()
     .range(["#FFFF00", "#b6b6b6", "#7a7d81", "#000000"]);
