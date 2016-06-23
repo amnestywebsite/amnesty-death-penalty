@@ -31,6 +31,8 @@ var activeCountries, yearCountries, topo, borders, coastline, projection, path, 
 var active = d3.select(null);
 var tooltipPie = d3.select("#donut-chart").append("div").attr("class", "tooltip hidden");
 
+var data = [];
+
 setup(width,height);
 
 function setup(width,height){
@@ -76,9 +78,7 @@ function ready(error, world, active) {
 
   var yearData = _.filter(activeCountries, function(val) {
     return val.year === currentYear;
-});
-
-  var data = [];
+  });
 
    var fullnames = {
      "abolitionist-all": "Abolitionist",
@@ -408,7 +408,7 @@ function redraw() {
   donutHeight = (donutWidth/2)+(donutWidth/2.5);
   radius = Math.min(donutWidth, donutHeight) / 2;
   d3.select("#donut-chart > svg").remove();
-  setupDonut(donutWidth,donutHeight);
+  setupDonut(donutWidth,donutHeight,data);
 }
 
 var throttleTimer;
