@@ -3,10 +3,10 @@
       "year":"2007",
       "total-executions":"2007",
       "total-death-sentences":"2007",
-      "abolitionist-all":"102",
-      "abolitionist-ordinary":"6",
-      "abolitionist-practice":"32",
-      "retentionist":"58",
+      "ABOLITIONIST":"102",
+      "ABOLITIONIST FOR ORDINARY CRIMES":"6",
+      "ABOLITIONIST IN PRACTICE":"32",
+      "RETENTIONIST":"58",
       "countries":[
   {
     "id":"ALB",
@@ -1645,10 +1645,10 @@
       "year":"2008",
       "total-executions":"2008",
       "total-death-sentences":"2008",
-      "abolitionist-all":"102",
-      "abolitionist-ordinary":"6",
-      "abolitionist-practice":"32",
-      "retentionist":"58",
+      "ABOLITIONIST":"102",
+      "ABOLITIONIST FOR ORDINARY CRIMES":"6",
+      "ABOLITIONIST IN PRACTICE":"32",
+      "RETENTIONIST":"58",
       "countries":[
   {
     "id":"ALB",
@@ -3287,10 +3287,10 @@
       "year":"2009",
       "total-executions":"2009",
       "total-death-sentences":"2009",
-      "abolitionist-all":"102",
-      "abolitionist-ordinary":"6",
-      "abolitionist-practice":"32",
-      "retentionist":"58",
+      "ABOLITIONIST":"102",
+      "ABOLITIONIST FOR ORDINARY CRIMES":"6",
+      "ABOLITIONIST IN PRACTICE":"32",
+      "RETENTIONIST":"58",
       "countries":[
   {
     "id":"ALB",
@@ -4929,10 +4929,10 @@
       "year":"2010",
       "total-executions":"2010",
       "total-death-sentences":"2010",
-      "abolitionist-all":"102",
-      "abolitionist-ordinary":"6",
-      "abolitionist-practice":"32",
-      "retentionist":"58",
+      "ABOLITIONIST":"102",
+      "ABOLITIONIST FOR ORDINARY CRIMES":"6",
+      "ABOLITIONIST IN PRACTICE":"32",
+      "RETENTIONIST":"58",
       "countries":[
   {
     "id":"ALB",
@@ -6571,10 +6571,10 @@
       "year":"2011",
       "total-executions":"2011",
       "total-death-sentences":"2011",
-      "abolitionist-all":"102",
-      "abolitionist-ordinary":"6",
-      "abolitionist-practice":"32",
-      "retentionist":"58",
+      "ABOLITIONIST":"102",
+      "ABOLITIONIST FOR ORDINARY CRIMES":"6",
+      "ABOLITIONIST IN PRACTICE":"32",
+      "RETENTIONIST":"58",
       "countries":[
   {
     "id":"ALB",
@@ -8213,10 +8213,10 @@
       "year":"2012",
       "total-executions":"2012",
       "total-death-sentences":"2012",
-      "abolitionist-all":"102",
-      "abolitionist-ordinary":"6",
-      "abolitionist-practice":"32",
-      "retentionist":"58",
+      "ABOLITIONIST":"102",
+      "ABOLITIONIST FOR ORDINARY CRIMES":"6",
+      "ABOLITIONIST IN PRACTICE":"32",
+      "RETENTIONIST":"58",
       "countries":[
   {
     "id":"ALB",
@@ -9855,10 +9855,10 @@
       "year":"2013",
       "total-executions":"2013",
       "total-death-sentences":"2013",
-      "abolitionist-all":"102",
-      "abolitionist-ordinary":"6",
-      "abolitionist-practice":"32",
-      "retentionist":"58",
+      "ABOLITIONIST":"102",
+      "ABOLITIONIST FOR ORDINARY CRIMES":"6",
+      "ABOLITIONIST IN PRACTICE":"32",
+      "RETENTIONIST":"58",
       "countries":[
   {
     "id":"ALB",
@@ -11497,10 +11497,10 @@
       "year":"2014",
       "total-executions":"2014",
       "total-death-sentences":"2014",
-      "abolitionist-all":"102",
-      "abolitionist-ordinary":"6",
-      "abolitionist-practice":"32",
-      "retentionist":"58",
+      "ABOLITIONIST":"102",
+      "ABOLITIONIST FOR ORDINARY CRIMES":"6",
+      "ABOLITIONIST IN PRACTICE":"32",
+      "RETENTIONIST":"58",
       "countries":[
   {
     "id":"ALB",
@@ -13139,10 +13139,10 @@
       "year":"2015",
       "total-executions":"1,634+",
       "total-death-sentences":"1,998+",
-      "abolitionist-all":"102",
-      "abolitionist-ordinary":"6",
-      "abolitionist-practice":"32",
-      "retentionist":"58",
+      "ABOLITIONIST":"102",
+      "ABOLITIONIST FOR ORDINARY CRIMES":"6",
+      "ABOLITIONIST IN PRACTICE":"32",
+      "RETENTIONIST":"58",
       "countries":[
   {
     "id":"ALB",

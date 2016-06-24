@@ -34,7 +34,29 @@ var tooltip = d3.select("#map").append("div").attr("class", "tooltip hidden");
 var activeCountries, yearCountries, topo, borders, coastline, projection, path, svg, g, zoom;
 var active = d3.select(null);
 var tooltipPie = d3.select("#donut-chart").append("div").attr("class", "tooltip hidden");
+
 var pymChild = new pym.Child();
+
+var defaultLang= "en";
+var lang = getLangFromQueryString();
+var dictionary;
+
+function Dictionary(dictionaryJson) {
+  this.dictionary = dictionaryJson;
+}
+Dictionary.prototype.getTranslation = function (key, language) {
+  var translation = '';
+
+  if (language == undefined) {
+    language = lang;
+  }
+
+  if ( this.dictionary.hasOwnProperty(key) && this.dictionary[key].hasOwnProperty(language) ) {
+    translation = this.dictionary[key][language];
+  }
+
+  return translation;
+}
 
 var data = [];
 
@@ -62,19 +84,35 @@ function setup(width,height){
 }
 
 
+function getLangFromQueryString(){
+  // Mostly shamelessly cribbed from here: http://stackoverflow.com/a/901144/20578
+  var lang = defaultLang;
+  var regex = new RegExp("[?&]" + "lang" + "(=([^&#]*)|&|#|$)");
+  var results = regex.exec(window.location.href);
+        
+  if (results && results[2]) {
+    lang = decodeURIComponent(results[2].replace(/\+/g, " "));
+  }
+
+  return lang;
+}
+
 function reset() {
   active.classed("active", false);
   active = d3.select(null);
   g.transition().duration(750).attr("transform", "");
 }
 
-//Loads in the world data and the active countries
+//Loads in the world data, the active countries, and the translation dictionary
 queue()
     .defer(d3.json, "data/world-topo.json")
     .defer(d3.json, "data/data.json")
+    .defer(d3.json, "lang/dictionary.json")
     .await(ready);
 
-function ready(error, world, active) {
+function ready(error, world, active, dict) {
+  dictionary = new Dictionary(dict);
+
   var countries = topojson.feature(world, world.objects.countries).features;
   topo = countries;
   activeCountries = active;
@@ -85,22 +123,19 @@ function ready(error, world, active) {
     return val.year === currentYear;
   });
 
-   var fullnames = {
-     "abolitionist-all": "Abolitionist",
-     "abolitionist-ordinary": "Abolitionist for ordinary crimes",
-     "abolitionist-practice": "Abolitionist in practice",
-     "retentionist": "Retentionist"
-   };
-   var fullnameKeys = _.keys(fullnames);
+  var fullnameKeys = ["ABOLITIONIST", "ABOLITIONIST FOR ORDINARY CRIMES", "ABOLITIONIST IN PRACTICE", "RETENTIONIST"];
+  var fullnameKeyIndex;
 
-   for (var yearDataProperty in yearData[0]) {
-     if (fullnameKeys.indexOf(yearDataProperty) > -1) {
-       data.push({
-         fullname: fullnames[yearDataProperty],
-         value: yearData[0][yearDataProperty]
-       });
-     }
-   }
+  for (var yearDataProperty in yearData[0]) {
+    fullnameKeyIndex = fullnameKeys.indexOf(yearDataProperty);
+
+    if (fullnameKeyIndex > -1) {
+      data.push({
+        fullname: dictionary.getTranslation(fullnameKeys[fullnameKeyIndex]),
+        value: yearData[0][yearDataProperty]
+      });
+    }
+  }
 
   setupDonut(donutWidth,donutHeight,data);
 
@@ -108,7 +143,6 @@ function ready(error, world, active) {
 }
 
 function draw(topo, activeCountries, coastline) {
-
  var yearData = _.filter(activeCountries, function(val) {
     return val.year === currentYear;
   });
