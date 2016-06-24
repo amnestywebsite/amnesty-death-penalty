@@ -1,3 +1,7 @@
+(function (global) {
+
+
+
 if('querySelector' in document && 'addEventListener' in window) {
   var jsCheck = document.getElementById('map-no-show');
   jsCheck.id="map";
@@ -454,3 +458,7 @@ function throttle() {
       pymChild.sendHeight();
     }, 200);
 }
+
+
+
+})(window);
