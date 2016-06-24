@@ -1,9 +1,11 @@
 .chroniton {
   font: 10px sans-serif;
   outline:none;
+  background: #fff;
+  border: 1px solid black;
 }
 .chroniton .play-button {
-  fill:#444;
+  fill:#000;
 }
 .axis path,
 .axis line {
@@ -17,22 +19,22 @@
   user-select:none;
 }
 .x.axis path.domain {
-  stroke-width:10;
+  stroke-width:1;
   stroke-linecap:round;
-  stroke:#ddd;
+  stroke:#000;
 }
 .x.axis path.halo {
-  stroke-width:12;
+  stroke-width:1;
   stroke-linecap:round;
-  stroke:#ccc;
+  stroke:#000;
 }
 .tick line {
-  stroke:#d0d0d0;
+  stroke:#  ;
   stroke-width:1;
-  transform:translate(0px, -5px);
+  transform:translate(0px, 5px);
 }
 .slider .handle {
-  fill: #fff;
+  fill: #000;
   stroke-width:1;
   stroke:#333;
 }

@@ -1,7 +1,7 @@
 
-var handleRadius = 6,
+var handleRadius = 8,
   handleHeight = 8,
-  caretHeight = 5,
+  caretHeight = 16,
   handleD = 'M' + [
     -handleRadius, -handleHeight,
     handleRadius, -handleHeight,
@@ -9,7 +9,7 @@ var handleRadius = 6,
     0, handleHeight,
     -handleRadius, handleHeight - caretHeight,
     -handleRadius, -handleHeight].join(','),
-  playWidth = 10,
+  playWidth = 16,
   playD = 'M' + [
     0, 0,
     playWidth/1.2, playWidth/2,
