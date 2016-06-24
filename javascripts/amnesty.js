@@ -120,6 +120,11 @@ function draw(topo, activeCountries, coastline) {
         });
     });
 
+  var yearTotal = document.getElementById('overview-year');
+  var yearTemplate = Hogan.compile("{{year}}");
+  var yearOutput = yearTemplate.render(yearData[0]);
+  yearTotal.innerHTML = yearOutput;
+
   var executionsTotal = document.getElementById('executions-total');
   var template = Hogan.compile("{{total-executions}}");
   var output = template.render(yearData[0]);
@@ -383,6 +388,33 @@ function wrap(text, width) {
         }
     });
 }
+
+var customSlider = chroniton()
+  .domain([new Date('2008'), new Date('2015')])
+  .labelFormat(d3.time.format('%Y'))
+  .width(700)
+  .playButton(true)
+      .playbackRate(1)
+      .loop(true);
+
+d3.select("#slider")
+    .call(customSlider);
+
+customSlider
+  .setValue(new Date('2015'));
+
+customSlider
+  .on('change', function(date) {
+    var newYear = date.getFullYear().toString();
+    if (newYear != currentYear) {
+      console.log (date.getFullYear().toString());
+      console.log ('current year ' + currentYear);
+      currentYear = newYear;
+      g.selectAll(".country").remove();
+      g.selectAll(".coastline").remove();
+      draw(topo, activeCountries, coastline);
+    }
+  });
 
 
 function redraw() {
