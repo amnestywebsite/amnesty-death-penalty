@@ -64,5 +64,1211 @@
       "es":"Since-es",
       "fr":"Since-fr",
       "ar":"Since-ar"
-   }
+   },
+     "ALB": {
+    "en": "Albania",
+    "es": "Albania_es",
+    "fr": "Albania_fr",
+    "ar": "Albania_ar"
+  },
+  "AND": {
+    "en": "Andorra",
+    "es": "Andorra_es",
+    "fr": "Andorra_fr",
+    "ar": "Andorra_ar"
+  },
+  "AGO": {
+    "en": "Angola",
+    "es": "Angola_es",
+    "fr": "Angola_fr",
+    "ar": "Angola_ar"
+  },
+  "ARG": {
+    "en": "Argentina",
+    "es": "Argentina_es",
+    "fr": "Argentina_fr",
+    "ar": "Argentina_ar"
+  },
+  "ARM": {
+    "en": "Armenia",
+    "es": "Armenia_es",
+    "fr": "Armenia_fr",
+    "ar": "Armenia_ar"
+  },
+  "AUS": {
+    "en": "Australia",
+    "es": "Australia_es",
+    "fr": "Australia_fr",
+    "ar": "Australia_ar"
+  },
+  "AUT": {
+    "en": "Austria",
+    "es": "Austria_es",
+    "fr": "Austria_fr",
+    "ar": "Austria_ar"
+  },
+  "AZE": {
+    "en": "Azerbaijan",
+    "es": "Azerbaijan_es",
+    "fr": "Azerbaijan_fr",
+    "ar": "Azerbaijan_ar"
+  },
+  "BEL": {
+    "en": "Belgium",
+    "es": "Belgium_es",
+    "fr": "Belgium_fr",
+    "ar": "Belgium_ar"
+  },
+  "BTN": {
+    "en": "Bhutan",
+    "es": "Bhutan_es",
+    "fr": "Bhutan_fr",
+    "ar": "Bhutan_ar"
+  },
+  "BOL": {
+    "en": "Bolivia",
+    "es": "Bolivia_es",
+    "fr": "Bolivia_fr",
+    "ar": "Bolivia_ar"
+  },
+  "BIH": {
+    "en": "Bosnia-Herzegovina",
+    "es": "Bosnia-Herzegovina_es",
+    "fr": "Bosnia-Herzegovina_fr",
+    "ar": "Bosnia-Herzegovina_ar"
+  },
+  "BGR": {
+    "en": "Bulgaria",
+    "es": "Bulgaria_es",
+    "fr": "Bulgaria_fr",
+    "ar": "Bulgaria_ar"
+  },
+  "BDI": {
+    "en": "Burundi",
+    "es": "Burundi_es",
+    "fr": "Burundi_fr",
+    "ar": "Burundi_ar"
+  },
+  "KHM": {
+    "en": "Cambodia",
+    "es": "Cambodia_es",
+    "fr": "Cambodia_fr",
+    "ar": "Cambodia_ar"
+  },
+  "CAN": {
+    "en": "Canada",
+    "es": "Canada_es",
+    "fr": "Canada_fr",
+    "ar": "Canada_ar"
+  },
+  "CPV": {
+    "en": "Cape Verde",
+    "es": "Cape Verde_es",
+    "fr": "Cape Verde_fr",
+    "ar": "Cape Verde_ar"
+  },
+  "COL": {
+    "en": "Colombia",
+    "es": "Colombia_es",
+    "fr": "Colombia_fr",
+    "ar": "Colombia_ar"
+  },
+  "COG": {
+    "en": "Congo (Republic of)",
+    "es": "Congo (Republic of)_es",
+    "fr": "Congo (Republic of)_fr",
+    "ar": "Congo (Republic of)_ar"
+  },
+  "COK": {
+    "en": "Cook Islands",
+    "es": "Cook Islands_es",
+    "fr": "Cook Islands_fr",
+    "ar": "Cook Islands_ar"
+  },
+  "CRI": {
+    "en": "Costa Rica",
+    "es": "Costa Rica_es",
+    "fr": "Costa Rica_fr",
+    "ar": "Costa Rica_ar"
+  },
+  "CIV": {
+    "en": "Cote D'ivoire",
+    "es": "Cote D'ivoire_es",
+    "fr": "Cote D'ivoire_fr",
+    "ar": "Cote D'ivoire_ar"
+  },
+  "HRV": {
+    "en": "Croatia",
+    "es": "Croatia_es",
+    "fr": "Croatia_fr",
+    "ar": "Croatia_ar"
+  },
+  "CYP": {
+    "en": "Cyprus",
+    "es": "Cyprus_es",
+    "fr": "Cyprus_fr",
+    "ar": "Cyprus_ar"
+  },
+  "CZE": {
+    "en": "Czech Republic",
+    "es": "Czech Republic_es",
+    "fr": "Czech Republic_fr",
+    "ar": "Czech Republic_ar"
+  },
+  "DNK": {
+    "en": "Denmark",
+    "es": "Denmark_es",
+    "fr": "Denmark_fr",
+    "ar": "Denmark_ar"
+  },
+  "DJI": {
+    "en": "Djibouti",
+    "es": "Djibouti_es",
+    "fr": "Djibouti_fr",
+    "ar": "Djibouti_ar"
+  },
+  "DOM": {
+    "en": "Dominica",
+    "es": "Dominica_es",
+    "fr": "Dominica_fr",
+    "ar": "Dominica_ar"
+  },
+  "ECU": {
+    "en": "Ecuador",
+    "es": "Ecuador_es",
+    "fr": "Ecuador_fr",
+    "ar": "Ecuador_ar"
+  },
+  "EST": {
+    "en": "Estonia",
+    "es": "Estonia_es",
+    "fr": "Estonia_fr",
+    "ar": "Estonia_ar"
+  },
+  "FIN": {
+    "en": "Finland",
+    "es": "Finland_es",
+    "fr": "Finland_fr",
+    "ar": "Finland_ar"
+  },
+  "FJI": {
+    "en": "Fiji",
+    "es": "Fiji_es",
+    "fr": "Fiji_fr",
+    "ar": "Fiji_ar"
+  },
+  "FRA": {
+    "en": "France",
+    "es": "France_es",
+    "fr": "France_fr",
+    "ar": "France_ar"
+  },
+  "GAB": {
+    "en": "Gabon",
+    "es": "Gabon_es",
+    "fr": "Gabon_fr",
+    "ar": "Gabon_ar"
+  },
+  "GEO": {
+    "en": "Georgia",
+    "es": "Georgia_es",
+    "fr": "Georgia_fr",
+    "ar": "Georgia_ar"
+  },
+  "DEU": {
+    "en": "Germany",
+    "es": "Germany_es",
+    "fr": "Germany_fr",
+    "ar": "Germany_ar"
+  },
+  "GRC": {
+    "en": "Greece",
+    "es": "Greece_es",
+    "fr": "Greece_fr",
+    "ar": "Greece_ar"
+  },
+  "GRL": {
+    "en": "Greenland / Denmark",
+    "es": "Greenland / Denmark_es",
+    "fr": "Greenland / Denmark_fr",
+    "ar": "Greenland / Denmark_ar"
+  },
+  "GNB": {
+    "en": "Guinea-Bissau",
+    "es": "Guinea-Bissau_es",
+    "fr": "Guinea-Bissau_fr",
+    "ar": "Guinea-Bissau_ar"
+  },
+  "HTI": {
+    "en": "Haiti",
+    "es": "Haiti_es",
+    "fr": "Haiti_fr",
+    "ar": "Haiti_ar"
+  },
+  "VAT": {
+    "en": "Holy See",
+    "es": "Holy See_es",
+    "fr": "Holy See_fr",
+    "ar": "Holy See_ar"
+  },
+  "HND": {
+    "en": "Honduras",
+    "es": "Honduras_es",
+    "fr": "Honduras_fr",
+    "ar": "Honduras_ar"
+  },
+  "HUN": {
+    "en": "Hungary",
+    "es": "Hungary_es",
+    "fr": "Hungary_fr",
+    "ar": "Hungary_ar"
+  },
+  "ISL": {
+    "en": "Iceland",
+    "es": "Iceland_es",
+    "fr": "Iceland_fr",
+    "ar": "Iceland_ar"
+  },
+  "IRL": {
+    "en": "Ireland",
+    "es": "Ireland_es",
+    "fr": "Ireland_fr",
+    "ar": "Ireland_ar"
+  },
+  "ITA": {
+    "en": "Italy",
+    "es": "Italy_es",
+    "fr": "Italy_fr",
+    "ar": "Italy_ar"
+  },
+  "KGZ": {
+    "en": "Kyrgyzstan",
+    "es": "Kyrgyzstan_es",
+    "fr": "Kyrgyzstan_fr",
+    "ar": "Kyrgyzstan_ar"
+  },
+  "KIR": {
+    "en": "Kiribati",
+    "es": "Kiribati_es",
+    "fr": "Kiribati_fr",
+    "ar": "Kiribati_ar"
+  },
+  "LVA": {
+    "en": "Latvia",
+    "es": "Latvia_es",
+    "fr": "Latvia_fr",
+    "ar": "Latvia_ar"
+  },
+  "LIE": {
+    "en": "Liechtenstein",
+    "es": "Liechtenstein_es",
+    "fr": "Liechtenstein_fr",
+    "ar": "Liechtenstein_ar"
+  },
+  "LTU": {
+    "en": "Lithuania",
+    "es": "Lithuania_es",
+    "fr": "Lithuania_fr",
+    "ar": "Lithuania_ar"
+  },
+  "LUX": {
+    "en": "Luxembourg",
+    "es": "Luxembourg_es",
+    "fr": "Luxembourg_fr",
+    "ar": "Luxembourg_ar"
+  },
+  "MKD": {
+    "en": "Macedonia",
+    "es": "Macedonia_es",
+    "fr": "Macedonia_fr",
+    "ar": "Macedonia_ar"
+  },
+  "MDG": {
+    "en": "Madagascar",
+    "es": "Madagascar_es",
+    "fr": "Madagascar_fr",
+    "ar": "Madagascar_ar"
+  },
+  "MLT": {
+    "en": "Malta",
+    "es": "Malta_es",
+    "fr": "Malta_fr",
+    "ar": "Malta_ar"
+  },
+  "MHL": {
+    "en": "Marshell Islands",
+    "es": "Marshell Islands_es",
+    "fr": "Marshell Islands_fr",
+    "ar": "Marshell Islands_ar"
+  },
+  "MUS": {
+    "en": "Mauritius",
+    "es": "Mauritius_es",
+    "fr": "Mauritius_fr",
+    "ar": "Mauritius_ar"
+  },
+  "MEX": {
+    "en": "Mexico",
+    "es": "Mexico_es",
+    "fr": "Mexico_fr",
+    "ar": "Mexico_ar"
+  },
+  "FSM": {
+    "en": "Micronesia",
+    "es": "Micronesia_es",
+    "fr": "Micronesia_fr",
+    "ar": "Micronesia_ar"
+  },
+  "MDA": {
+    "en": "Moldova",
+    "es": "Moldova_es",
+    "fr": "Moldova_fr",
+    "ar": "Moldova_ar"
+  },
+  "MCO": {
+    "en": "Monaco",
+    "es": "Monaco_es",
+    "fr": "Monaco_fr",
+    "ar": "Monaco_ar"
+  },
+  "MNE": {
+    "en": "Montenegro",
+    "es": "Montenegro_es",
+    "fr": "Montenegro_fr",
+    "ar": "Montenegro_ar"
+  },
+  "MOZ": {
+    "en": "Mozambique",
+    "es": "Mozambique_es",
+    "fr": "Mozambique_fr",
+    "ar": "Mozambique_ar"
+  },
+  "NAM": {
+    "en": "Namibia",
+    "es": "Namibia_es",
+    "fr": "Namibia_fr",
+    "ar": "Namibia_ar"
+  },
+  "NPL": {
+    "en": "Nepal",
+    "es": "Nepal_es",
+    "fr": "Nepal_fr",
+    "ar": "Nepal_ar"
+  },
+  "NLD": {
+    "en": "Netherlands",
+    "es": "Netherlands_es",
+    "fr": "Netherlands_fr",
+    "ar": "Netherlands_ar"
+  },
+  "NZL": {
+    "en": "New Zealand",
+    "es": "New Zealand_es",
+    "fr": "New Zealand_fr",
+    "ar": "New Zealand_ar"
+  },
+  "NIC": {
+    "en": "Nicaragua",
+    "es": "Nicaragua_es",
+    "fr": "Nicaragua_fr",
+    "ar": "Nicaragua_ar"
+  },
+  "NIU": {
+    "en": "Niue",
+    "es": "Niue_es",
+    "fr": "Niue_fr",
+    "ar": "Niue_ar"
+  },
+  "NOR": {
+    "en": "Norway",
+    "es": "Norway_es",
+    "fr": "Norway_fr",
+    "ar": "Norway_ar"
+  },
+  "PLW": {
+    "en": "Palau",
+    "es": "Palau_es",
+    "fr": "Palau_fr",
+    "ar": "Palau_ar"
+  },
+  "PAN": {
+    "en": "Panama",
+    "es": "Panama_es",
+    "fr": "Panama_fr",
+    "ar": "Panama_ar"
+  },
+  "PRY": {
+    "en": "Paraguay",
+    "es": "Paraguay_es",
+    "fr": "Paraguay_fr",
+    "ar": "Paraguay_ar"
+  },
+  "PHL": {
+    "en": "Philippines",
+    "es": "Philippines_es",
+    "fr": "Philippines_fr",
+    "ar": "Philippines_ar"
+  },
+  "POL": {
+    "en": "Poland",
+    "es": "Poland_es",
+    "fr": "Poland_fr",
+    "ar": "Poland_ar"
+  },
+  "PRT": {
+    "en": "Portugal",
+    "es": "Portugal_es",
+    "fr": "Portugal_fr",
+    "ar": "Portugal_ar"
+  },
+  "ROU": {
+    "en": "Romania",
+    "es": "Romania_es",
+    "fr": "Romania_fr",
+    "ar": "Romania_ar"
+  },
+  "RWA": {
+    "en": "Rwanda",
+    "es": "Rwanda_es",
+    "fr": "Rwanda_fr",
+    "ar": "Rwanda_ar"
+  },
+  "SOM": {
+    "en": "Somaliland",
+    "es": "Somaliland_es",
+    "fr": "Somaliland_fr",
+    "ar": "Somaliland_ar"
+  },
+  "SMR": {
+    "en": "San Marino",
+    "es": "San Marino_es",
+    "fr": "San Marino_fr",
+    "ar": "San Marino_ar"
+  },
+  "STP": {
+    "en": "Sao Tome and Principe",
+    "es": "Sao Tome and Principe_es",
+    "fr": "Sao Tome and Principe_fr",
+    "ar": "Sao Tome and Principe_ar"
+  },
+  "SEN": {
+    "en": "Senegal",
+    "es": "Senegal_es",
+    "fr": "Senegal_fr",
+    "ar": "Senegal_ar"
+  },
+  "SRB": {
+    "en": "Serbia",
+    "es": "Serbia _es",
+    "fr": "Serbia _fr",
+    "ar": "Serbia _ar"
+  },
+  "RKS": {
+    "en": "Kosovo / Serbia",
+    "es": "Kosovo / Serbia_es",
+    "fr": "Kosovo / Serbia_fr",
+    "ar": "Kosovo / Serbia_ar"
+  },
+  "SYC": {
+    "en": "Seychelles",
+    "es": "Seychelles_es",
+    "fr": "Seychelles_fr",
+    "ar": "Seychelles_ar"
+  },
+  "SVK": {
+    "en": "Slovakia",
+    "es": "Slovakia_es",
+    "fr": "Slovakia_fr",
+    "ar": "Slovakia_ar"
+  },
+  "SVN": {
+    "en": "Slovenia",
+    "es": "Slovenia_es",
+    "fr": "Slovenia_fr",
+    "ar": "Slovenia_ar"
+  },
+  "SLB": {
+    "en": "Solomon Islands",
+    "es": "Solomon Islands_es",
+    "fr": "Solomon Islands_fr",
+    "ar": "Solomon Islands_ar"
+  },
+  "ZAF": {
+    "en": "South africa",
+    "es": "South africa_es",
+    "fr": "South africa_fr",
+    "ar": "South africa_ar"
+  },
+  "ESP": {
+    "en": "Spain",
+    "es": "Spain_es",
+    "fr": "Spain_fr",
+    "ar": "Spain_ar"
+  },
+  "SUR": {
+    "en": "Suriname",
+    "es": "Suriname_es",
+    "fr": "Suriname_fr",
+    "ar": "Suriname_ar"
+  },
+  "SWE": {
+    "en": "Sweden",
+    "es": "Sweden_es",
+    "fr": "Sweden_fr",
+    "ar": "Sweden_ar"
+  },
+  "CHE": {
+    "en": "Switzerland",
+    "es": "Switzerland_es",
+    "fr": "Switzerland_fr",
+    "ar": "Switzerland_ar"
+  },
+  "TGO": {
+    "en": "Togo",
+    "es": "Togo_es",
+    "fr": "Togo_fr",
+    "ar": "Togo_ar"
+  },
+  "TLS": {
+    "en": "Timor-Leste",
+    "es": "Timor-Leste_es",
+    "fr": "Timor-Leste_fr",
+    "ar": "Timor-Leste_ar"
+  },
+  "TUR": {
+    "en": "Turkey",
+    "es": "Turkey_es",
+    "fr": "Turkey_fr",
+    "ar": "Turkey_ar"
+  },
+  "TKM": {
+    "en": "Turkmenistan",
+    "es": "Turkmenistan_es",
+    "fr": "Turkmenistan_fr",
+    "ar": "Turkmenistan_ar"
+  },
+  "TUV": {
+    "en": "Tuvalu",
+    "es": "Tuvalu_es",
+    "fr": "Tuvalu_fr",
+    "ar": "Tuvalu_ar"
+  },
+  "UKR": {
+    "en": "Ukraine",
+    "es": "Ukraine_es",
+    "fr": "Ukraine_fr",
+    "ar": "Ukraine_ar"
+  },
+  "GBR": {
+    "en": "United Kingdom",
+    "es": "United Kingdom_es",
+    "fr": "United Kingdom_fr",
+    "ar": "United Kingdom_ar"
+  },
+  "URY": {
+    "en": "Uruguay",
+    "es": "Uruguay_es",
+    "fr": "Uruguay_fr",
+    "ar": "Uruguay_ar"
+  },
+  "UZB": {
+    "en": "Uzbekistan",
+    "es": "Uzbekistan_es",
+    "fr": "Uzbekistan_fr",
+    "ar": "Uzbekistan_ar"
+  },
+  "VUT": {
+    "en": "Vanuata",
+    "es": "Vanuata_es",
+    "fr": "Vanuata_fr",
+    "ar": "Vanuata_ar"
+  },
+  "VEN": {
+    "en": "Venezuela",
+    "es": "Venezuela_es",
+    "fr": "Venezuela_fr",
+    "ar": "Venezuela_ar"
+  },
+  "HKG": {
+    "en": "Hong Kong",
+    "es": "Hong Kong_es",
+    "fr": "Hong Kong_fr",
+    "ar": "Hong Kong_ar"
+  },
+  "ISR": {
+    "en": "Israel",
+    "es": "Israel_es",
+    "fr": "Israel_fr",
+    "ar": "Israel_ar"
+  },
+  "PER": {
+    "en": "Peru",
+    "es": "Peru_es",
+    "fr": "Peru_fr",
+    "ar": "Peru_ar"
+  },
+  "KAZ": {
+    "en": "Kazakhstan",
+    "es": "Kazakhstan_es",
+    "fr": "Kazakhstan_fr",
+    "ar": "Kazakhstan_ar"
+  },
+  "CHL": {
+    "en": "Chile",
+    "es": "Chile_es",
+    "fr": "Chile_fr",
+    "ar": "Chile_ar"
+  },
+  "SLV": {
+    "en": "El Salvador",
+    "es": "El Salvador_es",
+    "fr": "El Salvador_fr",
+    "ar": "El Salvador_ar"
+  },
+  "BRA": {
+    "en": "Brazil",
+    "es": "Brazil_es",
+    "fr": "Brazil_fr",
+    "ar": "Brazil_ar"
+  },
+  "BEN": {
+    "en": "Benin",
+    "es": "Benin_es",
+    "fr": "Benin_fr",
+    "ar": "Benin_ar"
+  },
+  "BFA": {
+    "en": "Burkina Faso",
+    "es": "Burkina Faso_es",
+    "fr": "Burkina Faso_fr",
+    "ar": "Burkina Faso_ar"
+  },
+  "BRN": {
+    "en": "Brunei Darussalam",
+    "es": "Brunei Darussalam_es",
+    "fr": "Brunei Darussalam_fr",
+    "ar": "Brunei Darussalam_ar"
+  },
+  "CAF": {
+    "en": "Central African Republic",
+    "es": "Central African Republic_es",
+    "fr": "Central African Republic_fr",
+    "ar": "Central African Republic_ar"
+  },
+  "CMR": {
+    "en": "Cameroon",
+    "es": "Cameroon_es",
+    "fr": "Cameroon_fr",
+    "ar": "Cameroon_ar"
+  },
+  "DZA": {
+    "en": "Algeria",
+    "es": "Algeria_es",
+    "fr": "Algeria_fr",
+    "ar": "Algeria_ar"
+  },
+  "ERI": {
+    "en": "Eritrea",
+    "es": "Eritrea_es",
+    "fr": "Eritrea_fr",
+    "ar": "Eritrea_ar"
+  },
+  "ESH": {
+    "en": "Morocco / Western Sahara",
+    "es": "Morocco / Western Sahara_es",
+    "fr": "Morocco / Western Sahara_fr",
+    "ar": "Morocco / Western Sahara_ar"
+  },
+  "GHA": {
+    "en": "Ghana",
+    "es": "Ghana_es",
+    "fr": "Ghana_fr",
+    "ar": "Ghana_ar"
+  },
+  "GRD": {
+    "en": "Grenada",
+    "es": "Grenada_es",
+    "fr": "Grenada_fr",
+    "ar": "Grenada_ar"
+  },
+  "KEN": {
+    "en": "Kenya",
+    "es": "Kenya_es",
+    "fr": "Kenya_fr",
+    "ar": "Kenya_ar"
+  },
+  "KOR": {
+    "en": "South Korea",
+    "es": "South Korea_es",
+    "fr": "South Korea_fr",
+    "ar": "South Korea_ar"
+  },
+  "LAO": {
+    "en": "Laos",
+    "es": "Laos_es",
+    "fr": "Laos_fr",
+    "ar": "Laos_ar"
+  },
+  "LBR": {
+    "en": "Liberia",
+    "es": "Liberia_es",
+    "fr": "Liberia_fr",
+    "ar": "Liberia_ar"
+  },
+  "LKA": {
+    "en": "Sri Lanka",
+    "es": "Sri Lanka_es",
+    "fr": "Sri Lanka_fr",
+    "ar": "Sri Lanka_ar"
+  },
+  "MAR": {
+    "en": "Morocco",
+    "es": "Morocco_es",
+    "fr": "Morocco_fr",
+    "ar": "Morocco_ar"
+  },
+  "MDV": {
+    "en": "Maldives",
+    "es": "Maldives_es",
+    "fr": "Maldives_fr",
+    "ar": "Maldives_ar"
+  },
+  "MLI": {
+    "en": "Mali",
+    "es": "Mali_es",
+    "fr": "Mali_fr",
+    "ar": "Mali_ar"
+  },
+  "MMR": {
+    "en": "Myanmar",
+    "es": "Myanmar_es",
+    "fr": "Myanmar_fr",
+    "ar": "Myanmar_ar"
+  },
+  "MNG": {
+    "en": "Mongolia",
+    "es": "Mongolia_es",
+    "fr": "Mongolia_fr",
+    "ar": "Mongolia_ar"
+  },
+  "MRT": {
+    "en": "Mauritania",
+    "es": "Mauritania_es",
+    "fr": "Mauritania_fr",
+    "ar": "Mauritania_ar"
+  },
+  "MWI": {
+    "en": "Malawi",
+    "es": "Malawi_es",
+    "fr": "Malawi_fr",
+    "ar": "Malawi_ar"
+  },
+  "NER": {
+    "en": "Niger",
+    "es": "Niger_es",
+    "fr": "Niger_fr",
+    "ar": "Niger_ar"
+  },
+  "NRU": {
+    "en": "Nauru",
+    "es": "Nauru_es",
+    "fr": "Nauru_fr",
+    "ar": "Nauru_ar"
+  },
+  "PNG": {
+    "en": "Papua New Guinea",
+    "es": "Papua New Guinea_es",
+    "fr": "Papua New Guinea_fr",
+    "ar": "Papua New Guinea_ar"
+  },
+  "RUS": {
+    "en": "Russian Federation",
+    "es": "Russian Federation_es",
+    "fr": "Russian Federation_fr",
+    "ar": "Russian Federation_ar"
+  },
+  "SLE": {
+    "en": "Sierra Leone",
+    "es": "Sierra Leone_es",
+    "fr": "Sierra Leone_fr",
+    "ar": "Sierra Leone_ar"
+  },
+  "SWZ": {
+    "en": "Swaziland",
+    "es": "Swaziland_es",
+    "fr": "Swaziland_fr",
+    "ar": "Swaziland_ar"
+  },
+  "TJK": {
+    "en": "Tajikistan",
+    "es": "Tajikistan_es",
+    "fr": "Tajikistan_fr",
+    "ar": "Tajikistan_ar"
+  },
+  "TON": {
+    "en": "Tonga",
+    "es": "Tonga_es",
+    "fr": "Tonga_fr",
+    "ar": "Tonga_ar"
+  },
+  "TUN": {
+    "en": "Tunisia",
+    "es": "Tunisia_es",
+    "fr": "Tunisia_fr",
+    "ar": "Tunisia_ar"
+  },
+  "TZA": {
+    "en": "Tanzania",
+    "es": "Tanzania_es",
+    "fr": "Tanzania_fr",
+    "ar": "Tanzania_ar"
+  },
+  "ZMB": {
+    "en": "Zambia",
+    "es": "Zambia_es",
+    "fr": "Zambia_fr",
+    "ar": "Zambia_ar"
+  },
+  "AFG": {
+    "en": "Afghanistan",
+    "es": "Afghanistan_es",
+    "fr": "Afghanistan_fr",
+    "ar": "Afghanistan_ar"
+  },
+  "ARE": {
+    "en": "United Arab Emirates",
+    "es": "United Arab Emirates_es",
+    "fr": "United Arab Emirates_fr",
+    "ar": "United Arab Emirates_ar"
+  },
+  "ATG": {
+    "en": "Antigua and Barbuda",
+    "es": "Antigua and Barbuda_es",
+    "fr": "Antigua and Barbuda_fr",
+    "ar": "Antigua and Barbuda_ar"
+  },
+  "BGD": {
+    "en": "Bangladesh",
+    "es": "Bangladesh_es",
+    "fr": "Bangladesh_fr",
+    "ar": "Bangladesh_ar"
+  },
+  "BHR": {
+    "en": "Bahrain",
+    "es": "Bahrain_es",
+    "fr": "Bahrain_fr",
+    "ar": "Bahrain_ar"
+  },
+  "BHS": {
+    "en": "Bahamas",
+    "es": "Bahamas_es",
+    "fr": "Bahamas_fr",
+    "ar": "Bahamas_ar"
+  },
+  "BLR": {
+    "en": "Belarus",
+    "es": "Belarus_es",
+    "fr": "Belarus_fr",
+    "ar": "Belarus_ar"
+  },
+  "BLZ": {
+    "en": "Belize",
+    "es": "Belize_es",
+    "fr": "Belize_fr",
+    "ar": "Belize_ar"
+  },
+  "BRB": {
+    "en": "Barbados",
+    "es": "Barbados_es",
+    "fr": "Barbados_fr",
+    "ar": "Barbados_ar"
+  },
+  "BWA": {
+    "en": "Botswana",
+    "es": "Botswana_es",
+    "fr": "Botswana_fr",
+    "ar": "Botswana_ar"
+  },
+  "COD": {
+    "en": "Democratic Republic of Congo",
+    "es": "Democratic Republic of Congo_es",
+    "fr": "Democratic Republic of Congo_fr",
+    "ar": "Democratic Republic of Congo_ar"
+  },
+  "COM": {
+    "en": "Comoros",
+    "es": "Comoros_es",
+    "fr": "Comoros_fr",
+    "ar": "Comoros_ar"
+  },
+  "CUB": {
+    "en": "Cuba",
+    "es": "Cuba_es",
+    "fr": "Cuba_fr",
+    "ar": "Cuba_ar"
+  },
+  "EGY": {
+    "en": "Egypt",
+    "es": "Egypt_es",
+    "fr": "Egypt_fr",
+    "ar": "Egypt_ar"
+  },
+  "ETH": {
+    "en": "Ethiopia",
+    "es": "Ethiopia_es",
+    "fr": "Ethiopia_fr",
+    "ar": "Ethiopia_ar"
+  },
+  "GIN": {
+    "en": "Guinea",
+    "es": "Guinea_es",
+    "fr": "Guinea_fr",
+    "ar": "Guinea_ar"
+  },
+  "GNQ": {
+    "en": "Equatorial Guinea",
+    "es": "Equatorial Guinea_es",
+    "fr": "Equatorial Guinea_fr",
+    "ar": "Equatorial Guinea_ar"
+  },
+  "GTM": {
+    "en": "Guatemala",
+    "es": "Guatemala_es",
+    "fr": "Guatemala_fr",
+    "ar": "Guatemala_ar"
+  },
+  "GUY": {
+    "en": "Guyana",
+    "es": "Guyana_es",
+    "fr": "Guyana_fr",
+    "ar": "Guyana_ar"
+  },
+  "IDN": {
+    "en": "Indonesia",
+    "es": "Indonesia_es",
+    "fr": "Indonesia_fr",
+    "ar": "Indonesia_ar"
+  },
+  "IND": {
+    "en": "India",
+    "es": "India_es",
+    "fr": "India_fr",
+    "ar": "India_ar"
+  },
+  "IRN": {
+    "en": "Iran",
+    "es": "Iran_es",
+    "fr": "Iran_fr",
+    "ar": "Iran_ar"
+  },
+  "IRQ": {
+    "en": "Iraq",
+    "es": "Iraq_es",
+    "fr": "Iraq_fr",
+    "ar": "Iraq_ar"
+  },
+  "JAM": {
+    "en": "Jamaica",
+    "es": "Jamaica_es",
+    "fr": "Jamaica_fr",
+    "ar": "Jamaica_ar"
+  },
+  "JOR": {
+    "en": "Jordan",
+    "es": "Jordan_es",
+    "fr": "Jordan_fr",
+    "ar": "Jordan_ar"
+  },
+  "JPN": {
+    "en": "Japan",
+    "es": "Japan_es",
+    "fr": "Japan_fr",
+    "ar": "Japan_ar"
+  },
+  "KNA": {
+    "en": "Saint Kitts and Nevis",
+    "es": "Saint Kitts and Nevis_es",
+    "fr": "Saint Kitts and Nevis_fr",
+    "ar": "Saint Kitts and Nevis_ar"
+  },
+  "KWT": {
+    "en": "Kuwait",
+    "es": "Kuwait_es",
+    "fr": "Kuwait_fr",
+    "ar": "Kuwait_ar"
+  },
+  "LBN": {
+    "en": "Lebanon",
+    "es": "Lebanon_es",
+    "fr": "Lebanon_fr",
+    "ar": "Lebanon_ar"
+  },
+  "LBY": {
+    "en": "Libya",
+    "es": "Libya_es",
+    "fr": "Libya_fr",
+    "ar": "Libya_ar"
+  },
+  "LCA": {
+    "en": "Saint Lucia",
+    "es": "Saint Lucia_es",
+    "fr": "Saint Lucia_fr",
+    "ar": "Saint Lucia_ar"
+  },
+  "LSO": {
+    "en": "Lesotho",
+    "es": "Lesotho_es",
+    "fr": "Lesotho_fr",
+    "ar": "Lesotho_ar"
+  },
+  "MYS": {
+    "en": "Malaysia",
+    "es": "Malaysia_es",
+    "fr": "Malaysia_fr",
+    "ar": "Malaysia_ar"
+  },
+  "NGA": {
+    "en": "Nigeria",
+    "es": "Nigeria_es",
+    "fr": "Nigeria_fr",
+    "ar": "Nigeria_ar"
+  },
+  "PAK": {
+    "en": "Pakistan",
+    "es": "Pakistan_es",
+    "fr": "Pakistan_fr",
+    "ar": "Pakistan_ar"
+  },
+  "PRI": {
+    "en": "Puerto Rico / USA",
+    "es": "Puerto Rico / USA_es",
+    "fr": "Puerto Rico / USA_fr",
+    "ar": "Puerto Rico / USA_ar"
+  },
+  "PRK": {
+    "en": "North Korea",
+    "es": "North Korea_es",
+    "fr": "North Korea_fr",
+    "ar": "North Korea_ar"
+  },
+  "PSE": {
+    "en": "Palestine",
+    "es": "Palestine_es",
+    "fr": "Palestine_fr",
+    "ar": "Palestine_ar"
+  },
+  "QAT": {
+    "en": "Qatar",
+    "es": "Qatar_es",
+    "fr": "Qatar_fr",
+    "ar": "Qatar_ar"
+  },
+  "OMN": {
+    "en": "Oman",
+    "es": "Oman_es",
+    "fr": "Oman_fr",
+    "ar": "Oman_ar"
+  },
+  "SAU": {
+    "en": "Saudi Arabia",
+    "es": "Saudi Arabia_es",
+    "fr": "Saudi Arabia_fr",
+    "ar": "Saudi Arabia_ar"
+  },
+  "SDN": {
+    "en": "Sudan",
+    "es": "Sudan_es",
+    "fr": "Sudan_fr",
+    "ar": "Sudan_ar"
+  },
+  "SGP": {
+    "en": "Singapore",
+    "es": "Singapore_es",
+    "fr": "Singapore_fr",
+    "ar": "Singapore_ar"
+  },
+  "SSD": {
+    "en": "South Sudan",
+    "es": "South Sudan_es",
+    "fr": "South Sudan_fr",
+    "ar": "South Sudan_ar"
+  },
+  "SYR": {
+    "en": "Syria",
+    "es": "Syria_es",
+    "fr": "Syria_fr",
+    "ar": "Syria_ar"
+  },
+  "TCD": {
+    "en": "Chad",
+    "es": "Chad_es",
+    "fr": "Chad_fr",
+    "ar": "Chad_ar"
+  },
+  "THA": {
+    "en": "Thailand",
+    "es": "Thailand_es",
+    "fr": "Thailand_fr",
+    "ar": "Thailand_ar"
+  },
+  "TTO": {
+    "en": "Trinidad and Tobago",
+    "es": "Trinidad and Tobago_es",
+    "fr": "Trinidad and Tobago_fr",
+    "ar": "Trinidad and Tobago_ar"
+  },
+  "TWN": {
+    "en": "Taiwan",
+    "es": "Taiwan_es",
+    "fr": "Taiwan_fr",
+    "ar": "Taiwan_ar"
+  },
+  "CHN": {
+    "en": "China",
+    "es": "China_es",
+    "fr": "China_fr",
+    "ar": "China_ar"
+  },
+  "UGA": {
+    "en": "Uganda",
+    "es": "Uganda_es",
+    "fr": "Uganda_fr",
+    "ar": "Uganda_ar"
+  },
+  "USA": {
+    "en": "United States of America",
+    "es": "United States of America_es",
+    "fr": "United States of America_fr",
+    "ar": "United States of America_ar"
+  },
+  "VCT": {
+    "en": "Saint Vincent and the Grenadines",
+    "es": "Saint Vincent and the Grenadines_es",
+    "fr": "Saint Vincent and the Grenadines_fr",
+    "ar": "Saint Vincent and the Grenadines_ar"
+  },
+  "VNM": {
+    "en": "Viet Nam",
+    "es": "Viet Nam_es",
+    "fr": "Viet Nam_fr",
+    "ar": "Viet Nam_ar"
+  },
+  "YEM": {
+    "en": "Yemen",
+    "es": "Yemen_es",
+    "fr": "Yemen_fr",
+    "ar": "Yemen_ar"
+  },
+  "ZWE": {
+    "en": "Zimbabwe",
+    "es": "Zimbabwe_es",
+    "fr": "Zimbabwe_fr",
+    "ar": "Zimbabwe_ar"
+  },
+  "GMB": {
+    "en": "Gambia",
+    "es": "Gambia_es",
+    "fr": "Gambia_fr",
+    "ar": "Gambia_ar"
+  }
 }
