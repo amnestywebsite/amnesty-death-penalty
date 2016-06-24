@@ -66,7 +66,7 @@ function reset() {
 
 //Loads in the world data and the active countries
 queue()
-    .defer(d3.json, "data/world-topo-new.json")
+    .defer(d3.json, "data/world-topo.json")
     .defer(d3.json, "data/data.json")
     .await(ready);
 
