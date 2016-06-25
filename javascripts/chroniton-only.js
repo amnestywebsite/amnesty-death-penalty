@@ -1,7 +1,7 @@
 
-var handleRadius = 8,
+var handleRadius = 6,
   handleHeight = 8,
-  caretHeight = 16,
+  caretHeight = 5,
   handleD = 'M' + [
     -handleRadius, -handleHeight,
     handleRadius, -handleHeight,
@@ -9,7 +9,7 @@ var handleRadius = 8,
     0, handleHeight,
     -handleRadius, handleHeight - caretHeight,
     -handleRadius, -handleHeight].join(','),
-  playWidth = 16,
+  playWidth = 10,
   playD = 'M' + [
     0, 0,
     playWidth/1.2, playWidth/2,
@@ -28,14 +28,10 @@ var handleRadius = 8,
   ].join(',');
 
 function chroniton() {
-  var windowWidth = window.innerWidth;
-
-  console.log (windowWidth);
-
   var margin = {top: 10, right: 20, bottom: 20, left: 20},
     domain = [new Date('1/1/2000'), new Date()],
-    width = windowWidth,
-    height = 100,
+    width = 660,
+    height = 50,
 
     // configurable options
     keybindings = true,
@@ -126,7 +122,7 @@ function chroniton() {
         var playRect = playButtonG.append('rect')
           .attr('fill', 'none')
           .attr('pointer-events', 'visible')
-          .attr('width', 30)
+          .attr('width', 15)
           .attr('height', 15)
           .on('click', function() {
             chart.playPause();
@@ -314,7 +310,7 @@ function chroniton() {
     if (typeof _ !== 'function') throw new Error('argument must be a label formatter function');
     noLabel = false;
     margin.top = 10;
-    height = 80;
+    height = 50;
     labelFormat = _;
     return chart;
   };
