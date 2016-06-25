@@ -538,3 +538,18 @@ small,.milli {
   }
 }
 
+#search-box {
+  display: none;
+}
+
+@media screen and (min-width: 40em) {
+  #search-box {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 40em) {
+  .search-box-m {
+    display: none;
+  }
+}
