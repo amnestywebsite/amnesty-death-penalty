@@ -27,15 +27,24 @@ h1, h2, h3, h4, h5, h6  {
 }
 
 .giga{
-    font-size:80px;
-    font-size:5rem;     /* 80px */
-    line-height:0.83;    /* 96px */
+  font-size:80px;
+  font-size:5rem;     /* 80px */
+  line-height:0.83;    /* 96px */
 }
+
+.super {
+  font-size:64px;
+  font-size:4rem;     /* 64px */
+  line-height:0.83;
+}
+
 .mega{
     font-size:40px;
     font-size:2.5rem;     /* 64px */
     line-height:1.125;  /* 72px */
 }
+
+
 
 @media screen and (min-width: 70em) {
   .mega {
@@ -124,7 +133,7 @@ small,.milli {
   width: 100%;
   display: block;
   background-color: #e5e5e5;
-  border-top: 2px solid #939598;
+  border-top: 1px solid #939598;
   margin-top: -3rem;
 }
 
@@ -178,7 +187,7 @@ small,.milli {
 .footer-left-m {
   width: 50%;
   background-color: white;
-  border-right: 2px solid #939598;
+  border-right: 1px solid #939598;
   display: flex;
   justify-content: center;
   padding-top: 2rem;
@@ -518,4 +527,14 @@ small,.milli {
   }
 }
 
+.header-m {
+  background-color: #ffff00;
+  border-bottom: 1px solid #939598;
+}
+
+@media screen and (min-width: 40em) {
+  .header-m {
+    display: none;
+  }
+}
 
