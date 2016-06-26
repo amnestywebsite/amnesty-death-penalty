@@ -216,15 +216,39 @@ small,.milli {
   }
 }
 
+#bar-chart-wrapper,
 #donut-chart-wrapper {
   width: 80%;
 }
 
 @media screen and (min-width: 40em) {
+  #bar-chart-wrapper,
   #donut-chart-wrapper {
     width: 100%;
     padding-left: 0;
   }
+}
+
+#bar-chart text {
+  fill: #000;
+  font: 14px "AmnestyTradeGothicW04BdCnNo-20", HelveticaNeue-CondensedBold, "Franklin Gothic Medium", sans-serif;
+  text-transform: uppercase;
+}
+
+#bar-chart .ABOLITIONIST {
+  fill: #ff0;
+}
+
+#bar-chart .ABOLITIONIST_IN_PRACTICE   {
+  fill: #b6b6b6;
+}
+
+#bar-chart .ABOLITIONIST_FOR_ORDINARY_CRIMES {
+  fill: #7a7d81;
+}
+
+#bar-chart .RETENTIONIST {
+  fill: #000;
 }
 
 .total-executions {

@@ -137,7 +137,8 @@ function ready(error, world, active, dict) {
     }
   }
 
-  setupDonut(donutWidth,donutHeight,data);
+  // setupDonut(donutWidth,donutHeight,data);
+  setupBarChart(barChartWidth, barChartHeight, data);
 
   pymChild.sendHeight();
 }
@@ -309,10 +310,10 @@ d3.select('#zoom-out').on('click', function () {
             .attr("d", path.projection(projection));
 });
 
-var donutWidth = document.getElementById('donut-chart-wrapper').offsetWidth;
-var donutHeight = (donutWidth/2)+(donutWidth/2.5);
-var radius = Math.min(donutWidth, donutHeight) / 2;
-var labelr = radius - 22;
+var barChartWidth = document.getElementById('bar-chart-wrapper').offsetWidth;
+var barChartHeight = (barChartWidth/2)+(barChartWidth/2.5);
+// var radius = Math.min(donutWidth, donutHeight) / 2;
+// var labelr = radius - 22;
 
 function setupDonut (donutWidth,donutHeight,data){
 
@@ -400,6 +401,40 @@ var svgPie = d3.select("#donut-chart").append("svg")
           tooltipPie.classed("hidden", true)
         });
 }
+
+
+
+function setupBarChart(barChartWidth, barChartHeight, data) {
+  var width = barChartWidth,
+      height = barChartHeight,
+      barHeight = 20,
+      labelHeight = 20;
+
+  var scale = d3.scale.linear()
+      .domain([0, d3.max(data, function (d) { return parseInt(d.value, 10); })])
+      .range([0, width]);
+
+  var chart = d3.select("#bar-chart")
+      .attr("width", width)
+      .attr("height", height);
+
+  var bar = chart.selectAll("g")
+      .data(data)
+    .enter().append("g")
+      .attr("transform", function(d, i) { return "translate(0," + ( (i * barHeight) + ( (i)*labelHeight ) ) + ")"; });
+
+  bar.append("text")
+    .attr("x", 0)
+    .attr("y", labelHeight-3)
+    .text(function(d) { return d.fullname; });
+
+  bar.append("rect")
+      .attr("width", function (d) { return scale(d.value); })
+      .attr("height", barHeight)
+      .attr("y", labelHeight)
+      .attr("class", function (d) { return d.fullname.replace(/ /g, '_').toUpperCase(); });
+}
+
 
 function wrap(text, width) {
     text.each(function() {
@@ -516,11 +551,13 @@ function redraw() {
   setup(width,height);
   draw(topo, activeCountries, coastline);
 
-  donutWidth = document.getElementById('donut-chart-wrapper').offsetWidth;
-  donutHeight = (donutWidth/2)+(donutWidth/2.5);
-  radius = Math.min(donutWidth, donutHeight) / 2;
+  barChartWidth = document.getElementById('bar-chart-wrapper').offsetWidth;
+  barChartHeight = (barChartWidth/2)+(barChartWidth/2.5);
+  // radius = Math.min(donutWidth, donutHeight) / 2;
   d3.select("#donut-chart > svg").remove();
-  setupDonut(donutWidth,donutHeight,data);
+  // setupDonut(donutWidth,donutHeight,data);
+  d3.select("#bar-chart > svg > *").remove();
+  setupBarChart(barChartWidth, barChartHeight, data);
 }
 
 var throttleTimer;
