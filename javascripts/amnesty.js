@@ -427,11 +427,21 @@ function wrap(text, width) {
     });
 }
 
+var sliderPlayPauseButton = document.getElementById('slider-play-pause');
+sliderPlayPauseButton.style.height = '60px';/* Must match the custom slider’s height below, taking borders into account */
+
+var sliderContainer = document.getElementById('slider');
+sliderContainer.style.width = windowWidth+'px';
+
 var customSlider = chroniton()
   .domain([new Date('2008'), new Date('2015')])
-  .labelFormat(d3.time.format('%Y'))
-  .width(700)
-  .playButton(true)
+  .hideLabel()
+  .tapAxis(function (axis) {
+    axis.orient('top')
+  })
+  .width(windowWidth - sliderPlayPauseButton.getBoundingClientRect().width)
+  .height(58)
+  .playButton(false)
       .playbackRate(1)
       .loop(true);
 
@@ -453,6 +463,35 @@ customSlider
       draw(topo, activeCountries, coastline);
     }
   });
+
+
+sliderPlayPauseButton.addEventListener('click', function () {
+  if (sliderPlayPauseButtonState === 'play') {
+    playSlider();
+  }
+  else {
+    pauseSlider();
+  }
+});
+
+function playSlider() {
+  sliderPlayPauseButton.className = 'pause';
+  sliderPlayPauseButton.innerHTML = 'Pause';
+  sliderPlayPauseButtonState = 'pause';
+
+  customSlider.play();
+}
+function pauseSlider() {
+  sliderPlayPauseButton.className = 'play';
+  sliderPlayPauseButton.innerHTML = 'Play';
+  sliderPlayPauseButtonState = 'play';
+
+  customSlider.pause();
+}
+
+sliderPlayPauseButton.className = 'play';
+sliderPlayPauseButton.innerHTML = 'Play';
+var sliderPlayPauseButtonState = 'play';
 
 
 function redraw() {

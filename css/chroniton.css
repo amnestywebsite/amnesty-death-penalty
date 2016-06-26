@@ -17,24 +17,21 @@
   user-select:none;
 }
 .x.axis path.domain {
-  stroke-width:10;
+  stroke-width:1;
   stroke-linecap:round;
-  stroke:#ddd;
+  stroke:#000;
 }
 .x.axis path.halo {
-  stroke-width:12;
-  stroke-linecap:round;
-  stroke:#ccc;
+  display: none;
 }
 .tick line {
-  stroke:#d0d0d0;
+  stroke:#000;
   stroke-width:1;
-  transform:translate(0px, -5px);
 }
 .slider .handle {
-  fill: #fff;
+  fill: #000;
   stroke-width:1;
-  stroke:#333;
+  stroke:#000;
 }
 .slider .handle, .slider text {
   cursor: move;
@@ -49,6 +46,6 @@
 .slider.brushing .handle {
   fill: #eee;
 }
-.label {
-  font:bold 12px sans-serif;
+.tick text {
+  font: 12px "AmnestyTradeGothicW04BdCnNo-20", HelveticaNeue-CondensedBold, "Franklin Gothic Medium", sans-serif;
 }

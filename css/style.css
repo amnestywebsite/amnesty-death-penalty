@@ -517,12 +517,55 @@ small,.milli {
   stroke: #393939;
 }
 
-#slider {
+#slider,
+#slider-play-pause {
   display: none;
 }
 
 @media screen and (min-width: 40em) {
-  #slider {
+  #slider,
+  #slider-play-pause {
+    display: block;
+  }
+
+  .chroniton,
+  #slider-play-pause {
+    border-style: solid none;
+    border-width: 1px;
+    border-color: #000;
+    background: #fff;
+  }
+
+  #slider-play-pause {
+    float: left;
+    width: 4em;
+    margin: 0;
+    border-right-style: solid;
+    font: 12px "AmnestyTradeGothicW04BdCnNo-20", HelveticaNeue-CondensedBold, "Franklin Gothic Medium", sans-serif;
+    text-transform: uppercase;
+  }
+
+  #slider-play-pause:focus,
+  #slider-play-pause:hover,
+  #slider-play-pause:active {
+    outline: none;
+  }
+
+  #slider-play-pause:before {
+    display: block;
+    font-size: 1.5em;
+  }
+
+  #slider-play-pause.pause:before {
+    content: "❙❙";/* See http://stackoverflow.com/a/27053825/20578 */
+    letter-spacing: .1em;
+  }
+
+  #slider-play-pause.play:before {
+    content: "►";/* See http://stackoverflow.com/a/27053825/20578 */
+  }
+
+  .chroniton {
     display: block;
   }
 }

@@ -1,7 +1,7 @@
 
-var handleRadius = 6,
+var handleRadius = 8,
   handleHeight = 8,
-  caretHeight = 5,
+  caretHeight = 16,
   handleD = 'M' + [
     -handleRadius, -handleHeight,
     handleRadius, -handleHeight,
