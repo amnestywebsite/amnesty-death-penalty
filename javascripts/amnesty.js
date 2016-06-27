@@ -32,7 +32,10 @@ var tooltipBar = d3.select("#bar-chart").append("div").attr("class", "tooltip hi
 var pymChild = new pym.Child();
 
 var defaultLang= "en";
+var supportedLanguages = ['en', 'ar', 'es'];
 var lang = getLangFromQueryString();
+var dir;
+setLangAndDir(lang);
 var dictionary;
 
 function Dictionary(dictionaryJson) {
@@ -91,6 +94,22 @@ function getLangFromQueryString(){
   return lang;
 }
 
+function setLangAndDir(lang) {
+  var htmlEl = document.getElementsByTagName("html")[0];
+
+  if (supportedLanguages.indexOf(lang) > -1) {
+    htmlEl.lang = lang;
+  }
+
+  if (lang === "ar") {
+    htmlEl.dir = "rtl";
+    dir = "rtl";
+  }
+  else {
+    dir = "ltr";
+  }
+}
+
 function reset() {
   active.classed("active", false);
   active = d3.select(null);
@@ -125,6 +144,7 @@ function ready(error, world, active, dict) {
 
     if (fullnameKeyIndex > -1) {
       data.push({
+        fullnameKey: fullnameKeys[fullnameKeyIndex],
         fullname: dictionary.getTranslation(fullnameKeys[fullnameKeyIndex]),
         value: yearData[0][yearDataProperty]
       });
@@ -346,6 +366,14 @@ function setupBarChart(barChartWidth, barChartHeight, data) {
 
   bar.append("text")
     .attr("x", 0)
+    .attr("text-anchor", function () {
+      if (dir === "rtl") {
+        return 'end';
+      }
+      else {
+        return 'start';
+      }
+    })
     .attr("y", labelHeight-3)
     .text(function(d) { return d.fullname; });
 
@@ -353,7 +381,7 @@ function setupBarChart(barChartWidth, barChartHeight, data) {
       .attr("width", function (d) { return scale(d.value); })
       .attr("height", barHeight)
       .attr("y", labelHeight)
-      .attr("class", function (d) { return d.fullname.replace(/ /g, '_').toUpperCase(); });
+      .attr("class", function (d) { return d.fullnameKey.replace(/ /g, '_').toUpperCase(); });
 
   var offsetPieL = document.getElementById('bar-chart').offsetLeft+(width/80);
   var offsetPieT =document.getElementById('bar-chart').offsetTop+(height/80);
