@@ -22,12 +22,11 @@ div.awesomplete > ul {
 	box-sizing: border-box;
 	list-style: none;
 	padding: 0;
-	border-radius: .3em;
-	margin: .2em 0 0;
-	background: hsla(0,0%,100%,.9);
-	background: linear-gradient(to bottom right, white, hsla(0,0%,100%,.8));
-	border: 1px solid rgba(0,0,0,.3);
-	box-shadow: .05em .2em .6em rgba(0,0,0,.2);
+	margin: -1px 0 0;
+	background: #fff;
+	border: 1px solid #000;
+	font-size: .8rem;
+	text-transform: uppercase;
 	text-shadow: none;
 }
 
@@ -53,6 +52,7 @@ div.awesomplete > ul:empty {
 
 	/* Pointer */
 	div.awesomplete > ul:before {
+		display: none;
 		content: "";
 		position: absolute;
 		top: -.43em;
@@ -69,29 +69,28 @@ div.awesomplete > ul:empty {
 
 	div.awesomplete > ul > li {
 		position: relative;
-		padding: .2em .5em;
+		padding: .3rem .8rem;
 		cursor: pointer;
 	}
-	
-	div.awesomplete > ul > li:hover {
-		background: hsl(200, 40%, 80%);
-		color: black;
+
+	div.awesomplete > ul > li:first-child {
+		padding-top: .6rem;
+	}
+
+	div.awesomplete > ul > li:last-child {
+		padding-bottom: .6rem;
 	}
 	
+	div.awesomplete > ul > li:hover,
 	div.awesomplete > ul > li[aria-selected="true"] {
-		background: hsl(205, 40%, 40%);
-		color: white;
+		background: #e5e5e5;
 	}
 	
 		div.awesomplete mark {
-			background: hsl(65, 100%, 50%);
+			background: #ff0;
 		}
 		
-		div.awesomplete li:hover mark {
-			background: hsl(68, 100%, 41%);
-		}
-		
+		div.awesomplete > ul > li:hover,
 		div.awesomplete li[aria-selected="true"] mark {
-			background: hsl(86, 100%, 21%);
-			color: inherit;
+			background: none;
 		}

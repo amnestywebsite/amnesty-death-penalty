@@ -636,10 +636,16 @@ small,.milli {
   #search-box input {
     box-sizing: border-box;
     width: 100%;
+    border: solid 1px #000;
     padding: .6rem .8rem;
     font-family: inherit;
     font-size: .8rem;
     text-transform: uppercase;
+  }
+
+  #search-box input:focus,
+  #search-box input:hover {
+    outline: none;
   }
 }
 
