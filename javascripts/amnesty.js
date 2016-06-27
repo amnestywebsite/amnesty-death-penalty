@@ -1,7 +1,5 @@
 (function (global) {
 
-
-
 if('querySelector' in document && 'addEventListener' in window) {
   var jsCheck = document.getElementById('map-no-show');
   jsCheck.id="map";
@@ -14,10 +12,6 @@ var windowWidth = window.innerWidth;
 
 if (windowWidth < 752) {
   scaleAdjust = 1.6;
-  /*var clientHeight = document.getElementById('overview-year');
-  var distanceFromTop = clientHeight.getBoundingClientRect().bottom;
-  var detailBoxHeight = document.getElementById('detail-box');
-  detailBoxHeight.style.top = '"' + distanceFromTop + 'px"';*/
 }
 
 else {
@@ -33,7 +27,7 @@ var currentYear = startYear;
 var tooltip = d3.select("#map").append("div").attr("class", "tooltip hidden");
 var activeCountries, yearCountries, topo, borders, coastline, projection, path, svg, g, zoom;
 var active = d3.select(null);
-var tooltipPie = d3.select("#donut-chart").append("div").attr("class", "tooltip hidden");
+var tooltipBar = d3.select("#bar-chart").append("div").attr("class", "tooltip hidden");
 
 var pymChild = new pym.Child();
 
@@ -44,6 +38,7 @@ var dictionary;
 function Dictionary(dictionaryJson) {
   this.dictionary = dictionaryJson;
 }
+
 Dictionary.prototype.getTranslation = function (key, language) {
   var translation = '';
 
@@ -83,13 +78,12 @@ function setup(width,height){
   g = svg.append("g");
 }
 
-
 function getLangFromQueryString(){
   // Mostly shamelessly cribbed from here: http://stackoverflow.com/a/901144/20578
   var lang = defaultLang;
   var regex = new RegExp("[?&]" + "lang" + "(=([^&#]*)|&|#|$)");
   var results = regex.exec(window.location.href);
-        
+
   if (results && results[2]) {
     lang = decodeURIComponent(results[2].replace(/\+/g, " "));
   }
@@ -137,9 +131,7 @@ function ready(error, world, active, dict) {
     }
   }
 
-  // setupDonut(donutWidth,donutHeight,data);
   setupBarChart(barChartWidth, barChartHeight, data);
-
   pymChild.sendHeight();
 }
 
@@ -312,97 +304,6 @@ d3.select('#zoom-out').on('click', function () {
 
 var barChartWidth = document.getElementById('bar-chart-wrapper').offsetWidth;
 var barChartHeight = (barChartWidth/2)+(barChartWidth/2.5);
-// var radius = Math.min(donutWidth, donutHeight) / 2;
-// var labelr = radius - 22;
-
-function setupDonut (donutWidth,donutHeight,data){
-
-var color = d3.scale.ordinal()
-    .range(["#FFFF00", "#b6b6b6", "#7a7d81", "#000000"]);
-
-var arc = d3.svg.arc()
-    .outerRadius(radius)
-    .innerRadius(radius * (50 / 100));
-
-var pie = d3.layout.pie()
-    .sort(null)
-    .value(function(d) { return d.value; });
-
-var svgPie = d3.select("#donut-chart").append("svg")
-    .attr("width", donutWidth)
-    .data([data])
-    .attr("height", (donutHeight+10))
-  .append("g")
-    .attr("transform", "translate(" + donutWidth / 2 + "," + donutHeight / 2 + ")");
-
-  var gPie = svgPie.selectAll(".arc")
-      .data(pie(data))
-    .enter().append("g")
-      .attr("class", "arc");
-
-  gPie.append("path")
-      .attr("d", arc)
-      .attr("class", "donut-arc")
-      .style("fill", function(d) { return color(d.data.value); });
-
-  gPie.append("text")
-      .attr("transform", function(d) {
-        var xTrig = ( (radius - 12) * Math.sin( ((d.endAngle - d.startAngle) / 2) + d.startAngle ) );
-        var yTrig = ( -1 * (radius - 12) * Math.cos( ((d.endAngle - d.startAngle) / 2) + d.startAngle ) );
-        if (d.data.fullname == "Abolitionist for ordinary crimes") {
-          xTrig = xTrig - 15;
-          yTrig = yTrig + 5;
-        }
-
-        if (d.data.fullname == "Retentionist") {
-          xTrig = xTrig + 15;
-        }
-
-        if (d.data.fullname == "Abolitionists in practice") {
-          yTrig = yTrig - 20;
-        }
-
-        return "translate(" + xTrig + "," + yTrig + ")"; })
-      .attr("dy", ".35em")
-      .style("text-anchor", function(d) {
-        if (d.data.fullname == "Abolitionist for ordinary crimes") { return "start";}
-        if (d.data.fullname == "Abolitionist in practice") { return "middle";}
-        if (d.data.fullname == "Retentionist") { return "middle";}
-        if (d.data.fullname == "Abolitionist") {return "end";}
-        else {
-          return "start";
-        }
-      })
-      .attr("class", "title-text")
-      .text(function(d) {
-        return d.data.fullname; })
-      .call(wrap, 100)
-      .style("fill", function(d) {
-        if (d.data.fullname == "Abolitionist for ordinary crimes") { return "black";}
-        if (d.data.fullname == "Abolitionist in practice") { return "black";}
-        if (d.data.fullname == "Retentionist") { return "white";}
-        if (d.data.fullname == "Abolitionist") {return "black";}
-        else {
-          return "white";
-        }});
-
-  var offsetPieL = document.getElementById('donut-chart').offsetLeft+(width/80);
-  var offsetPieT =document.getElementById('donut-chart').offsetTop+(height/80);
-
-  gPie
-    .on("mousemove", function(d,i) {
-        var mouse = d3.mouse(d3.select('#donut-chart').node());
-          tooltipPie
-            .classed("hidden", false)
-            .attr("style", "left:"+(mouse[0]+offsetPieL)+"px;top:"+(mouse[1]+offsetPieT)+"px")
-            .html('<div class="title-text">' + d.data.value + ' countries ' + d.data.definitions + '</div>')
-        })
-        .on("mouseout",  function(d,i) {
-          tooltipPie.classed("hidden", true)
-        });
-}
-
-
 
 function setupBarChart(barChartWidth, barChartHeight, data) {
   var width = barChartWidth,
@@ -433,33 +334,21 @@ function setupBarChart(barChartWidth, barChartHeight, data) {
       .attr("height", barHeight)
       .attr("y", labelHeight)
       .attr("class", function (d) { return d.fullname.replace(/ /g, '_').toUpperCase(); });
-}
 
+  var offsetPieL = document.getElementById('bar-chart').offsetLeft+(width/80);
+  var offsetPieT =document.getElementById('bar-chart').offsetTop+(height/80);
 
-function wrap(text, width) {
-    text.each(function() {
-        var text = d3.select(this),
-        words = text.text().split(/\s+/).reverse(),
-        word,
-        line = [],
-        lineNumber = 0,
-        y = text.attr("y"),
-        dy = parseFloat(text.attr("dy")),
-        lineHeight = 1.1, // ems
-        tspan = text.text(null).append("tspan").attr("x", function(d) { return d.children || d._children ? -10 : 10; }).attr("y", y).attr("dy", dy + "em");
-        while (word = words.pop()) {
-            line.push(word);
-            tspan.text(line.join(" "));
-            var textWidth = tspan.node().getComputedTextLength();
-            if (tspan.node().getComputedTextLength() > width) {
-                line.pop();
-                tspan.text(line.join(" "));
-                line = [word];
-                ++lineNumber;
-                tspan = text.append("tspan").attr("x", function(d) { return d.children || d._children ? -10 : 10; }).attr("y", 0).attr("dy", lineNumber * lineHeight + dy + "em").text(word);
-            }
-        }
-    });
+  bar
+    .on("mousemove", function(d,i) {
+        var mouse = d3.mouse(d3.select('#bar-chart').node());
+          tooltipBar
+            .classed("hidden", false)
+            .attr("style", "left:"+(mouse[0]+offsetPieL)+"px;top:"+(mouse[1]+offsetPieT)+"px")
+            .html('<div class="title-text">' + d.value + ' countries ' + '</div>');
+        })
+        .on("mouseout",  function(d,i) {
+          tooltipBar.classed("hidden", true);
+        });
 }
 
 var sliderPlayPauseButton = document.getElementById('slider-play-pause');
@@ -553,9 +442,6 @@ function redraw() {
 
   barChartWidth = document.getElementById('bar-chart-wrapper').offsetWidth;
   barChartHeight = (barChartWidth/2)+(barChartWidth/2.5);
-  // radius = Math.min(donutWidth, donutHeight) / 2;
-  d3.select("#donut-chart > svg").remove();
-  // setupDonut(donutWidth,donutHeight,data);
   d3.select("#bar-chart > svg > *").remove();
   setupBarChart(barChartWidth, barChartHeight, data);
 }
