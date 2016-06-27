@@ -233,14 +233,12 @@ small,.milli {
   }
 }
 
-#bar-chart-wrapper,
-#donut-chart-wrapper {
+#bar-chart-wrapper {
   width: 80%;
 }
 
 @media screen and (min-width: 40em) {
-  #bar-chart-wrapper,
-  #donut-chart-wrapper {
+  #bar-chart-wrapper {
     width: 100%;
     padding-left: 0;
   }
@@ -554,13 +552,6 @@ small,.milli {
 .label-line {
     stroke-width: 2;
     stroke: #393939;
-}
-
-.donut-arc:hover {
-  cursor: pointer;
-  cursor: hand;
-  stroke-width: 1;
-  stroke: #393939;
 }
 
 #slider,
