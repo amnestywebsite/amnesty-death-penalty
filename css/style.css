@@ -612,6 +612,20 @@ small,.milli {
 @media screen and (min-width: 40em) {
   #search-box {
     display: block;
+    padding-top: 1rem;
+  }
+
+  #search-box .awesomplete {
+    display: block;
+  }
+
+  #search-box input {
+    box-sizing: border-box;
+    width: 100%;
+    padding: .6rem .8rem;
+    font-family: inherit;
+    font-size: .8rem;
+    text-transform: uppercase;
   }
 }
 

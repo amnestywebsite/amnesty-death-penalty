@@ -162,9 +162,20 @@ function draw(topo, activeCountries, coastline) {
   executionsTotal.innerHTML = output;
 
   var searchCountries = document.getElementById('search-box');
-  var searchTemplate = Hogan.compile('<form><select name="Country" id="country-selector" autofocus="autofocus" autocorrect="off" autocomplete="off"> <option value="" selected="selected">Select Country</option>{{#countries}}<option value="{{name}}">{{name}}</option>{{/countries}}</select><input type="submit" value="Submit"></form>');
+  var searchTemplate = Hogan.compile('<form onsubmit="return false;"><input class="awesomplete" data-list="{{#countries}}{{name}},{{/countries}}" /></form>');
   var searchOutput = searchTemplate.render(yearData[0]);
   searchCountries.innerHTML = searchOutput;
+  new Awesomplete(document.querySelector('.awesomplete'));
+  document.querySelector('.awesomplete').addEventListener('awesomplete-selectcomplete', function (e) {
+    var selectedCountryName = e.text.value;
+
+    for (var i=0; i<yearCountries.length; i++) {
+      if (yearCountries[i].name === selectedCountryName) {
+        activateCountry(yearCountries[i]);
+        break;
+      }
+    }
+  });
 
   var country = g.selectAll(".country").data(topo);
   country.enter().insert("path")
@@ -212,9 +223,17 @@ function draw(topo, activeCountries, coastline) {
           tooltip.classed("hidden", true);
         });
 
-  activeCountry.on('click', function(d){
+  activeCountry.on('click', activateCountry);
+
+  function activateCountry(d){
+    var countryElement = this;
+
+    if (countryElement.nodeName !== 'path') {
+      countryElement = document.getElementById(d.id);
+    }
+
     active.classed("active", false);
-    active = d3.select(this).classed("active", true);
+    active = d3.select(countryElement).classed("active", true);
 
     var detailBox = document.getElementById('detail-box');
     detailBox.classList.add("reveal");
@@ -227,7 +246,7 @@ function draw(topo, activeCountries, coastline) {
       reset();
       detailBox.classList.remove("reveal");
     });
-  });
+  }
 
 }
 
