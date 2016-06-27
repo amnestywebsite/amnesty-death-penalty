@@ -172,9 +172,10 @@ small,.milli {
 @media screen and (min-width: 40em) {
   #info-box-inner {
     display: block;
-    margin-left: 1rem;
-    margin-right: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
     padding-bottom: 1rem;
+    position: relative;
   }
 }
 
@@ -281,22 +282,22 @@ small,.milli {
 }
 
 #detail-box {
-  width: 100%;
-  float: left;
-  background-color: #cccccc;
-  height: 100%;
+  display: none;
+  background-color: #ccc;
   position: absolute;
   top: 0;
   left: 0;
-  overflow:hidden;
-  display: none;
+  right: 0;
+  bottom: 0;
+  width: auto;
+  height: auto;
+  overflow: hidden;
   z-index: 100;
 }
 
 @media screen and (min-width: 40em) {
   #detail-box {
-    width: 25%;
-    top: 6rem;
+    top: 7.15rem;
   }
 }
 
@@ -627,6 +628,8 @@ small,.milli {
   #search-box {
     display: block;
     padding-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 
   #search-box .awesomplete {
