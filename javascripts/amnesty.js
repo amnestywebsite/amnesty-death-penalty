@@ -345,6 +345,7 @@ function setupBarChart(barChartWidth, barChartHeight, data) {
             .classed("hidden", false)
             .attr("style", "left:"+(mouse[0]+offsetPieL)+"px;top:"+(mouse[1]+offsetPieT)+"px")
             .html('<div class="title-text">' + d.value + ' countries ' + '</div>');
+
         })
         .on("mouseout",  function(d,i) {
           tooltipBar.classed("hidden", true);

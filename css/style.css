@@ -39,12 +39,20 @@ h1, h2, h3, h4, h5, h6  {
 }
 
 .mega{
-    font-size:40px;
-    font-size:2.5rem;     /* 64px */
+    font-size:32px;
+    font-size:2rem;     /* 64px */
     line-height:1.125;  /* 72px */
 }
 
-
+@media screen and (min-width: 40em) {
+  html {
+    .mega{
+      font-size:40px;
+      font-size:2.5rem;     /* 64px */
+      line-height:1.125;  /* 72px */
+    }
+  }
+}
 
 @media screen and (min-width: 70em) {
   .mega {
@@ -393,12 +401,6 @@ small,.milli {
   max-width: 8em;
 }
 
-.buttons {
-  position: absolute;
-  right: 30px;
-  top: 30px;
-}
-
 .cf {
   content:"";
   display:table;
@@ -460,8 +462,8 @@ small,.milli {
 
 .buttons {
   position: absolute;
-  right: 2rem;
-  top: 2rem;
+  left: 2rem;
+  bottom: 2rem;
 }
 
 @media screen and (min-width: 40em) {
