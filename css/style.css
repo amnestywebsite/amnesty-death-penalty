@@ -206,8 +206,6 @@ small,.milli {
   background-color: white;
   border-right: 1px solid #939598;
   display: flex;
-  justify-content: center;
-  padding-top: 2rem;
 }
 
 @media screen and (min-width: 40em) {
