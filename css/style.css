@@ -527,7 +527,7 @@ small,.milli {
 .totals-block {
   margin-top: 2rem;
   text-align: left;
-  position: fixed;
+  position: absolute;
   bottom: 0;
   width: 100%;
 }
@@ -536,7 +536,6 @@ small,.milli {
   .totals-block {
     text-align: right;
     border-right: 1px solid #ccc;
-    width: 25%;
   }
 }
 
