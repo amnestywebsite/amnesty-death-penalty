@@ -359,7 +359,7 @@ var sliderContainer = document.getElementById('slider');
 sliderContainer.style.width = windowWidth+'px';
 
 var customSlider = chroniton()
-  .domain([new Date('2008'), new Date('2015')])
+  .domain([new Date('2007'), new Date('2015')])
   .hideLabel()
   .tapAxis(function (axis) {
     axis.orient('top')
@@ -389,7 +389,6 @@ customSlider
     }
   });
 
-
 sliderPlayPauseButton.addEventListener('click', function () {
   if (sliderPlayPauseButtonState === 'play') {
     playSlider();
@@ -403,21 +402,19 @@ function playSlider() {
   sliderPlayPauseButton.className = 'pause';
   sliderPlayPauseButton.innerHTML = 'Pause';
   sliderPlayPauseButtonState = 'pause';
-
   customSlider.play();
 }
+
 function pauseSlider() {
   sliderPlayPauseButton.className = 'play';
   sliderPlayPauseButton.innerHTML = 'Play';
   sliderPlayPauseButtonState = 'play';
-
   customSlider.pause();
 }
 
 sliderPlayPauseButton.className = 'play';
 sliderPlayPauseButton.innerHTML = 'Play';
 var sliderPlayPauseButtonState = 'play';
-
 
 function redraw() {
   width = document.getElementById('map').offsetWidth;
@@ -455,7 +452,5 @@ function throttle() {
       pymChild.sendHeight();
     }, 200);
 }
-
-
 
 })(window);
