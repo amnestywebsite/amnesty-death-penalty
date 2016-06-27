@@ -162,7 +162,7 @@ function draw(topo, activeCountries, coastline) {
   executionsTotal.innerHTML = output;
 
   var searchCountries = document.getElementById('search-box');
-  var searchTemplate = Hogan.compile('<form onsubmit="return false;"><input class="awesomplete" data-list="{{#countries}}{{name}},{{/countries}}" /></form>');
+  var searchTemplate = Hogan.compile('<form onsubmit="return false;"><label class="visually-hidden" for="search-box-input">Search country</label><input id="search-box-input" class="awesomplete" data-list="{{#countries}}{{name}},{{/countries}}" placeholder="Search country" /></form>');
   var searchOutput = searchTemplate.render(yearData[0]);
   searchCountries.innerHTML = searchOutput;
   new Awesomplete(document.querySelector('.awesomplete'));
@@ -227,6 +227,8 @@ function draw(topo, activeCountries, coastline) {
 
   function activateCountry(d){
     var countryElement = this;
+
+    console.log(d);
 
     if (countryElement.nodeName !== 'path') {
       countryElement = document.getElementById(d.id);
