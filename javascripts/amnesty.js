@@ -228,10 +228,8 @@ function draw(topo, activeCountries, coastline) {
   function activateCountry(d){
     var countryElement = this;
 
-    console.log(d);
-
     if (countryElement.nodeName !== 'path') {
-      countryElement = document.getElementById(d.id);
+      countryElement = document.querySelector('path[id="' + d.id + '"]:not(.country)');
     }
 
     active.classed("active", false);
