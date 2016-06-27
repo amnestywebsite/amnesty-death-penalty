@@ -247,6 +247,7 @@ function draw(topo, activeCountries, coastline) {
     btnClose.addEventListener('click', function(event) {
       reset();
       detailBox.classList.remove("reveal");
+      document.querySelector('#search-box-input').value = '';
     });
   }
 
