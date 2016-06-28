@@ -431,8 +431,8 @@ customSlider
       console.log (date.getFullYear().toString());
       console.log ('current year ' + currentYear);
       currentYear = newYear;
-      g.selectAll(".country").remove();
-      g.selectAll(".coastline").remove();
+      d3.select('svg').remove();
+      setup(width,height);
       draw(topo, activeCountries, coastline);
     }
   });
