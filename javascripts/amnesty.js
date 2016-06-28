@@ -131,27 +131,7 @@ function ready(error, world, active, dict) {
   activeCountries = active;
   coastline = topojson.mesh(world, world.objects.countries, function(a, b) {return a === b});
   draw(topo, activeCountries, coastline);
-
-  var yearData = _.filter(activeCountries, function(val) {
-    return val.year === currentYear;
-  });
-
-  var fullnameKeys = ["ABOLITIONIST", "ABOLITIONIST FOR ORDINARY CRIMES", "ABOLITIONIST IN PRACTICE", "RETENTIONIST"];
-  var fullnameKeyIndex;
-
-  for (var yearDataProperty in yearData[0]) {
-    fullnameKeyIndex = fullnameKeys.indexOf(yearDataProperty);
-
-    if (fullnameKeyIndex > -1) {
-      data.push({
-        fullnameKey: fullnameKeys[fullnameKeyIndex],
-        fullname: dictionary.getTranslation(fullnameKeys[fullnameKeyIndex]),
-        value: yearData[0][yearDataProperty]
-      });
-    }
-  }
-
-  setupBarChart(barChartWidth, barChartHeight, data);
+  setupBarChart(barChartWidth, barChartHeight, activeCountries);
   pymChild.sendHeight();
 }
 
@@ -345,7 +325,28 @@ d3.select('#zoom-out').on('click', function () {
 var barChartWidth = document.getElementById('bar-chart-wrapper').offsetWidth;
 var barChartHeight = (barChartWidth/2)+(barChartWidth/2.5);
 
-function setupBarChart(barChartWidth, barChartHeight, data) {
+function setupBarChart(barChartWidth, barChartHeight, activeCountries) {
+
+  var yearData = _.filter(activeCountries, function(val) {
+    return val.year === currentYear;
+  });
+
+  var fullnameKeys = ["ABOLITIONIST", "ABOLITIONIST FOR ORDINARY CRIMES", "ABOLITIONIST IN PRACTICE", "RETENTIONIST"];
+  var fullnameKeyIndex;
+
+  for (var yearDataProperty in yearData[0]) {
+    fullnameKeyIndex = fullnameKeys.indexOf(yearDataProperty);
+
+    if (fullnameKeyIndex > -1) {
+      data.push({
+        fullnameKey: fullnameKeys[fullnameKeyIndex],
+        fullname: dictionary.getTranslation(fullnameKeys[fullnameKeyIndex]),
+        value: yearData[0][yearDataProperty]
+      });
+    }
+  }
+
+
   var width = barChartWidth,
       height = barChartHeight,
       barHeight = 20,
@@ -434,6 +435,8 @@ customSlider
       d3.select('svg').remove();
       setup(width,height);
       draw(topo, activeCountries, coastline);
+      d3.select("#bar-chart > svg > *").remove();
+      setupBarChart(barChartWidth, barChartHeight, activeCountries);
     }
   });
 
@@ -489,7 +492,7 @@ function redraw() {
   barChartWidth = document.getElementById('bar-chart-wrapper').offsetWidth;
   barChartHeight = (barChartWidth/2)+(barChartWidth/2.5);
   d3.select("#bar-chart > svg > *").remove();
-  setupBarChart(barChartWidth, barChartHeight, data);
+  setupBarChart(barChartWidth, barChartHeight, activeCountries);
 }
 
 var throttleTimer;
