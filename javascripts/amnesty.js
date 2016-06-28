@@ -346,6 +346,7 @@ function setupBarChart(barChartWidth, barChartHeight, activeCountries) {
     }
   }
 
+  console.log (data.length);
 
   var width = barChartWidth,
       height = barChartHeight,
