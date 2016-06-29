@@ -322,10 +322,23 @@ small,.milli {
   font-size: 1.4rem;
 }
 
+[dir="rtl"] #btn-close {
+  float: left;
+}
+
 #btn-close:hover {
   color: #000000;
   cursor: pointer;
   cursor: hand;
+}
+
+#detail-box h1 {
+  margin-right: 2rem;/* Leave space for #btn-close */
+}
+
+[dir="rtl"] #detail-box h1 {
+  margin-right: 0;
+  margin-left: 2rem;/* Leave space for #btn-close */
 }
 
 .coastline {
