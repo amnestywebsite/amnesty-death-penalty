@@ -117,6 +117,23 @@ function setLangAndDir(lang) {
   }
 }
 
+function translateHTML() {
+  var el,
+      translateTextEls = document.querySelectorAll('[data-translate]'),
+      translateTitleEls = document.querySelectorAll('[data-translate-title]'),
+      i;
+
+  for (i=0; i<translateTextEls.length; i++) {
+    el = translateTextEls[i];
+    el.innerHTML = dictionary.getTranslation( el.getAttribute('data-translate') );
+  }
+
+  for (i=0; i<translateTitleEls.length; i++) {
+    el = translateTitleEls[i];
+    el.title = dictionary.getTranslation( el.getAttribute('data-translate-title') );
+  }
+}
+
 function reset() {
   active.classed("active", false);
   active = d3.select(null);
@@ -132,6 +149,7 @@ queue()
 
 function ready(error, world, active, dict) {
   dictionary = new Dictionary(dict);
+  translateHTML();
 
   var countries = topojson.feature(world, world.objects.countries).features;
   topo = countries;

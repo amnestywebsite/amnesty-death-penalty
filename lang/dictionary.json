@@ -83,6 +83,18 @@
       "fr":"Pause-fr",
       "ar":"Pause-ar"
    },
+   "ZOOM IN":{
+      "en":"Zoom in",
+      "es":"Zoom in-es",
+      "fr":"Zoom in-fr",
+      "ar":"Zoom in-ar"
+   },
+   "ZOOM OUT":{
+      "en":"Zoom out",
+      "es":"Zoom out-es",
+      "fr":"Zoom out-fr",
+      "ar":"Zoom out-ar"
+   },
    "COUNTRIES":{
       "en":"countries",
       "es":"countries-es",
