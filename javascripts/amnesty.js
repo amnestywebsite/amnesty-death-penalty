@@ -136,7 +136,7 @@ function ready(error, world, active, dict) {
   var countries = topojson.feature(world, world.objects.countries).features;
   topo = countries;
 
-  //
+  // Add localised names and statuses to data, so that they can be used more easily in templates.
   for (var i=0; i<active.length; i++) {
     var data_year = active[i]
     for (var j=0; j<data_year.countries.length; j++) {
@@ -194,7 +194,7 @@ function draw(topo, activeCountries, coastline) {
     var selectedCountryName = e.text.value;
 
     for (var i=0; i<yearCountries.length; i++) {
-      if (yearCountries[i].name === selectedCountryName) {
+      if (yearCountries[i].name__localised === selectedCountryName) {
         activateCountry(yearCountries[i]);
         break;
       }
