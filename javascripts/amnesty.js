@@ -37,6 +37,8 @@ var lang = getLangFromQueryString();
 var dir;
 setLangAndDir(lang);
 var dictionary;
+var barChartWidth, barChartHeight;
+
 
 function Dictionary(dictionaryJson) {
   this.dictionary = dictionaryJson;
@@ -322,10 +324,13 @@ d3.select('#zoom-out').on('click', function () {
             .attr("d", path.projection(projection));
 });
 
-var barChartWidth = document.getElementById('bar-chart-wrapper').offsetWidth;
-var barChartHeight = (barChartWidth/2)+(barChartWidth/2.5);
-
 function setupBarChart(barChartWidth, barChartHeight, activeCountries) {
+
+  var margin = {top: 10, right: 10, bottom: 20, left: 10};
+  var widther = document.getElementById('bar-chart-wrapper').offsetWidth;
+
+  barChartWidth = widther - margin.left - margin.right;
+  barChartHeight = 250 - margin.top - margin.bottom;
 
   var yearData = _.filter(activeCountries, function(val) {
     return val.year === currentYear;
@@ -333,6 +338,9 @@ function setupBarChart(barChartWidth, barChartHeight, activeCountries) {
 
   var fullnameKeys = ["ABOLITIONIST", "ABOLITIONIST FOR ORDINARY CRIMES", "ABOLITIONIST IN PRACTICE", "RETENTIONIST"];
   var fullnameKeyIndex;
+
+  //clear the data array so it's just the current year
+  data = [];
 
   for (var yearDataProperty in yearData[0]) {
     fullnameKeyIndex = fullnameKeys.indexOf(yearDataProperty);
@@ -346,8 +354,6 @@ function setupBarChart(barChartWidth, barChartHeight, activeCountries) {
     }
   }
 
-  console.log (data.length);
-
   var width = barChartWidth,
       height = barChartHeight,
       barHeight = 20,
@@ -358,12 +364,13 @@ function setupBarChart(barChartWidth, barChartHeight, activeCountries) {
       .range([0, width]);
 
   var chart = d3.select("#bar-chart")
+      .append("svg")
       .attr("width", width)
       .attr("height", height);
 
   var bar = chart.selectAll("g")
       .data(data)
-    .enter().append("g")
+      .enter().append("g")
       .attr("transform", function(d, i) { return "translate(0," + ( (i * barHeight) + ( (i)*labelHeight ) ) + ")"; });
 
   bar.append("text")
@@ -412,7 +419,7 @@ var customSlider = chroniton()
   .domain([new Date('2007'), new Date('2015')])
   .hideLabel()
   .tapAxis(function (axis) {
-    axis.orient('top')
+    axis.orient('top');
   })
   .width(windowWidth - sliderPlayPauseButton.getBoundingClientRect().width)
   .height(58)
@@ -430,13 +437,11 @@ customSlider
   .on('change', function(date) {
     var newYear = date.getFullYear().toString();
     if (newYear != currentYear) {
-      console.log (date.getFullYear().toString());
-      console.log ('current year ' + currentYear);
       currentYear = newYear;
       d3.select('svg').remove();
       setup(width,height);
       draw(topo, activeCountries, coastline);
-      d3.select("#bar-chart > svg > *").remove();
+      d3.select("#bar-chart > svg").remove();
       setupBarChart(barChartWidth, barChartHeight, activeCountries);
     }
   });
