@@ -43,6 +43,7 @@ var dir;
 setLangAndDir(lang);
 var dictionary;
 var barChartWidth, barChartHeight;
+var detailTemplate;
 
 
 function Dictionary(dictionaryJson) {
@@ -267,39 +268,39 @@ function draw(topo, activeCountries, coastline) {
 
   activeCountry.on('click', activateCountry);
 
-  function activateCountry(d){
-    var countryElement = this;
+}
 
-    if (countryElement.nodeName !== 'path') {
-      countryElement = document.querySelector('path[id="' + d.id + '"]:not(.country)');
-    }
+function activateCountry(d){
+  var countryElement = this;
 
-    active.classed("active", false);
-    active = d3.select(countryElement).classed("active", true);
-
-    var detailBox = document.getElementById('detail-box');
-    detailBox.classList.add("reveal");
-    if (d.status == "ABOLITIONIST") {
-      detailBox.classList.add("ABOLITIONIST");
-    }
-    else {
-      detailBox.classList.remove("ABOLITIONIST");
-    }
-
-    var detailTemplate = Hogan.compile("<div class='wrapper'><div id='btn-close'>×</div><h1 class='no-caps-title'>{{name__localised}}</h1><div class='status-block'><h2 class='mv2'>{{status__localised}}</h2></div>{{#since}}<div class='since-date'><h3 class='mv2 ttu dark-grey'>" + dictionary.getTranslation('SINCE') + " {{since}}</h3></div>{{/since}}<div class='definition'><h3 class='mv2'>{{definitions}}</h3></div></div><div class='totals-block'>{{#death-penalties}}<div class='media bg-white pa3'><div class='media__img'><img class='death-sentences-icon' src='images/hammer.svg'></div><div class='media__body'><h2 class='ttu kilo mt0 mb0'>{{death-penalties}}</h2><h3 class='ttu gamma mt0 mb2 lh-reset'>" + dictionary.getTranslation('DEATH SENTENCES') + "</h3></div></div>{{/death-penalties}}{{#executions}}<div class='media bg-black white pa3'><div class='media__img'><img class='executions-icon' src='images/WhiteNoose.svg'></div><div class='media__body'><h2 class='ttu kilo mt0 mb2'>{{executions}}</h2><h3 class='ttu gamma mt0 mb0 lh-reset'>" + dictionary.getTranslation('EXECUTIONS') + "</h3></div></div>{{/executions}}</div></div>");
-
-    var output = detailTemplate.render(d);
-    detailBox.innerHTML = output;
-
-    var btnClose = document.getElementById('btn-close');
-    btnClose.addEventListener('click', function(event) {
-      reset();
-      detailBox.classList.remove("reveal");
-      document.querySelector('#search-box-input').value = '';
-    });
+  if (countryElement.nodeName !== 'path') {
+    countryElement = document.querySelector('path[id="' + d.id + '"]:not(.country)');
   }
 
+  active.classed("active", false);
+  active = d3.select(countryElement).classed("active", true);
+
+  var detailBox = document.getElementById('detail-box');
+  detailBox.classList.add("reveal");
+  if (d.status == "ABOLITIONIST") {
+    detailBox.classList.add("ABOLITIONIST");
+  }
+  else {
+    detailBox.classList.remove("ABOLITIONIST");
+  }
+
+  detailTemplate = Hogan.compile("<div class='wrapper'><div id='btn-close'>×</div><h1 class='no-caps-title'>{{name__localised}}</h1><div class='status-block'><h2 class='mv2'>{{status__localised}}</h2></div>{{#since}}<div class='since-date'><h3 class='mv2 ttu dark-grey'>" + dictionary.getTranslation('SINCE') + " {{since}}</h3></div>{{/since}}<div class='definition'><h3 class='mv2'>{{definitions}}</h3></div></div><div class='totals-block'>{{#death-penalties}}<div class='media bg-white pa3'><div class='media__img'><img class='death-sentences-icon' src='images/hammer.svg'></div><div class='media__body'><h2 class='ttu kilo mt0 mb0'>{{death-penalties}}</h2><h3 class='ttu gamma mt0 mb2 lh-reset'>" + dictionary.getTranslation('DEATH SENTENCES') + "</h3></div></div>{{/death-penalties}}{{#executions}}<div class='media bg-black white pa3'><div class='media__img'><img class='executions-icon' src='images/WhiteNoose.svg'></div><div class='media__body'><h2 class='ttu kilo mt0 mb2'>{{executions}}</h2><h3 class='ttu gamma mt0 mb0 lh-reset'>" + dictionary.getTranslation('EXECUTIONS') + "</h3></div></div>{{/executions}}</div></div>");
+  var output = detailTemplate.render(d);
+  detailBox.innerHTML = output;
+
+  var btnClose = document.getElementById('btn-close');
+  btnClose.addEventListener('click', function(event) {
+    reset();
+    detailBox.classList.remove("reveal");
+    document.querySelector('#search-box-input').value = '';
+  });
 }
+
 
 function move() {
   var t = d3.event.translate;
@@ -459,7 +460,7 @@ function setupBarChart(barChartWidth, barChartHeight, activeCountries) {
 
 function setUpSliderPlayPauseButton() {
   sliderPlayPauseButton = document.getElementById('slider-play-pause');
-  sliderPlayPauseButton.style.height = '60px';/* Must match the custom slider’s height below, taking borders into account */  
+  sliderPlayPauseButton.style.height = '60px';/* Must match the custom slider’s height below, taking borders into account */
 
   sliderPlayPauseButton.addEventListener('click', function () {
     if (sliderPlayPauseButtonState === 'play') {
