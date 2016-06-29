@@ -494,7 +494,7 @@ function setupSlider() {
         d3.select('svg').remove();
         setup(width,height);
         draw(topo, activeCountries, coastline);
-        d3.select("#bar-chart > svg *").remove();
+        d3.select("#bar-chart > svg").remove();
         setupBarChart(barChartWidth, barChartHeight, activeCountries);
       }
     });
