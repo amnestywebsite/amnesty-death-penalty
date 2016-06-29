@@ -326,7 +326,7 @@ d3.select('#zoom-out').on('click', function () {
 
 function setupBarChart(barChartWidth, barChartHeight, activeCountries) {
 
-  var margin = {top: 10, right: 10, bottom: 20, left: 10};
+  var margin = {top: 10, right: 0, bottom: 20, left: 0};
   var widther = document.getElementById('bar-chart-wrapper').offsetWidth;
 
   barChartWidth = widther - margin.left - margin.right;
