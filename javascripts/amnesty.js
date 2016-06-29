@@ -44,7 +44,7 @@ setLangAndDir(lang);
 var dictionary;
 var barChartWidth, barChartHeight;
 var detailTemplate;
-
+var detailBoxOpen = false;
 
 function Dictionary(dictionaryJson) {
   this.dictionary = dictionaryJson;
@@ -272,6 +272,9 @@ function draw(topo, activeCountries, coastline) {
 
 function activateCountry(d){
   var countryElement = this;
+  detailBoxOpen = true;
+
+  console.log (d);
 
   if (countryElement.nodeName !== 'path') {
     countryElement = document.querySelector('path[id="' + d.id + '"]:not(.country)');
@@ -297,6 +300,7 @@ function activateCountry(d){
   btnClose.addEventListener('click', function(event) {
     reset();
     detailBox.classList.remove("reveal");
+    detailBoxOpen = false;
     document.querySelector('#search-box-input').value = '';
   });
 }
@@ -498,7 +502,7 @@ function setupSlider() {
     .domain([new Date('2007'), new Date('2015')])
     .hideLabel()
     .tapAxis(function (axis) {
-      axis.orient('top')
+      axis.orient('top');
     })
     .width(windowWidth - sliderPlayPauseButton.getBoundingClientRect().width)
     .height(58)
@@ -522,6 +526,16 @@ function setupSlider() {
         draw(topo, activeCountries, coastline);
         d3.select("#bar-chart > svg").remove();
         setupBarChart(barChartWidth, barChartHeight, activeCountries);
+
+        if (detailBoxOpen) {
+          var yearData = _.filter(activeCountries, function(val) {
+            return val.year === currentYear;
+          });
+
+          var d = yearData[0].countries;
+          console.log (d);
+          activateCountry(d);
+        }
       }
     });
 }
