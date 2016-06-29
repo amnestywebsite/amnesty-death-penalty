@@ -42,6 +42,8 @@ var lang = getLangFromQueryString();
 var dir;
 setLangAndDir(lang);
 var dictionary;
+var barChartWidth, barChartHeight;
+
 
 function Dictionary(dictionaryJson) {
   this.dictionary = dictionaryJson;
@@ -149,26 +151,7 @@ function ready(error, world, active, dict) {
   coastline = topojson.mesh(world, world.objects.countries, function(a, b) {return a === b});
   draw(topo, activeCountries, coastline);
 
-  var yearData = _.filter(activeCountries, function(val) {
-    return val.year === currentYear;
-  });
-
-  var fullnameKeys = ["ABOLITIONIST", "ABOLITIONIST FOR ORDINARY CRIMES", "ABOLITIONIST IN PRACTICE", "RETENTIONIST"];
-  var fullnameKeyIndex;
-
-  for (var yearDataProperty in yearData[0]) {
-    fullnameKeyIndex = fullnameKeys.indexOf(yearDataProperty);
-
-    if (fullnameKeyIndex > -1) {
-      data.push({
-        fullnameKey: fullnameKeys[fullnameKeyIndex],
-        fullname: dictionary.getTranslation(fullnameKeys[fullnameKeyIndex]),
-        value: yearData[0][yearDataProperty]
-      });
-    }
-  }
-
-  setupBarChart(barChartWidth, barChartHeight, data);
+  setupBarChart(barChartWidth, barChartHeight, activeCountries);
   setUpSliderPlayPauseButton();
   setupSlider();
 
@@ -364,10 +347,36 @@ d3.select('#zoom-out').on('click', function () {
             .attr("d", path.projection(projection));
 });
 
-var barChartWidth = document.getElementById('bar-chart-wrapper').offsetWidth;
-var barChartHeight = (barChartWidth/2)+(barChartWidth/2.5);
+function setupBarChart(barChartWidth, barChartHeight, activeCountries) {
 
-function setupBarChart(barChartWidth, barChartHeight, data) {
+  var margin = {top: 10, right: 0, bottom: 20, left: 0};
+  var widther = document.getElementById('bar-chart-wrapper').offsetWidth;
+
+  barChartWidth = widther - margin.left - margin.right;
+  barChartHeight = 250 - margin.top - margin.bottom;
+
+  var yearData = _.filter(activeCountries, function(val) {
+    return val.year === currentYear;
+  });
+
+  var fullnameKeys = ["ABOLITIONIST", "ABOLITIONIST FOR ORDINARY CRIMES", "ABOLITIONIST IN PRACTICE", "RETENTIONIST"];
+  var fullnameKeyIndex;
+
+  //clear the data array so it's just the current year
+  data = [];
+
+  for (var yearDataProperty in yearData[0]) {
+    fullnameKeyIndex = fullnameKeys.indexOf(yearDataProperty);
+
+    if (fullnameKeyIndex > -1) {
+      data.push({
+        fullnameKey: fullnameKeys[fullnameKeyIndex],
+        fullname: dictionary.getTranslation(fullnameKeys[fullnameKeyIndex]),
+        value: yearData[0][yearDataProperty]
+      });
+    }
+  }
+
   var width = barChartWidth,
       height = barChartHeight,
       barHeight = 20,
@@ -378,12 +387,13 @@ function setupBarChart(barChartWidth, barChartHeight, data) {
       .range([0, width]);
 
   var chart = d3.select("#bar-chart")
+      .append("svg")
       .attr("width", width)
       .attr("height", height);
 
   var bar = chart.selectAll("g")
       .data(data)
-    .enter().append("g")
+      .enter().append("g")
       .attr("transform", function(d, i) { return "translate(0," + ( (i * barHeight) + ( (i)*labelHeight ) ) + ")"; });
 
   bar.append("text")
@@ -481,9 +491,11 @@ function setupSlider() {
       var newYear = date.getFullYear().toString();
       if (newYear != currentYear) {
         currentYear = newYear;
-        g.selectAll(".country").remove();
-        g.selectAll(".coastline").remove();
+        d3.select('svg').remove();
+        setup(width,height);
         draw(topo, activeCountries, coastline);
+        d3.select("#bar-chart > svg *").remove();
+        setupBarChart(barChartWidth, barChartHeight, activeCountries);
       }
     });
 }
@@ -512,8 +524,8 @@ function redraw() {
 
   barChartWidth = document.getElementById('bar-chart-wrapper').offsetWidth;
   barChartHeight = (barChartWidth/2)+(barChartWidth/2.5);
-  d3.select("#bar-chart > svg > *").remove();
-  setupBarChart(barChartWidth, barChartHeight, data);
+  d3.select("#bar-chart > svg").remove();
+  setupBarChart(barChartWidth, barChartHeight, activeCountries);
 }
 
 var throttleTimer;
