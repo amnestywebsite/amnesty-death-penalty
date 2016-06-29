@@ -65,7 +65,31 @@
       "fr":"Since-fr",
       "ar":"Since-ar"
    },
-     "ALB": {
+   "SEARCH COUNTRY":{
+      "en":"Search country",
+      "es":"Search country-es",
+      "fr":"Search country-fr",
+      "ar":"Search country-ar"
+   },
+   "PLAY":{
+      "en":"Play",
+      "es":"Play-es",
+      "fr":"Play-fr",
+      "ar":"Play-ar"
+   },
+   "PAUSE":{
+      "en":"Pause",
+      "es":"Pause-es",
+      "fr":"Pause-fr",
+      "ar":"Pause-ar"
+   },
+   "COUNTRIES":{
+      "en":"countries",
+      "es":"countries-es",
+      "fr":"countries-fr",
+      "ar":"countries-ar"
+   },
+  "ALB": {
     "en": "Albania",
     "es": "Albania_es",
     "fr": "Albania_fr",

@@ -29,10 +29,15 @@ var activeCountries, yearCountries, topo, borders, coastline, projection, path, 
 var active = d3.select(null);
 var tooltipBar = d3.select("#bar-chart").append("div").attr("class", "tooltip hidden");
 
+var sliderContainer;
+var customSlider;
+var sliderPlayPauseButton;
+var sliderPlayPauseButtonState;
+
 var pymChild = new pym.Child();
 
 var defaultLang= "en";
-var supportedLanguages = ['en', 'ar', 'es'];
+var supportedLanguages = ['ar', 'en', 'es', 'fr'];
 var lang = getLangFromQueryString();
 var dir;
 setLangAndDir(lang);
@@ -128,6 +133,18 @@ function ready(error, world, active, dict) {
 
   var countries = topojson.feature(world, world.objects.countries).features;
   topo = countries;
+
+  //
+  for (var i=0; i<active.length; i++) {
+    var data_year = active[i]
+    for (var j=0; j<data_year.countries.length; j++) {
+      var data_country = data_year.countries[j];
+
+      data_country.name__localised = dictionary.getTranslation(data_country.id);
+      data_country.status__localised = dictionary.getTranslation(data_country.status);
+    }
+  }
+
   activeCountries = active;
   coastline = topojson.mesh(world, world.objects.countries, function(a, b) {return a === b});
   draw(topo, activeCountries, coastline);
@@ -152,6 +169,9 @@ function ready(error, world, active, dict) {
   }
 
   setupBarChart(barChartWidth, barChartHeight, data);
+  setUpSliderPlayPauseButton();
+  setupSlider();
+
   pymChild.sendHeight();
 }
 
@@ -182,9 +202,10 @@ function draw(topo, activeCountries, coastline) {
   executionsTotal.innerHTML = output;
 
   var searchCountries = document.getElementById('search-box');
-  var searchTemplate = Hogan.compile('<form onsubmit="return false;"><label class="visually-hidden" for="search-box-input">Search country</label><input id="search-box-input" class="awesomplete" data-list="{{#countries}}{{name}},{{/countries}}" placeholder="Search country" /></form>');
+  var searchTemplate = Hogan.compile('<form onsubmit="return false;"><label class="visually-hidden" for="search-box-input">' + dictionary.getTranslation('SEARCH COUNTRY') + '</label><input id="search-box-input" class="awesomplete" data-list="{{#countries}}{{name__localised}},{{/countries}}" placeholder="' + dictionary.getTranslation('SEARCH COUNTRY') + '" /></form>');
   var searchOutput = searchTemplate.render(yearData[0]);
   searchCountries.innerHTML = searchOutput;
+
   new Awesomplete(document.querySelector('.awesomplete'));
   document.querySelector('.awesomplete').addEventListener('awesomplete-selectcomplete', function (e) {
     var selectedCountryName = e.text.value;
@@ -237,7 +258,7 @@ function draw(topo, activeCountries, coastline) {
           tooltip
             .classed("hidden", false)
             .attr("style", "left:"+(mouse[0]+offsetL)+"px;top:"+(mouse[1]+offsetT)+"px")
-            .html('<div class="title-text">'+ d.name + '</div>');
+            .html('<div class="title-text">'+ dictionary.getTranslation(d.id) + '</div>');
         })
         .on("mouseout",  function(d,i) {
           tooltip.classed("hidden", true);
@@ -257,7 +278,8 @@ function draw(topo, activeCountries, coastline) {
 
     var detailBox = document.getElementById('detail-box');
     detailBox.classList.add("reveal");
-    var detailTemplate = Hogan.compile("<div class='wrapper'><div id='btn-close'>×</div><h1 class='no-caps-title'>{{name}}</h1><div class='status-block'><h2 class='mv2'>{{status}}</h2></div>{{#since}}<div class='since-date'><h3 class='mv2 ttu dark-grey'>since {{since}}</h3></div>{{/since}}<div class='definition'><h3 class='mv2'>{{definitions}}</h3></div></div><div class='totals-block'>{{#death-penalties}}<div class='media bg-white pa3'><div class='media__img'><img class='death-sentences-icon' src='images/hammer.svg'></div><div class='media__body'><h2 class='ttu kilo mt0 mb0'>{{death-penalties}}</h2><h3 class='ttu gamma mt0 mb2 lh-reset'>Death Sentences</h3></div></div>{{/death-penalties}}{{#executions}}<div class='media bg-black white pa3'><div class='media__img'><img class='executions-icon' src='images/WhiteNoose.svg'></div><div class='media__body'><h2 class='ttu kilo mt0 mb2'>{{executions}}</h2><h3 class='ttu gamma mt0 mb0 lh-reset'>Executions</h3></div></div>{{/executions}}</div></div>");
+    var detailTemplate = Hogan.compile("<div class='wrapper'><div id='btn-close'>×</div><h1 class='no-caps-title'>{{name__localised}}</h1><div class='status-block'><h2 class='mv2'>{{status__localised}}</h2></div>{{#since}}<div class='since-date'><h3 class='mv2 ttu dark-grey'>" + dictionary.getTranslation('SINCE') + " {{since}}</h3></div>{{/since}}<div class='definition'><h3 class='mv2'>{{definitions}}</h3></div></div><div class='totals-block'>{{#death-penalties}}<div class='media bg-white pa3'><div class='media__img'><img class='death-sentences-icon' src='images/hammer.svg'></div><div class='media__body'><h2 class='ttu kilo mt0 mb0'>{{death-penalties}}</h2><h3 class='ttu gamma mt0 mb2 lh-reset'>" + dictionary.getTranslation('DEATH SENTENCES') + "</h3></div></div>{{/death-penalties}}{{#executions}}<div class='media bg-black white pa3'><div class='media__img'><img class='executions-icon' src='images/WhiteNoose.svg'></div><div class='media__body'><h2 class='ttu kilo mt0 mb2'>{{executions}}</h2><h3 class='ttu gamma mt0 mb0 lh-reset'>" + dictionary.getTranslation('EXECUTIONS') + "</h3></div></div>{{/executions}}</div></div>");
+
     var output = detailTemplate.render(d);
     detailBox.innerHTML = output;
 
@@ -392,7 +414,7 @@ function setupBarChart(barChartWidth, barChartHeight, data) {
           tooltipBar
             .classed("hidden", false)
             .attr("style", "left:"+(mouse[0]+offsetPieL)+"px;top:"+(mouse[1]+offsetPieT)+"px")
-            .html('<div class="title-text">' + d.value + ' countries ' + '</div>');
+            .html('<div class="title-text">' + d.value + ' ' + dictionary.getTranslation('COUNTRIES') + '</div>');
 
         })
         .on("mouseout",  function(d,i) {
@@ -400,69 +422,71 @@ function setupBarChart(barChartWidth, barChartHeight, data) {
         });
 }
 
-var sliderPlayPauseButton = document.getElementById('slider-play-pause');
-sliderPlayPauseButton.style.height = '60px';/* Must match the custom slider’s height below, taking borders into account */
+function setUpSliderPlayPauseButton() {
+  sliderPlayPauseButton = document.getElementById('slider-play-pause');
+  sliderPlayPauseButton.style.height = '60px';/* Must match the custom slider’s height below, taking borders into account */  
 
-var sliderContainer = document.getElementById('slider');
-sliderContainer.style.width = windowWidth+'px';
-
-var customSlider = chroniton()
-  .domain([new Date('2007'), new Date('2015')])
-  .hideLabel()
-  .tapAxis(function (axis) {
-    axis.orient('top')
-  })
-  .width(windowWidth - sliderPlayPauseButton.getBoundingClientRect().width)
-  .height(58)
-  .playButton(false)
-      .playbackRate(1)
-      .loop(true);
-
-d3.select("#slider")
-    .call(customSlider);
-
-customSlider
-  .setValue(new Date('2015'));
-
-customSlider
-  .on('change', function(date) {
-    var newYear = date.getFullYear().toString();
-    if (newYear != currentYear) {
-      console.log (date.getFullYear().toString());
-      console.log ('current year ' + currentYear);
-      currentYear = newYear;
-      g.selectAll(".country").remove();
-      g.selectAll(".coastline").remove();
-      draw(topo, activeCountries, coastline);
+  sliderPlayPauseButton.addEventListener('click', function () {
+    if (sliderPlayPauseButtonState === 'play') {
+      playSlider();
+    }
+    else {
+      pauseSlider();
     }
   });
 
-sliderPlayPauseButton.addEventListener('click', function () {
-  if (sliderPlayPauseButtonState === 'play') {
-    playSlider();
+  function playSlider() {
+    sliderPlayPauseButton.className = 'pause';
+    sliderPlayPauseButton.innerHTML = dictionary.getTranslation('PAUSE');
+    sliderPlayPauseButtonState = 'pause';
+    customSlider.play();
   }
-  else {
-    pauseSlider();
+
+  function pauseSlider() {
+    sliderPlayPauseButton.className = 'play';
+    sliderPlayPauseButton.innerHTML = dictionary.getTranslation('PLAY');
+    sliderPlayPauseButtonState = 'play';
+    customSlider.pause();
   }
-});
 
-function playSlider() {
-  sliderPlayPauseButton.className = 'pause';
-  sliderPlayPauseButton.innerHTML = 'Pause';
-  sliderPlayPauseButtonState = 'pause';
-  customSlider.play();
-}
-
-function pauseSlider() {
   sliderPlayPauseButton.className = 'play';
-  sliderPlayPauseButton.innerHTML = 'Play';
+  sliderPlayPauseButton.innerHTML = dictionary.getTranslation('PLAY');
   sliderPlayPauseButtonState = 'play';
-  customSlider.pause();
 }
 
-sliderPlayPauseButton.className = 'play';
-sliderPlayPauseButton.innerHTML = 'Play';
-var sliderPlayPauseButtonState = 'play';
+function setupSlider() {
+  sliderContainer = document.getElementById('slider');
+  sliderContainer.style.width = windowWidth+'px';
+
+  customSlider = chroniton()
+    .domain([new Date('2007'), new Date('2015')])
+    .hideLabel()
+    .tapAxis(function (axis) {
+      axis.orient('top')
+    })
+    .width(windowWidth - sliderPlayPauseButton.getBoundingClientRect().width)
+    .height(58)
+    .playButton(false)
+        .playbackRate(1)
+        .loop(true);
+
+  d3.select("#slider")
+      .call(customSlider);
+
+  customSlider
+    .setValue(new Date('2015'));
+
+  customSlider
+    .on('change', function(date) {
+      var newYear = date.getFullYear().toString();
+      if (newYear != currentYear) {
+        currentYear = newYear;
+        g.selectAll(".country").remove();
+        g.selectAll(".coastline").remove();
+        draw(topo, activeCountries, coastline);
+      }
+    });
+}
 
 function redraw() {
   width = document.getElementById('map').offsetWidth;
