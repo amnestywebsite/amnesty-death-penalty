@@ -536,10 +536,12 @@ function setupSlider() {
           });
 
           var allCountriesYear = yearData[0].countries;
+          console.log (allCountriesYear);
           console.log (currentDetailBoxCountry);
 
+          //need to match up allCountriesYear with currentDetailBoxCountry and pass it to activateCountry(d)
 
-          activateCountry(d);
+          activateCountry();
         }
       }
     });
