@@ -24,10 +24,18 @@ div.awesomplete > ul {
 	padding: 0;
 	margin: -1px 0 0;
 	background: #fff;
-	border: 1px solid #000;
+	border-style: solid none;
+	border-width: 1px;
+	border-color: #000;
 	font-size: .8rem;
 	text-transform: uppercase;
 	text-shadow: none;
+}
+
+@media screen and (min-width: 40em) {
+	div.awesomplete > ul {
+		border-style: solid;
+	}
 }
 
 div.awesomplete > ul[hidden],
