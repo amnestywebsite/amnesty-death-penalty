@@ -45,6 +45,7 @@ var dictionary;
 var barChartWidth, barChartHeight;
 var detailTemplate;
 var detailBoxOpen = false;
+var currentDetailBoxCountry;
 
 function Dictionary(dictionaryJson) {
   this.dictionary = dictionaryJson;
@@ -273,6 +274,7 @@ function draw(topo, activeCountries, coastline) {
 function activateCountry(d){
   var countryElement = this;
   detailBoxOpen = true;
+  currentDetailBoxCountry = d.id;
 
   console.log (d);
 
@@ -301,6 +303,7 @@ function activateCountry(d){
     reset();
     detailBox.classList.remove("reveal");
     detailBoxOpen = false;
+    currentDetailBoxCountry = null;
     document.querySelector('#search-box-input').value = '';
   });
 }
@@ -532,8 +535,10 @@ function setupSlider() {
             return val.year === currentYear;
           });
 
-          var d = yearData[0].countries;
-          console.log (d);
+          var allCountriesYear = yearData[0].countries;
+          console.log (currentDetailBoxCountry);
+
+
           activateCountry(d);
         }
       }
