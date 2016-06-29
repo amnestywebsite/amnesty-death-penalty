@@ -45,7 +45,7 @@ var dictionary;
 var barChartWidth, barChartHeight;
 var detailTemplate;
 var detailBoxOpen = false;
-var currentDetailBoxCountry;
+var selectedCountryId;
 
 function Dictionary(dictionaryJson) {
   this.dictionary = dictionaryJson;
@@ -274,9 +274,19 @@ function draw(topo, activeCountries, coastline) {
 function activateCountry(d){
   var countryElement = this;
   detailBoxOpen = true;
-  currentDetailBoxCountry = d.id;
 
-  console.log (d);
+  if (d.hasOwnProperty('since') && d.hasOwnProperty('status')) {
+    selectedCountryId = d.id;
+  }
+  else {
+    // If d doesn't look like a country object, then it's probably a list of all country objects for the current year, passed in from the timeline's change event listener. We thus need to find just the data for the country currently displayed in the detail box.
+    for (var i=0; i<d.length; i++) {
+      if (d[i].id === selectedCountryId) {
+        d = d[i];
+        break;
+      }
+    }
+  }
 
   if (countryElement.nodeName !== 'path') {
     countryElement = document.querySelector('path[id="' + d.id + '"]:not(.country)');
@@ -303,7 +313,7 @@ function activateCountry(d){
     reset();
     detailBox.classList.remove("reveal");
     detailBoxOpen = false;
-    currentDetailBoxCountry = null;
+    selectedCountryId = null;
     document.querySelector('#search-box-input').value = '';
   });
 }
@@ -535,13 +545,8 @@ function setupSlider() {
             return val.year === currentYear;
           });
 
-          var allCountriesYear = yearData[0].countries;
-          console.log (allCountriesYear);
-          console.log (currentDetailBoxCountry);
-
-          //need to match up allCountriesYear with currentDetailBoxCountry and pass it to activateCountry(d)
-
-          activateCountry();
+          var d = yearData[0].countries;
+          activateCountry(d);
         }
       }
     });
