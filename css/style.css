@@ -299,6 +299,9 @@ small,.milli {
   #detail-box {
     top: 7.15rem;
   }
+  #detail-box.ABOLITIONIST {
+    top: 1rem;
+  }
 }
 
 .reveal {

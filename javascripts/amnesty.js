@@ -279,6 +279,13 @@ function draw(topo, activeCountries, coastline) {
 
     var detailBox = document.getElementById('detail-box');
     detailBox.classList.add("reveal");
+    if (d.status == "ABOLITIONIST") {
+      detailBox.classList.add("ABOLITIONIST");
+    }
+    else {
+      detailBox.classList.remove("ABOLITIONIST");
+    }
+
     var detailTemplate = Hogan.compile("<div class='wrapper'><div id='btn-close'>×</div><h1 class='no-caps-title'>{{name__localised}}</h1><div class='status-block'><h2 class='mv2'>{{status__localised}}</h2></div>{{#since}}<div class='since-date'><h3 class='mv2 ttu dark-grey'>" + dictionary.getTranslation('SINCE') + " {{since}}</h3></div>{{/since}}<div class='definition'><h3 class='mv2'>{{definitions}}</h3></div></div><div class='totals-block'>{{#death-penalties}}<div class='media bg-white pa3'><div class='media__img'><img class='death-sentences-icon' src='images/hammer.svg'></div><div class='media__body'><h2 class='ttu kilo mt0 mb0'>{{death-penalties}}</h2><h3 class='ttu gamma mt0 mb2 lh-reset'>" + dictionary.getTranslation('DEATH SENTENCES') + "</h3></div></div>{{/death-penalties}}{{#executions}}<div class='media bg-black white pa3'><div class='media__img'><img class='executions-icon' src='images/WhiteNoose.svg'></div><div class='media__body'><h2 class='ttu kilo mt0 mb2'>{{executions}}</h2><h3 class='ttu gamma mt0 mb0 lh-reset'>" + dictionary.getTranslation('EXECUTIONS') + "</h3></div></div>{{/executions}}</div></div>");
 
     var output = detailTemplate.render(d);
