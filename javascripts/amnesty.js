@@ -442,7 +442,7 @@ function setupBarChart(barChartWidth, barChartHeight, activeCountries) {
           tooltipBar
             .classed("hidden", false)
             .attr("style", "left:"+(mouse[0]+offsetPieL)+"px;top:"+(mouse[1]+offsetPieT)+"px")
-            .html('<div class="title-text">' + d.value + ' ' + dictionary.getTranslation('COUNTRIES') + '</div>');
+            .html('<div class="title-text">' + d.value + ' ' + dictionary.getTranslation('COUNTRIES') + '<br><br>' + dictionary.getTranslation(d.fullnameKey + ' DEFINITION') + '</div>');
 
         })
         .on("mouseout",  function(d,i) {
