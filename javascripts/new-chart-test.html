@@ -8,30 +8,49 @@
 	<title>D3!</title>
 
 	<style>
-	svg {
-		border: solid 1px black;
-	}
+		.chart {
+			max-width: 800px;
+		}
 
-	svg .axis path {
-		fill: none;
-		stroke: none;
-	}
+		.chart-aspect-ratio {
+			position: relative;
+			width: 100%;
+			height: 0;
+			padding-bottom: 73.36957%;
+		}
+		
+		.chart-aspect-ratio svg {
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			left: 0;
+			top: 0;
+		}
 
-	svg .axis line {
-		stroke: #aaa;
-		stroke-width: 1px;
-		stroke-dasharray: 2,3;
-	}
+		svg {
+			border: solid 1px black;
+		}
 
-	svg .axis text {
-		fill: #aaa;
-	}
+		svg .axis path {
+			fill: none;
+			stroke: none;
+		}
 
-	svg text {
-		font-family: "AmnestyTradeGothicW04BdCnNo-20", HelveticaNeue-CondensedBold, "Franklin Gothic Medium", sans-serif;
-		font-size: 16px;
-		text-transform: uppercase;
-	}
+		svg .axis line {
+			stroke: #aaa;
+			stroke-width: 1px;
+			stroke-dasharray: 2,3;
+		}
+
+		svg .axis text {
+			fill: #aaa;
+		}
+
+		svg text {
+			font-family: "AmnestyTradeGothicW04BdCnNo-20", HelveticaNeue-CondensedBold, "Franklin Gothic Medium", sans-serif;
+			font-size: 16px;
+			text-transform: uppercase;
+		}
 	</style>
 
 	<script src="d3.js"></script>
@@ -40,6 +59,9 @@
 <body>
 
 <p>It’s D3!</p>
+
+
+<div class="chart"><div class="chart-aspect-ratio"></div></div>
 
 <script>
 (function () {
@@ -89,10 +111,9 @@
 
 
 	// Create SVG
-	svg = d3.select("body")
+	svg = d3.select(".chart-aspect-ratio")
 		.append("svg")
-		.attr("width", w)
-		.attr("height", h);
+		.attr("viewBox", "0 0 " + w + " " + h);
 
 
 	// Create our D3 scale
@@ -172,7 +193,6 @@
 
 			return text;
 		});
-
 })();
 </script>
 
