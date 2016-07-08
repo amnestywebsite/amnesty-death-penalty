@@ -124,6 +124,8 @@
 
 
 	// Draw and adjust the axis
+	// TODO:
+	//     - re-draw axis on resize, to adjust tick label position? Or set label layout differently?
 	axis = d3.svg.axis()
 		.scale( d3.scale.linear().domain([0, 1]).range([0, w]) )
 		.tickValues([0, .25, .5, .75, 1])
@@ -150,10 +152,6 @@
 
 
 	// Draw bars
-
-	// TODO:
-	//     - responsive: instead of width and height, viewbox?
-	//     - responsive: amend font size when rendered smaller?
 	barGroups = svg.selectAll("g.barGroup")
 		.data(dataset)
 		.enter()
