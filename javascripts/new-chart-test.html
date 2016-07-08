@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+
+	<title>D3!</title>
+
+	<style>
+	svg {
+		border: solid 1px black;
+	}
+
+	svg .axis path {
+		fill: none;
+		stroke: none;
+	}
+
+	svg text {
+		font-family: "AmnestyTradeGothicW04BdCnNo-20", HelveticaNeue-CondensedBold, "Franklin Gothic Medium", sans-serif;
+		font-size: 16px;
+	}
+	</style>
+
+	<script src="d3.js"></script>
+</head>
+
+<body>
+
+<p>It’s D3!</p>
+
+<script>
+(function () {
+	"use strict";
+
+	var dataset = [
+	        {
+	            "fullname": "Abolitionist"
+	          , "fullnameKey": "ABOLITIONIST"
+	          , "value": "102"
+	        }
+	      , {
+	            "fullname": "Abolitionist for ordinary crimes"
+	          , "fullnameKey": "ABOLITIONIST FOR ORDINARY CRIMES"
+	          , "value": "6"
+	        }
+	      , {
+	            "fullname": "Abolitionist in practice"
+	          , "fullnameKey": "ABOLITIONIST IN PRACTICE"
+	          , "value": "32"
+	        }
+	      , {
+	            "fullname": "Retentionist"
+	          , "fullnameKey": "RETENTIONIST"
+	          , "value": "58"
+	        }
+	    ]
+	  , countryCounts = []
+	  , i
+	  , coloursForPolicy = {
+	                            "ABOLITIONIST": "#ff0"
+	      , "ABOLITIONIST FOR ORDINARY CRIMES": "#7a7d82"
+	      ,         "ABOLITIONIST IN PRACTICE": "#b6b6b6"
+	      ,                     "RETENTIONIST": "#000"
+	    }
+	  , w = 368
+	  , h = 270
+	  , padding = {
+	        bottom: 30
+	    }
+	  , barAreaHeight = (h-padding.bottom)/dataset.length
+	  , barHeight = barAreaHeight*0.55
+	  , svg
+	  , barGroups
+	  , scale
+	  , axis;
+
+
+	// Create SVG
+	svg = d3.select("body")
+		.append("svg")
+		.attr("width", w)
+		.attr("height", h);
+
+	// Create our D3 scale
+	for (i=0; i<dataset.length; i++) {
+		countryCounts.push( parseInt(dataset[i].value, 10) );
+	}
+
+	scale = d3.scale.linear()
+		.domain([0, d3.sum(countryCounts)])
+		.range([0, w]);
+
+	// Draw bars
+	// TODO:
+	//     - label bars
+	//     - axis
+	//     - axis labels
+	//     - dotted line bits
+	//     - instead of width and height, viewbox?
+	//     - amend font size when rendered smaller?
+	barGroups = svg.selectAll("g")
+		.data(dataset)
+		.enter()
+		.append("g")
+			.attr("class", "barGroup");
+
+	barGroups.append("rect")
+		.attr("x", 1)
+		.attr("y", function (d, i) {
+			var barYPosition = (i * barAreaHeight) + (barAreaHeight - barHeight);
+
+			return barYPosition;
+		})
+		.attr("width", function (d) {
+			var width = scale( parseInt(d.value, 10) );
+
+			return width;
+		})
+		.attr("height", barHeight)
+		.attr("fill", function (d) {
+			var fillColour = coloursForPolicy[d.fullnameKey];
+
+			return fillColour;
+		});
+	barGroups.append("text")
+		.attr("x", 2)
+		.attr("y", function (d, i) {
+			var textBaselineYPosition = (i * barAreaHeight) + (barAreaHeight - barHeight) - 4;
+
+			return textBaselineYPosition;
+		})
+		.text(function (d) {
+			var text = d.fullname;
+
+			return text;
+		});
+
+	// Draw and adjust the axis
+	axis = d3.svg.axis()
+		.scale( d3.scale.linear().domain([0, 1]).range([0, w]) )
+		.tickValues([0, .25, .5, .75, 1])
+		.tickSize(0, 0)
+		.tickFormat( d3.format('%') );
+
+	svg.append("g")
+		.attr("class", "axis")
+	    .call(axis)
+		.attr("transform", function () {
+			var axisHeight = this.getBoundingClientRect().height
+			  , axisYPosition = h - (padding.bottom/2) - (axisHeight/4)
+			  , translateValue = "translate(0, "+axisYPosition+")";
+
+			return translateValue;
+		});
+
+	svg.select("g.tick:first-of-type text")
+		.attr("style", "text-anchor:start");
+
+	svg.select("g.tick:last-of-type text")
+		.attr("style", "text-anchor:end");
+})();
+</script>
+
+</body>
+
+</html>
