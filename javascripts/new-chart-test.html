@@ -17,9 +17,20 @@
 		stroke: none;
 	}
 
+	svg .axis line {
+		stroke: #aaa;
+		stroke-width: 1px;
+		stroke-dasharray: 2,3;
+	}
+
+	svg .axis text {
+		fill: #aaa;
+	}
+
 	svg text {
 		font-family: "AmnestyTradeGothicW04BdCnNo-20", HelveticaNeue-CondensedBold, "Franklin Gothic Medium", sans-serif;
 		font-size: 16px;
+		text-transform: uppercase;
 	}
 	</style>
 
@@ -83,6 +94,7 @@
 		.attr("width", w)
 		.attr("height", h);
 
+
 	// Create our D3 scale
 	for (i=0; i<dataset.length; i++) {
 		countryCounts.push( parseInt(dataset[i].value, 10) );
@@ -92,15 +104,39 @@
 		.domain([0, d3.sum(countryCounts)])
 		.range([0, w]);
 
+
+	// Draw and adjust the axis
+	axis = d3.svg.axis()
+		.scale( d3.scale.linear().domain([0, 1]).range([0, w]) )
+		.tickValues([0, .25, .5, .75, 1])
+		.tickSize(h - padding.bottom)
+		.tickFormat( d3.format('%') );
+
+	svg.append("g")
+		.attr("class", "axis")
+		.call(axis);
+
+	svg.selectAll("g.tick text")
+		.style("transform", function () {
+			var textYPosition = (padding.bottom/2)-(this.getBoundingClientRect().height/2)
+			  , transformValue = "translateY("+textYPosition+"px)";
+
+			return transformValue;
+		});
+
+	svg.select("g.tick:first-of-type text")
+		.style("text-anchor", "start");
+
+	svg.select("g.tick:last-of-type text")
+		.style("text-anchor", "end");
+
+
 	// Draw bars
+
 	// TODO:
-	//     - label bars
-	//     - axis
-	//     - axis labels
-	//     - dotted line bits
-	//     - instead of width and height, viewbox?
-	//     - amend font size when rendered smaller?
-	barGroups = svg.selectAll("g")
+	//     - responsive: instead of width and height, viewbox?
+	//     - responsive: amend font size when rendered smaller?
+	barGroups = svg.selectAll("g.barGroup")
 		.data(dataset)
 		.enter()
 		.append("g")
@@ -137,29 +173,6 @@
 			return text;
 		});
 
-	// Draw and adjust the axis
-	axis = d3.svg.axis()
-		.scale( d3.scale.linear().domain([0, 1]).range([0, w]) )
-		.tickValues([0, .25, .5, .75, 1])
-		.tickSize(0, 0)
-		.tickFormat( d3.format('%') );
-
-	svg.append("g")
-		.attr("class", "axis")
-	    .call(axis)
-		.attr("transform", function () {
-			var axisHeight = this.getBoundingClientRect().height
-			  , axisYPosition = h - (padding.bottom/2) - (axisHeight/4)
-			  , translateValue = "translate(0, "+axisYPosition+")";
-
-			return translateValue;
-		});
-
-	svg.select("g.tick:first-of-type text")
-		.attr("style", "text-anchor:start");
-
-	svg.select("g.tick:last-of-type text")
-		.attr("style", "text-anchor:end");
 })();
 </script>
 
