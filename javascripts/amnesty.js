@@ -42,7 +42,6 @@ var lang = getLangFromQueryString();
 var dir;
 setLangAndDir(lang);
 var dictionary;
-var barChartWidth, barChartHeight;
 var detailTemplate;
 var detailBoxOpen = false;
 var selectedCountryId;
@@ -171,7 +170,7 @@ function ready(error, world, active, dict) {
   coastline = topojson.mesh(world, world.objects.countries, function(a, b) {return a === b});
   draw(topo, activeCountries, coastline);
 
-  setupBarChart(barChartWidth, barChartHeight, activeCountries);
+  setupBarChart(activeCountries);
   setUpSliderPlayPauseButton();
   setupSlider();
 
@@ -390,7 +389,7 @@ d3.select('#zoom-out').on('click', function () {
             .attr("d", path.projection(projection));
 });
 
-function setupBarChart(barChartWidth, barChartHeight, activeCountries) {
+function setupBarChart(activeCountries) {
   var yearData = _.filter(activeCountries, function(val) {
     return val.year === currentYear;
   });
@@ -532,20 +531,18 @@ function setupBarChart(barChartWidth, barChartHeight, activeCountries) {
       return text;
     });
 
-
-
+  // Set up bar chart tooltips
   barGroups
     .on("mousemove", function(d,i) {
-        var mouse = d3.mouse(d3.select('#bar-chart').node());
-          tooltipBar
-            .classed("hidden", false)
-            .attr("style", "left:"+(mouse[0]+15)+"px;top:"+(mouse[1]+15)+"px")
-            .html('<div class="title-text">' + d.value + ' ' + dictionary.getTranslation('COUNTRIES') + '<br><br>' + dictionary.getTranslation(d.fullnameKey + ' DEFINITION') + '</div>');
-
-        })
-        .on("mouseout",  function(d,i) {
-          tooltipBar.classed("hidden", true);
-        });
+      var mouse = d3.mouse(d3.select('#bar-chart').node());
+        tooltipBar
+          .classed("hidden", false)
+          .attr("style", "left:"+(mouse[0]+15)+"px;top:"+(mouse[1]+15)+"px")
+          .html('<div class="title-text">' + d.value + ' ' + dictionary.getTranslation('COUNTRIES') + '<br><br>' + dictionary.getTranslation(d.fullnameKey + ' DEFINITION') + '</div>');
+      })
+      .on("mouseout",  function(d,i) {
+        tooltipBar.classed("hidden", true);
+      });
 }
 
 function setUpSliderPlayPauseButton() {
@@ -611,7 +608,7 @@ function setupSlider() {
         setup(width,height);
         draw(topo, activeCountries, coastline);
         d3.select("#bar-chart > svg").remove();
-        setupBarChart(barChartWidth, barChartHeight, activeCountries);
+        setupBarChart(activeCountries);
 
         if (detailBoxOpen) {
           var yearData = _.filter(activeCountries, function(val) {
@@ -647,10 +644,8 @@ function redraw() {
   setup(width,height);
   draw(topo, activeCountries, coastline);
 
-  barChartWidth = document.getElementById('bar-chart-wrapper').offsetWidth;
-  barChartHeight = (barChartWidth/2)+(barChartWidth/2.5);
   d3.select("#bar-chart > svg").remove();
-  setupBarChart(barChartWidth, barChartHeight, activeCountries);
+  setupBarChart(activeCountries);
 }
 
 var throttleTimer;
