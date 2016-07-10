@@ -140,8 +140,10 @@
 
 				return tickLabelYPosition;
 			})
-			// ...and then shift it down relative to the text's font size, so the text itself is centered. For this font’s x-height, .25em seems to produce the right result.
-			.attr("dy", ".25em");
+			// ...then vertically center-align the text in relation to the baseline...
+			.attr("dominant-baseline", "middle")
+			// ...and remove D3’s default vertical positioning for axis label text.
+			.attr("dy", "0");
 
 	svg.select("g.tick:first-of-type text")
 		.style("text-anchor", "start");
