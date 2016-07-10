@@ -124,8 +124,6 @@
 
 
 	// Draw and adjust the axis
-	// TODO:
-	//     - re-draw axis on resize, to adjust tick label position? Or set label layout differently?
 	axis = d3.svg.axis()
 		.scale( d3.scale.linear().domain([0, 1]).range([0, w]) )
 		.tickValues([0, .25, .5, .75, 1])
@@ -134,15 +132,16 @@
 
 	svg.append("g")
 		.attr("class", "axis")
-		.call(axis);
+		.call(axis)
+		.selectAll("g.tick text")
+			// Center the text baseline in the padding area...
+			.attr("y", function () {
+				var tickLabelYPosition = h - (padding.bottom/2);
 
-	svg.selectAll("g.tick text")
-		.style("transform", function () {
-			var textYPosition = (padding.bottom/2)-(this.getBoundingClientRect().height/2)
-			  , transformValue = "translateY("+textYPosition+"px)";
-
-			return transformValue;
-		});
+				return tickLabelYPosition;
+			})
+			// ...and then shift it down relative to the text's font size, so the text itself is centered. For this font’s x-height, .25em seems to produce the right result.
+			.attr("dy", ".25em");
 
 	svg.select("g.tick:first-of-type text")
 		.style("text-anchor", "start");
