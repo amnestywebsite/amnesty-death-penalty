@@ -391,19 +391,31 @@ d3.select('#zoom-out').on('click', function () {
 });
 
 function setupBarChart(barChartWidth, barChartHeight, activeCountries) {
-
-  var margin = {top: 10, right: 0, bottom: 20, left: 0};
-  var widther = document.getElementById('bar-chart-wrapper').offsetWidth;
-
-  barChartWidth = widther - margin.left - margin.right;
-  barChartHeight = 250 - margin.top - margin.bottom;
-
   var yearData = _.filter(activeCountries, function(val) {
     return val.year === currentYear;
   });
-
-  var fullnameKeys = ["ABOLITIONIST", "ABOLITIONIST FOR ORDINARY CRIMES", "ABOLITIONIST IN PRACTICE", "RETENTIONIST"];
+  var fullnameKeys = ["ABOLITIONIST", "ABOLITIONIST FOR ORDINARY CRIMES", "ABOLITIONIST IN PRACTICE", "RETENTIONIST"]
   var fullnameKeyIndex;
+  var countryCounts = [];
+  var i;
+  var coloursForPolicy = {
+    "ABOLITIONIST": "#ff0",
+    "ABOLITIONIST FOR ORDINARY CRIMES": "#7a7d82",
+    "ABOLITIONIST IN PRACTICE": "#b6b6b6",
+    "RETENTIONIST": "#000"
+  };
+  var w = 368;
+  var h = 270;
+  var padding = {
+    bottom: 30
+  };
+  var barAreaHeight;
+  var barHeight;
+  var svg;
+  var barGroups;
+  var scale;
+  var axis;
+
 
   //clear the data array so it's just the current year
   data = [];
@@ -420,53 +432,114 @@ function setupBarChart(barChartWidth, barChartHeight, activeCountries) {
     }
   }
 
-  var width = barChartWidth,
-      height = barChartHeight,
-      barHeight = 20,
-      labelHeight = 20;
+  barAreaHeight = (h-padding.bottom)/data.length;
+  barHeight = barAreaHeight*0.55;
 
-  var scale = d3.scale.linear()
-      .domain([0, d3.max(data, function (d) { return parseInt(d.value, 10); })])
-      .range([0, width]);
 
-  var chart = d3.select("#bar-chart")
-      .append("svg")
-      .attr("width", width)
-      .attr("height", height);
+  // Create SVG
+  svg = d3.select("#bar-chart")
+    .append("svg")
+    .attr("viewBox", "0 0 " + w + " " + h);
 
-  var bar = chart.selectAll("g")
-      .data(data)
-      .enter().append("g")
-      .attr("transform", function(d, i) { return "translate(0," + ( (i * barHeight) + ( (i)*labelHeight ) ) + ")"; });
 
-  bar.append("text")
-    .attr("x", 0)
+  // Create our D3 scale
+  for (i=0; i<data.length; i++) {
+    countryCounts.push( parseInt(data[i].value, 10) );
+  }
+
+  scale = d3.scale.linear()
+    .domain([0, d3.sum(countryCounts)])
+    .range([0, w]);
+
+
+  // Draw and adjust the axis
+  axis = d3.svg.axis()
+    .scale( d3.scale.linear().domain([0, 1]).range([0, w]) )
+    .tickValues([0, .25, .5, .75, 1])
+    .tickSize(h - padding.bottom)
+    .tickFormat( d3.format('%') );
+
+  svg.append("g")
+    .attr("class", "axis")
+    .call(axis)
+    .selectAll("g.tick text")
+      // Center the text baseline in the padding area...
+      .attr("y", function () {
+        var tickLabelYPosition = h - (padding.bottom/2);
+
+        return tickLabelYPosition;
+      })
+      // ...then vertically center-align the text in relation to the baseline...
+      .attr("dominant-baseline", "middle")
+      // ...and remove D3’s default vertical positioning for axis label text.
+      .attr("dy", "0");
+
+  svg.select("g.tick:first-of-type text")
+    .style("text-anchor", "start");
+
+  svg.select("g.tick:last-of-type text")
+    .style("text-anchor", "end");
+
+
+  // Draw bars
+  barGroups = svg.selectAll("g.barGroup")
+    .data(data)
+    .enter()
+    .append("g")
+      .attr("class", "barGroup");
+
+  barGroups.append("rect")
+    .attr("x", 1)
+    .attr("y", function (d, i) {
+      var barYPosition = (i * barAreaHeight) + (barAreaHeight - barHeight);
+
+      return barYPosition;
+    })
+    .attr("width", function (d) {
+      var width = scale( parseInt(d.value, 10) );
+
+      return width;
+    })
+    .attr("height", barHeight)
+    .attr("class", function (d) {
+      var barClassName = d.fullnameKey.replace(/ /g, '_').toUpperCase();
+
+      return barClassName;
+    });
+  
+  barGroups.append("text")
+    .attr("x", 2)
+    .attr("y", function (d, i) {
+      var textBaselineYPosition = (i * barAreaHeight) + (barAreaHeight - barHeight) - 4;
+
+      return textBaselineYPosition;
+    })
     .attr("text-anchor", function () {
+      var textAnchorValue;
+
       if (dir === "rtl") {
-        return 'end';
+        textAnchorValue = 'end';
       }
       else {
-        return 'start';
+        textAnchorValue = 'start';
       }
+
+      return textAnchorValue;
     })
-    .attr("y", labelHeight-3)
-    .text(function(d) { return d.fullname; });
+    .text(function (d) {
+      var text = d.fullname;
 
-  bar.append("rect")
-      .attr("width", function (d) { return scale(d.value); })
-      .attr("height", barHeight)
-      .attr("y", labelHeight)
-      .attr("class", function (d) { return d.fullnameKey.replace(/ /g, '_').toUpperCase(); });
+      return text;
+    });
 
-  var offsetPieL = document.getElementById('bar-chart').offsetLeft+(width/80);
-  var offsetPieT =document.getElementById('bar-chart').offsetTop+(height/80);
 
-  bar
+
+  barGroups
     .on("mousemove", function(d,i) {
         var mouse = d3.mouse(d3.select('#bar-chart').node());
           tooltipBar
             .classed("hidden", false)
-            .attr("style", "left:"+(mouse[0]+offsetPieL)+"px;top:"+(mouse[1]+offsetPieT)+"px")
+            .attr("style", "left:"+(mouse[0]+15)+"px;top:"+(mouse[1]+15)+"px")
             .html('<div class="title-text">' + d.value + ' ' + dictionary.getTranslation('COUNTRIES') + '<br><br>' + dictionary.getTranslation(d.fullnameKey + ' DEFINITION') + '</div>');
 
         })
