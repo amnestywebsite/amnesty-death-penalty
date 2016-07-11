@@ -438,7 +438,14 @@ function setupBarChart(activeCountries) {
   // Create SVG
   svg = d3.select("#bar-chart")
     .append("svg")
-    .attr("viewBox", "0 0 " + w + " " + h);
+      .attr("viewBox", "0 0 " + w + " " + h)
+      .append("g")
+        .attr("class", "wrapper");
+
+  // Flip the bar chart horizontally, if required
+  if (dir === "rtl") {
+    svg.attr("transform", "translate("+w+", 0) scale(-1, 1)");
+  }
 
 
   // Create our D3 scale
@@ -507,23 +514,18 @@ function setupBarChart(activeCountries) {
     });
   
   barGroups.append("text")
-    .attr("x", 2)
+    .attr("x", function () {
+      if (dir === "rtl") {
+        return -2;
+      }
+      else {
+        return 2;
+      }
+    })
     .attr("y", function (d, i) {
       var textBaselineYPosition = (i * barAreaHeight) + (barAreaHeight - barHeight) - 4;
 
       return textBaselineYPosition;
-    })
-    .attr("text-anchor", function () {
-      var textAnchorValue;
-
-      if (dir === "rtl") {
-        textAnchorValue = 'end';
-      }
-      else {
-        textAnchorValue = 'start';
-      }
-
-      return textAnchorValue;
     })
     .text(function (d) {
       var text = d.fullname;
@@ -543,6 +545,12 @@ function setupBarChart(activeCountries) {
       .on("mouseout",  function(d,i) {
         tooltipBar.classed("hidden", true);
       });
+
+  // Re-flip text elements, if required
+  if (dir === "rtl") {
+    svg.selectAll("text")
+      .attr("transform", "scale(-1, 1)");
+  }
 }
 
 function setUpSliderPlayPauseButton() {
