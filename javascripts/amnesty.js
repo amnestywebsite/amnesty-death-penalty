@@ -252,8 +252,8 @@ function draw(topo, activeCountries, coastline) {
       .attr("d", path);
 
   //ofsets plus width/height of transform, plus 20 px of padding, plus 20 extra for tooltip offset off mouse
-  var offsetL = document.getElementById('map').offsetLeft+(width/80);
-  var offsetT =document.getElementById('map').offsetTop+(height/80);
+  var offsetL = document.getElementById('map').offsetLeft+(width/-180);
+  var offsetT =document.getElementById('map').offsetTop+(height/40);
 
   activeCountry
     .on("mousemove", function(d,i) {
