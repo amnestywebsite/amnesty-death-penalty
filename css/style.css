@@ -162,6 +162,10 @@ small,.milli {
     border-top: none;
     margin-top: 0;
   }
+
+  [dir="rtl"] #info-box {
+    float: right;
+  }
 }
 
 #info-box-inner {
@@ -189,6 +193,10 @@ small,.milli {
   #map {
     width: 75%;
     float: right;
+  }
+
+  [dir="rtl"] #map {
+    float: left;
   }
 }
 
@@ -615,7 +623,11 @@ small,.milli {
 
 @media screen and (min-width: 40em) {
   #slider {
-    float: left;/* Ensure layout is maintained when RTL */
+    float: left;
+  }
+
+  [dir="rtl"] #slider {
+    float: right;
   }
 
   #slider,
