@@ -536,7 +536,7 @@ function setupBarChart(activeCountries) {
 
       return textBaselineYPosition;
     })
-    // It seems that we need unicode-bidi set to bidi-override on SVG <text> elements to make IE lay out text right-to-left when the SVG’s direction is RTL (other browsers  seem to do this automatically). (See e.g. http://stackoverflow.com/questions/16696434/browser-difference-in-displaying-svg-rtl-text-with-bidi-override-and-text-anchor) I'm not sure why, or if this is entirely appropriate.
+    // It seems that we need unicode-bidi set to bidi-override on SVG <text> elements to make IE lay out text right-to-left when the SVG’s direction is RTL (other browsers seem to do this automatically). (See e.g. http://stackoverflow.com/questions/16696434/browser-difference-in-displaying-svg-rtl-text-with-bidi-override-and-text-anchor) I'm not sure why, or if this is entirely appropriate.
     .attr("unicode-bidi", "bidi-override")
     .text(function (d) {
       var text = d.fullname;
