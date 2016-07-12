@@ -240,31 +240,70 @@ small,.milli {
 @media screen and (min-width: 40em) {
   #bar-chart-wrapper {
     width: 100%;
-    padding-left: 0;
   }
 }
 
-#bar-chart text {
-  fill: #000;
-  font: 14px "AmnestyTradeGothicW04BdCnNo-20", HelveticaNeue-CondensedBold, "Franklin Gothic Medium", sans-serif;
+#bar-chart {
+  /* Make this element have the same aspect ratio as the bar chart SVG’s viewport, so that the SVG can scale to fill the available width and maintain its aspect ration */
+  position: relative;
+  width: 100%;
+  height: 0;
+  /* The bar chart SVG's viewbox, at time of writing, is 368×270, and 270 ÷ 368 ≈ 0.7336957 */
+  padding-bottom: 73.36957%;
+}
+
+#bar-chart svg {
+  /* Make the SVG fill the #bar-chart element, which has its aspect ratio set to the same as the SVG itself (see above) */
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+
+#bar-chart svg text {
+  /*fill: #000;*/
+  font-family: "AmnestyTradeGothicW04BdCnNo-20", HelveticaNeue-CondensedBold, "Franklin Gothic Medium", sans-serif;
+  font-size: 16px;
   text-transform: uppercase;
 }
 
-#bar-chart .ABOLITIONIST {
+#bar-chart svg .axis path {
+  fill: none;
+  stroke: none;
+}
+
+#bar-chart svg .axis line {
+  stroke: #aaa;
+  stroke-width: 1px;
+  stroke-dasharray: 2,3;
+}
+
+#bar-chart svg .axis text {
+  fill: #aaa;
+}
+
+
+
+#bar-chart svg .barGroup .ABOLITIONIST {
   fill: #ff0;
 }
 
-#bar-chart .ABOLITIONIST_IN_PRACTICE   {
+#bar-chart svg .barGroup .ABOLITIONIST_IN_PRACTICE   {
   fill: #b6b6b6;
 }
 
-#bar-chart .ABOLITIONIST_FOR_ORDINARY_CRIMES {
+#bar-chart svg .barGroup .ABOLITIONIST_FOR_ORDINARY_CRIMES {
   fill: #7a7d81;
 }
 
-#bar-chart .RETENTIONIST {
+#bar-chart svg .barGroup .RETENTIONIST {
   fill: #000;
 }
+
+
+
+
 
 .total-executions {
   padding-left: 10%;

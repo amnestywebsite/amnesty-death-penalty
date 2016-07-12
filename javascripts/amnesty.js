@@ -42,7 +42,6 @@ var lang = getLangFromQueryString();
 var dir;
 setLangAndDir(lang);
 var dictionary;
-var barChartWidth, barChartHeight;
 var detailTemplate;
 var detailBoxOpen = false;
 var selectedCountryId;
@@ -144,9 +143,9 @@ function reset() {
 
 //Loads in the world data, the active countries, and the translation dictionary
 queue()
-    .defer(d3.json, "data/world-topo.json")
-    .defer(d3.json, "data/data.json")
-    .defer(d3.json, "lang/dictionary.json")
+    .defer(d3.json, "data/world-topo.json?cachebust="+(+new Date()))
+    .defer(d3.json, "data/data.json?cachebust="+(+new Date()))
+    .defer(d3.json, "lang/dictionary.json?cachebust="+(+new Date()))
     .await(ready);
 
 function ready(error, world, active, dict) {
@@ -171,7 +170,7 @@ function ready(error, world, active, dict) {
   coastline = topojson.mesh(world, world.objects.countries, function(a, b) {return a === b});
   draw(topo, activeCountries, coastline);
 
-  setupBarChart(barChartWidth, barChartHeight, activeCountries);
+  setupBarChart(activeCountries);
   setUpSliderPlayPauseButton();
   setupSlider();
 
@@ -390,20 +389,32 @@ d3.select('#zoom-out').on('click', function () {
             .attr("d", path.projection(projection));
 });
 
-function setupBarChart(barChartWidth, barChartHeight, activeCountries) {
-
-  var margin = {top: 10, right: 0, bottom: 20, left: 0};
-  var widther = document.getElementById('bar-chart-wrapper').offsetWidth;
-
-  barChartWidth = widther - margin.left - margin.right;
-  barChartHeight = 250 - margin.top - margin.bottom;
-
+function setupBarChart(activeCountries) {
   var yearData = _.filter(activeCountries, function(val) {
     return val.year === currentYear;
   });
-
-  var fullnameKeys = ["ABOLITIONIST", "ABOLITIONIST FOR ORDINARY CRIMES", "ABOLITIONIST IN PRACTICE", "RETENTIONIST"];
+  var fullnameKeys = ["ABOLITIONIST", "ABOLITIONIST FOR ORDINARY CRIMES", "ABOLITIONIST IN PRACTICE", "RETENTIONIST"]
   var fullnameKeyIndex;
+  var countryCounts = [];
+  var i;
+  var coloursForPolicy = {
+    "ABOLITIONIST": "#ff0",
+    "ABOLITIONIST FOR ORDINARY CRIMES": "#7a7d82",
+    "ABOLITIONIST IN PRACTICE": "#b6b6b6",
+    "RETENTIONIST": "#000"
+  };
+  var w = 368;
+  var h = 270;
+  var padding = {
+    bottom: 30
+  };
+  var barAreaHeight;
+  var barHeight;
+  var svg;
+  var barGroups;
+  var scale;
+  var axis;
+
 
   //clear the data array so it's just the current year
   data = [];
@@ -420,59 +431,138 @@ function setupBarChart(barChartWidth, barChartHeight, activeCountries) {
     }
   }
 
-  var width = barChartWidth,
-      height = barChartHeight,
-      barHeight = 20,
-      labelHeight = 20;
+  barAreaHeight = (h-padding.bottom)/data.length;
+  barHeight = barAreaHeight*0.55;
 
-  var scale = d3.scale.linear()
-      .domain([0, d3.max(data, function (d) { return parseInt(d.value, 10); })])
-      .range([0, width]);
 
-  var chart = d3.select("#bar-chart")
-      .append("svg")
-      .attr("width", width)
-      .attr("height", height);
+  // Create SVG
+  svg = d3.select("#bar-chart")
+    .append("svg")
+      .attr("viewBox", "0 0 " + w + " " + h)
+      .attr("direction", dir)
+      .attr("xml:lang", lang)
+      .append("g")
+        .attr("class", "wrapper");
 
-  var bar = chart.selectAll("g")
-      .data(data)
-      .enter().append("g")
-      .attr("transform", function(d, i) { return "translate(0," + ( (i * barHeight) + ( (i)*labelHeight ) ) + ")"; });
+  // Flip the bar chart horizontally if we’re in RTL mode
+  if (dir === "rtl") {
+    svg.attr("transform", "translate("+w+", 0) scale(-1, 1)");
+  }
 
-  bar.append("text")
-    .attr("x", 0)
-    .attr("text-anchor", function () {
-      if (dir === "rtl") {
-        return 'end';
-      }
-      else {
-        return 'start';
-      }
+  // Create our D3 scale
+  for (i=0; i<data.length; i++) {
+    countryCounts.push( parseInt(data[i].value, 10) );
+  }
+
+  scale = d3.scale.linear()
+    .domain([0, d3.sum(countryCounts)])
+    .range([0, w]);
+
+
+  // Draw and adjust the axis
+  axis = d3.svg.axis()
+    .scale( d3.scale.linear().domain([0, 1]).range([0, w]) )
+    .tickValues([0, .25, .5, .75, 1])
+    .tickSize(h - padding.bottom)
+    .tickFormat( d3.format('%') );
+
+  svg.append("g")
+    .attr("class", "axis")
+    .call(axis)
+    .selectAll("g.tick text")
+      // Center the text baseline in the padding area...
+      .attr("y", function () {
+        var tickLabelYPosition = h - (padding.bottom/2);
+
+        return tickLabelYPosition;
+      })
+      // ...then vertically center-align the text in relation to the baseline...
+      .attr("dominant-baseline", "middle")
+      // ...and remove D3’s default vertical positioning for axis label text.
+      .attr("dy", "0")
+      // We should be able to leave the direction as-is. However, IE doesn't seem to lay text out right-to-left unless we also set unicode-bidi:bidi-override, and doing that to these labels makes the numbers get reversed (e.g. “25%” becomes “%52”), which I believe is wrong. So we force LTR to make other browsers behave like IE.
+      .attr("direction", "ltr");
+
+  // And because we’ve forced direction="ltr" on these labels, we need different text anchoring depending on the graph’s base RTL mode to get the first and last labels flush with the side of the graph.
+  svg.select("g.tick:first-of-type text")
+    .style("text-anchor", function () {
+      var textAnchorValue = (dir === "rtl" ? "end" : "start");
+
+      return textAnchorValue;
+    });
+
+  svg.select("g.tick:last-of-type text")
+    .style("text-anchor", function () {
+      var textAnchorValue = (dir === "rtl" ? "start" : "end");
+
+      return textAnchorValue;
+    });
+
+
+  // Draw bars
+  barGroups = svg.selectAll("g.barGroup")
+    .data(data)
+    .enter()
+    .append("g")
+      .attr("class", "barGroup");
+
+  barGroups.append("rect")
+    .attr("x", 1)
+    .attr("y", function (d, i) {
+      var barYPosition = (i * barAreaHeight) + (barAreaHeight - barHeight);
+
+      return barYPosition;
     })
-    .attr("y", labelHeight-3)
-    .text(function(d) { return d.fullname; });
+    .attr("width", function (d) {
+      var width = scale( parseInt(d.value, 10) );
 
-  bar.append("rect")
-      .attr("width", function (d) { return scale(d.value); })
-      .attr("height", barHeight)
-      .attr("y", labelHeight)
-      .attr("class", function (d) { return d.fullnameKey.replace(/ /g, '_').toUpperCase(); });
+      return width;
+    })
+    .attr("height", barHeight)
+    .attr("class", function (d) {
+      var barClassName = d.fullnameKey.replace(/ /g, '_').toUpperCase();
 
-  var offsetPieL = document.getElementById('bar-chart').offsetLeft+(width/80);
-  var offsetPieT =document.getElementById('bar-chart').offsetTop+(height/80);
+      return barClassName;
+    });
+  
+  barGroups.append("text")
+    .attr("x", function () {
+      var textXPosition = (dir === "rtl" ? -2 : 2);
 
-  bar
+      return textXPosition;
+    })
+    .attr("y", function (d, i) {
+      var textBaselineYPosition = (i * barAreaHeight) + (barAreaHeight - barHeight) - 4;
+
+      return textBaselineYPosition;
+    })
+    // It seems that we need unicode-bidi set to bidi-override on SVG <text> elements to make IE lay out text right-to-left when the SVG’s direction is RTL (other browsers seem to do this automatically). (See e.g. http://stackoverflow.com/questions/16696434/browser-difference-in-displaying-svg-rtl-text-with-bidi-override-and-text-anchor) I'm not sure why, or if this is entirely appropriate.
+    .attr("unicode-bidi", "bidi-override")
+    .text(function (d) {
+      var text = d.fullname;
+
+      return text;
+    });
+
+  // Set up bar chart tooltips
+  barGroups
     .on("mousemove", function(d,i) {
-        var mouse = d3.mouse(d3.select('#bar-chart').node());
-          tooltipBar
-            .classed("hidden", false)
-            .attr("style", "left:"+(mouse[0]+offsetPieL)+"px;top:"+(mouse[1]+offsetPieT)+"px")
-            .html('<div class="title-text">' + d.value + ' ' + dictionary.getTranslation('COUNTRIES') + '<br><br>' + dictionary.getTranslation(d.fullnameKey + ' DEFINITION') + '</div>');
+      var mouse = d3.mouse(d3.select('#bar-chart').node());
+        tooltipBar
+          .classed("hidden", false)
+          .attr("style", "left:"+(mouse[0]+15)+"px;top:"+(mouse[1]+15)+"px")
+          .html('<div class="title-text">' + d.value + ' ' + dictionary.getTranslation('COUNTRIES') + '<br><br>' + dictionary.getTranslation(d.fullnameKey + ' DEFINITION') + '</div>');
+      })
+      .on("mouseout",  function(d,i) {
+        tooltipBar.classed("hidden", true);
+      });
 
-        })
-        .on("mouseout",  function(d,i) {
-          tooltipBar.classed("hidden", true);
-        });
+  // If we’re in RTL mode, re-flip text elements, so that the words aren’t mirrored.
+  if (dir === "rtl") {
+    svg.selectAll("text")
+      .attr("transform", "scale(-1, 1)");
+  }
+
 }
 
 function setUpSliderPlayPauseButton() {
@@ -538,7 +628,7 @@ function setupSlider() {
         setup(width,height);
         draw(topo, activeCountries, coastline);
         d3.select("#bar-chart > svg").remove();
-        setupBarChart(barChartWidth, barChartHeight, activeCountries);
+        setupBarChart(activeCountries);
 
         if (detailBoxOpen) {
           var yearData = _.filter(activeCountries, function(val) {
@@ -574,10 +664,8 @@ function redraw() {
   setup(width,height);
   draw(topo, activeCountries, coastline);
 
-  barChartWidth = document.getElementById('bar-chart-wrapper').offsetWidth;
-  barChartHeight = (barChartWidth/2)+(barChartWidth/2.5);
   d3.select("#bar-chart > svg").remove();
-  setupBarChart(barChartWidth, barChartHeight, activeCountries);
+  setupBarChart(activeCountries);
 }
 
 var throttleTimer;
