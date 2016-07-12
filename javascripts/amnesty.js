@@ -439,14 +439,15 @@ function setupBarChart(activeCountries) {
   svg = d3.select("#bar-chart")
     .append("svg")
       .attr("viewBox", "0 0 " + w + " " + h)
+      .attr("direction", dir)
+      .attr("xml:lang", lang)
       .append("g")
         .attr("class", "wrapper");
 
-  // Flip the bar chart horizontally, if required
+  // Flip the bar chart horizontally if we’re in RTL mode
   if (dir === "rtl") {
     svg.attr("transform", "translate("+w+", 0) scale(-1, 1)");
   }
-
 
   // Create our D3 scale
   for (i=0; i<data.length; i++) {
@@ -478,13 +479,24 @@ function setupBarChart(activeCountries) {
       // ...then vertically center-align the text in relation to the baseline...
       .attr("dominant-baseline", "middle")
       // ...and remove D3’s default vertical positioning for axis label text.
-      .attr("dy", "0");
+      .attr("dy", "0")
+      // We should be able to leave the direction as-is. However, IE doesn't seem to lay text out right-to-left unless we also set unicode-bidi:bidi-override, and doing that to these labels makes the numbers get reversed (e.g. “25%” becomes “%52”), which I believe is wrong. So we force LTR to make other browsers behave like IE.
+      .attr("direction", "ltr");
 
+  // And because we’ve forced direction="ltr" on these labels, we need different text anchoring depending on the graph’s base RTL mode to get the first and last labels flush with the side of the graph.
   svg.select("g.tick:first-of-type text")
-    .style("text-anchor", "start");
+    .style("text-anchor", function () {
+      var textAnchorValue = (dir === "rtl" ? "end" : "start");
+
+      return textAnchorValue;
+    });
 
   svg.select("g.tick:last-of-type text")
-    .style("text-anchor", "end");
+    .style("text-anchor", function () {
+      var textAnchorValue = (dir === "rtl" ? "start" : "end");
+
+      return textAnchorValue;
+    });
 
 
   // Draw bars
@@ -515,18 +527,17 @@ function setupBarChart(activeCountries) {
   
   barGroups.append("text")
     .attr("x", function () {
-      if (dir === "rtl") {
-        return -2;
-      }
-      else {
-        return 2;
-      }
+      var textXPosition = (dir === "rtl" ? -2 : 2);
+
+      return textXPosition;
     })
     .attr("y", function (d, i) {
       var textBaselineYPosition = (i * barAreaHeight) + (barAreaHeight - barHeight) - 4;
 
       return textBaselineYPosition;
     })
+    // It seems that we need unicode-bidi set to bidi-override on SVG <text> elements to make IE lay out text right-to-left when the SVG’s direction is RTL (other browsers  seem to do this automatically). (See e.g. http://stackoverflow.com/questions/16696434/browser-difference-in-displaying-svg-rtl-text-with-bidi-override-and-text-anchor) I'm not sure why, or if this is entirely appropriate.
+    .attr("unicode-bidi", "bidi-override")
     .text(function (d) {
       var text = d.fullname;
 
@@ -546,11 +557,12 @@ function setupBarChart(activeCountries) {
         tooltipBar.classed("hidden", true);
       });
 
-  // Re-flip text elements, if required
+  // If we’re in RTL mode, re-flip text elements, so that the words aren’t mirrored.
   if (dir === "rtl") {
     svg.selectAll("text")
       .attr("transform", "scale(-1, 1)");
   }
+
 }
 
 function setUpSliderPlayPauseButton() {
