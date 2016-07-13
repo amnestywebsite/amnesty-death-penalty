@@ -251,7 +251,7 @@ function draw(topo, activeCountries, coastline) {
       .attr("d", path);
 
   //ofsets plus width/height of transform, plus 20 px of padding, plus 20 extra for tooltip offset off mouse
-  var offsetL = document.getElementById('map').offsetLeft+(width/-180);
+  var offsetL = document.getElementById('map').offsetLeft-300;
   var offsetT =document.getElementById('map').offsetTop+(height/40);
 
   activeCountry
@@ -524,7 +524,7 @@ function setupBarChart(activeCountries) {
 
       return barClassName;
     });
-  
+
   barGroups.append("text")
     .attr("x", function () {
       var textXPosition = (dir === "rtl" ? -2 : 2);
