@@ -548,10 +548,14 @@ function setupBarChart(activeCountries) {
   barGroups
     .on("mousemove", function(d,i) {
       var mouse = d3.mouse(d3.select('#bar-chart').node());
-        tooltipBar
-          .classed("hidden", false)
-          .attr("style", "left:"+(mouse[0]+15)+"px;top:"+(mouse[1]+15)+"px")
-          .html('<div class="title-text">' + d.value + ' ' + dictionary.getTranslation('COUNTRIES') + '<br><br>' + dictionary.getTranslation(d.fullnameKey + ' DEFINITION') + '</div>');
+      var barChartWidth = d3.select('#bar-chart').node().offsetWidth;
+      var xPositionProperty = (dir === "rtl" ? "right" : "left");
+      var xPositionValue = (dir === "rtl" ? barChartWidth-mouse[0]+15 : mouse[0]+15);
+
+      tooltipBar
+        .classed("hidden", false)
+        .attr("style", xPositionProperty+":"+xPositionValue+"px;top:"+(mouse[1]+15)+"px")
+        .html('<div class="title-text">' + d.value + ' ' + dictionary.getTranslation('COUNTRIES') + '<br><br>' + dictionary.getTranslation(d.fullnameKey + ' DEFINITION') + '</div>');
       })
       .on("mouseout",  function(d,i) {
         tooltipBar.classed("hidden", true);
