@@ -225,7 +225,7 @@ function draw(topo, activeCountries, coastline) {
       .attr("class", "country")
       .attr("d", path)
       .attr("id", function(d,i) { return d.id; })
-      .attr("title", function(d,i) { return d.properties.name; })
+      .attr("title", function(d,i) { return d.properties.name__localised; })
       .style("fill", function(d, i) { return d.properties.color; });
 
   var activeCountry = g.selectAll(".activeCountry").data(yearCountries);
