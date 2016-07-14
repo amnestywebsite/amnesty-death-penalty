@@ -4,11 +4,10 @@
   "description": "Maps for death penalties and executions",
   "main": "index.html",
   "scripts": {
-    "build:css": "postcss --use autoprefixer -b 'last 2 versions' < css/*.css | cssmin > dist/css/style.css",
-    "clean": "rm -r dist/*",
-    "lint": "echo '=> linting' && jshint javascripts/*.js",
-    "minify:js": "echo '=> minify:js' && uglifyjs javascripts/*.js -o dist/javascripts/main.min.js",
-    "start": "http-server"
+    "minify:js": "uglifyjs javascripts/vendor/*.js -o javascripts/vendor.min.js",
+    "clean": "rm -rf javascripts/vendor.min.js",
+    "start": "http-server",
+    "build:js": "npm run clean && npm run minify:js"
   },
   "repository": {
     "type": "git",
