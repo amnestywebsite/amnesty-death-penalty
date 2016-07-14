@@ -588,11 +588,17 @@ small,.milli {
 }
 
 .totals-block {
+  display: table-row;
   margin-top: 2rem;
   text-align: left;
   position: absolute;
   bottom: 0;
   width: 100%;
+}
+
+.totals-block .media {
+  display: table-cell;
+  width: 50%;
 }
 
 @media screen and (min-width: 40em) {
