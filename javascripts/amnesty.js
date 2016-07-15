@@ -24,6 +24,7 @@ var center = [width / 2, height / 2];
 
 var startYear = '2015';
 var currentYear = startYear;
+var newYear;
 var tooltip = d3.select("#map").append("div").attr("class", "tooltip hidden");
 var activeCountries, yearCountries, topo, borders, coastline, projection, path, svg, g, zoom;
 var active = d3.select(null);
@@ -626,7 +627,7 @@ function setupSlider() {
 
   customSlider
     .on('change', function(date) {
-      var newYear = date.getFullYear().toString();
+      newYear = date.getFullYear().toString();
       if (newYear != currentYear) {
         currentYear = newYear;
         d3.select('svg').remove();
