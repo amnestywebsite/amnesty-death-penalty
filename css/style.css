@@ -689,6 +689,19 @@ small,.milli {
   background-color: #ffff00;
   border-bottom: 1px solid #939598;
   margin-bottom: 2rem;/* Leave space for #search-box */
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center; /* align vertical */
+  -webkit-justify-content: center;
+  -ms-justify-content: center;
+  -webkit-justify-content: center;
+  justify-content: space-around; /* align horizontal */
 }
 
 @media screen and (min-width: 40em) {
@@ -696,6 +709,22 @@ small,.milli {
     display: none;
   }
 }
+
+.timeline-button {
+  border: none;
+  background: none;
+  display: inline;
+  font-size: 1.8rem;
+}
+
+.next:before {
+  content: "▶";/* See http://stackoverflow.com/a/27053825/20578 */
+}
+
+.previous:before {
+  content: "◀";/* See http://stackoverflow.com/a/27053825/20578 */
+}
+
 
 #search-box {
   position: absolute;
@@ -738,3 +767,4 @@ small,.milli {
     border-style: solid;
   }
 }
+
