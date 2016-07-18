@@ -1064,8 +1064,16 @@ small,.milli {
   content: "▶";/* See http://stackoverflow.com/a/27053825/20578 */
 }
 
+[dir="rtl"] .next:before {
+  content: "◀";/* See http://stackoverflow.com/a/27053825/20578 */
+}
+
 .previous:before {
   content: "◀";/* See http://stackoverflow.com/a/27053825/20578 */
+}
+
+[dir="rtl"] .previous:before {
+  content: "▶";/* See http://stackoverflow.com/a/27053825/20578 */
 }
 
 
