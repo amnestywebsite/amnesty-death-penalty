@@ -743,14 +743,20 @@ small,.milli {
   clear: both;
 }
 
-.media{
-    display:block;
+.media {
+  display:block;
 }
 
 .media__img{
   float:left;
-  margin-right: 0.5rem;
   width: 16%;
+  padding: 0.5rem;
+}
+
+[dir="rtl"] .media__img{
+  float: right;
+  width: 16%;
+  padding: 0.5rem;
 }
 
 @media screen and (min-width: 40em) {
@@ -777,7 +783,10 @@ small,.milli {
 .media__body{
   overflow:hidden;
   width: 74%;
+  padding-top: 0.5rem;
+  text-align: left;
 }
+
 .media__body,
 .media__body > :last-child{
   margin-bottom:0;
@@ -790,6 +799,10 @@ small,.milli {
 .mv2 {
   margin-top: .5rem;
   margin-bottom: .5rem;
+}
+
+.pb1 {
+  padding-bottom: 0.5rem;
 }
 
 .bg-white {
@@ -826,6 +839,9 @@ small,.milli {
   line-height: 1.2;
   text-transform: uppercase;
   margin-top: 0;
+  width: 100%;
+  clear: both;
+  margin-bottom: 0.5rem;
 }
 
 .execution-header {
@@ -843,6 +859,9 @@ small,.milli {
   line-height: 1.2;
   text-transform: uppercase;
   margin-top: 0;
+  width: 100%;
+  clear: both;
+  margin-bottom: 0.5rem;
 }
 
 .execution-header-m {
@@ -861,6 +880,7 @@ small,.milli {
   text-transform: uppercase;
   margin-top: 0;
 }
+
 
 .title-text {
   text-transform: uppercase;
@@ -925,11 +945,14 @@ small,.milli {
   position: absolute;
   bottom: 0;
   width: 100%;
+  display: table;
 }
 
 .totals-block .media {
   display: table-cell;
   width: 50%;
+  text-align: center;
+  vertical-align: middle;
 }
 
 @media screen and (min-width: 40em) {
@@ -944,8 +967,7 @@ small,.milli {
 }
 
 .executions-icon {
-  height: 5rem;
-  margin: auto;
+  height: 3.5rem;
 }
 
 .label-line {
