@@ -1137,6 +1137,7 @@ small,.milli {
 
 #search-box .awesomplete {
   display: block;
+  z-index: 1000;
 }
 
 #search-box input {
