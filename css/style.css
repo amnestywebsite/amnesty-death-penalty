@@ -1137,7 +1137,12 @@ small,.milli {
 
 #search-box .awesomplete {
   display: block;
-  z-index: 1000;
+}
+
+@media screen and (min-width: 40em) {
+  #search-box .awesomplete {
+    z-index: 1000;
+  }
 }
 
 #search-box input {
