@@ -74,7 +74,7 @@ function setup(width,height){
             .scaleExtent([1, 6])
             .on("zoom", move);
 
-  projection = d3.geo.mercator()
+  projection = d3.geo.naturalEarth()
     .translate([(width/2-30), (height/2)])
     .scale( width / 2 / Math.PI);
 
