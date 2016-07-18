@@ -8,7 +8,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <link rel="stylesheet" href="css/tachyons.css">
   <link rel="stylesheet" href="css/chroniton.css">
   <link rel="stylesheet" href="css/awesomplete.css">
   <link rel="stylesheet" href="css/style.css">
@@ -17,7 +16,7 @@
 <body class="clearfix">
 <div class="header-m tc">
   <button id="timeline-previous" class="timeline-button previous"></button>
-    <h1 class="ttu super mt0 mb0 pv2 di" id="overview-year-m">2015</h1>
+    <h1 id="overview-year-m">2015</h1>
   <button id="timeline-next" class="timeline-button next"></button>
 </div>
 
@@ -28,13 +27,9 @@
   </div>
 </div>
 <div id="info-box">
-
   <div id="search-box"></div>
-
   <div id="info-box-inner" class="clearfix">
-
-    <h1 class="ttu giga mb4 overview-year-ns"><span id="overview-year" class="thick-underline"></span></h1>
-
+    <h1 class="overview-year-ns"><span id="overview-year" class="thick-underline"></span></h1>
 
     <div class="footer-left-m">
       <div id="bar-chart-wrapper">
@@ -43,13 +38,13 @@
     </div>
 
     <div class="footer-right-m">
-      <div class="total-executions media mt4-l mt1-m pt2">
-        <div class="media__img">
+      <div class="total-executions">
+        <div class="total-executions-l">
           <img class="total-executions-icon" src="images/BlackNoose.svg">
         </div>
-        <div class="media__body">
-          <h2 class="ttu mega mt0 mb0" id="executions-total"></h2>
-          <h3 class="ttu alpha mt0 mb0 lh-reset" data-translate="EXECUTIONS"></h3>
+        <div class="total-executions-r">
+          <h2 class="execution-header-m" id="executions-total"></h2>
+          <h3 class="execution-words-m lh-reset" data-translate="EXECUTIONS"></h3>
         </div>
       </div>
     </div>
