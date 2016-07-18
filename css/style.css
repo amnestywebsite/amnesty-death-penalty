@@ -575,6 +575,11 @@ small,.milli {
   padding-right: 0.5rem;
 }
 
+[dir="rtl"] .total-executions-icon {
+  height: 70%;
+  padding-left: 0.5rem;
+}
+
 .wrapper {
   margin: 1rem;
 }
