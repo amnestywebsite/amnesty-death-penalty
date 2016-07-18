@@ -8,14 +8,17 @@ if('querySelector' in document && 'addEventListener' in window) {
 d3.select(window).on("resize", throttle);
 
 var scaleAdjust;
+var YPosition;
 var windowWidth = window.innerWidth;
 
 if (windowWidth < 752) {
   scaleAdjust = 1.6;
+  YPosition = 0;
 }
 
 else {
   scaleAdjust = 1.05;
+  YPosition = -30;
 }
 
 var width = document.getElementById('map').offsetWidth;
@@ -75,8 +78,9 @@ function setup(width,height){
             .on("zoom", move);
 
   projection = d3.geo.naturalEarth()
+    .center([-15, YPosition ])
     .translate([(width/2-30), (height/2)])
-    .scale( width / 2 / Math.PI);
+    .scale( width / 1.5 / Math.PI);
 
   path = d3.geo.path()
           .projection(projection);
@@ -253,7 +257,7 @@ function draw(topo, activeCountries, coastline) {
       .attr("d", path);
 
   //ofsets plus width/height of transform, plus 20 px of padding, plus 20 extra for tooltip offset off mouse
-  var offsetL = document.getElementById('map').offsetLeft-300;
+  var offsetL = document.getElementById('map').offsetLeft-250;
   var offsetT =document.getElementById('map').offsetTop+(height/40);
 
   activeCountry
