@@ -209,6 +209,8 @@ function draw(topo, activeCountries, coastline) {
   var output = template.render(yearData[0]);
   executionsTotal.innerHTML = output;
 
+  window.fitText( document.getElementById("executions-total"));
+
   var searchCountries = document.getElementById('search-box');
   var searchTemplate = Hogan.compile('<form onsubmit="return false;"><label class="visually-hidden" for="search-box-input">' + dictionary.getTranslation('SEARCH COUNTRY') + '</label><input id="search-box-input" class="awesomplete" data-list="{{#countries}}{{name__localised}},{{/countries}}" placeholder="' + dictionary.getTranslation('SEARCH COUNTRY') + '" /></form>');
   var searchOutput = searchTemplate.render(yearData[0]);
