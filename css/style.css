@@ -310,6 +310,13 @@ h2,.beta{
     line-height:1;      /* 24px */
 }
 
+@media screen and (min-width: 40em) {
+  h2,.beta{
+    font-size:1.3em;    /* 24px */
+    line-height:1;      /* 24px */
+  }
+}
+
 h3,.gamma{
     font-size:20px;
     font-size:1.25rem;  /* 20px */
@@ -644,11 +651,30 @@ small,.milli {
 
 #detail-box h1 {
   margin-right: 2rem;/* Leave space for #btn-close */
+  font-size: 2rem;
+}
+
+@media screen and (min-width: 40em) {
+  #detail-box h1 {
+    font-size: 1.25rem;
+  }
 }
 
 [dir="rtl"] #detail-box h1 {
   margin-right: 0;
   margin-left: 2rem;/* Leave space for #btn-close */
+}
+
+.detailBox-definition {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+@media screen and (min-width: 40em) {
+  .detailBox-definition {
+   font-size: 0.7rem;
+   line-height: 0.85rem;
+  }
 }
 
 .coastline {
@@ -791,7 +817,7 @@ small,.milli {
   overflow:hidden;
   width: 74%;
   padding-top: 0.5rem;
-  text-align: left;
+  text-align: right;
 }
 
 @media screen and (min-width: 40em) {
