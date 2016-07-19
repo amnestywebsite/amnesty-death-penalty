@@ -9,8 +9,9 @@ All the data is in a single file[/data/data.json]. Working on separate bits and 
 ### Year data
 The year data sits at the top of each year. This controls the year totals and the bar chart.
 
-| year | 2015 |
+| |  |
 |----------|----------|
+| year | 2015 |
 | total-executions | 1,998+ |
 | total-death-sentences | 1,634+ |
 | ABOLITIONIST | 102 |
@@ -22,6 +23,8 @@ The year data sits at the top of each year. This controls the year totals and th
 ### Country data
 Each country is an object with the countries array for that year. All countries that need to be active (i.e. press for detailbox) need to be in this array. Only the id (ISO3) is necessary. The country name which is displayed comes from the dictionary file, but it's included in this data to make it easier to identify the country (rather than from only the ISO3 code). "Since" is the year an abolitionist country abolished the death penalty. "Status" is must match one of the four statuses outlined above.
 
+| |  |
+|----------|----------|
 | id              | IRQ          |
 | name            | Iraq         |
 | since           |              |
