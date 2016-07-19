@@ -27,7 +27,6 @@ var center = [width / 2, height / 2];
 
 var startYear = '2015';
 var currentYear = startYear;
-var newYear;
 var tooltip = d3.select("#map").append("div").attr("class", "tooltip hidden");
 var tooltipOffset;
 var activeCountries, yearCountries, topo, borders, coastline, projection, path, svg, g, zoom;
@@ -647,25 +646,29 @@ function setupSlider() {
 
   customSlider
     .on('change', function(date) {
-      newYear = date.getFullYear().toString();
-      if (newYear != currentYear) {
-        currentYear = newYear;
-        d3.select('svg').remove();
-        setup(width,height);
-        draw(topo, activeCountries, coastline);
-        d3.select("#bar-chart > svg").remove();
-        setupBarChart(activeCountries);
-
-        if (detailBoxOpen) {
-          var yearData = _.filter(activeCountries, function(val) {
-            return val.year === currentYear;
-          });
-
-          var d = yearData[0].countries;
-          activateCountry(d);
-        }
-      }
+      var newYear = date.getFullYear().toString();
+      changeYear(newYear);
     });
+}
+
+function changeYear(newYear) {
+  if (newYear != currentYear) {
+    currentYear = newYear;
+    d3.select('svg').remove();
+    setup(width,height);
+    draw(topo, activeCountries, coastline);
+    d3.select("#bar-chart > svg").remove();
+    setupBarChart(activeCountries);
+
+    if (detailBoxOpen) {
+      var yearData = _.filter(activeCountries, function(val) {
+        return val.year === currentYear;
+      });
+
+      var d = yearData[0].countries;
+      activateCountry(d);
+    }
+  }
 }
 
 function redraw() {
