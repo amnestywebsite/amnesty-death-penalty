@@ -4,7 +4,7 @@ Maps of death penalties and executions for Amnesty International.
 * 'npm run build:js' to delete vendor.min.js and concat and minify the scripts in the vendor folder
 
 ## Data structures
-All the data is in a single file[/data/data.json]. Working on separate bits and pasting them in the correct place is risky, but it avoids working with nested structures and keeps to CSV to JSON (and back) straightforward.
+All the data is in a [single file](/data/data.json). Working on separate bits and pasting them in the correct place is risky, but it avoids working with nested structures and keeps to CSV to JSON (and back) straightforward.
 
 ### Year data
 The year data sits at the top of each year. This controls the year totals and the bar chart.
@@ -33,7 +33,7 @@ Each country is an object with the countries array for that year. All countries 
 | status          | RETENTIONIST |
 
 ### Languages
-The languages come from a language file (/lang/dictionary.json) which includes the translations for all the terms in the application. This approach keeps the data clean and avoids duplication.
+The languages come from a [language file](/lang/dictionary.json) which includes the translations for all the terms in the application. This approach keeps the data clean and avoids duplication.
 
 To set the language add the language code in a variable in the embed url. Supported languages are ['ar', 'en', 'es', 'fr']. If it is not recognised, it will default to English.
 
