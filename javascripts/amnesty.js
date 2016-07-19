@@ -26,6 +26,8 @@ var height = width / scaleAdjust;
 var center = [width / 2, height / 2];
 
 var startYear = '2015';
+var maxYear = '2015';
+var minYear = '2007';
 var currentYear = startYear;
 var tooltip = d3.select("#map").append("div").attr("class", "tooltip hidden");
 var tooltipOffset;
@@ -179,6 +181,7 @@ function ready(error, world, active, dict) {
   setupBarChart(activeCountries);
   setUpSliderPlayPauseButton();
   setupSlider();
+  setupNextPreviousYear();
 
   pymChild.sendHeight();
 }
@@ -627,7 +630,7 @@ function setupSlider() {
   sliderContainer.style.width = windowWidth+'px';
 
   customSlider = chroniton()
-    .domain([new Date('2007'), new Date('2015')])
+    .domain([new Date(minYear), new Date(maxYear)])
     .hideLabel()
     .tapAxis(function (axis) {
       axis.orient('top');
@@ -642,7 +645,7 @@ function setupSlider() {
       .call(customSlider);
 
   customSlider
-    .setValue(new Date('2015'));
+    .setValue(new Date(startYear));
 
   customSlider
     .on('change', function(date) {
@@ -651,8 +654,36 @@ function setupSlider() {
     });
 }
 
+function setupNextPreviousYear() {
+  document.getElementById('timeline-previous').addEventListener('click', function () {
+    var newYear;
+
+    if (currentYear === minYear) {
+      newYear = maxYear;
+    }
+    else {
+      newYear = (parseInt(currentYear, 10)-1).toString();
+    }
+
+    changeYear(newYear);
+  });
+
+  document.getElementById('timeline-next').addEventListener('click', function () {
+    var newYear;
+
+    if (currentYear === maxYear) {
+      newYear = minYear;
+    }
+    else {
+      newYear = (parseInt(currentYear, 10)+1).toString();
+    }
+    
+    changeYear(newYear);
+  });
+}
+
 function changeYear(newYear) {
-  if (newYear != currentYear) {
+  if (newYear.toString() != currentYear) {
     currentYear = newYear;
     d3.select('svg').remove();
     setup(width,height);
@@ -668,6 +699,8 @@ function changeYear(newYear) {
       var d = yearData[0].countries;
       activateCountry(d);
     }
+
+    document.getElementById('overview-year-m').innerText = newYear;
   }
 }
 
