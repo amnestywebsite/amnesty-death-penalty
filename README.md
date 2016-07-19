@@ -49,12 +49,21 @@ An example of pym usage is in [iframe-pym.html](/iframe-pym.html)
 ## Updates
 We're leveraging Github's functionality as much as possible. The live version sits in the gh-pages branch. To keep the data clean and not re-introduce errors it's important to pull before pushing (for yearly updates)
 
+## NOTE: the gh-pages branch is the live version. Any edits in this branch will be published immediately.
+
 ## Editing workflow - small edits
-Small edits can be done
+Small edits can be done in Github using a Github account. If it's a tiny change and you are confident about making it, you can work directly in gh-pages. If not, you can create a new branch when you save it and then merge it into gh-pages once you are happy using a pull request.
+
+1. Log in to Github
+2. Go to the [data file](/data/data.json)
+3. Click on the pencil in the top right
+4. Make the edit
+5. Decide to either save in gh-pages branch or create a new branch
+6. If you made a new branch use https://htmlpreview.github.io to preview the index.html file of the new branch
+7. If you're happy, merge the new branch into gh-pages
 
 ## Editing workflow - yearly updates
-http://www.csvjson.com/csv2json
-
+Two files are necessary for yearly updates. One for the year data and one for the country data. Pass these CSVs to a developer who can integrate them and update the timeline for an extra year.
 
 ## "Rolling" the topojson
 1. Downloaded [Natural Earth shapefiles](http://www.naturalearthdata.com/downloads/)
