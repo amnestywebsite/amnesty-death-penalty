@@ -29,6 +29,7 @@ var startYear = '2015';
 var currentYear = startYear;
 var newYear;
 var tooltip = d3.select("#map").append("div").attr("class", "tooltip hidden");
+var tooltipOffset;
 var activeCountries, yearCountries, topo, borders, coastline, projection, path, svg, g, zoom;
 var active = d3.select(null);
 var tooltipBar = d3.select("#bar-chart").append("div").attr("class", "tooltip hidden");
@@ -258,8 +259,16 @@ function draw(topo, activeCountries, coastline) {
       .attr("id", function(d) { return d.id; })
       .attr("d", path);
 
+  if (dir === "rtl") {
+    tooltipOffset = -20;
+  }
+
+  else {
+    tooltipOffset = -250;
+  }
+
   //ofsets plus width/height of transform, plus 20 px of padding, plus 20 extra for tooltip offset off mouse
-  var offsetL = document.getElementById('map').offsetLeft-250;
+  var offsetL = document.getElementById('map').offsetLeft+tooltipOffset;
   var offsetT =document.getElementById('map').offsetTop+(height/40);
 
   activeCountry
