@@ -209,7 +209,7 @@ function draw(topo, activeCountries, coastline) {
   var output = template.render(yearData[0]);
   executionsTotal.innerHTML = output;
 
-  window.fitText( document.getElementById("executions-total"));
+  window.fitText( document.getElementById("executions-total"), 0.25);
 
   var searchCountries = document.getElementById('search-box');
   var searchTemplate = Hogan.compile('<form onsubmit="return false;"><label class="visually-hidden" for="search-box-input">' + dictionary.getTranslation('SEARCH COUNTRY') + '</label><input id="search-box-input" class="awesomplete" data-list="{{#countries}}{{name__localised}},{{/countries}}" placeholder="' + dictionary.getTranslation('SEARCH COUNTRY') + '" /></form>');
@@ -311,9 +311,12 @@ function activateCountry(d){
     detailBox.classList.remove("ABOLITIONIST");
   }
 
-  detailTemplate = Hogan.compile("<div class='wrapper'><div id='btn-close'>×</div><h1 class='no-caps-title pb1'>{{name__localised}}</h1><div class='status-block'><h2 class='mv2'>{{status__localised}}</h2></div>{{#since}}<div class='since-date'><h3 class='since-header'>" + dictionary.getTranslation('SINCE') + " {{since}}</h3></div>{{/since}}<div class='definition'><h3 class='mv2'>{{definition__localised}}</h3></div></div><div class='totals-block'>{{#death-penalties}}<div class='media bg-white'><div class='media__img dp-image'><img class='death-sentences-icon' src='images/hammer.svg'></div><div class='media__body'><h2 class='dp-header'>{{death-penalties}}</h2></div><h3 class='dp-words lh-reset'>" + dictionary.getTranslation('DEATH SENTENCES') + "</h3></div>{{/death-penalties}}{{#executions}}<div class='media bg-black white'><div class='media__img executions-image'><img class='executions-icon' src='images/WhiteNoose.svg'></div><div class='media__body'><h2 class='execution-header'>{{executions}}</h2></div><h3 class='execution-words lh-reset'>" + dictionary.getTranslation('EXECUTIONS') + "</h3></div>{{/executions}}</div></div>");
+  detailTemplate = Hogan.compile("<div class='wrapper'><div id='btn-close'>×</div><h1 class='no-caps-title pb1'>{{name__localised}}</h1><div class='status-block'><h2 class='mv2'>{{status__localised}}</h2></div>{{#since}}<div class='since-date'><h3 class='since-header'>" + dictionary.getTranslation('SINCE') + " {{since}}</h3></div>{{/since}}<div class='definition'><h3 class='mv2'>{{definition__localised}}</h3></div></div><div class='totals-block'>{{#death-penalties}}<div class='media bg-white'><div class='media__img dp-image'><img class='death-sentences-icon' src='images/hammer.svg'></div><div class='media__body'><h2 class='dp-header' id='dp-header'>{{death-penalties}}</h2></div><h3 class='dp-words lh-reset'>" + dictionary.getTranslation('DEATH SENTENCES') + "</h3></div>{{/death-penalties}}{{#executions}}<div class='media bg-black white'><div class='media__img executions-image'><img class='executions-icon' src='images/WhiteNoose.svg'></div><div class='media__body'><h2 class='execution-header' id='execution-header'>{{executions}}</h2></div><h3 class='execution-words lh-reset'>" + dictionary.getTranslation('EXECUTIONS') + "</h3></div>{{/executions}}</div></div>");
   var output = detailTemplate.render(d);
   detailBox.innerHTML = output;
+
+  window.fitText( document.getElementById("dp-header"), 0.35);
+  window.fitText( document.getElementById("execution-header"), 0.35);
 
   var btnClose = document.getElementById('btn-close');
   btnClose.addEventListener('click', function(event) {
