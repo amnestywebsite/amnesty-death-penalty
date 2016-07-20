@@ -255,8 +255,9 @@ function draw(topo, activeCountries, coastline) {
 
   activeCountry.enter().append("path")
       .attr("class", function(d,i) {
-        var status = d.status.toLowerCase().replace(/.\s/g,"");
-        return status;
+        var className = getPathClassFromCountry(d);
+        
+        return className;
       })
       .attr("id", function(d) { return d.id; })
       .attr("d", path);
@@ -286,7 +287,12 @@ function draw(topo, activeCountries, coastline) {
         });
 
   activeCountry.on('click', activateCountry);
+}
 
+function getPathClassFromCountry(countryData) {
+  var pathClass = countryData.status.toLowerCase().replace(/.\s/g,"");
+
+  return pathClass;
 }
 
 function activateCountry(d){
@@ -689,9 +695,13 @@ function setupNextPreviousYear() {
 function changeYear(newYear) {
   if (newYear.toString() != currentYear) {
     currentYear = newYear;
-    d3.select('svg').remove();
-    setup(width,height);
-    draw(topo, activeCountries, coastline);
+
+    // d3.select('svg').remove();
+    // setup(width,height);
+    // draw(topo, activeCountries, coastline);
+
+    justUpdateMapClasses();
+
     d3.select("#bar-chart > svg").remove();
     setupBarChart(activeCountries);
 
@@ -706,6 +716,33 @@ function changeYear(newYear) {
 
     document.getElementById('overview-year-m').innerText = newYear;
   }
+}
+
+function justUpdateMapClasses() {
+  console.time('justUpdateMapClasses');
+
+  var yearCountry,
+      yearCountryMapElement,
+      i,
+      className,
+      yearData = _.filter(activeCountries, function(val) {
+        return val.year === currentYear;
+      });
+
+  yearCountries = yearData[0].countries;
+  console.log(yearCountries.length);
+
+  for (i=0; i<yearCountries.length; i++) {
+    yearCountry = yearCountries[i];
+
+    yearCountryMapElement = d3.select(document.querySelector('path[id="' + yearCountry.id + '"]:not(.country)'));
+
+    className = getPathClassFromCountry(yearCountry);
+
+    yearCountryMapElement.attr('class', className);
+  }
+
+  console.timeEnd('justUpdateMapClasses');
 }
 
 function redraw() {
