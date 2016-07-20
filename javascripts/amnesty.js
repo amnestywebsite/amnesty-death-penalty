@@ -693,9 +693,10 @@ function setupNextPreviousYear() {
 }
 
 function changeYear(newYear) {
-  console.time('changeYear');
 
   if (newYear.toString() != currentYear) {
+    console.time('changeYear: year actually changed');
+
     currentYear = newYear;
 
     // d3.select('svg').remove();
@@ -717,9 +718,9 @@ function changeYear(newYear) {
     }
 
     document.getElementById('overview-year-m').innerText = newYear;
-  }
 
-  console.timeEnd('changeYear');
+    console.timeEnd('changeYear: year actually changed');
+  }
 }
 
 function justUpdateMapClasses() {
