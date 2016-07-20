@@ -218,6 +218,19 @@ td, th { padding: 0; }
       box-sizing: border-box;
      }
 
+/* Pinch visually hidden class from HTML5 Boilerplate (see https://github.com/h5bp/html5-boilerplate and http://snook.ca/archives/html_and_css/hiding-content-for-accessibility) */
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+
 html {
   height: 100%;
   font-size: 1em;
