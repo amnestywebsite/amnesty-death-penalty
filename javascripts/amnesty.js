@@ -665,7 +665,9 @@ function setupNextPreviousYear() {
       newYear = (parseInt(currentYear, 10)-1).toString();
     }
 
-    changeYear(newYear);
+    // Setting a new customSlider value will result in changeYear() being called
+    customSlider
+      .setValue(new Date(newYear));
   });
 
   document.getElementById('timeline-next').addEventListener('click', function () {
@@ -677,8 +679,10 @@ function setupNextPreviousYear() {
     else {
       newYear = (parseInt(currentYear, 10)+1).toString();
     }
-    
-    changeYear(newYear);
+
+    // Setting a new customSlider value will result in changeYear() being called
+    customSlider
+      .setValue(new Date(newYear));
   });
 }
 
