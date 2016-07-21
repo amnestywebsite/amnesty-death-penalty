@@ -202,17 +202,8 @@ function draw(topo, activeCountries, coastline) {
         });
     });
 
-  var yearTotal = document.getElementById('overview-year');
-  var yearTemplate = Hogan.compile("{{year}}");
-  var yearOutput = yearTemplate.render(yearData[0]);
-  yearTotal.innerHTML = yearOutput;
-
-  var executionsTotal = document.getElementById('executions-total');
-  var template = Hogan.compile("{{total-executions}}");
-  var output = template.render(yearData[0]);
-  executionsTotal.innerHTML = output;
-
-  window.fitText( document.getElementById("executions-total"), 0.25);
+  updateYearTotal(yearData);
+  updateExecutionsTotal(yearData);
 
   var searchCountries = document.getElementById('search-box');
   var searchTemplate = Hogan.compile('<form onsubmit="return false;"><label class="visually-hidden" for="search-box-input">' + dictionary.getTranslation('SEARCH COUNTRY') + '</label><input id="search-box-input" class="awesomplete" data-list="{{#countries}}{{name__localised}},{{/countries}}" placeholder="' + dictionary.getTranslation('SEARCH COUNTRY') + '" /></form>');
@@ -287,6 +278,22 @@ function draw(topo, activeCountries, coastline) {
         });
 
   activeCountry.on('click', activateCountry);
+}
+
+function updateYearTotal(yearData) {
+  var yearTotal = document.getElementById('overview-year');
+  var yearTemplate = Hogan.compile("{{year}}");
+  var yearOutput = yearTemplate.render(yearData[0]);
+  yearTotal.innerHTML = yearOutput;
+}
+
+function updateExecutionsTotal(yearData) {
+  var executionsTotal = document.getElementById('executions-total');
+  var template = Hogan.compile("{{total-executions}}");
+  var output = template.render(yearData[0]);
+  executionsTotal.innerHTML = output;
+
+  window.fitText( document.getElementById("executions-total"), 0.25);
 }
 
 function getPathClassFromCountry(countryData) {
@@ -697,20 +704,19 @@ function changeYear(newYear) {
   if (newYear.toString() != currentYear) {
     currentYear = newYear;
 
-    // d3.select('svg').remove();
-    // setup(width,height);
-    // draw(topo, activeCountries, coastline);
+    updateMapClasses();
 
-    justUpdateMapClasses();
+    var yearData = _.filter(activeCountries, function(val) {
+      return val.year === currentYear;
+    });
+
+    updateYearTotal(yearData);
+    updateExecutionsTotal(yearData);
 
     d3.select("#bar-chart > svg").remove();
     setupBarChart(activeCountries);
 
     if (detailBoxOpen) {
-      var yearData = _.filter(activeCountries, function(val) {
-        return val.year === currentYear;
-      });
-
       var d = yearData[0].countries;
       activateCountry(d);
     }
@@ -719,7 +725,7 @@ function changeYear(newYear) {
   }
 }
 
-function justUpdateMapClasses() {
+function updateMapClasses() {
   var yearCountry,
       yearCountryMapElement,
       i,
