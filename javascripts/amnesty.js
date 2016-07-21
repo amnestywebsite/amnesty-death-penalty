@@ -601,7 +601,7 @@ function setupBarChart(activeCountries) {
 
 function setUpSliderPlayPauseButton() {
   sliderPlayPauseButton = document.getElementById('slider-play-pause');
-  sliderPlayPauseButton.style.height = '60px';/* Must match the custom slider’s height below, taking borders into account */
+  sliderPlayPauseButton.style.height = '58px';/* Must match the custom slider’s height below, taking borders into account */
 
   sliderPlayPauseButton.addEventListener('click', function () {
     if (sliderPlayPauseButtonState === 'play') {
