@@ -695,8 +695,6 @@ function setupNextPreviousYear() {
 function changeYear(newYear) {
 
   if (newYear.toString() != currentYear) {
-    console.time('changeYear: year actually changed');
-
     currentYear = newYear;
 
     // d3.select('svg').remove();
@@ -718,14 +716,10 @@ function changeYear(newYear) {
     }
 
     document.getElementById('overview-year-m').innerText = newYear;
-
-    console.timeEnd('changeYear: year actually changed');
   }
 }
 
 function justUpdateMapClasses() {
-  console.time('justUpdateMapClasses');
-
   var yearCountry,
       yearCountryMapElement,
       i,
@@ -745,8 +739,6 @@ function justUpdateMapClasses() {
 
     yearCountryMapElement.attr('class', className);
   }
-
-  console.timeEnd('justUpdateMapClasses');
 }
 
 function redraw() {
