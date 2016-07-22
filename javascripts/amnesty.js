@@ -7,23 +7,14 @@ if('querySelector' in document && 'addEventListener' in window) {
 
 d3.select(window).on("resize", throttle);
 
-var scaleAdjust;
-var YPosition;
+var mapHeightWidthRatio = 0.45;
+var mapWidthScaleFactor = 0.18504;
 var windowWidth = window.innerWidth;
 
-if (windowWidth < 752) {
-  scaleAdjust = 1.6;
-  YPosition = 0;
-}
-
-else {
-  scaleAdjust = 1.05;
-  YPosition = -30;
-}
-
 var width = document.getElementById('map').offsetWidth;
-var height = width / scaleAdjust;
-var center = [width / 2, height / 2];
+var height = width*mapHeightWidthRatio;
+var mapScale = (width-20)*mapWidthScaleFactor;
+var center = [width / 2, height * 0.567];// For some reason, the height needs to be translated a little more than half to actually center the map. No idea why.
 
 var startYear = '2015';
 var maxYear = '2015';
@@ -80,9 +71,8 @@ function setup(width,height){
             .on("zoom", move);
 
   projection = d3.geo.naturalEarth()
-    .center([-15, YPosition ])
-    .translate([(width/2-30), (height/2)])
-    .scale( width / 1.5 / Math.PI);
+    .scale(mapScale)
+    .translate(center);
 
   path = d3.geo.path()
           .projection(projection);
@@ -752,20 +742,16 @@ function redraw() {
   windowWidth = window.innerWidth;
 
   if (windowWidth < 752) {
-    scaleAdjust = 1.6;
     var clientHeight = document.getElementById('overview-year');
     var distanceFromTop = clientHeight.getBoundingClientRect().bottom;
     var detailBoxHeight = document.getElementById('detail-box');
     detailBoxHeight.style.top = '"' + distanceFromTop + 'px"';
   }
 
-  else {
-    scaleAdjust = 1.05;
-  }
-
-  var height = width / scaleAdjust;
+  var height = width*mapHeightWidthRatio;
   d3.select('svg').remove();
-  center = [width / 2, height / 2];
+  mapScale = (width-20)*mapWidthScaleFactor;
+  center = [width / 2, height * 0.567];
   setup(width,height);
   draw(topo, activeCountries, coastline);
 
