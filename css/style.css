@@ -388,7 +388,7 @@ small,.milli {
 
 @media screen and (min-width: 40em) {
   #info-box {
-    width: 25%;
+    width: 320px;
     float: left;
     background-color: #e5e5e5;
     height: 100%;
@@ -427,13 +427,20 @@ small,.milli {
 }
 
 @media screen and (min-width: 40em) {
-  #map {
-    width: 75%;
+  #map-wrapper {
+    width: 100%;
+    box-sizing: border-box;
     float: right;
+    margin-left: -320px;
+    padding-left: 320px;
   }
 
-  [dir="rtl"] #map {
+  [dir="rtl"] #map-wrapper {
     float: left;
+    margin-right: 0;
+    margin-left: -320px;
+    padding-right: 0;
+    padding-left: 320px;
   }
 }
 
@@ -457,6 +464,7 @@ small,.milli {
   width: 50%;
   background-color: white;
   border-right: 1px solid #939598;
+  margin-right: -1px;
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-box;
@@ -464,18 +472,30 @@ small,.milli {
   display: flex;
 }
 
+[dir="rtl"] .footer-left-m {
+  border-right: none;
+  margin-right: 0;
+  border-left: 1px solid #939598;
+  margin-left: -1px;
+}
+
 @media screen and (min-width: 40em) {
   .footer-left-m {
     width: 100%;
     background-color: #e5e5e5;
     border-right: none;
+    margin-right: 0;
     display: block;
     padding-top: 0;
+  }
+  [dir="rtl"] .footer-left-m {
+    border-left: none;
+    margin-left: 0;
   }
  }
 
 .footer-right-m {
-  width: 49%;
+  width: 50%;
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-box;
@@ -492,6 +512,7 @@ small,.milli {
 }
 
 @media screen and (min-width: 40em) {
+  .lte-ie9 .footer-right-m,
   .footer-right-m {
     width: 100%;
     display: block;
@@ -500,7 +521,13 @@ small,.milli {
 }
 
 #bar-chart-wrapper {
-  width: 80%;
+  width: 98%;
+  margin-left: 1%;
+}
+
+[dir="rtl"] #bar-chart-wrapper {
+  margin-left: 0;
+  margin-right: 1%;
 }
 
 @media screen and (min-width: 40em) {
@@ -925,14 +952,6 @@ small,.milli {
   margin-bottom: 0.5rem;
 }
 
-@media screen and (min-width: 40em) {
-  .execution-words {
-  font-size: 14px;
-  font-size: 0.875rem;
-  line-height: 1.2;
-  }
-}
-
 .execution-header-m {
   font-size: 32px;
   font-size: 2rem;
@@ -947,7 +966,23 @@ small,.milli {
   font-size: 1rem;
   line-height: 1;
   text-transform: uppercase;
-  margin-top: 0;
+  margin: 0;
+}
+
+@media screen and (min-width: 40em) {
+  .execution-words {
+    font-size: 14px;
+    font-size: 0.875rem;
+    line-height: 1.2;
+  }
+
+  .execution-header-m {
+    font-size: 4.5rem;
+  }
+
+  .execution-words-m {
+    font-size: 2rem;
+  }
 }
 
 
