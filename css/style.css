@@ -597,12 +597,13 @@ small,.milli {
 }
 
 .total-executions-icon {
-  height: 70%;
+  width: 50px;
+  height: 122px;
   padding-right: 0.5rem;
 }
 
 [dir="rtl"] .total-executions-icon {
-  height: 70%;
+  padding-right: 0;
   padding-left: 0.5rem;
 }
 
