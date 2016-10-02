@@ -65,6 +65,13 @@ Small edits can be done in Github using a Github account. If it's a tiny change 
 ## Editing workflow - yearly updates
 Two files are necessary for yearly updates. One for the year data and one for the country data. Pass these CSVs to a developer who can integrate them and update the timeline for an extra year.
 
+Each year is in a separate sheet. Some things to watch out for:
+1. Make sure the extra columns are empty.
+2. Make sure the year is text (Select, right click, Format cells, text)
+3. Make sure when save as CSV to "edit filter settings" and "quote all text cells"
+4. http://www.convertcsv.com/csv-to-json.htm
+5.
+
 ## "Rolling" the topojson
 1. Downloaded [Natural Earth shapefiles](http://www.naturalearthdata.com/downloads/)
 2. Transform the shapefiles into geojson removing Antarctica: `ogr2ogr -f GeoJSON -where "SU_A3 <> 'ATA'" world.json ne_50m_admin_0_countries/ne_50m_admin_0_countries.shp`

@@ -148,7 +148,7 @@ queue()
 function ready(error, world, active, dict) {
   dictionary = new Dictionary(dict);
   translateHTML();
-  
+
   var countries = topojson.feature(world, world.objects.countries).features;
   topo = countries;
 
@@ -237,7 +237,7 @@ function draw(topo, activeCountries, coastline) {
   activeCountry.enter().append("path")
       .attr("class", function(d,i) {
         var className = getPathClassFromCountry(d);
-        
+
         return className;
       })
       .attr("id", function(d) { return d.id; })
