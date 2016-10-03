@@ -295,12 +295,12 @@ function activateCountry(d){
   detailBoxOpen = true;
 
   if (d.hasOwnProperty('since') && d.hasOwnProperty('status')) {
-    selectedCountryId = d.id;
+    selectedCountryId = (d.id || d.ID);
   }
   else {
     // If d doesn't look like a country object, then it's probably a list of all country objects for the current year, passed in from the timeline's change event listener. We thus need to find just the data for the country currently displayed in the detail box.
     for (var i=0; i<d.length; i++) {
-      if (d[i].id === selectedCountryId) {
+      if (d[i].id === selectedCountryId || d[i].ID === selectedCountryId) {
         d = d[i];
         break;
       }
@@ -308,7 +308,7 @@ function activateCountry(d){
   }
 
   if (countryElement.nodeName !== 'path') {
-    countryElement = document.querySelector('path[id="' + d.id + '"]:not(.country)');
+    countryElement = document.querySelector('path[id="' + (d.id || d.ID) + '"]:not(.country)');
   }
 
   active.classed("active", false);
