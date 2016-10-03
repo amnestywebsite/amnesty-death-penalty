@@ -294,18 +294,14 @@ function activateCountry(d){
   var countryElement = this;
   detailBoxOpen = true;
 
-  console.log ("activateCountry fired");
-
   if (d.hasOwnProperty('since') && d.hasOwnProperty('status')) {
     selectedCountryId = d.id;
-    console.log ("it's not a list of countries");
   }
   else {
     // If d doesn't look like a country object, then it's probably a list of all country objects for the current year, passed in from the timeline's change event listener. We thus need to find just the data for the country currently displayed in the detail box.
     for (var i=0; i<d.length; i++) {
       if (d[i].id === selectedCountryId) {
         d = d[i];
-        console.log ("it's a list of countries");
         break;
       }
     }
@@ -706,7 +702,6 @@ function changeYear(newYear) {
     if (detailBoxOpen) {
       var d = yearData[0].countries;
       activateCountry(d);
-      console.log("detailbox is open");
     }
 
     document.getElementById('overview-year-m').innerText = newYear;

@@ -9,7 +9,7 @@
       "RETENTIONIST":"28",
       "countries":[
  {
-   "ID": "ALB",
+   "id": "ALB",
    "name": "Albania",
    "since": 2007,
    "executions": "",
@@ -17,7 +17,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AND",
+   "id": "AND",
    "name": "Andorra",
    "since": 1990,
    "executions": "",
@@ -25,7 +25,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AGO",
+   "id": "AGO",
    "name": "Angola",
    "since": 1992,
    "executions": "",
@@ -33,7 +33,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ARM",
+   "id": "ARM",
    "name": "Armenia",
    "since": 2003,
    "executions": "",
@@ -41,7 +41,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AUS",
+   "id": "AUS",
    "name": "Australia",
    "since": 1985,
    "executions": "",
@@ -49,7 +49,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AUT",
+   "id": "AUT",
    "name": "Austria",
    "since": 1968,
    "executions": "",
@@ -57,7 +57,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AZE",
+   "id": "AZE",
    "name": "Azerbaijan",
    "since": 1998,
    "executions": "",
@@ -65,7 +65,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BEL",
+   "id": "BEL",
    "name": "Belgium",
    "since": 1996,
    "executions": "",
@@ -73,7 +73,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BTN",
+   "id": "BTN",
    "name": "Bhutan",
    "since": 2004,
    "executions": "",
@@ -81,7 +81,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BIH",
+   "id": "BIH",
    "name": "Bosnia and Herzegovina",
    "since": 2001,
    "executions": "",
@@ -89,7 +89,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BGR",
+   "id": "BGR",
    "name": "Bulgaria",
    "since": 1998,
    "executions": "",
@@ -97,7 +97,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "KHM",
+   "id": "KHM",
    "name": "Cambodia",
    "since": 1989,
    "executions": "",
@@ -105,7 +105,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CAN",
+   "id": "CAN",
    "name": "Canada",
    "since": 1998,
    "executions": "",
@@ -113,7 +113,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CPV",
+   "id": "CPV",
    "name": "Cabo Verde",
    "since": 1981,
    "executions": "",
@@ -121,7 +121,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "COL",
+   "id": "COL",
    "name": "Colombia",
    "since": 1910,
    "executions": "",
@@ -129,7 +129,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "COK",
+   "id": "COK",
    "name": "Cook Islands",
    "since": 2007,
    "executions": "",
@@ -137,7 +137,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CRI",
+   "id": "CRI",
    "name": "Costa Rica",
    "since": 1877,
    "executions": "",
@@ -145,7 +145,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CIV",
+   "id": "CIV",
    "name": "CÃ´te d'Ivoire",
    "since": 2000,
    "executions": "",
@@ -153,7 +153,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HRV",
+   "id": "HRV",
    "name": "Croatia",
    "since": 1990,
    "executions": "",
@@ -161,7 +161,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CYP",
+   "id": "CYP",
    "name": "Cyprus",
    "since": 2002,
    "executions": "",
@@ -169,7 +169,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CZE",
+   "id": "CZE",
    "name": "Czech Republic ",
    "since": 1990,
    "executions": "",
@@ -177,7 +177,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DNK",
+   "id": "DNK",
    "name": "Denmark",
    "since": 1978,
    "executions": "",
@@ -185,7 +185,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DJI",
+   "id": "DJI",
    "name": "Djibouti",
    "since": 1995,
    "executions": "",
@@ -193,7 +193,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DOM",
+   "id": "DOM",
    "name": "Dominican Republic",
    "since": 1966,
    "executions": "",
@@ -201,7 +201,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ECU",
+   "id": "ECU",
    "name": "Ecuador",
    "since": 1906,
    "executions": "",
@@ -209,7 +209,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "EST",
+   "id": "EST",
    "name": "Estonia",
    "since": 1998,
    "executions": "",
@@ -217,7 +217,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "FIN",
+   "id": "FIN",
    "name": "Finland",
    "since": 1972,
    "executions": "",
@@ -225,7 +225,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "FRA",
+   "id": "FRA",
    "name": "France",
    "since": 1981,
    "executions": "",
@@ -233,7 +233,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GEO",
+   "id": "GEO",
    "name": "Georgia",
    "since": 1997,
    "executions": "",
@@ -241,7 +241,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DEU",
+   "id": "DEU",
    "name": "Germany",
    "since": 1987,
    "executions": "",
@@ -249,7 +249,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GRC",
+   "id": "GRC",
    "name": "Greece",
    "since": 2004,
    "executions": "",
@@ -257,7 +257,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GNB",
+   "id": "GNB",
    "name": "Guinea-Bissau",
    "since": 1993,
    "executions": "",
@@ -265,7 +265,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HTI",
+   "id": "HTI",
    "name": "Haiti",
    "since": 1987,
    "executions": "",
@@ -273,7 +273,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "VAT",
+   "id": "VAT",
    "name": "Holy See",
    "since": 1969,
    "executions": "",
@@ -281,7 +281,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HND",
+   "id": "HND",
    "name": "Honduras",
    "since": 1956,
    "executions": "",
@@ -289,7 +289,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HUN",
+   "id": "HUN",
    "name": "Hungary",
    "since": 1990,
    "executions": "",
@@ -297,7 +297,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ISL",
+   "id": "ISL",
    "name": "Iceland",
    "since": 1928,
    "executions": "",
@@ -305,7 +305,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "IRL",
+   "id": "IRL",
    "name": "Ireland",
    "since": 1990,
    "executions": "",
@@ -313,7 +313,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ITA",
+   "id": "ITA",
    "name": "Italy",
    "since": 1994,
    "executions": "",
@@ -321,7 +321,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "KIR",
+   "id": "KIR",
    "name": "Kiribati",
    "since": 1979,
    "executions": "",
@@ -329,7 +329,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "KGZ",
+   "id": "KGZ",
    "name": "Kyrgyzstan",
    "since": 2007,
    "executions": "",
@@ -337,7 +337,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "LIE",
+   "id": "LIE",
    "name": "Liechtenstein",
    "since": 1987,
    "executions": "",
@@ -345,7 +345,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "LTU",
+   "id": "LTU",
    "name": "Lithunia",
    "since": 1998,
    "executions": "",
@@ -353,7 +353,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "LUX",
+   "id": "LUX",
    "name": "Luxembourg",
    "since": 1979,
    "executions": "",
@@ -361,7 +361,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MKD",
+   "id": "MKD",
    "name": "Macedonia",
    "since": 1991,
    "executions": "",
@@ -369,7 +369,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MLT",
+   "id": "MLT",
    "name": "Malta",
    "since": 2000,
    "executions": "",
@@ -377,7 +377,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MHL",
+   "id": "MHL",
    "name": "Marshall Islands",
    "since": 1986,
    "executions": "",
@@ -385,7 +385,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MUS",
+   "id": "MUS",
    "name": "Mauritius",
    "since": 1995,
    "executions": "",
@@ -393,7 +393,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MEX",
+   "id": "MEX",
    "name": "Mexico",
    "since": 2005,
    "executions": "",
@@ -401,7 +401,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "FSM",
+   "id": "FSM",
    "name": "Micronesia",
    "since": 1986,
    "executions": "",
@@ -409,7 +409,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MDA",
+   "id": "MDA",
    "name": "Moldova",
    "since": 1995,
    "executions": "",
@@ -417,7 +417,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MCO",
+   "id": "MCO",
    "name": "Monaco",
    "since": 1962,
    "executions": "",
@@ -425,7 +425,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MNE",
+   "id": "MNE",
    "name": "Montenegro",
    "since": 2002,
    "executions": "",
@@ -433,7 +433,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MOZ",
+   "id": "MOZ",
    "name": "Mozambique",
    "since": 1990,
    "executions": "",
@@ -441,7 +441,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NAM",
+   "id": "NAM",
    "name": "Namibia",
    "since": 1990,
    "executions": "",
@@ -449,7 +449,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NPL",
+   "id": "NPL",
    "name": "Nepal",
    "since": 1997,
    "executions": "",
@@ -457,7 +457,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NLD",
+   "id": "NLD",
    "name": "Netherlands",
    "since": 1982,
    "executions": "",
@@ -465,7 +465,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NZL",
+   "id": "NZL",
    "name": "New Zealand",
    "since": 1989,
    "executions": "",
@@ -473,7 +473,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NIC",
+   "id": "NIC",
    "name": "Nicaragua",
    "since": 1979,
    "executions": "",
@@ -481,7 +481,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NIU",
+   "id": "NIU",
    "name": "Niue",
    "since": 1974,
    "executions": "",
@@ -489,7 +489,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NOR",
+   "id": "NOR",
    "name": "Norway",
    "since": 1979,
    "executions": "",
@@ -497,7 +497,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PLW",
+   "id": "PLW",
    "name": "Palau",
    "since": 1994,
    "executions": "",
@@ -505,7 +505,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PAN",
+   "id": "PAN",
    "name": "Panama",
    "since": 1922,
    "executions": "",
@@ -513,7 +513,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PRY",
+   "id": "PRY",
    "name": "Paraguay",
    "since": 1992,
    "executions": "",
@@ -521,7 +521,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PHL",
+   "id": "PHL",
    "name": "Philippines",
    "since": 2006,
    "executions": "",
@@ -529,7 +529,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "POL",
+   "id": "POL",
    "name": "Poland",
    "since": 1997,
    "executions": "",
@@ -537,7 +537,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PRT",
+   "id": "PRT",
    "name": "Portugal",
    "since": 1976,
    "executions": "",
@@ -545,7 +545,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ROU",
+   "id": "ROU",
    "name": "Romania",
    "since": 1989,
    "executions": "",
@@ -553,7 +553,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "RWA",
+   "id": "RWA",
    "name": "Rwanda",
    "since": 2007,
    "executions": "",
@@ -561,7 +561,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "WSM",
+   "id": "WSM",
    "name": "Samoa",
    "since": 2004,
    "executions": "",
@@ -569,7 +569,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SMR",
+   "id": "SMR",
    "name": "San Marino",
    "since": 1865,
    "executions": "",
@@ -577,7 +577,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "STP",
+   "id": "STP",
    "name": "Sao Tome and Principe",
    "since": 1990,
    "executions": "",
@@ -585,7 +585,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SEN",
+   "id": "SEN",
    "name": "Senegal",
    "since": 2004,
    "executions": "",
@@ -593,7 +593,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SRB",
+   "id": "SRB",
    "name": "Serbia",
    "since": 2002,
    "executions": "",
@@ -601,7 +601,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SYC",
+   "id": "SYC",
    "name": "Seychelles",
    "since": 1993,
    "executions": "",
@@ -609,7 +609,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SVK",
+   "id": "SVK",
    "name": "Slovakia",
    "since": 1990,
    "executions": "",
@@ -617,7 +617,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SVN",
+   "id": "SVN",
    "name": "Slovenia",
    "since": 1989,
    "executions": "",
@@ -625,7 +625,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SLB",
+   "id": "SLB",
    "name": "Solomon Islands",
    "since": 1978,
    "executions": "",
@@ -633,7 +633,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ZAF",
+   "id": "ZAF",
    "name": "South Africa",
    "since": 1997,
    "executions": "",
@@ -641,7 +641,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ESP",
+   "id": "ESP",
    "name": "Spain",
    "since": 1995,
    "executions": "",
@@ -649,7 +649,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SWE",
+   "id": "SWE",
    "name": "Sweden",
    "since": 1972,
    "executions": "",
@@ -657,7 +657,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CHE",
+   "id": "CHE",
    "name": "Switzerland",
    "since": 1992,
    "executions": "",
@@ -665,7 +665,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TLS",
+   "id": "TLS",
    "name": "Timor-Leste",
    "since": 1999,
    "executions": "",
@@ -673,7 +673,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TGO",
+   "id": "TGO",
    "name": "Togo",
    "since": 1991,
    "executions": "",
@@ -681,7 +681,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TUR",
+   "id": "TUR",
    "name": "Turkey",
    "since": 2004,
    "executions": "",
@@ -689,7 +689,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TKM",
+   "id": "TKM",
    "name": "Turkmenistan",
    "since": 1999,
    "executions": "",
@@ -697,7 +697,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TUV",
+   "id": "TUV",
    "name": "Tuvalu",
    "since": 1978,
    "executions": "",
@@ -705,7 +705,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "UKR",
+   "id": "UKR",
    "name": "Ukraine",
    "since": 1999,
    "executions": "",
@@ -713,7 +713,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GBR",
+   "id": "GBR",
    "name": "UK ",
    "since": 1998,
    "executions": "",
@@ -721,7 +721,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "URY",
+   "id": "URY",
    "name": "Uruguay",
    "since": 1907,
    "executions": "",
@@ -729,7 +729,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "VUT",
+   "id": "VUT",
    "name": "Vanuatu",
    "since": 1980,
    "executions": "",
@@ -737,7 +737,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "VEN",
+   "id": "VEN",
    "name": "Venezuela",
    "since": 1863,
    "executions": "",
@@ -745,7 +745,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BRA",
+   "id": "BRA",
    "name": "Brazil",
    "since": null,
    "executions": "0",
@@ -753,7 +753,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "CHL",
+   "id": "CHL",
    "name": "Chile",
    "since": null,
    "executions": "",
@@ -761,7 +761,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "SLV",
+   "id": "SLV",
    "name": "El Salvador",
    "since": null,
    "executions": "",
@@ -769,7 +769,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "FJI",
+   "id": "FJI",
    "name": "Fiji",
    "since": null,
    "executions": "",
@@ -777,7 +777,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "ISR",
+   "id": "ISR",
    "name": "Israel",
    "since": null,
    "executions": "",
@@ -785,7 +785,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "KAZ",
+   "id": "KAZ",
    "name": "Kazakhstan",
    "since": null,
    "executions": "",
@@ -793,7 +793,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "PER",
+   "id": "PER",
    "name": "Peru",
    "since": null,
    "executions": "",
@@ -801,7 +801,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "ARG",
+   "id": "ARG",
    "name": "Argentina",
    "since": null,
    "executions": "",
@@ -809,7 +809,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "BOL",
+   "id": "BOL",
    "name": "Bolivia",
    "since": null,
    "executions": "",
@@ -817,7 +817,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "LVA",
+   "id": "LVA",
    "name": "Latvia",
    "since": null,
    "executions": "",
@@ -825,7 +825,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "LKA",
+   "id": "LKA",
    "name": "Sri Lanka",
    "since": null,
    "executions": "",
@@ -833,7 +833,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "KEN",
+   "id": "KEN",
    "name": "Kenya",
    "since": null,
    "executions": "",
@@ -841,7 +841,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "DZA",
+   "id": "DZA",
    "name": "Algeria",
    "since": null,
    "executions": "",
@@ -849,7 +849,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "ZMB",
+   "id": "ZMB",
    "name": "Zambia",
    "since": null,
    "executions": "",
@@ -857,7 +857,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "GHA",
+   "id": "GHA",
    "name": "Ghana",
    "since": null,
    "executions": "",
@@ -865,7 +865,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MAR",
+   "id": "MAR",
    "name": "Morocco/Western Sahara",
    "since": null,
    "executions": "",
@@ -873,7 +873,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MLI",
+   "id": "MLI",
    "name": "Mali",
    "since": null,
    "executions": "",
@@ -881,7 +881,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "COG",
+   "id": "COG",
    "name": "Congo (Republic of)",
    "since": null,
    "executions": "",
@@ -889,7 +889,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MRT",
+   "id": "MRT",
    "name": "Mauritania",
    "since": null,
    "executions": "",
@@ -897,7 +897,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "SLE",
+   "id": "SLE",
    "name": "Sierra Leone",
    "since": null,
    "executions": "",
@@ -905,7 +905,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TUN",
+   "id": "TUN",
    "name": "Tunisia",
    "since": null,
    "executions": "",
@@ -913,7 +913,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MDV",
+   "id": "MDV",
    "name": "Maldives",
    "since": null,
    "executions": "",
@@ -921,7 +921,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MMR",
+   "id": "MMR",
    "name": "Myanmar",
    "since": null,
    "executions": "",
@@ -929,7 +929,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "KOR",
+   "id": "KOR",
    "name": "South Korea",
    "since": null,
    "executions": "",
@@ -937,7 +937,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "BEN",
+   "id": "BEN",
    "name": "Benin",
    "since": null,
    "executions": "",
@@ -945,7 +945,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "BRN",
+   "id": "BRN",
    "name": "Brunei Darussalam",
    "since": null,
    "executions": "",
@@ -953,7 +953,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "BFA",
+   "id": "BFA",
    "name": "Burkina Faso",
    "since": null,
    "executions": "",
@@ -961,7 +961,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "CMR",
+   "id": "CMR",
    "name": "Cameroon",
    "since": null,
    "executions": "",
@@ -969,7 +969,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "CAF",
+   "id": "CAF",
    "name": "Central African Republic",
    "since": null,
    "executions": "",
@@ -977,7 +977,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "ERI",
+   "id": "ERI",
    "name": "Eritrea",
    "since": null,
    "executions": "",
@@ -985,7 +985,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "GRD",
+   "id": "GRD",
    "name": "Grenada",
    "since": null,
    "executions": "",
@@ -993,7 +993,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "LAO",
+   "id": "LAO",
    "name": "Laos",
    "since": null,
    "executions": "",
@@ -1001,7 +1001,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "LBR",
+   "id": "LBR",
    "name": "Liberia",
    "since": null,
    "executions": "",
@@ -1009,7 +1009,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MDG",
+   "id": "MDG",
    "name": "Madagascar",
    "since": null,
    "executions": "",
@@ -1017,7 +1017,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": " MWI",
+   "id": " MWI",
    "name": "Malawi",
    "since": null,
    "executions": "",
@@ -1025,7 +1025,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "NRU",
+   "id": "NRU",
    "name": "Nauru",
    "since": null,
    "executions": "",
@@ -1033,7 +1033,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "NER",
+   "id": "NER",
    "name": "Niger",
    "since": null,
    "executions": "",
@@ -1041,7 +1041,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "PNG",
+   "id": "PNG",
    "name": "Papua New Guinea",
    "since": null,
    "executions": "",
@@ -1049,7 +1049,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "RUS",
+   "id": "RUS",
    "name": "Russian Federation",
    "since": null,
    "executions": "",
@@ -1057,7 +1057,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "SUR",
+   "id": "SUR",
    "name": "Suriname",
    "since": null,
    "executions": "",
@@ -1065,7 +1065,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "SWZ",
+   "id": "SWZ",
    "name": "Swaziland",
    "since": null,
    "executions": "",
@@ -1073,7 +1073,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TJK",
+   "id": "TJK",
    "name": "Tajikistan",
    "since": null,
    "executions": "",
@@ -1081,7 +1081,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TZA",
+   "id": "TZA",
    "name": "Tanzania",
    "since": null,
    "executions": "",
@@ -1089,7 +1089,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TON",
+   "id": "TON",
    "name": "Tonga",
    "since": null,
    "executions": "",
@@ -1097,7 +1097,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "GAB",
+   "id": "GAB",
    "name": "Gabon",
    "since": null,
    "executions": "",
@@ -1105,7 +1105,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "CHN",
+   "id": "CHN",
    "name": "China",
    "since": null,
    "executions": "470+",
@@ -1113,7 +1113,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IRN",
+   "id": "IRN",
    "name": "Iran",
    "since": null,
    "executions": "317+",
@@ -1121,7 +1121,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SAU",
+   "id": "SAU",
    "name": "Saudi Arabia",
    "since": null,
    "executions": "143+",
@@ -1129,7 +1129,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IRQ",
+   "id": "IRQ",
    "name": "Iraq",
    "since": null,
    "executions": "33+",
@@ -1137,7 +1137,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "USA",
+   "id": "USA",
    "name": "United States of America",
    "since": null,
    "executions": "42",
@@ -1145,7 +1145,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SDN",
+   "id": "SDN",
    "name": "Sudan",
    "since": null,
    "executions": "7+",
@@ -1153,7 +1153,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "YEM",
+   "id": "YEM",
    "name": "Yemen",
    "since": null,
    "executions": "15+",
@@ -1161,7 +1161,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "EGY",
+   "id": "EGY",
    "name": "Egypt",
    "since": null,
    "executions": "+",
@@ -1169,7 +1169,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SOM",
+   "id": "SOM",
    "name": "Somalia",
    "since": null,
    "executions": "5+",
@@ -1177,7 +1177,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "JOR",
+   "id": "JOR",
    "name": "Jordan",
    "since": null,
    "executions": "",
@@ -1185,7 +1185,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GNQ",
+   "id": "GNQ",
    "name": "Equatorial Guinea",
    "since": null,
    "executions": "3",
@@ -1193,7 +1193,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "PAK",
+   "id": "PAK",
    "name": "Pakistan",
    "since": null,
    "executions": "135+",
@@ -1201,7 +1201,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "AFG",
+   "id": "AFG",
    "name": "Afghanistan",
    "since": null,
    "executions": "15",
@@ -1209,7 +1209,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "TWN",
+   "id": "TWN",
    "name": "Taiwan",
    "since": null,
    "executions": "",
@@ -1217,7 +1217,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BLR",
+   "id": "BLR",
    "name": "Belarus ",
    "since": null,
    "executions": "1+",
@@ -1225,7 +1225,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "VNM",
+   "id": "VNM",
    "name": "Viet Nam",
    "since": null,
    "executions": "25+",
@@ -1233,7 +1233,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "MYS",
+   "id": "MYS",
    "name": "Malaysia",
    "since": null,
    "executions": "",
@@ -1241,7 +1241,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "PSE",
+   "id": "PSE",
    "name": "Palestinian Authority",
    "since": null,
    "executions": "",
@@ -1249,7 +1249,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SGP",
+   "id": "SGP",
    "name": "Singapore",
    "since": null,
    "executions": "2",
@@ -1257,7 +1257,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ARE",
+   "id": "ARE",
    "name": "United Arab Emirates",
    "since": null,
    "executions": "",
@@ -1265,7 +1265,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "PRK",
+   "id": "PRK",
    "name": "North Korea",
    "since": null,
    "executions": "+",
@@ -1273,7 +1273,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "NGA",
+   "id": "NGA",
    "name": "Nigeria",
    "since": null,
    "executions": "",
@@ -1281,7 +1281,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BGD",
+   "id": "BGD",
    "name": "Bangladesh",
    "since": null,
    "executions": "6",
@@ -1289,7 +1289,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "TZA",
+   "id": "TZA",
    "name": "Tanzania",
    "since": null,
    "executions": "",
@@ -1297,7 +1297,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IND",
+   "id": "IND",
    "name": "India",
    "since": null,
    "executions": "",
@@ -1305,7 +1305,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "THA",
+   "id": "THA",
    "name": "Thailand",
    "since": null,
    "executions": "",
@@ -1313,7 +1313,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "COD",
+   "id": "COD",
    "name": "Democratic Republic of the Congo",
    "since": null,
    "executions": "",
@@ -1321,7 +1321,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LBN ",
+   "id": "LBN ",
    "name": "Lebanon",
    "since": null,
    "executions": "",
@@ -1329,7 +1329,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ZWE",
+   "id": "ZWE",
    "name": "Zimbabwe",
    "since": null,
    "executions": "",
@@ -1337,7 +1337,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "KWT",
+   "id": "KWT",
    "name": "Kuwait",
    "since": null,
    "executions": "1+",
@@ -1345,7 +1345,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IDN",
+   "id": "idN",
    "name": "Indonesia",
    "since": null,
    "executions": "1+",
@@ -1353,7 +1353,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BHR",
+   "id": "BHR",
    "name": "Bahrain",
    "since": null,
    "executions": "",
@@ -1361,7 +1361,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "QAT",
+   "id": "QAT",
    "name": "Qatar",
    "since": null,
    "executions": "",
@@ -1369,7 +1369,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "TTO",
+   "id": "TTO",
    "name": "Trinidad and Tobago",
    "since": null,
    "executions": "",
@@ -1377,7 +1377,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BRB",
+   "id": "BRB",
    "name": "Barbados",
    "since": null,
    "executions": "",
@@ -1385,7 +1385,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "JPN",
+   "id": "JPN",
    "name": "Japan",
    "since": null,
    "executions": "9",
@@ -1393,7 +1393,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GMB",
+   "id": "GMB",
    "name": "Gambia",
    "since": null,
    "executions": "",
@@ -1401,7 +1401,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LSO",
+   "id": "LSO",
    "name": "Lesotho",
    "since": null,
    "executions": "",
@@ -1409,7 +1409,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LBY",
+   "id": "LBY",
    "name": "Libya",
    "since": null,
    "executions": "9+",
@@ -1417,7 +1417,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BWA",
+   "id": "BWA",
    "name": "Botswana",
    "since": null,
    "executions": "1+",
@@ -1425,7 +1425,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GUY",
+   "id": "GUY",
    "name": "Guyana",
    "since": null,
    "executions": "",
@@ -1433,7 +1433,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "UGA",
+   "id": "UGA",
    "name": "Uganda",
    "since": null,
    "executions": "",
@@ -1441,7 +1441,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SSD",
+   "id": "SSD",
    "name": "South Sudan",
    "since": null,
    "executions": "",
@@ -1449,7 +1449,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ATG",
+   "id": "ATG",
    "name": "Antigua and Barbuda",
    "since": null,
    "executions": "",
@@ -1457,7 +1457,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BHS",
+   "id": "BHS",
    "name": "Bahamas",
    "since": null,
    "executions": "",
@@ -1465,7 +1465,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BLZ",
+   "id": "BLZ",
    "name": "Belize",
    "since": null,
    "executions": "",
@@ -1473,7 +1473,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "TCD",
+   "id": "TCD",
    "name": "Chad",
    "since": null,
    "executions": "",
@@ -1481,7 +1481,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "COM",
+   "id": "COM",
    "name": "Comoros",
    "since": null,
    "executions": "",
@@ -1489,7 +1489,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "CUB",
+   "id": "CUB",
    "name": "Cuba",
    "since": null,
    "executions": "",
@@ -1497,7 +1497,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "DMA",
+   "id": "DMA",
    "name": "Dominica",
    "since": null,
    "executions": "",
@@ -1505,7 +1505,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ETH",
+   "id": "ETH",
    "name": "Ethiopia",
    "since": null,
    "executions": "1",
@@ -1513,7 +1513,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GTM",
+   "id": "GTM",
    "name": "Guatemala",
    "since": null,
    "executions": "",
@@ -1521,7 +1521,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GIN",
+   "id": "GIN",
    "name": "Guinea",
    "since": null,
    "executions": "",
@@ -1529,7 +1529,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "JAM",
+   "id": "JAM",
    "name": "Jamaica",
    "since": null,
    "executions": "",
@@ -1537,7 +1537,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "OMN",
+   "id": "OMN",
    "name": "Oman",
    "since": null,
    "executions": "",
@@ -1545,7 +1545,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "KNA",
+   "id": "KNA",
    "name": "Saint Kitts and Nevis",
    "since": null,
    "executions": "",
@@ -1553,7 +1553,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LCA",
+   "id": "LCA",
    "name": "Saint Lucia",
    "since": null,
    "executions": "",
@@ -1561,7 +1561,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "VCT",
+   "id": "VCT",
    "name": "Saint Vincent and the Grenadines",
    "since": null,
    "executions": "",
@@ -1569,7 +1569,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SYR",
+   "id": "SYR",
    "name": "Syria",
    "since": null,
    "executions": "7+",
@@ -1577,7 +1577,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "MNG",
+   "id": "MNG",
    "name": "Mongolia",
    "since": null,
    "executions": "",
@@ -1585,7 +1585,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BDI",
+   "id": "BDI",
    "name": "Burundi",
    "since": null,
    "executions": "",
@@ -1593,7 +1593,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "UZB",
+   "id": "UZB",
    "name": "Uzbekistan",
    "since": null,
    "executions": "",
@@ -1611,7 +1611,7 @@
       "RETENTIONIST":"8",
       "countries":[
  {
-   "ID": "ALB",
+   "id": "ALB",
    "name": "Albania",
    "since": 2007,
    "executions": "",
@@ -1619,7 +1619,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AND",
+   "id": "AND",
    "name": "Andorra",
    "since": 1990,
    "executions": "",
@@ -1627,7 +1627,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AGO",
+   "id": "AGO",
    "name": "Angola",
    "since": 1992,
    "executions": "",
@@ -1635,7 +1635,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ARG",
+   "id": "ARG",
    "name": "Argentina",
    "since": 2008,
    "executions": "",
@@ -1643,7 +1643,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ARM",
+   "id": "ARM",
    "name": "Armenia",
    "since": 2003,
    "executions": "",
@@ -1651,7 +1651,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AUS",
+   "id": "AUS",
    "name": "Australia",
    "since": 1985,
    "executions": "",
@@ -1659,7 +1659,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AUT",
+   "id": "AUT",
    "name": "Austria",
    "since": 1968,
    "executions": "",
@@ -1667,7 +1667,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AZE",
+   "id": "AZE",
    "name": "Azerbaijan",
    "since": 1998,
    "executions": "",
@@ -1675,7 +1675,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BEL",
+   "id": "BEL",
    "name": "Belgium",
    "since": 1996,
    "executions": "",
@@ -1683,7 +1683,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BTN",
+   "id": "BTN",
    "name": "Bhutan",
    "since": 2004,
    "executions": "",
@@ -1691,7 +1691,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BIH",
+   "id": "BIH",
    "name": "Bosnia and Herzegovina",
    "since": 2001,
    "executions": "",
@@ -1699,7 +1699,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BGR",
+   "id": "BGR",
    "name": "Bulgaria",
    "since": 1998,
    "executions": "",
@@ -1707,7 +1707,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "KHM",
+   "id": "KHM",
    "name": "Cambodia",
    "since": 1989,
    "executions": "",
@@ -1715,7 +1715,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CAN",
+   "id": "CAN",
    "name": "Canada",
    "since": 1998,
    "executions": "",
@@ -1723,7 +1723,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CPV",
+   "id": "CPV",
    "name": "Cabo Verde",
    "since": 1981,
    "executions": "",
@@ -1731,7 +1731,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "COL",
+   "id": "COL",
    "name": "Colombia",
    "since": 1910,
    "executions": "",
@@ -1739,7 +1739,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "COK",
+   "id": "COK",
    "name": "Cook Islands",
    "since": 2007,
    "executions": "",
@@ -1747,7 +1747,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CRI",
+   "id": "CRI",
    "name": "Costa Rica",
    "since": 1877,
    "executions": "",
@@ -1755,7 +1755,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CIV",
+   "id": "CIV",
    "name": "Côte d'Ivoire",
    "since": 2000,
    "executions": "",
@@ -1763,7 +1763,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HRV",
+   "id": "HRV",
    "name": "Croatia",
    "since": 1990,
    "executions": "",
@@ -1771,7 +1771,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CYP",
+   "id": "CYP",
    "name": "Cyprus",
    "since": 2002,
    "executions": "",
@@ -1779,7 +1779,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CZE",
+   "id": "CZE",
    "name": "Czech Republic",
    "since": 1990,
    "executions": "",
@@ -1787,7 +1787,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DNK",
+   "id": "DNK",
    "name": "Denmark",
    "since": 1978,
    "executions": "",
@@ -1795,7 +1795,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DJI",
+   "id": "DJI",
    "name": "Djibouti",
    "since": 1995,
    "executions": "",
@@ -1803,7 +1803,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DOM",
+   "id": "DOM",
    "name": "Dominican Republic",
    "since": 1966,
    "executions": "",
@@ -1811,7 +1811,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ECU",
+   "id": "ECU",
    "name": "Ecuador",
    "since": 1906,
    "executions": "",
@@ -1819,7 +1819,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "EST",
+   "id": "EST",
    "name": "Estonia",
    "since": 1998,
    "executions": "",
@@ -1827,7 +1827,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "FIN",
+   "id": "FIN",
    "name": "Finland",
    "since": 1972,
    "executions": "",
@@ -1835,7 +1835,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "FRA",
+   "id": "FRA",
    "name": "France",
    "since": 1981,
    "executions": "",
@@ -1843,7 +1843,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GEO",
+   "id": "GEO",
    "name": "Georgia",
    "since": 1997,
    "executions": "",
@@ -1851,7 +1851,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DEU",
+   "id": "DEU",
    "name": "Germany",
    "since": 1987,
    "executions": "",
@@ -1859,7 +1859,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GRC",
+   "id": "GRC",
    "name": "Greece",
    "since": 2004,
    "executions": "",
@@ -1867,7 +1867,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GNB",
+   "id": "GNB",
    "name": "Guinea-Bissau",
    "since": 1993,
    "executions": "",
@@ -1875,7 +1875,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HTI",
+   "id": "HTI",
    "name": "Haiti",
    "since": 1987,
    "executions": "",
@@ -1883,7 +1883,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "VAT",
+   "id": "VAT",
    "name": "Holy See",
    "since": 1969,
    "executions": "",
@@ -1891,7 +1891,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HND",
+   "id": "HND",
    "name": "Honduras",
    "since": 1956,
    "executions": "",
@@ -1899,7 +1899,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HUN",
+   "id": "HUN",
    "name": "Hungary",
    "since": 1990,
    "executions": "",
@@ -1907,7 +1907,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ISL",
+   "id": "ISL",
    "name": "Iceland",
    "since": 1928,
    "executions": "",
@@ -1915,7 +1915,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "IRL",
+   "id": "IRL",
    "name": "Ireland",
    "since": 1990,
    "executions": "",
@@ -1923,7 +1923,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ITA",
+   "id": "ITA",
    "name": "Italy",
    "since": 1994,
    "executions": "",
@@ -1931,7 +1931,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "KIR",
+   "id": "KIR",
    "name": "Kiribati",
    "since": 1979,
    "executions": "",
@@ -1939,7 +1939,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "KGZ",
+   "id": "KGZ",
    "name": "Kyrgyzstan",
    "since": 2007,
    "executions": "",
@@ -1947,7 +1947,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "LIE",
+   "id": "LIE",
    "name": "Liechtenstein",
    "since": 1987,
    "executions": "",
@@ -1955,7 +1955,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "LTU",
+   "id": "LTU",
    "name": "Lithunia",
    "since": 1998,
    "executions": "",
@@ -1963,7 +1963,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "LUX",
+   "id": "LUX",
    "name": "Luxembourg",
    "since": 1979,
    "executions": "",
@@ -1971,7 +1971,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MKD",
+   "id": "MKD",
    "name": "Macedonia",
    "since": 1991,
    "executions": "",
@@ -1979,7 +1979,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MLT",
+   "id": "MLT",
    "name": "Malta",
    "since": 2000,
    "executions": "",
@@ -1987,7 +1987,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MHL",
+   "id": "MHL",
    "name": "Marshall Islands",
    "since": 1986,
    "executions": "",
@@ -1995,7 +1995,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MUS",
+   "id": "MUS",
    "name": "Mauritius",
    "since": 1995,
    "executions": "",
@@ -2003,7 +2003,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MEX",
+   "id": "MEX",
    "name": "Mexico",
    "since": 2005,
    "executions": "",
@@ -2011,7 +2011,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "FSM",
+   "id": "FSM",
    "name": "Micronesia",
    "since": 1986,
    "executions": "",
@@ -2019,7 +2019,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MDA",
+   "id": "MDA",
    "name": "Moldova",
    "since": 1995,
    "executions": "",
@@ -2027,7 +2027,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MCO",
+   "id": "MCO",
    "name": "Monaco",
    "since": 1962,
    "executions": "",
@@ -2035,7 +2035,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MNE",
+   "id": "MNE",
    "name": "Montenegro",
    "since": 2002,
    "executions": "",
@@ -2043,7 +2043,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MOZ",
+   "id": "MOZ",
    "name": "Mozambique",
    "since": 1990,
    "executions": "",
@@ -2051,7 +2051,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NAM",
+   "id": "NAM",
    "name": "Namibia",
    "since": 1990,
    "executions": "",
@@ -2059,7 +2059,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NPL",
+   "id": "NPL",
    "name": "Nepal",
    "since": 1997,
    "executions": "",
@@ -2067,7 +2067,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NLD",
+   "id": "NLD",
    "name": "Netherlands",
    "since": 1982,
    "executions": "",
@@ -2075,7 +2075,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NZL",
+   "id": "NZL",
    "name": "New Zealand",
    "since": 1989,
    "executions": "",
@@ -2083,7 +2083,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NIC",
+   "id": "NIC",
    "name": "Nicaragua",
    "since": 1979,
    "executions": "",
@@ -2091,7 +2091,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NIU",
+   "id": "NIU",
    "name": "Niue",
    "since": 1974,
    "executions": "",
@@ -2099,7 +2099,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NOR",
+   "id": "NOR",
    "name": "Norway",
    "since": 1979,
    "executions": "",
@@ -2107,7 +2107,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PLW",
+   "id": "PLW",
    "name": "Palau",
    "since": 1994,
    "executions": "",
@@ -2115,7 +2115,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PAN",
+   "id": "PAN",
    "name": "Panama",
    "since": 1922,
    "executions": "",
@@ -2123,7 +2123,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PRY",
+   "id": "PRY",
    "name": "Paraguay",
    "since": 1992,
    "executions": "",
@@ -2131,7 +2131,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PHL",
+   "id": "PHL",
    "name": "Philippines",
    "since": 2006,
    "executions": "",
@@ -2139,7 +2139,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "POL",
+   "id": "POL",
    "name": "Poland",
    "since": 1997,
    "executions": "",
@@ -2147,7 +2147,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PRT",
+   "id": "PRT",
    "name": "Portugal",
    "since": 1976,
    "executions": "",
@@ -2155,7 +2155,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ROU",
+   "id": "ROU",
    "name": "Romania",
    "since": 1989,
    "executions": "",
@@ -2163,7 +2163,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "RWA",
+   "id": "RWA",
    "name": "Rwanda",
    "since": 2007,
    "executions": "",
@@ -2171,7 +2171,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "WSM",
+   "id": "WSM",
    "name": "Samoa",
    "since": 2004,
    "executions": "",
@@ -2179,7 +2179,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SMR",
+   "id": "SMR",
    "name": "San Marino",
    "since": 1865,
    "executions": "",
@@ -2187,7 +2187,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "STP",
+   "id": "STP",
    "name": "Sao Tome and Principe",
    "since": 1990,
    "executions": "",
@@ -2195,7 +2195,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SEN",
+   "id": "SEN",
    "name": "Senegal",
    "since": 2004,
    "executions": "",
@@ -2203,7 +2203,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SRB",
+   "id": "SRB",
    "name": "Serbia",
    "since": 2002,
    "executions": "",
@@ -2211,7 +2211,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SYC",
+   "id": "SYC",
    "name": "Seychelles",
    "since": 1993,
    "executions": "",
@@ -2219,7 +2219,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SVK",
+   "id": "SVK",
    "name": "Slovakia",
    "since": 1990,
    "executions": "",
@@ -2227,7 +2227,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SVN",
+   "id": "SVN",
    "name": "Slovenia",
    "since": 1989,
    "executions": "",
@@ -2235,7 +2235,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SLB",
+   "id": "SLB",
    "name": "Solomon Islands",
    "since": 1978,
    "executions": "",
@@ -2243,7 +2243,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ZAF",
+   "id": "ZAF",
    "name": "South Africa",
    "since": 1997,
    "executions": "",
@@ -2251,7 +2251,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ESP",
+   "id": "ESP",
    "name": "Spain",
    "since": 1995,
    "executions": "",
@@ -2259,7 +2259,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SWE",
+   "id": "SWE",
    "name": "Sweden",
    "since": 1972,
    "executions": "",
@@ -2267,7 +2267,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CHE",
+   "id": "CHE",
    "name": "Switzerland",
    "since": 1992,
    "executions": "",
@@ -2275,7 +2275,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TLS",
+   "id": "TLS",
    "name": "Timor-Leste",
    "since": 1999,
    "executions": "",
@@ -2283,7 +2283,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TUR",
+   "id": "TUR",
    "name": "Turkey",
    "since": 2004,
    "executions": "",
@@ -2291,7 +2291,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TKM",
+   "id": "TKM",
    "name": "Turkmenistan",
    "since": 1999,
    "executions": "",
@@ -2299,7 +2299,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TUV",
+   "id": "TUV",
    "name": "Tuvalu",
    "since": 1978,
    "executions": "",
@@ -2307,7 +2307,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "UKR",
+   "id": "UKR",
    "name": "Ukraine",
    "since": 1999,
    "executions": "",
@@ -2315,7 +2315,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GBR",
+   "id": "GBR",
    "name": "UK",
    "since": 1998,
    "executions": "",
@@ -2323,7 +2323,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "URY",
+   "id": "URY",
    "name": "Uruguay",
    "since": 1907,
    "executions": "",
@@ -2331,7 +2331,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "UZB",
+   "id": "UZB",
    "name": "Uzbekistan",
    "since": 2008,
    "executions": "",
@@ -2339,7 +2339,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "VUT",
+   "id": "VUT",
    "name": "Vanuatu",
    "since": 1980,
    "executions": "",
@@ -2347,7 +2347,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "VEN",
+   "id": "VEN",
    "name": "Venezuela",
    "since": 1863,
    "executions": "",
@@ -2355,7 +2355,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BRA",
+   "id": "BRA",
    "name": "Brazil",
    "since": 1979,
    "executions": "0",
@@ -2363,7 +2363,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "CHL",
+   "id": "CHL",
    "name": "Chile",
    "since": 2001,
    "executions": "",
@@ -2371,7 +2371,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "SLV",
+   "id": "SLV",
    "name": "El Salvador",
    "since": 1983,
    "executions": "",
@@ -2379,7 +2379,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "FJI",
+   "id": "FJI",
    "name": "Fiji",
    "since": 1979,
    "executions": "",
@@ -2387,7 +2387,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "ISR",
+   "id": "ISR",
    "name": "Israel",
    "since": 1954,
    "executions": "",
@@ -2395,7 +2395,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "KAZ",
+   "id": "KAZ",
    "name": "Kazakhstan",
    "since": 2007,
    "executions": "",
@@ -2403,7 +2403,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "PER",
+   "id": "PER",
    "name": "Peru",
    "since": 1979,
    "executions": "",
@@ -2411,7 +2411,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "BOL",
+   "id": "BOL",
    "name": "Bolivia",
    "since": 1997,
    "executions": "",
@@ -2419,7 +2419,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "LVA",
+   "id": "LVA",
    "name": "Latvia",
    "since": 1999,
    "executions": "",
@@ -2427,7 +2427,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "TZA",
+   "id": "TZA",
    "name": "Tanzania",
    "since": null,
    "executions": "",
@@ -2435,7 +2435,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "LKA",
+   "id": "LKA",
    "name": "Sri Lanka",
    "since": null,
    "executions": "",
@@ -2443,7 +2443,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "KEN",
+   "id": "KEN",
    "name": "Kenya",
    "since": null,
    "executions": "",
@@ -2451,7 +2451,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "DZA",
+   "id": "DZA",
    "name": "Algeria",
    "since": null,
    "executions": "",
@@ -2459,7 +2459,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "ZMB",
+   "id": "ZMB",
    "name": "Zambia",
    "since": null,
    "executions": "",
@@ -2467,7 +2467,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "GHA",
+   "id": "GHA",
    "name": "Ghana",
    "since": null,
    "executions": "",
@@ -2475,7 +2475,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MAR",
+   "id": "MAR",
    "name": "Morocco/Western Sahara",
    "since": null,
    "executions": "",
@@ -2483,7 +2483,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MLI",
+   "id": "MLI",
    "name": "Mali",
    "since": null,
    "executions": "",
@@ -2491,7 +2491,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "COG",
+   "id": "COG",
    "name": "Congo (Republic of)",
    "since": null,
    "executions": "",
@@ -2499,7 +2499,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MRT",
+   "id": "MRT",
    "name": "Mauritania",
    "since": null,
    "executions": "",
@@ -2507,7 +2507,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "SLE",
+   "id": "SLE",
    "name": "Sierra Leone",
    "since": null,
    "executions": "",
@@ -2515,7 +2515,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TUN",
+   "id": "TUN",
    "name": "Tunisia",
    "since": null,
    "executions": "",
@@ -2523,7 +2523,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MDV",
+   "id": "MDV",
    "name": "Maldives",
    "since": null,
    "executions": "",
@@ -2531,7 +2531,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MMR",
+   "id": "MMR",
    "name": "Myanmar",
    "since": null,
    "executions": "",
@@ -2539,7 +2539,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "KOR",
+   "id": "KOR",
    "name": "South Korea",
    "since": null,
    "executions": "",
@@ -2547,7 +2547,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "BEN",
+   "id": "BEN",
    "name": "Benin",
    "since": null,
    "executions": "",
@@ -2555,7 +2555,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "BRN",
+   "id": "BRN",
    "name": "Brunei Darussalam",
    "since": null,
    "executions": "",
@@ -2563,7 +2563,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "BFA",
+   "id": "BFA",
    "name": "Burkina Faso",
    "since": null,
    "executions": "",
@@ -2571,7 +2571,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "CMR",
+   "id": "CMR",
    "name": "Cameroon",
    "since": null,
    "executions": "",
@@ -2579,7 +2579,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "CAF",
+   "id": "CAF",
    "name": "Central African Republic",
    "since": null,
    "executions": "",
@@ -2587,7 +2587,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "ERI",
+   "id": "ERI",
    "name": "Eritrea",
    "since": null,
    "executions": "",
@@ -2595,7 +2595,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "GRD",
+   "id": "GRD",
    "name": "Grenada",
    "since": null,
    "executions": "",
@@ -2603,7 +2603,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "LAO",
+   "id": "LAO",
    "name": "Laos",
    "since": null,
    "executions": "",
@@ -2611,7 +2611,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "LBR",
+   "id": "LBR",
    "name": "Liberia",
    "since": null,
    "executions": "",
@@ -2619,7 +2619,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MDG",
+   "id": "MDG",
    "name": "Madagascar",
    "since": null,
    "executions": "",
@@ -2627,7 +2627,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MWI",
+   "id": "MWI",
    "name": "Malawi",
    "since": null,
    "executions": "",
@@ -2635,7 +2635,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MNG",
+   "id": "MNG",
    "name": "Mongolia",
    "since": null,
    "executions": "1+",
@@ -2643,7 +2643,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "NRU",
+   "id": "NRU",
    "name": "Nauru",
    "since": null,
    "executions": "",
@@ -2651,7 +2651,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "NER",
+   "id": "NER",
    "name": "Niger",
    "since": null,
    "executions": "",
@@ -2659,7 +2659,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "PNG",
+   "id": "PNG",
    "name": "Papua New Guinea",
    "since": null,
    "executions": "",
@@ -2667,7 +2667,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "RUS",
+   "id": "RUS",
    "name": "Russian Federation",
    "since": null,
    "executions": "",
@@ -2675,7 +2675,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "SUR",
+   "id": "SUR",
    "name": "Suriname",
    "since": null,
    "executions": "",
@@ -2683,7 +2683,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "SWZ",
+   "id": "SWZ",
    "name": "Swaziland",
    "since": null,
    "executions": "",
@@ -2691,7 +2691,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TJK",
+   "id": "TJK",
    "name": "Tajikistan",
    "since": null,
    "executions": "",
@@ -2699,7 +2699,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TZA",
+   "id": "TZA",
    "name": "Tanzania",
    "since": null,
    "executions": "",
@@ -2707,7 +2707,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TON",
+   "id": "TON",
    "name": "Tonga",
    "since": null,
    "executions": "",
@@ -2715,7 +2715,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "GAB",
+   "id": "GAB",
    "name": "Gabon",
    "since": null,
    "executions": "",
@@ -2723,7 +2723,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TGO",
+   "id": "TGO",
    "name": "Togo",
    "since": null,
    "executions": "",
@@ -2731,7 +2731,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "CHN",
+   "id": "CHN",
    "name": "China",
    "since": null,
    "executions": "1718+",
@@ -2739,7 +2739,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IRN",
+   "id": "IRN",
    "name": "Iran",
    "since": null,
    "executions": "346+",
@@ -2747,7 +2747,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SAU",
+   "id": "SAU",
    "name": "Saudi Arabia",
    "since": null,
    "executions": "102+",
@@ -2755,7 +2755,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IRQ",
+   "id": "IRQ",
    "name": "Iraq",
    "since": null,
    "executions": "34+",
@@ -2763,7 +2763,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "USA",
+   "id": "USA",
    "name": "United States of America",
    "since": null,
    "executions": "37",
@@ -2771,7 +2771,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SDN",
+   "id": "SDN",
    "name": "Sudan",
    "since": null,
    "executions": "1+",
@@ -2779,7 +2779,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "YEM",
+   "id": "YEM",
    "name": "Yemen",
    "since": null,
    "executions": "13+",
@@ -2787,7 +2787,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "EGY",
+   "id": "EGY",
    "name": "Egypt",
    "since": null,
    "executions": "2+",
@@ -2795,7 +2795,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SOM",
+   "id": "SOM",
    "name": "Somalia",
    "since": null,
    "executions": "",
@@ -2803,7 +2803,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "JOR",
+   "id": "JOR",
    "name": "Jordan",
    "since": null,
    "executions": "",
@@ -2811,7 +2811,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GNQ",
+   "id": "GNQ",
    "name": "Equatorial Guinea",
    "since": null,
    "executions": "",
@@ -2819,7 +2819,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "PAK",
+   "id": "PAK",
    "name": "Pakistan",
    "since": null,
    "executions": "36+",
@@ -2827,7 +2827,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "AFG",
+   "id": "AFG",
    "name": "Afghanistan",
    "since": null,
    "executions": "17+",
@@ -2835,7 +2835,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "TWN",
+   "id": "TWN",
    "name": "Taiwan",
    "since": null,
    "executions": "",
@@ -2843,7 +2843,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BLR",
+   "id": "BLR",
    "name": "Belarus",
    "since": null,
    "executions": "4",
@@ -2851,7 +2851,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "VNM",
+   "id": "VNM",
    "name": "Viet Nam",
    "since": null,
    "executions": "19+",
@@ -2859,7 +2859,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "MYS",
+   "id": "MYS",
    "name": "Malaysia",
    "since": null,
    "executions": "1+",
@@ -2867,7 +2867,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "PSE",
+   "id": "PSE",
    "name": "Palestinian Authority",
    "since": null,
    "executions": "",
@@ -2875,7 +2875,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SGP",
+   "id": "SGP",
    "name": "Singapore",
    "since": null,
    "executions": "1+",
@@ -2883,7 +2883,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ARE",
+   "id": "ARE",
    "name": "United Arab Emirates",
    "since": null,
    "executions": "1+",
@@ -2891,7 +2891,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "PRK",
+   "id": "PRK",
    "name": "North Korea",
    "since": null,
    "executions": "15+",
@@ -2899,7 +2899,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "NGA",
+   "id": "NGA",
    "name": "Nigeria",
    "since": null,
    "executions": "",
@@ -2907,7 +2907,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BGD",
+   "id": "BGD",
    "name": "Bangladesh",
    "since": null,
    "executions": "5",
@@ -2915,7 +2915,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IND",
+   "id": "IND",
    "name": "India",
    "since": null,
    "executions": "",
@@ -2923,7 +2923,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "THA",
+   "id": "THA",
    "name": "Thailand",
    "since": null,
    "executions": "",
@@ -2931,7 +2931,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "COD",
+   "id": "COD",
    "name": "Democratic Republic of the Congo",
    "since": null,
    "executions": "",
@@ -2939,7 +2939,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LBN",
+   "id": "LBN",
    "name": "Lebanon",
    "since": null,
    "executions": "",
@@ -2947,7 +2947,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ZWE",
+   "id": "ZWE",
    "name": "Zimbabwe",
    "since": null,
    "executions": "",
@@ -2955,7 +2955,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "KWT",
+   "id": "KWT",
    "name": "Kuwait",
    "since": null,
    "executions": "",
@@ -2963,7 +2963,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IDN",
+   "id": "idN",
    "name": "Indonesia",
    "since": null,
    "executions": "10",
@@ -2971,7 +2971,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BHR",
+   "id": "BHR",
    "name": "Bahrain",
    "since": null,
    "executions": "1",
@@ -2979,7 +2979,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "QAT",
+   "id": "QAT",
    "name": "Qatar",
    "since": null,
    "executions": "",
@@ -2987,7 +2987,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "TTO",
+   "id": "TTO",
    "name": "Trinidad and Tobago",
    "since": null,
    "executions": "",
@@ -2995,7 +2995,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BRB",
+   "id": "BRB",
    "name": "Barbados",
    "since": null,
    "executions": "",
@@ -3003,7 +3003,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "JPN",
+   "id": "JPN",
    "name": "Japan",
    "since": null,
    "executions": "15",
@@ -3011,7 +3011,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GMB",
+   "id": "GMB",
    "name": "Gambia",
    "since": null,
    "executions": "",
@@ -3019,7 +3019,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LSO",
+   "id": "LSO",
    "name": "Lesotho",
    "since": null,
    "executions": "",
@@ -3027,7 +3027,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LBY",
+   "id": "LBY",
    "name": "Libya",
    "since": null,
    "executions": "8+",
@@ -3035,7 +3035,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BWA",
+   "id": "BWA",
    "name": "Botswana",
    "since": null,
    "executions": "1",
@@ -3043,7 +3043,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GUY",
+   "id": "GUY",
    "name": "Guyana",
    "since": null,
    "executions": "",
@@ -3051,7 +3051,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "UGA",
+   "id": "UGA",
    "name": "Uganda",
    "since": null,
    "executions": "",
@@ -3059,7 +3059,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SSD",
+   "id": "SSD",
    "name": "South Sudan",
    "since": null,
    "executions": "",
@@ -3067,7 +3067,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ATG",
+   "id": "ATG",
    "name": "Antigua and Barbuda",
    "since": null,
    "executions": "",
@@ -3075,7 +3075,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BHS",
+   "id": "BHS",
    "name": "Bahamas",
    "since": null,
    "executions": "",
@@ -3083,7 +3083,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BLZ",
+   "id": "BLZ",
    "name": "Belize",
    "since": null,
    "executions": "",
@@ -3091,7 +3091,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "TCD",
+   "id": "TCD",
    "name": "Chad",
    "since": null,
    "executions": "",
@@ -3099,7 +3099,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "COM",
+   "id": "COM",
    "name": "Comoros",
    "since": null,
    "executions": "",
@@ -3107,7 +3107,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "CUB",
+   "id": "CUB",
    "name": "Cuba",
    "since": null,
    "executions": "",
@@ -3115,7 +3115,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "DMA",
+   "id": "DMA",
    "name": "Dominica",
    "since": null,
    "executions": "",
@@ -3123,7 +3123,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ETH",
+   "id": "ETH",
    "name": "Ethiopia",
    "since": null,
    "executions": "",
@@ -3131,7 +3131,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GTM",
+   "id": "GTM",
    "name": "Guatemala",
    "since": null,
    "executions": "",
@@ -3139,7 +3139,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GIN",
+   "id": "GIN",
    "name": "Guinea",
    "since": null,
    "executions": "",
@@ -3147,7 +3147,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "JAM",
+   "id": "JAM",
    "name": "Jamaica",
    "since": null,
    "executions": "",
@@ -3155,7 +3155,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "OMN",
+   "id": "OMN",
    "name": "Oman",
    "since": null,
    "executions": "",
@@ -3163,7 +3163,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "KNA",
+   "id": "KNA",
    "name": "Saint Kitts and Nevis",
    "since": null,
    "executions": "1",
@@ -3171,7 +3171,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LCA",
+   "id": "LCA",
    "name": "Saint Lucia",
    "since": null,
    "executions": "",
@@ -3179,7 +3179,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "VCT",
+   "id": "VCT",
    "name": "Saint Vincent and the Grenadines",
    "since": null,
    "executions": "",
@@ -3187,7 +3187,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SYR",
+   "id": "SYR",
    "name": "Syria",
    "since": null,
    "executions": "1+",
@@ -3195,7 +3195,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BDI",
+   "id": "BDI",
    "name": "Burundi",
    "since": null,
    "executions": "",
@@ -3213,7 +3213,7 @@
       "RETENTIONIST":"98",
       "countries":[
  {
-   "ID": "ALB",
+   "id": "ALB",
    "name": "Albania",
    "since": 2007,
    "executions": "",
@@ -3221,7 +3221,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AND",
+   "id": "AND",
    "name": "Andorra",
    "since": 1990,
    "executions": "",
@@ -3229,7 +3229,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AGO",
+   "id": "AGO",
    "name": "Angola",
    "since": 1992,
    "executions": "",
@@ -3237,7 +3237,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ARG",
+   "id": "ARG",
    "name": "Argentina",
    "since": 2008,
    "executions": "",
@@ -3245,7 +3245,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ARM",
+   "id": "ARM",
    "name": "Armenia",
    "since": 2003,
    "executions": "",
@@ -3253,7 +3253,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AUS",
+   "id": "AUS",
    "name": "Australia",
    "since": 1985,
    "executions": "",
@@ -3261,7 +3261,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AUT",
+   "id": "AUT",
    "name": "Austria",
    "since": 1968,
    "executions": "",
@@ -3269,7 +3269,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AZE",
+   "id": "AZE",
    "name": "Azerbaijan",
    "since": 1998,
    "executions": "",
@@ -3277,7 +3277,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BEL",
+   "id": "BEL",
    "name": "Belgium",
    "since": 1996,
    "executions": "",
@@ -3285,7 +3285,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BTN",
+   "id": "BTN",
    "name": "Bhutan",
    "since": 2004,
    "executions": "",
@@ -3293,7 +3293,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BOL",
+   "id": "BOL",
    "name": "Bolivia",
    "since": 2009,
    "executions": "",
@@ -3301,7 +3301,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BIH",
+   "id": "BIH",
    "name": "Bosnia and Herzegovina",
    "since": 2001,
    "executions": "",
@@ -3309,7 +3309,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BGR",
+   "id": "BGR",
    "name": "Bulgaria",
    "since": 1998,
    "executions": "",
@@ -3317,7 +3317,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BDI",
+   "id": "BDI",
    "name": "Burundi",
    "since": 2009,
    "executions": "",
@@ -3325,7 +3325,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "KHM",
+   "id": "KHM",
    "name": "Cambodia",
    "since": 1989,
    "executions": "",
@@ -3333,7 +3333,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CAN",
+   "id": "CAN",
    "name": "Canada",
    "since": 1998,
    "executions": "",
@@ -3341,7 +3341,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CPV",
+   "id": "CPV",
    "name": "Cabo Verde",
    "since": 1981,
    "executions": "",
@@ -3349,7 +3349,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "COL",
+   "id": "COL",
    "name": "Colombia",
    "since": 1910,
    "executions": "",
@@ -3357,7 +3357,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "COK",
+   "id": "COK",
    "name": "Cook Islands",
    "since": 2007,
    "executions": "",
@@ -3365,7 +3365,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CRI",
+   "id": "CRI",
    "name": "Costa Rica",
    "since": 1877,
    "executions": "",
@@ -3373,7 +3373,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CIV",
+   "id": "CIV",
    "name": "Côte d'Ivoire",
    "since": 2000,
    "executions": "",
@@ -3381,7 +3381,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HRV",
+   "id": "HRV",
    "name": "Croatia",
    "since": 1990,
    "executions": "",
@@ -3389,7 +3389,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CYP",
+   "id": "CYP",
    "name": "Cyprus",
    "since": 2002,
    "executions": "",
@@ -3397,7 +3397,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CZE",
+   "id": "CZE",
    "name": "Czech Republic",
    "since": 1990,
    "executions": "",
@@ -3405,7 +3405,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DNK",
+   "id": "DNK",
    "name": "Denmark",
    "since": 1978,
    "executions": "",
@@ -3413,7 +3413,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DJI",
+   "id": "DJI",
    "name": "Djibouti",
    "since": 1995,
    "executions": "",
@@ -3421,7 +3421,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DOM",
+   "id": "DOM",
    "name": "Dominican Republic",
    "since": 1966,
    "executions": "",
@@ -3429,7 +3429,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ECU",
+   "id": "ECU",
    "name": "Ecuador",
    "since": 1906,
    "executions": "",
@@ -3437,7 +3437,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "EST",
+   "id": "EST",
    "name": "Estonia",
    "since": 1998,
    "executions": "",
@@ -3445,7 +3445,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "FIN",
+   "id": "FIN",
    "name": "Finland",
    "since": 1972,
    "executions": "",
@@ -3453,7 +3453,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "FRA",
+   "id": "FRA",
    "name": "France",
    "since": 1981,
    "executions": "",
@@ -3461,7 +3461,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GEO",
+   "id": "GEO",
    "name": "Georgia",
    "since": 1997,
    "executions": "",
@@ -3469,7 +3469,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DEU",
+   "id": "DEU",
    "name": "Germany",
    "since": 1987,
    "executions": "",
@@ -3477,7 +3477,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GRC",
+   "id": "GRC",
    "name": "Greece",
    "since": 2004,
    "executions": "",
@@ -3485,7 +3485,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GNB",
+   "id": "GNB",
    "name": "Guinea-Bissau",
    "since": 1993,
    "executions": "",
@@ -3493,7 +3493,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HTI",
+   "id": "HTI",
    "name": "Haiti",
    "since": 1987,
    "executions": "",
@@ -3501,7 +3501,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "VAT",
+   "id": "VAT",
    "name": "Holy See",
    "since": 1969,
    "executions": "",
@@ -3509,7 +3509,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HND",
+   "id": "HND",
    "name": "Honduras",
    "since": 1956,
    "executions": "",
@@ -3517,7 +3517,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HUN",
+   "id": "HUN",
    "name": "Hungary",
    "since": 1990,
    "executions": "",
@@ -3525,7 +3525,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ISL",
+   "id": "ISL",
    "name": "Iceland",
    "since": 1928,
    "executions": "",
@@ -3533,7 +3533,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "IRL",
+   "id": "IRL",
    "name": "Ireland",
    "since": 1990,
    "executions": "",
@@ -3541,7 +3541,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ITA",
+   "id": "ITA",
    "name": "Italy",
    "since": 1994,
    "executions": "",
@@ -3549,7 +3549,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "KIR",
+   "id": "KIR",
    "name": "Kiribati",
    "since": 1979,
    "executions": "",
@@ -3557,7 +3557,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "KGZ",
+   "id": "KGZ",
    "name": "Kyrgyzstan",
    "since": 2007,
    "executions": "",
@@ -3565,7 +3565,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "LIE",
+   "id": "LIE",
    "name": "Liechtenstein",
    "since": 1987,
    "executions": "",
@@ -3573,7 +3573,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "LTU",
+   "id": "LTU",
    "name": "Lithunia",
    "since": 1998,
    "executions": "",
@@ -3581,7 +3581,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "LUX",
+   "id": "LUX",
    "name": "Luxembourg",
    "since": 1979,
    "executions": "",
@@ -3589,7 +3589,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MKD",
+   "id": "MKD",
    "name": "Macedonia",
    "since": 1991,
    "executions": "",
@@ -3597,7 +3597,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MLT",
+   "id": "MLT",
    "name": "Malta",
    "since": 2000,
    "executions": "",
@@ -3605,7 +3605,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MHL",
+   "id": "MHL",
    "name": "Marshall Islands",
    "since": 1986,
    "executions": "",
@@ -3613,7 +3613,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MUS",
+   "id": "MUS",
    "name": "Mauritius",
    "since": 1995,
    "executions": "",
@@ -3621,7 +3621,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MEX",
+   "id": "MEX",
    "name": "Mexico",
    "since": 2005,
    "executions": "",
@@ -3629,7 +3629,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "FSM",
+   "id": "FSM",
    "name": "Micronesia",
    "since": 1986,
    "executions": "",
@@ -3637,7 +3637,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MDA",
+   "id": "MDA",
    "name": "Moldova",
    "since": 1995,
    "executions": "",
@@ -3645,7 +3645,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MCO",
+   "id": "MCO",
    "name": "Monaco",
    "since": 1962,
    "executions": "",
@@ -3653,7 +3653,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MNE",
+   "id": "MNE",
    "name": "Montenegro",
    "since": 2002,
    "executions": "",
@@ -3661,7 +3661,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MOZ",
+   "id": "MOZ",
    "name": "Mozambique",
    "since": 1990,
    "executions": "",
@@ -3669,7 +3669,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NAM",
+   "id": "NAM",
    "name": "Namibia",
    "since": 1990,
    "executions": "",
@@ -3677,7 +3677,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NPL",
+   "id": "NPL",
    "name": "Nepal",
    "since": 1997,
    "executions": "",
@@ -3685,7 +3685,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NLD",
+   "id": "NLD",
    "name": "Netherlands",
    "since": 1982,
    "executions": "",
@@ -3693,7 +3693,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NZL",
+   "id": "NZL",
    "name": "New Zealand",
    "since": 1989,
    "executions": "",
@@ -3701,7 +3701,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NIC",
+   "id": "NIC",
    "name": "Nicaragua",
    "since": 1979,
    "executions": "",
@@ -3709,7 +3709,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NIU",
+   "id": "NIU",
    "name": "Niue",
    "since": 1974,
    "executions": "",
@@ -3717,7 +3717,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NOR",
+   "id": "NOR",
    "name": "Norway",
    "since": 1979,
    "executions": "",
@@ -3725,7 +3725,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PLW",
+   "id": "PLW",
    "name": "Palau",
    "since": 1994,
    "executions": "",
@@ -3733,7 +3733,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PAN",
+   "id": "PAN",
    "name": "Panama",
    "since": 1922,
    "executions": "",
@@ -3741,7 +3741,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PRY",
+   "id": "PRY",
    "name": "Paraguay",
    "since": 1992,
    "executions": "",
@@ -3749,7 +3749,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PHL",
+   "id": "PHL",
    "name": "Philippines",
    "since": 2006,
    "executions": "",
@@ -3757,7 +3757,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "POL",
+   "id": "POL",
    "name": "Poland",
    "since": 1997,
    "executions": "",
@@ -3765,7 +3765,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PRT",
+   "id": "PRT",
    "name": "Portugal",
    "since": 1976,
    "executions": "",
@@ -3773,7 +3773,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ROU",
+   "id": "ROU",
    "name": "Romania",
    "since": 1989,
    "executions": "",
@@ -3781,7 +3781,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "RWA",
+   "id": "RWA",
    "name": "Rwanda",
    "since": 2007,
    "executions": "",
@@ -3789,7 +3789,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "WSM",
+   "id": "WSM",
    "name": "Samoa",
    "since": 2004,
    "executions": "",
@@ -3797,7 +3797,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SMR",
+   "id": "SMR",
    "name": "San Marino",
    "since": 1865,
    "executions": "",
@@ -3805,7 +3805,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "STP",
+   "id": "STP",
    "name": "Sao Tome and Principe",
    "since": 1990,
    "executions": "",
@@ -3813,7 +3813,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SEN",
+   "id": "SEN",
    "name": "Senegal",
    "since": 2004,
    "executions": "",
@@ -3821,7 +3821,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SRB",
+   "id": "SRB",
    "name": "Serbia",
    "since": 2002,
    "executions": "",
@@ -3829,7 +3829,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SYC",
+   "id": "SYC",
    "name": "Seychelles",
    "since": 1993,
    "executions": "",
@@ -3837,7 +3837,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SVK",
+   "id": "SVK",
    "name": "Slovakia",
    "since": 1990,
    "executions": "",
@@ -3845,7 +3845,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SVN",
+   "id": "SVN",
    "name": "Slovenia",
    "since": 1989,
    "executions": "",
@@ -3853,7 +3853,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SLB",
+   "id": "SLB",
    "name": "Solomon Islands",
    "since": 1978,
    "executions": "",
@@ -3861,7 +3861,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ZAF",
+   "id": "ZAF",
    "name": "South Africa",
    "since": 1997,
    "executions": "",
@@ -3869,7 +3869,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ESP",
+   "id": "ESP",
    "name": "Spain",
    "since": 1995,
    "executions": "",
@@ -3877,7 +3877,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SWE",
+   "id": "SWE",
    "name": "Sweden",
    "since": 1972,
    "executions": "",
@@ -3885,7 +3885,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CHE",
+   "id": "CHE",
    "name": "Switzerland",
    "since": 1992,
    "executions": "",
@@ -3893,7 +3893,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TLS",
+   "id": "TLS",
    "name": "Timor-Leste",
    "since": 1999,
    "executions": "",
@@ -3901,7 +3901,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TGO",
+   "id": "TGO",
    "name": "Togo",
    "since": 2009,
    "executions": "",
@@ -3909,7 +3909,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TUR",
+   "id": "TUR",
    "name": "Turkey",
    "since": 2004,
    "executions": "",
@@ -3917,7 +3917,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TKM",
+   "id": "TKM",
    "name": "Turkmenistan",
    "since": 1999,
    "executions": "",
@@ -3925,7 +3925,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TUV",
+   "id": "TUV",
    "name": "Tuvalu",
    "since": 1978,
    "executions": "",
@@ -3933,7 +3933,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "UKR",
+   "id": "UKR",
    "name": "Ukraine",
    "since": 1999,
    "executions": "",
@@ -3941,7 +3941,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GBR",
+   "id": "GBR",
    "name": "UK",
    "since": 1998,
    "executions": "",
@@ -3949,7 +3949,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "URY",
+   "id": "URY",
    "name": "Uruguay",
    "since": 1907,
    "executions": "",
@@ -3957,7 +3957,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "UZB",
+   "id": "UZB",
    "name": "Uzbekistan",
    "since": 2008,
    "executions": "",
@@ -3965,7 +3965,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "VUT",
+   "id": "VUT",
    "name": "Vanuatu",
    "since": 1980,
    "executions": "",
@@ -3973,7 +3973,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "VEN",
+   "id": "VEN",
    "name": "Venezuela",
    "since": 1863,
    "executions": "",
@@ -3981,7 +3981,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BRA",
+   "id": "BRA",
    "name": "Brazil",
    "since": 1979,
    "executions": "0",
@@ -3989,7 +3989,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "CHL",
+   "id": "CHL",
    "name": "Chile",
    "since": 2001,
    "executions": "",
@@ -3997,7 +3997,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "SLV",
+   "id": "SLV",
    "name": "El Salvador",
    "since": 1983,
    "executions": "",
@@ -4005,7 +4005,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "FJI",
+   "id": "FJI",
    "name": "Fiji",
    "since": 1979,
    "executions": "",
@@ -4013,7 +4013,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "ISR",
+   "id": "ISR",
    "name": "Israel",
    "since": 1954,
    "executions": "",
@@ -4021,7 +4021,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "KAZ",
+   "id": "KAZ",
    "name": "Kazakhstan",
    "since": 2007,
    "executions": "",
@@ -4029,7 +4029,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "PER",
+   "id": "PER",
    "name": "Peru",
    "since": 1979,
    "executions": "",
@@ -4037,7 +4037,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "LVA",
+   "id": "LVA",
    "name": "Latvia",
    "since": 1999,
    "executions": "",
@@ -4045,7 +4045,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "TZA",
+   "id": "TZA",
    "name": "Tanzania",
    "since": null,
    "executions": "",
@@ -4053,7 +4053,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "LKA",
+   "id": "LKA",
    "name": "Sri Lanka",
    "since": null,
    "executions": "",
@@ -4061,7 +4061,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "KEN",
+   "id": "KEN",
    "name": "Kenya",
    "since": null,
    "executions": "",
@@ -4069,7 +4069,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "DZA",
+   "id": "DZA",
    "name": "Algeria",
    "since": null,
    "executions": "",
@@ -4077,7 +4077,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "ZMB",
+   "id": "ZMB",
    "name": "Zambia",
    "since": null,
    "executions": "",
@@ -4085,7 +4085,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "GHA",
+   "id": "GHA",
    "name": "Ghana",
    "since": null,
    "executions": "",
@@ -4093,7 +4093,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MAR",
+   "id": "MAR",
    "name": "Morocco/Western Sahara",
    "since": null,
    "executions": "",
@@ -4101,7 +4101,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MLI",
+   "id": "MLI",
    "name": "Mali",
    "since": null,
    "executions": "",
@@ -4109,7 +4109,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "COG",
+   "id": "COG",
    "name": "Congo (Republic of)",
    "since": null,
    "executions": "",
@@ -4117,7 +4117,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MRT",
+   "id": "MRT",
    "name": "Mauritania",
    "since": null,
    "executions": "",
@@ -4125,7 +4125,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "SLE",
+   "id": "SLE",
    "name": "Sierra Leone",
    "since": null,
    "executions": "",
@@ -4133,7 +4133,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TUN",
+   "id": "TUN",
    "name": "Tunisia",
    "since": null,
    "executions": "",
@@ -4141,7 +4141,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MDV",
+   "id": "MDV",
    "name": "Maldives",
    "since": null,
    "executions": "",
@@ -4149,7 +4149,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MMR",
+   "id": "MMR",
    "name": "Myanmar",
    "since": null,
    "executions": "",
@@ -4157,7 +4157,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "KOR",
+   "id": "KOR",
    "name": "South Korea",
    "since": null,
    "executions": "",
@@ -4165,7 +4165,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "BEN",
+   "id": "BEN",
    "name": "Benin",
    "since": null,
    "executions": "",
@@ -4173,7 +4173,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "BRN",
+   "id": "BRN",
    "name": "Brunei Darussalam",
    "since": null,
    "executions": "",
@@ -4181,7 +4181,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "BFA",
+   "id": "BFA",
    "name": "Burkina Faso",
    "since": null,
    "executions": "",
@@ -4189,7 +4189,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "CMR",
+   "id": "CMR",
    "name": "Cameroon",
    "since": null,
    "executions": "",
@@ -4197,7 +4197,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "CAF",
+   "id": "CAF",
    "name": "Central African Republic",
    "since": null,
    "executions": "",
@@ -4205,7 +4205,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "ERI",
+   "id": "ERI",
    "name": "Eritrea",
    "since": null,
    "executions": "",
@@ -4213,7 +4213,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "GRD",
+   "id": "GRD",
    "name": "Grenada",
    "since": null,
    "executions": "",
@@ -4221,7 +4221,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "LAO",
+   "id": "LAO",
    "name": "Laos",
    "since": null,
    "executions": "",
@@ -4229,7 +4229,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "LBR",
+   "id": "LBR",
    "name": "Liberia",
    "since": null,
    "executions": "",
@@ -4237,7 +4237,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MDG",
+   "id": "MDG",
    "name": "Madagascar",
    "since": null,
    "executions": "",
@@ -4245,7 +4245,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MWI",
+   "id": "MWI",
    "name": "Malawi",
    "since": null,
    "executions": "",
@@ -4253,7 +4253,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MNG",
+   "id": "MNG",
    "name": "Mongolia",
    "since": null,
    "executions": "",
@@ -4261,7 +4261,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "NRU",
+   "id": "NRU",
    "name": "Nauru",
    "since": null,
    "executions": "",
@@ -4269,7 +4269,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "NER",
+   "id": "NER",
    "name": "Niger",
    "since": null,
    "executions": "",
@@ -4277,7 +4277,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "PNG",
+   "id": "PNG",
    "name": "Papua New Guinea",
    "since": null,
    "executions": "",
@@ -4285,7 +4285,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "RUS",
+   "id": "RUS",
    "name": "Russian Federation",
    "since": null,
    "executions": "",
@@ -4293,7 +4293,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "SUR",
+   "id": "SUR",
    "name": "Suriname",
    "since": null,
    "executions": "",
@@ -4301,7 +4301,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "SWZ",
+   "id": "SWZ",
    "name": "Swaziland",
    "since": null,
    "executions": "",
@@ -4309,7 +4309,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TJK",
+   "id": "TJK",
    "name": "Tajikistan",
    "since": null,
    "executions": "",
@@ -4317,7 +4317,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TZA",
+   "id": "TZA",
    "name": "Tanzania",
    "since": null,
    "executions": "",
@@ -4325,7 +4325,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TON",
+   "id": "TON",
    "name": "Tonga",
    "since": null,
    "executions": "",
@@ -4333,7 +4333,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "GAB",
+   "id": "GAB",
    "name": "Gabon",
    "since": null,
    "executions": "",
@@ -4341,7 +4341,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "CHN",
+   "id": "CHN",
    "name": "China",
    "since": null,
    "executions": "1000s+",
@@ -4349,7 +4349,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IRN",
+   "id": "IRN",
    "name": "Iran",
    "since": null,
    "executions": "388+",
@@ -4357,7 +4357,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SAU",
+   "id": "SAU",
    "name": "Saudi Arabia",
    "since": null,
    "executions": "69+",
@@ -4365,7 +4365,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IRQ",
+   "id": "IRQ",
    "name": "Iraq",
    "since": null,
    "executions": "120+",
@@ -4373,7 +4373,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "USA",
+   "id": "USA",
    "name": "United States of America",
    "since": null,
    "executions": "52",
@@ -4381,7 +4381,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SDN",
+   "id": "SDN",
    "name": "Sudan",
    "since": null,
    "executions": "9+",
@@ -4389,7 +4389,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "YEM",
+   "id": "YEM",
    "name": "Yemen",
    "since": null,
    "executions": "30+",
@@ -4397,7 +4397,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "EGY",
+   "id": "EGY",
    "name": "Egypt",
    "since": null,
    "executions": "5+",
@@ -4405,7 +4405,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SOM",
+   "id": "SOM",
    "name": "Somalia",
    "since": null,
    "executions": "",
@@ -4413,7 +4413,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "JOR",
+   "id": "JOR",
    "name": "Jordan",
    "since": null,
    "executions": "",
@@ -4421,7 +4421,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GNQ",
+   "id": "GNQ",
    "name": "Equatorial Guinea",
    "since": null,
    "executions": "",
@@ -4429,7 +4429,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "PAK",
+   "id": "PAK",
    "name": "Pakistan",
    "since": null,
    "executions": "",
@@ -4437,7 +4437,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "AFG",
+   "id": "AFG",
    "name": "Afghanistan",
    "since": null,
    "executions": "",
@@ -4445,7 +4445,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "TWN",
+   "id": "TWN",
    "name": "Taiwan",
    "since": null,
    "executions": "",
@@ -4453,7 +4453,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BLR",
+   "id": "BLR",
    "name": "Belarus",
    "since": null,
    "executions": "",
@@ -4461,7 +4461,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "VNM",
+   "id": "VNM",
    "name": "Viet Nam",
    "since": null,
    "executions": "9+",
@@ -4469,7 +4469,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "MYS",
+   "id": "MYS",
    "name": "Malaysia",
    "since": null,
    "executions": "+",
@@ -4477,7 +4477,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "PSE",
+   "id": "PSE",
    "name": "Palestinian Authority",
    "since": null,
    "executions": "",
@@ -4485,7 +4485,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SGP",
+   "id": "SGP",
    "name": "Singapore",
    "since": null,
    "executions": "1",
@@ -4493,7 +4493,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ARE",
+   "id": "ARE",
    "name": "United Arab Emirates",
    "since": null,
    "executions": "",
@@ -4501,7 +4501,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "PRK",
+   "id": "PRK",
    "name": "North Korea",
    "since": null,
    "executions": "+",
@@ -4509,7 +4509,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "NGA",
+   "id": "NGA",
    "name": "Nigeria",
    "since": null,
    "executions": "",
@@ -4517,7 +4517,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BGD",
+   "id": "BGD",
    "name": "Bangladesh",
    "since": null,
    "executions": "3",
@@ -4525,7 +4525,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IND",
+   "id": "IND",
    "name": "India",
    "since": null,
    "executions": "",
@@ -4533,7 +4533,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "THA",
+   "id": "THA",
    "name": "Thailand",
    "since": null,
    "executions": "2",
@@ -4541,7 +4541,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "COD",
+   "id": "COD",
    "name": "Democratic Republic of the Congo",
    "since": null,
    "executions": "",
@@ -4549,7 +4549,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LBN",
+   "id": "LBN",
    "name": "Lebanon",
    "since": null,
    "executions": "",
@@ -4557,7 +4557,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ZWE",
+   "id": "ZWE",
    "name": "Zimbabwe",
    "since": null,
    "executions": "",
@@ -4565,7 +4565,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "KWT",
+   "id": "KWT",
    "name": "Kuwait",
    "since": null,
    "executions": "",
@@ -4573,7 +4573,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IDN",
+   "id": "idN",
    "name": "Indonesia",
    "since": null,
    "executions": "",
@@ -4581,7 +4581,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BHR",
+   "id": "BHR",
    "name": "Bahrain",
    "since": null,
    "executions": "",
@@ -4589,7 +4589,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "QAT",
+   "id": "QAT",
    "name": "Qatar",
    "since": null,
    "executions": "",
@@ -4597,7 +4597,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "TTO",
+   "id": "TTO",
    "name": "Trinidad and Tobago",
    "since": null,
    "executions": "",
@@ -4605,7 +4605,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BRB",
+   "id": "BRB",
    "name": "Barbados",
    "since": null,
    "executions": "",
@@ -4613,7 +4613,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "JPN",
+   "id": "JPN",
    "name": "Japan",
    "since": null,
    "executions": "7",
@@ -4621,7 +4621,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GMB",
+   "id": "GMB",
    "name": "Gambia",
    "since": null,
    "executions": "",
@@ -4629,7 +4629,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LSO",
+   "id": "LSO",
    "name": "Lesotho",
    "since": null,
    "executions": "",
@@ -4637,7 +4637,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LBY",
+   "id": "LBY",
    "name": "Libya",
    "since": null,
    "executions": "4+",
@@ -4645,7 +4645,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BWA",
+   "id": "BWA",
    "name": "Botswana",
    "since": null,
    "executions": "1",
@@ -4653,7 +4653,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GUY",
+   "id": "GUY",
    "name": "Guyana",
    "since": null,
    "executions": "",
@@ -4661,7 +4661,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "UGA",
+   "id": "UGA",
    "name": "Uganda",
    "since": null,
    "executions": "",
@@ -4669,7 +4669,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SSD",
+   "id": "SSD",
    "name": "South Sudan",
    "since": null,
    "executions": "",
@@ -4677,7 +4677,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ATG",
+   "id": "ATG",
    "name": "Antigua and Barbuda",
    "since": null,
    "executions": "",
@@ -4685,7 +4685,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BHS",
+   "id": "BHS",
    "name": "Bahamas",
    "since": null,
    "executions": "",
@@ -4693,7 +4693,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BLZ",
+   "id": "BLZ",
    "name": "Belize",
    "since": null,
    "executions": "",
@@ -4701,7 +4701,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "TCD",
+   "id": "TCD",
    "name": "Chad",
    "since": null,
    "executions": "",
@@ -4709,7 +4709,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "COM",
+   "id": "COM",
    "name": "Comoros",
    "since": null,
    "executions": "",
@@ -4717,7 +4717,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "CUB",
+   "id": "CUB",
    "name": "Cuba",
    "since": null,
    "executions": "",
@@ -4725,7 +4725,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "DMA",
+   "id": "DMA",
    "name": "Dominica",
    "since": null,
    "executions": "",
@@ -4733,7 +4733,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ETH",
+   "id": "ETH",
    "name": "Ethiopia",
    "since": null,
    "executions": "",
@@ -4741,7 +4741,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GTM",
+   "id": "GTM",
    "name": "Guatemala",
    "since": null,
    "executions": "",
@@ -4749,7 +4749,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GIN",
+   "id": "GIN",
    "name": "Guinea",
    "since": null,
    "executions": "",
@@ -4757,7 +4757,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "JAM",
+   "id": "JAM",
    "name": "Jamaica",
    "since": null,
    "executions": "",
@@ -4765,7 +4765,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "OMN",
+   "id": "OMN",
    "name": "Oman",
    "since": null,
    "executions": "",
@@ -4773,7 +4773,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "KNA",
+   "id": "KNA",
    "name": "Saint Kitts and Nevis",
    "since": null,
    "executions": "",
@@ -4781,7 +4781,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LCA",
+   "id": "LCA",
    "name": "Saint Lucia",
    "since": null,
    "executions": "",
@@ -4789,7 +4789,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "VCT",
+   "id": "VCT",
    "name": "Saint Vincent and the Grenadines",
    "since": null,
    "executions": "",
@@ -4797,7 +4797,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SYR",
+   "id": "SYR",
    "name": "Syria",
    "since": null,
    "executions": "8+",
@@ -4815,7 +4815,7 @@
       "RETENTIONIST":"5",
       "countries":[
  {
-   "ID": "ALB",
+   "id": "ALB",
    "name": "Albania",
    "since": 2007,
    "executions": "",
@@ -4823,7 +4823,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AND",
+   "id": "AND",
    "name": "Andorra",
    "since": 1990,
    "executions": "",
@@ -4831,7 +4831,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AGO",
+   "id": "AGO",
    "name": "Angola",
    "since": 1992,
    "executions": "",
@@ -4839,7 +4839,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ARG",
+   "id": "ARG",
    "name": "Argentina",
    "since": 2008,
    "executions": "",
@@ -4847,7 +4847,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ARM",
+   "id": "ARM",
    "name": "Armenia",
    "since": 2003,
    "executions": "",
@@ -4855,7 +4855,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AUS",
+   "id": "AUS",
    "name": "Australia",
    "since": 1985,
    "executions": "",
@@ -4863,7 +4863,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AUT",
+   "id": "AUT",
    "name": "Austria",
    "since": 1968,
    "executions": "",
@@ -4871,7 +4871,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AZE",
+   "id": "AZE",
    "name": "Azerbaijan",
    "since": 1998,
    "executions": "",
@@ -4879,7 +4879,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BEL",
+   "id": "BEL",
    "name": "Belgium",
    "since": 1996,
    "executions": "",
@@ -4887,7 +4887,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BTN",
+   "id": "BTN",
    "name": "Bhutan",
    "since": 2004,
    "executions": "",
@@ -4895,7 +4895,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BOL",
+   "id": "BOL",
    "name": "Bolivia",
    "since": 2009,
    "executions": "",
@@ -4903,7 +4903,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BIH",
+   "id": "BIH",
    "name": "Bosnia and Herzegovina",
    "since": 2001,
    "executions": "",
@@ -4911,7 +4911,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BGR",
+   "id": "BGR",
    "name": "Bulgaria",
    "since": 1998,
    "executions": "",
@@ -4919,7 +4919,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BDI",
+   "id": "BDI",
    "name": "Burundi",
    "since": 2009,
    "executions": "",
@@ -4927,7 +4927,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "KHM",
+   "id": "KHM",
    "name": "Cambodia",
    "since": 1989,
    "executions": "",
@@ -4935,7 +4935,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CAN",
+   "id": "CAN",
    "name": "Canada",
    "since": 1998,
    "executions": "",
@@ -4943,7 +4943,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CPV",
+   "id": "CPV",
    "name": "Cabo Verde",
    "since": 1981,
    "executions": "",
@@ -4951,7 +4951,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "COL",
+   "id": "COL",
    "name": "Colombia",
    "since": 1910,
    "executions": "",
@@ -4959,7 +4959,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "COK",
+   "id": "COK",
    "name": "Cook Islands",
    "since": 2007,
    "executions": "",
@@ -4967,7 +4967,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CRI",
+   "id": "CRI",
    "name": "Costa Rica",
    "since": 1877,
    "executions": "",
@@ -4975,7 +4975,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CIV",
+   "id": "CIV",
    "name": "Côte d'Ivoire",
    "since": 2000,
    "executions": "",
@@ -4983,7 +4983,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HRV",
+   "id": "HRV",
    "name": "Croatia",
    "since": 1990,
    "executions": "",
@@ -4991,7 +4991,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CYP",
+   "id": "CYP",
    "name": "Cyprus",
    "since": 2002,
    "executions": "",
@@ -4999,7 +4999,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CZE",
+   "id": "CZE",
    "name": "Czech Republic",
    "since": 1990,
    "executions": "",
@@ -5007,7 +5007,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DNK",
+   "id": "DNK",
    "name": "Denmark",
    "since": 1978,
    "executions": "",
@@ -5015,7 +5015,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DJI",
+   "id": "DJI",
    "name": "Djibouti",
    "since": 1995,
    "executions": "",
@@ -5023,7 +5023,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DOM",
+   "id": "DOM",
    "name": "Dominican Republic",
    "since": 1966,
    "executions": "",
@@ -5031,7 +5031,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ECU",
+   "id": "ECU",
    "name": "Ecuador",
    "since": 1906,
    "executions": "",
@@ -5039,7 +5039,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "EST",
+   "id": "EST",
    "name": "Estonia",
    "since": 1998,
    "executions": "",
@@ -5047,7 +5047,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "FIN",
+   "id": "FIN",
    "name": "Finland",
    "since": 1972,
    "executions": "",
@@ -5055,7 +5055,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "FRA",
+   "id": "FRA",
    "name": "France",
    "since": 1981,
    "executions": "",
@@ -5063,7 +5063,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GAB",
+   "id": "GAB",
    "name": "Gabon",
    "since": 2010,
    "executions": "",
@@ -5071,7 +5071,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GEO",
+   "id": "GEO",
    "name": "Georgia",
    "since": 1997,
    "executions": "",
@@ -5079,7 +5079,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DEU",
+   "id": "DEU",
    "name": "Germany",
    "since": 1987,
    "executions": "",
@@ -5087,7 +5087,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GRC",
+   "id": "GRC",
    "name": "Greece",
    "since": 2004,
    "executions": "",
@@ -5095,7 +5095,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GNB",
+   "id": "GNB",
    "name": "Guinea-Bissau",
    "since": 1993,
    "executions": "",
@@ -5103,7 +5103,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HTI",
+   "id": "HTI",
    "name": "Haiti",
    "since": 1987,
    "executions": "",
@@ -5111,7 +5111,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "VAT",
+   "id": "VAT",
    "name": "Holy See",
    "since": 1969,
    "executions": "",
@@ -5119,7 +5119,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HND",
+   "id": "HND",
    "name": "Honduras",
    "since": 1956,
    "executions": "",
@@ -5127,7 +5127,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HUN",
+   "id": "HUN",
    "name": "Hungary",
    "since": 1990,
    "executions": "",
@@ -5135,7 +5135,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ISL",
+   "id": "ISL",
    "name": "Iceland",
    "since": 1928,
    "executions": "",
@@ -5143,7 +5143,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "IRL",
+   "id": "IRL",
    "name": "Ireland",
    "since": 1990,
    "executions": "",
@@ -5151,7 +5151,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ITA",
+   "id": "ITA",
    "name": "Italy",
    "since": 1994,
    "executions": "",
@@ -5159,7 +5159,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "KIR",
+   "id": "KIR",
    "name": "Kiribati",
    "since": 1979,
    "executions": "",
@@ -5167,7 +5167,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "KGZ",
+   "id": "KGZ",
    "name": "Kyrgyzstan",
    "since": 2007,
    "executions": "",
@@ -5175,7 +5175,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "LIE",
+   "id": "LIE",
    "name": "Liechtenstein",
    "since": 1987,
    "executions": "",
@@ -5183,7 +5183,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "LTU",
+   "id": "LTU",
    "name": "Lithunia",
    "since": 1998,
    "executions": "",
@@ -5191,7 +5191,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "LUX",
+   "id": "LUX",
    "name": "Luxembourg",
    "since": 1979,
    "executions": "",
@@ -5199,7 +5199,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MKD",
+   "id": "MKD",
    "name": "Macedonia",
    "since": 1991,
    "executions": "",
@@ -5207,7 +5207,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MLT",
+   "id": "MLT",
    "name": "Malta",
    "since": 2000,
    "executions": "",
@@ -5215,7 +5215,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MHL",
+   "id": "MHL",
    "name": "Marshall Islands",
    "since": 1986,
    "executions": "",
@@ -5223,7 +5223,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MUS",
+   "id": "MUS",
    "name": "Mauritius",
    "since": 1995,
    "executions": "",
@@ -5231,7 +5231,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MEX",
+   "id": "MEX",
    "name": "Mexico",
    "since": 2005,
    "executions": "",
@@ -5239,7 +5239,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "FSM",
+   "id": "FSM",
    "name": "Micronesia",
    "since": 1986,
    "executions": "",
@@ -5247,7 +5247,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MDA",
+   "id": "MDA",
    "name": "Moldova",
    "since": 1995,
    "executions": "",
@@ -5255,7 +5255,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MCO",
+   "id": "MCO",
    "name": "Monaco",
    "since": 1962,
    "executions": "",
@@ -5263,7 +5263,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MNE",
+   "id": "MNE",
    "name": "Montenegro",
    "since": 2002,
    "executions": "",
@@ -5271,7 +5271,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MOZ",
+   "id": "MOZ",
    "name": "Mozambique",
    "since": 1990,
    "executions": "",
@@ -5279,7 +5279,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NAM",
+   "id": "NAM",
    "name": "Namibia",
    "since": 1990,
    "executions": "",
@@ -5287,7 +5287,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NPL",
+   "id": "NPL",
    "name": "Nepal",
    "since": 1997,
    "executions": "",
@@ -5295,7 +5295,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NLD",
+   "id": "NLD",
    "name": "Netherlands",
    "since": 1982,
    "executions": "",
@@ -5303,7 +5303,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NZL",
+   "id": "NZL",
    "name": "New Zealand",
    "since": 1989,
    "executions": "",
@@ -5311,7 +5311,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NIC",
+   "id": "NIC",
    "name": "Nicaragua",
    "since": 1979,
    "executions": "",
@@ -5319,7 +5319,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NIU",
+   "id": "NIU",
    "name": "Niue",
    "since": 1974,
    "executions": "",
@@ -5327,7 +5327,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NOR",
+   "id": "NOR",
    "name": "Norway",
    "since": 1979,
    "executions": "",
@@ -5335,7 +5335,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PLW",
+   "id": "PLW",
    "name": "Palau",
    "since": 1994,
    "executions": "",
@@ -5343,7 +5343,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PAN",
+   "id": "PAN",
    "name": "Panama",
    "since": 1922,
    "executions": "",
@@ -5351,7 +5351,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PRY",
+   "id": "PRY",
    "name": "Paraguay",
    "since": 1992,
    "executions": "",
@@ -5359,7 +5359,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PHL",
+   "id": "PHL",
    "name": "Philippines",
    "since": 2006,
    "executions": "",
@@ -5367,7 +5367,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "POL",
+   "id": "POL",
    "name": "Poland",
    "since": 1997,
    "executions": "",
@@ -5375,7 +5375,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PRT",
+   "id": "PRT",
    "name": "Portugal",
    "since": 1976,
    "executions": "",
@@ -5383,7 +5383,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ROU",
+   "id": "ROU",
    "name": "Romania",
    "since": 1989,
    "executions": "",
@@ -5391,7 +5391,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "RWA",
+   "id": "RWA",
    "name": "Rwanda",
    "since": 2007,
    "executions": "",
@@ -5399,7 +5399,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "WSM",
+   "id": "WSM",
    "name": "Samoa",
    "since": 2004,
    "executions": "",
@@ -5407,7 +5407,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SMR",
+   "id": "SMR",
    "name": "San Marino",
    "since": 1865,
    "executions": "",
@@ -5415,7 +5415,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "STP",
+   "id": "STP",
    "name": "Sao Tome and Principe",
    "since": 1990,
    "executions": "",
@@ -5423,7 +5423,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SEN",
+   "id": "SEN",
    "name": "Senegal",
    "since": 2004,
    "executions": "",
@@ -5431,7 +5431,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SRB",
+   "id": "SRB",
    "name": "Serbia",
    "since": 2002,
    "executions": "",
@@ -5439,7 +5439,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SYC",
+   "id": "SYC",
    "name": "Seychelles",
    "since": 1993,
    "executions": "",
@@ -5447,7 +5447,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SVK",
+   "id": "SVK",
    "name": "Slovakia",
    "since": 1990,
    "executions": "",
@@ -5455,7 +5455,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SVN",
+   "id": "SVN",
    "name": "Slovenia",
    "since": 1989,
    "executions": "",
@@ -5463,7 +5463,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SLB",
+   "id": "SLB",
    "name": "Solomon Islands",
    "since": 1978,
    "executions": "",
@@ -5471,7 +5471,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ZAF",
+   "id": "ZAF",
    "name": "South Africa",
    "since": 1997,
    "executions": "",
@@ -5479,7 +5479,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ESP",
+   "id": "ESP",
    "name": "Spain",
    "since": 1995,
    "executions": "",
@@ -5487,7 +5487,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SWE",
+   "id": "SWE",
    "name": "Sweden",
    "since": 1972,
    "executions": "",
@@ -5495,7 +5495,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CHE",
+   "id": "CHE",
    "name": "Switzerland",
    "since": 1992,
    "executions": "",
@@ -5503,7 +5503,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TLS",
+   "id": "TLS",
    "name": "Timor-Leste",
    "since": 1999,
    "executions": "",
@@ -5511,7 +5511,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TGO",
+   "id": "TGO",
    "name": "Togo",
    "since": 2009,
    "executions": "",
@@ -5519,7 +5519,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TUR",
+   "id": "TUR",
    "name": "Turkey",
    "since": 2004,
    "executions": "",
@@ -5527,7 +5527,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TKM",
+   "id": "TKM",
    "name": "Turkmenistan",
    "since": 1999,
    "executions": "",
@@ -5535,7 +5535,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TUV",
+   "id": "TUV",
    "name": "Tuvalu",
    "since": 1978,
    "executions": "",
@@ -5543,7 +5543,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "UKR",
+   "id": "UKR",
    "name": "Ukraine",
    "since": 1999,
    "executions": "",
@@ -5551,7 +5551,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GBR",
+   "id": "GBR",
    "name": "UK",
    "since": 1998,
    "executions": "",
@@ -5559,7 +5559,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "URY",
+   "id": "URY",
    "name": "Uruguay",
    "since": 1907,
    "executions": "",
@@ -5567,7 +5567,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "UZB",
+   "id": "UZB",
    "name": "Uzbekistan",
    "since": 2008,
    "executions": "",
@@ -5575,7 +5575,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "VUT",
+   "id": "VUT",
    "name": "Vanuatu",
    "since": 1980,
    "executions": "",
@@ -5583,7 +5583,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "VEN",
+   "id": "VEN",
    "name": "Venezuela",
    "since": 1863,
    "executions": "",
@@ -5591,7 +5591,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BRA",
+   "id": "BRA",
    "name": "Brazil",
    "since": 1979,
    "executions": "",
@@ -5599,7 +5599,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "CHL",
+   "id": "CHL",
    "name": "Chile",
    "since": 2001,
    "executions": "",
@@ -5607,7 +5607,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "SLV",
+   "id": "SLV",
    "name": "El Salvador",
    "since": 1983,
    "executions": "",
@@ -5615,7 +5615,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "FJI",
+   "id": "FJI",
    "name": "Fiji",
    "since": 1979,
    "executions": "",
@@ -5623,7 +5623,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "ISR",
+   "id": "ISR",
    "name": "Israel",
    "since": 1954,
    "executions": "",
@@ -5631,7 +5631,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "KAZ",
+   "id": "KAZ",
    "name": "Kazakhstan",
    "since": 2007,
    "executions": "",
@@ -5639,7 +5639,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "PER",
+   "id": "PER",
    "name": "Peru",
    "since": 1979,
    "executions": "",
@@ -5647,7 +5647,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "LVA",
+   "id": "LVA",
    "name": "Latvia",
    "since": 1999,
    "executions": "",
@@ -5655,7 +5655,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "TZA",
+   "id": "TZA",
    "name": "Tanzania",
    "since": null,
    "executions": "",
@@ -5663,7 +5663,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "LKA",
+   "id": "LKA",
    "name": "Sri Lanka",
    "since": null,
    "executions": "",
@@ -5671,7 +5671,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "KEN",
+   "id": "KEN",
    "name": "Kenya",
    "since": null,
    "executions": "",
@@ -5679,7 +5679,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "DZA",
+   "id": "DZA",
    "name": "Algeria",
    "since": null,
    "executions": "",
@@ -5687,7 +5687,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "ZMB",
+   "id": "ZMB",
    "name": "Zambia",
    "since": null,
    "executions": "",
@@ -5695,7 +5695,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "GHA",
+   "id": "GHA",
    "name": "Ghana",
    "since": null,
    "executions": "",
@@ -5703,7 +5703,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MAR",
+   "id": "MAR",
    "name": "Morocco/Western Sahara",
    "since": null,
    "executions": "",
@@ -5711,7 +5711,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MLI",
+   "id": "MLI",
    "name": "Mali",
    "since": null,
    "executions": "",
@@ -5719,7 +5719,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "COG",
+   "id": "COG",
    "name": "Congo (Republic of)",
    "since": null,
    "executions": "",
@@ -5727,7 +5727,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MRT",
+   "id": "MRT",
    "name": "Mauritania",
    "since": null,
    "executions": "",
@@ -5735,7 +5735,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "SLE",
+   "id": "SLE",
    "name": "Sierra Leone",
    "since": null,
    "executions": "",
@@ -5743,7 +5743,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TUN",
+   "id": "TUN",
    "name": "Tunisia",
    "since": null,
    "executions": "",
@@ -5751,7 +5751,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MDV",
+   "id": "MDV",
    "name": "Maldives",
    "since": null,
    "executions": "",
@@ -5759,7 +5759,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MMR",
+   "id": "MMR",
    "name": "Myanmar",
    "since": null,
    "executions": "",
@@ -5767,7 +5767,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "KOR",
+   "id": "KOR",
    "name": "South Korea",
    "since": null,
    "executions": "",
@@ -5775,7 +5775,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "BEN",
+   "id": "BEN",
    "name": "Benin",
    "since": null,
    "executions": "",
@@ -5783,7 +5783,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "BRN",
+   "id": "BRN",
    "name": "Brunei Darussalam",
    "since": null,
    "executions": "0",
@@ -5791,7 +5791,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "BFA",
+   "id": "BFA",
    "name": "Burkina Faso",
    "since": null,
    "executions": "",
@@ -5799,7 +5799,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "CMR",
+   "id": "CMR",
    "name": "Cameroon",
    "since": null,
    "executions": "",
@@ -5807,7 +5807,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "CAF",
+   "id": "CAF",
    "name": "Central African Republic",
    "since": null,
    "executions": "",
@@ -5815,7 +5815,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "ERI",
+   "id": "ERI",
    "name": "Eritrea",
    "since": null,
    "executions": "",
@@ -5823,7 +5823,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "GRD",
+   "id": "GRD",
    "name": "Grenada",
    "since": null,
    "executions": "",
@@ -5831,7 +5831,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "LAO",
+   "id": "LAO",
    "name": "Laos",
    "since": null,
    "executions": "",
@@ -5839,7 +5839,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "LBR",
+   "id": "LBR",
    "name": "Liberia",
    "since": null,
    "executions": "",
@@ -5847,7 +5847,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MDG",
+   "id": "MDG",
    "name": "Madagascar",
    "since": null,
    "executions": "",
@@ -5855,7 +5855,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MWI",
+   "id": "MWI",
    "name": "Malawi",
    "since": null,
    "executions": "",
@@ -5863,7 +5863,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MNG",
+   "id": "MNG",
    "name": "Mongolia",
    "since": null,
    "executions": "",
@@ -5871,7 +5871,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "NRU",
+   "id": "NRU",
    "name": "Nauru",
    "since": null,
    "executions": "",
@@ -5879,7 +5879,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "NER",
+   "id": "NER",
    "name": "Niger",
    "since": null,
    "executions": "",
@@ -5887,7 +5887,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "PNG",
+   "id": "PNG",
    "name": "Papua New Guinea",
    "since": null,
    "executions": "",
@@ -5895,7 +5895,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "RUS",
+   "id": "RUS",
    "name": "Russian Federation",
    "since": null,
    "executions": "",
@@ -5903,7 +5903,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "SUR",
+   "id": "SUR",
    "name": "Suriname",
    "since": null,
    "executions": "",
@@ -5911,7 +5911,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "SWZ",
+   "id": "SWZ",
    "name": "Swaziland",
    "since": null,
    "executions": "",
@@ -5919,7 +5919,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TJK",
+   "id": "TJK",
    "name": "Tajikistan",
    "since": null,
    "executions": "",
@@ -5927,7 +5927,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TZA",
+   "id": "TZA",
    "name": "Tanzania",
    "since": null,
    "executions": "",
@@ -5935,7 +5935,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TON",
+   "id": "TON",
    "name": "Tonga",
    "since": null,
    "executions": "",
@@ -5943,7 +5943,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "CHN",
+   "id": "CHN",
    "name": "China",
    "since": null,
    "executions": "1000s+",
@@ -5951,7 +5951,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IRN",
+   "id": "IRN",
    "name": "Iran",
    "since": null,
    "executions": "252+",
@@ -5959,7 +5959,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SAU",
+   "id": "SAU",
    "name": "Saudi Arabia",
    "since": null,
    "executions": "27+",
@@ -5967,7 +5967,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IRQ",
+   "id": "IRQ",
    "name": "Iraq",
    "since": null,
    "executions": "1+",
@@ -5975,7 +5975,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "USA",
+   "id": "USA",
    "name": "United States of America",
    "since": null,
    "executions": "46",
@@ -5983,7 +5983,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SDN",
+   "id": "SDN",
    "name": "Sudan",
    "since": null,
    "executions": "6+",
@@ -5991,7 +5991,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "YEM",
+   "id": "YEM",
    "name": "Yemen",
    "since": null,
    "executions": "53+",
@@ -5999,7 +5999,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "EGY",
+   "id": "EGY",
    "name": "Egypt",
    "since": null,
    "executions": "4",
@@ -6007,7 +6007,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SOM",
+   "id": "SOM",
    "name": "Somalia",
    "since": null,
    "executions": "8+",
@@ -6015,7 +6015,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "JOR",
+   "id": "JOR",
    "name": "Jordan",
    "since": null,
    "executions": "",
@@ -6023,7 +6023,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GNQ",
+   "id": "GNQ",
    "name": "Equatorial Guinea",
    "since": null,
    "executions": "4",
@@ -6031,7 +6031,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "PAK",
+   "id": "PAK",
    "name": "Pakistan",
    "since": null,
    "executions": "",
@@ -6039,7 +6039,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "AFG",
+   "id": "AFG",
    "name": "Afghanistan",
    "since": null,
    "executions": "",
@@ -6047,7 +6047,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "TWN",
+   "id": "TWN",
    "name": "Taiwan",
    "since": null,
    "executions": "4",
@@ -6055,7 +6055,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BLR",
+   "id": "BLR",
    "name": "Belarus",
    "since": null,
    "executions": "2",
@@ -6063,7 +6063,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "VNM",
+   "id": "VNM",
    "name": "Viet Nam",
    "since": null,
    "executions": "+",
@@ -6071,7 +6071,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "MYS",
+   "id": "MYS",
    "name": "Malaysia",
    "since": null,
    "executions": "1+",
@@ -6079,7 +6079,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "PSE",
+   "id": "PSE",
    "name": "Palestinian Authority",
    "since": null,
    "executions": "5",
@@ -6087,7 +6087,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SGP",
+   "id": "SGP",
    "name": "Singapore",
    "since": null,
    "executions": "+",
@@ -6095,7 +6095,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ARE",
+   "id": "ARE",
    "name": "United Arab Emirates",
    "since": null,
    "executions": "",
@@ -6103,7 +6103,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "PRK",
+   "id": "PRK",
    "name": "North Korea",
    "since": null,
    "executions": "60+",
@@ -6111,7 +6111,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "NGA",
+   "id": "NGA",
    "name": "Nigeria",
    "since": null,
    "executions": "",
@@ -6119,7 +6119,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BGD",
+   "id": "BGD",
    "name": "Bangladesh",
    "since": null,
    "executions": "9+",
@@ -6127,7 +6127,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IND",
+   "id": "IND",
    "name": "India",
    "since": null,
    "executions": "",
@@ -6135,7 +6135,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "THA",
+   "id": "THA",
    "name": "Thailand",
    "since": null,
    "executions": "",
@@ -6143,7 +6143,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "COD",
+   "id": "COD",
    "name": "Democratic Republic of the Congo",
    "since": null,
    "executions": "",
@@ -6151,7 +6151,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LBN",
+   "id": "LBN",
    "name": "Lebanon",
    "since": null,
    "executions": "",
@@ -6159,7 +6159,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ZWE",
+   "id": "ZWE",
    "name": "Zimbabwe",
    "since": null,
    "executions": "",
@@ -6167,7 +6167,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "KWT",
+   "id": "KWT",
    "name": "Kuwait",
    "since": null,
    "executions": "",
@@ -6175,7 +6175,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IDN",
+   "id": "idN",
    "name": "Indonesia",
    "since": null,
    "executions": "",
@@ -6183,7 +6183,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BHR",
+   "id": "BHR",
    "name": "Bahrain",
    "since": null,
    "executions": "1",
@@ -6191,7 +6191,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "QAT",
+   "id": "QAT",
    "name": "Qatar",
    "since": null,
    "executions": "",
@@ -6199,7 +6199,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "TTO",
+   "id": "TTO",
    "name": "Trinidad and Tobago",
    "since": null,
    "executions": "",
@@ -6207,7 +6207,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BRB",
+   "id": "BRB",
    "name": "Barbados",
    "since": null,
    "executions": "",
@@ -6215,7 +6215,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "JPN",
+   "id": "JPN",
    "name": "Japan",
    "since": null,
    "executions": "2",
@@ -6223,7 +6223,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GMB",
+   "id": "GMB",
    "name": "Gambia",
    "since": null,
    "executions": "",
@@ -6231,7 +6231,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LSO",
+   "id": "LSO",
    "name": "Lesotho",
    "since": null,
    "executions": "",
@@ -6239,7 +6239,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LBY",
+   "id": "LBY",
    "name": "Libya",
    "since": null,
    "executions": "18+",
@@ -6247,7 +6247,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BWA",
+   "id": "BWA",
    "name": "Botswana",
    "since": null,
    "executions": "1",
@@ -6255,7 +6255,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GUY",
+   "id": "GUY",
    "name": "Guyana",
    "since": null,
    "executions": "",
@@ -6263,7 +6263,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "UGA",
+   "id": "UGA",
    "name": "Uganda",
    "since": null,
    "executions": "",
@@ -6271,7 +6271,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SSD",
+   "id": "SSD",
    "name": "South Sudan",
    "since": null,
    "executions": "",
@@ -6279,7 +6279,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ATG",
+   "id": "ATG",
    "name": "Antigua and Barbuda",
    "since": null,
    "executions": "",
@@ -6287,7 +6287,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BHS",
+   "id": "BHS",
    "name": "Bahamas",
    "since": null,
    "executions": "",
@@ -6295,7 +6295,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BLZ",
+   "id": "BLZ",
    "name": "Belize",
    "since": null,
    "executions": "",
@@ -6303,7 +6303,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "TCD",
+   "id": "TCD",
    "name": "Chad",
    "since": null,
    "executions": "",
@@ -6311,7 +6311,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "COM",
+   "id": "COM",
    "name": "Comoros",
    "since": null,
    "executions": "",
@@ -6319,7 +6319,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "CUB",
+   "id": "CUB",
    "name": "Cuba",
    "since": null,
    "executions": "",
@@ -6327,7 +6327,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "DMA",
+   "id": "DMA",
    "name": "Dominica",
    "since": null,
    "executions": "",
@@ -6335,7 +6335,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ETH",
+   "id": "ETH",
    "name": "Ethiopia",
    "since": null,
    "executions": "",
@@ -6343,7 +6343,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GTM",
+   "id": "GTM",
    "name": "Guatemala",
    "since": null,
    "executions": "",
@@ -6351,7 +6351,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GIN",
+   "id": "GIN",
    "name": "Guinea",
    "since": null,
    "executions": "",
@@ -6359,7 +6359,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "JAM",
+   "id": "JAM",
    "name": "Jamaica",
    "since": null,
    "executions": "",
@@ -6367,7 +6367,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "OMN",
+   "id": "OMN",
    "name": "Oman",
    "since": null,
    "executions": "",
@@ -6375,7 +6375,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "KNA",
+   "id": "KNA",
    "name": "Saint Kitts and Nevis",
    "since": null,
    "executions": "",
@@ -6383,7 +6383,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LCA",
+   "id": "LCA",
    "name": "Saint Lucia",
    "since": null,
    "executions": "",
@@ -6391,7 +6391,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "VCT",
+   "id": "VCT",
    "name": "Saint Vincent and the Grenadines",
    "since": null,
    "executions": "",
@@ -6399,7 +6399,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SYR",
+   "id": "SYR",
    "name": "Syria",
    "since": null,
    "executions": "17+",
@@ -6417,7 +6417,7 @@
       "RETENTIONIST":"58",
       "countries":[
  {
-   "ID": "ALB",
+   "id": "ALB",
    "name": "Albania",
    "since": 2007,
    "executions": "",
@@ -6425,7 +6425,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AND",
+   "id": "AND",
    "name": "Andorra",
    "since": 1990,
    "executions": "",
@@ -6433,7 +6433,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AGO",
+   "id": "AGO",
    "name": "Angola",
    "since": 1992,
    "executions": "",
@@ -6441,7 +6441,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ARG",
+   "id": "ARG",
    "name": "Argentina",
    "since": 2008,
    "executions": "",
@@ -6449,7 +6449,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ARM",
+   "id": "ARM",
    "name": "Armenia",
    "since": 2003,
    "executions": "",
@@ -6457,7 +6457,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AUS",
+   "id": "AUS",
    "name": "Australia",
    "since": 1985,
    "executions": "",
@@ -6465,7 +6465,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AUT",
+   "id": "AUT",
    "name": "Austria",
    "since": 1968,
    "executions": "",
@@ -6473,7 +6473,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AZE",
+   "id": "AZE",
    "name": "Azerbaijan",
    "since": 1998,
    "executions": "",
@@ -6481,7 +6481,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BEL",
+   "id": "BEL",
    "name": "Belgium",
    "since": 1996,
    "executions": "",
@@ -6489,7 +6489,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BTN",
+   "id": "BTN",
    "name": "Bhutan",
    "since": 2004,
    "executions": "",
@@ -6497,7 +6497,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BOL",
+   "id": "BOL",
    "name": "Bolivia",
    "since": 2009,
    "executions": "",
@@ -6505,7 +6505,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BIH",
+   "id": "BIH",
    "name": "Bosnia and Herzegovina",
    "since": 2001,
    "executions": "",
@@ -6513,7 +6513,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BGR",
+   "id": "BGR",
    "name": "Bulgaria",
    "since": 1998,
    "executions": "",
@@ -6521,7 +6521,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BDI",
+   "id": "BDI",
    "name": "Burundi",
    "since": 2009,
    "executions": "",
@@ -6529,7 +6529,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "KHM",
+   "id": "KHM",
    "name": "Cambodia",
    "since": 1989,
    "executions": "",
@@ -6537,7 +6537,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CAN",
+   "id": "CAN",
    "name": "Canada",
    "since": 1998,
    "executions": "",
@@ -6545,7 +6545,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CPV",
+   "id": "CPV",
    "name": "Cabo Verde",
    "since": 1981,
    "executions": "",
@@ -6553,7 +6553,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "COL",
+   "id": "COL",
    "name": "Colombia",
    "since": 1910,
    "executions": "",
@@ -6561,7 +6561,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "COK",
+   "id": "COK",
    "name": "Cook Islands",
    "since": 2007,
    "executions": "",
@@ -6569,7 +6569,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CRI",
+   "id": "CRI",
    "name": "Costa Rica",
    "since": 1877,
    "executions": "",
@@ -6577,7 +6577,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CIV",
+   "id": "CIV",
    "name": "Côte d'Ivoire",
    "since": 2000,
    "executions": "",
@@ -6585,7 +6585,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HRV",
+   "id": "HRV",
    "name": "Croatia",
    "since": 1990,
    "executions": "",
@@ -6593,7 +6593,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CYP",
+   "id": "CYP",
    "name": "Cyprus",
    "since": 2002,
    "executions": "",
@@ -6601,7 +6601,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CZE",
+   "id": "CZE",
    "name": "Czech Republic",
    "since": 1990,
    "executions": "",
@@ -6609,7 +6609,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DNK",
+   "id": "DNK",
    "name": "Denmark",
    "since": 1978,
    "executions": "",
@@ -6617,7 +6617,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DJI",
+   "id": "DJI",
    "name": "Djibouti",
    "since": 1995,
    "executions": "",
@@ -6625,7 +6625,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DOM",
+   "id": "DOM",
    "name": "Dominican Republic",
    "since": 1966,
    "executions": "",
@@ -6633,7 +6633,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ECU",
+   "id": "ECU",
    "name": "Ecuador",
    "since": 1906,
    "executions": "",
@@ -6641,7 +6641,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "EST",
+   "id": "EST",
    "name": "Estonia",
    "since": 1998,
    "executions": "",
@@ -6649,7 +6649,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "FIN",
+   "id": "FIN",
    "name": "Finland",
    "since": 1972,
    "executions": "",
@@ -6657,7 +6657,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "FRA",
+   "id": "FRA",
    "name": "France",
    "since": 1981,
    "executions": "",
@@ -6665,7 +6665,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GAB",
+   "id": "GAB",
    "name": "Gabon",
    "since": 2010,
    "executions": "",
@@ -6673,7 +6673,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GEO",
+   "id": "GEO",
    "name": "Georgia",
    "since": 1997,
    "executions": "",
@@ -6681,7 +6681,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DEU",
+   "id": "DEU",
    "name": "Germany",
    "since": 1987,
    "executions": "",
@@ -6689,7 +6689,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GRC",
+   "id": "GRC",
    "name": "Greece",
    "since": 2004,
    "executions": "",
@@ -6697,7 +6697,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GNB",
+   "id": "GNB",
    "name": "Guinea-Bissau",
    "since": 1993,
    "executions": "",
@@ -6705,7 +6705,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HTI",
+   "id": "HTI",
    "name": "Haiti",
    "since": 1987,
    "executions": "",
@@ -6713,7 +6713,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "VAT",
+   "id": "VAT",
    "name": "Holy See",
    "since": 1969,
    "executions": "",
@@ -6721,7 +6721,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HND",
+   "id": "HND",
    "name": "Honduras",
    "since": 1956,
    "executions": "",
@@ -6729,7 +6729,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HUN",
+   "id": "HUN",
    "name": "Hungary",
    "since": 1990,
    "executions": "",
@@ -6737,7 +6737,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ISL",
+   "id": "ISL",
    "name": "Iceland",
    "since": 1928,
    "executions": "",
@@ -6745,7 +6745,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "IRL",
+   "id": "IRL",
    "name": "Ireland",
    "since": 1990,
    "executions": "",
@@ -6753,7 +6753,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ITA",
+   "id": "ITA",
    "name": "Italy",
    "since": 1994,
    "executions": "",
@@ -6761,7 +6761,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "KIR",
+   "id": "KIR",
    "name": "Kiribati",
    "since": 1979,
    "executions": "",
@@ -6769,7 +6769,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "KGZ",
+   "id": "KGZ",
    "name": "Kyrgyzstan",
    "since": 2007,
    "executions": "",
@@ -6777,7 +6777,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "LIE",
+   "id": "LIE",
    "name": "Liechtenstein",
    "since": 1987,
    "executions": "",
@@ -6785,7 +6785,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "LTU",
+   "id": "LTU",
    "name": "Lithunia",
    "since": 1998,
    "executions": "",
@@ -6793,7 +6793,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "LUX",
+   "id": "LUX",
    "name": "Luxembourg",
    "since": 1979,
    "executions": "",
@@ -6801,7 +6801,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MKD",
+   "id": "MKD",
    "name": "Macedonia",
    "since": 1991,
    "executions": "",
@@ -6809,7 +6809,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MLT",
+   "id": "MLT",
    "name": "Malta",
    "since": 2000,
    "executions": "",
@@ -6817,7 +6817,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MHL",
+   "id": "MHL",
    "name": "Marshall Islands",
    "since": 1986,
    "executions": "",
@@ -6825,7 +6825,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MUS",
+   "id": "MUS",
    "name": "Mauritius",
    "since": 1995,
    "executions": "",
@@ -6833,7 +6833,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MEX",
+   "id": "MEX",
    "name": "Mexico",
    "since": 2005,
    "executions": "",
@@ -6841,7 +6841,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "FSM",
+   "id": "FSM",
    "name": "Micronesia",
    "since": 1986,
    "executions": "",
@@ -6849,7 +6849,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MDA",
+   "id": "MDA",
    "name": "Moldova",
    "since": 1995,
    "executions": "",
@@ -6857,7 +6857,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MCO",
+   "id": "MCO",
    "name": "Monaco",
    "since": 1962,
    "executions": "",
@@ -6865,7 +6865,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MNE",
+   "id": "MNE",
    "name": "Montenegro",
    "since": 2002,
    "executions": "",
@@ -6873,7 +6873,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MOZ",
+   "id": "MOZ",
    "name": "Mozambique",
    "since": 1990,
    "executions": "",
@@ -6881,7 +6881,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NAM",
+   "id": "NAM",
    "name": "Namibia",
    "since": 1990,
    "executions": "",
@@ -6889,7 +6889,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NPL",
+   "id": "NPL",
    "name": "Nepal",
    "since": 1997,
    "executions": "",
@@ -6897,7 +6897,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NLD",
+   "id": "NLD",
    "name": "Netherlands",
    "since": 1982,
    "executions": "",
@@ -6905,7 +6905,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NZL",
+   "id": "NZL",
    "name": "New Zealand",
    "since": 1989,
    "executions": "",
@@ -6913,7 +6913,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NIC",
+   "id": "NIC",
    "name": "Nicaragua",
    "since": 1979,
    "executions": "",
@@ -6921,7 +6921,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NIU",
+   "id": "NIU",
    "name": "Niue",
    "since": 1974,
    "executions": "",
@@ -6929,7 +6929,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NOR",
+   "id": "NOR",
    "name": "Norway",
    "since": 1979,
    "executions": "",
@@ -6937,7 +6937,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PLW",
+   "id": "PLW",
    "name": "Palau",
    "since": 1994,
    "executions": "",
@@ -6945,7 +6945,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PAN",
+   "id": "PAN",
    "name": "Panama",
    "since": 1922,
    "executions": "",
@@ -6953,7 +6953,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PRY",
+   "id": "PRY",
    "name": "Paraguay",
    "since": 1992,
    "executions": "",
@@ -6961,7 +6961,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PHL",
+   "id": "PHL",
    "name": "Philippines",
    "since": 2006,
    "executions": "",
@@ -6969,7 +6969,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "POL",
+   "id": "POL",
    "name": "Poland",
    "since": 1997,
    "executions": "",
@@ -6977,7 +6977,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PRT",
+   "id": "PRT",
    "name": "Portugal",
    "since": 1976,
    "executions": "",
@@ -6985,7 +6985,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ROU",
+   "id": "ROU",
    "name": "Romania",
    "since": 1989,
    "executions": "",
@@ -6993,7 +6993,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "RWA",
+   "id": "RWA",
    "name": "Rwanda",
    "since": 2007,
    "executions": "",
@@ -7001,7 +7001,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "WSM",
+   "id": "WSM",
    "name": "Samoa",
    "since": 2004,
    "executions": "",
@@ -7009,7 +7009,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SMR",
+   "id": "SMR",
    "name": "San Marino",
    "since": 1865,
    "executions": "",
@@ -7017,7 +7017,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "STP",
+   "id": "STP",
    "name": "Sao Tome and Principe",
    "since": 1990,
    "executions": "",
@@ -7025,7 +7025,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SEN",
+   "id": "SEN",
    "name": "Senegal",
    "since": 2004,
    "executions": "",
@@ -7033,7 +7033,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SRB",
+   "id": "SRB",
    "name": "Serbia",
    "since": 2002,
    "executions": "",
@@ -7041,7 +7041,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SYC",
+   "id": "SYC",
    "name": "Seychelles",
    "since": 1993,
    "executions": "",
@@ -7049,7 +7049,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SVK",
+   "id": "SVK",
    "name": "Slovakia",
    "since": 1990,
    "executions": "",
@@ -7057,7 +7057,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SVN",
+   "id": "SVN",
    "name": "Slovenia",
    "since": 1989,
    "executions": "",
@@ -7065,7 +7065,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SLB",
+   "id": "SLB",
    "name": "Solomon Islands",
    "since": 1978,
    "executions": "",
@@ -7073,7 +7073,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ZAF",
+   "id": "ZAF",
    "name": "South Africa",
    "since": 1997,
    "executions": "",
@@ -7081,7 +7081,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ESP",
+   "id": "ESP",
    "name": "Spain",
    "since": 1995,
    "executions": "",
@@ -7089,7 +7089,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SWE",
+   "id": "SWE",
    "name": "Sweden",
    "since": 1972,
    "executions": "",
@@ -7097,7 +7097,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CHE",
+   "id": "CHE",
    "name": "Switzerland",
    "since": 1992,
    "executions": "",
@@ -7105,7 +7105,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TLS",
+   "id": "TLS",
    "name": "Timor-Leste",
    "since": 1999,
    "executions": "",
@@ -7113,7 +7113,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TGO",
+   "id": "TGO",
    "name": "Togo",
    "since": 2009,
    "executions": "",
@@ -7121,7 +7121,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TUR",
+   "id": "TUR",
    "name": "Turkey",
    "since": 2004,
    "executions": "",
@@ -7129,7 +7129,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TKM",
+   "id": "TKM",
    "name": "Turkmenistan",
    "since": 1999,
    "executions": "",
@@ -7137,7 +7137,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TUV",
+   "id": "TUV",
    "name": "Tuvalu",
    "since": 1978,
    "executions": "",
@@ -7145,7 +7145,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "UKR",
+   "id": "UKR",
    "name": "Ukraine",
    "since": 1999,
    "executions": "",
@@ -7153,7 +7153,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GBR",
+   "id": "GBR",
    "name": "UK",
    "since": 1998,
    "executions": "",
@@ -7161,7 +7161,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "URY",
+   "id": "URY",
    "name": "Uruguay",
    "since": 1907,
    "executions": "",
@@ -7169,7 +7169,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "UZB",
+   "id": "UZB",
    "name": "Uzbekistan",
    "since": 2008,
    "executions": "",
@@ -7177,7 +7177,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "VUT",
+   "id": "VUT",
    "name": "Vanuatu",
    "since": 1980,
    "executions": "",
@@ -7185,7 +7185,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "VEN",
+   "id": "VEN",
    "name": "Venezuela",
    "since": 1863,
    "executions": "",
@@ -7193,7 +7193,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BRA",
+   "id": "BRA",
    "name": "Brazil",
    "since": 1979,
    "executions": "0",
@@ -7201,7 +7201,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "CHL",
+   "id": "CHL",
    "name": "Chile",
    "since": 2001,
    "executions": "",
@@ -7209,7 +7209,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "SLV",
+   "id": "SLV",
    "name": "El Salvador",
    "since": 1983,
    "executions": "",
@@ -7217,7 +7217,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "FJI",
+   "id": "FJI",
    "name": "Fiji",
    "since": 1979,
    "executions": "",
@@ -7225,7 +7225,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "ISR",
+   "id": "ISR",
    "name": "Israel",
    "since": 1954,
    "executions": "",
@@ -7233,7 +7233,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "KAZ",
+   "id": "KAZ",
    "name": "Kazakhstan",
    "since": 2007,
    "executions": "",
@@ -7241,7 +7241,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "PER",
+   "id": "PER",
    "name": "Peru",
    "since": 1979,
    "executions": "",
@@ -7249,7 +7249,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "LVA",
+   "id": "LVA",
    "name": "Latvia",
    "since": 1999,
    "executions": "",
@@ -7257,7 +7257,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "TZA",
+   "id": "TZA",
    "name": "Tanzania",
    "since": null,
    "executions": "",
@@ -7265,7 +7265,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "LKA",
+   "id": "LKA",
    "name": "Sri Lanka",
    "since": null,
    "executions": "",
@@ -7273,7 +7273,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "KEN",
+   "id": "KEN",
    "name": "Kenya",
    "since": null,
    "executions": "",
@@ -7281,7 +7281,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "DZA",
+   "id": "DZA",
    "name": "Algeria",
    "since": null,
    "executions": "",
@@ -7289,7 +7289,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "ZMB",
+   "id": "ZMB",
    "name": "Zambia",
    "since": null,
    "executions": "",
@@ -7297,7 +7297,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "GHA",
+   "id": "GHA",
    "name": "Ghana",
    "since": null,
    "executions": "4",
@@ -7305,7 +7305,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MAR",
+   "id": "MAR",
    "name": "Morocco/Western Sahara",
    "since": null,
    "executions": "",
@@ -7313,7 +7313,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MLI",
+   "id": "MLI",
    "name": "Mali",
    "since": null,
    "executions": "",
@@ -7321,7 +7321,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "COG",
+   "id": "COG",
    "name": "Congo (Republic of)",
    "since": null,
    "executions": "",
@@ -7329,7 +7329,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MRT",
+   "id": "MRT",
    "name": "Mauritania",
    "since": null,
    "executions": "",
@@ -7337,7 +7337,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "SLE",
+   "id": "SLE",
    "name": "Sierra Leone",
    "since": null,
    "executions": "",
@@ -7345,7 +7345,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TUN",
+   "id": "TUN",
    "name": "Tunisia",
    "since": null,
    "executions": "",
@@ -7353,7 +7353,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MDV",
+   "id": "MDV",
    "name": "Maldives",
    "since": null,
    "executions": "",
@@ -7361,7 +7361,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MMR",
+   "id": "MMR",
    "name": "Myanmar",
    "since": null,
    "executions": "",
@@ -7369,7 +7369,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "KOR",
+   "id": "KOR",
    "name": "South Korea",
    "since": null,
    "executions": "",
@@ -7377,7 +7377,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "BEN",
+   "id": "BEN",
    "name": "Benin",
    "since": null,
    "executions": "",
@@ -7385,7 +7385,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "BRN",
+   "id": "BRN",
    "name": "Brunei Darussalam",
    "since": null,
    "executions": "",
@@ -7393,7 +7393,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "BFA",
+   "id": "BFA",
    "name": "Burkina Faso",
    "since": null,
    "executions": "",
@@ -7401,7 +7401,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "CMR",
+   "id": "CMR",
    "name": "Cameroon",
    "since": null,
    "executions": "",
@@ -7409,7 +7409,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "CAF",
+   "id": "CAF",
    "name": "Central African Republic",
    "since": null,
    "executions": "",
@@ -7417,7 +7417,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "ERI",
+   "id": "ERI",
    "name": "Eritrea",
    "since": null,
    "executions": "",
@@ -7425,7 +7425,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "GRD",
+   "id": "GRD",
    "name": "Grenada",
    "since": null,
    "executions": "",
@@ -7433,7 +7433,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "LAO",
+   "id": "LAO",
    "name": "Laos",
    "since": null,
    "executions": "",
@@ -7441,7 +7441,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "LBR",
+   "id": "LBR",
    "name": "Liberia",
    "since": null,
    "executions": "",
@@ -7449,7 +7449,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MDG",
+   "id": "MDG",
    "name": "Madagascar",
    "since": null,
    "executions": "",
@@ -7457,7 +7457,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MWI",
+   "id": "MWI",
    "name": "Malawi",
    "since": null,
    "executions": "",
@@ -7465,7 +7465,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MNG",
+   "id": "MNG",
    "name": "Mongolia",
    "since": null,
    "executions": "",
@@ -7473,7 +7473,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "NRU",
+   "id": "NRU",
    "name": "Nauru",
    "since": null,
    "executions": "",
@@ -7481,7 +7481,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "NER",
+   "id": "NER",
    "name": "Niger",
    "since": null,
    "executions": "",
@@ -7489,7 +7489,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "PNG",
+   "id": "PNG",
    "name": "Papua New Guinea",
    "since": null,
    "executions": "",
@@ -7497,7 +7497,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "RUS",
+   "id": "RUS",
    "name": "Russian Federation",
    "since": null,
    "executions": "",
@@ -7505,7 +7505,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "SUR",
+   "id": "SUR",
    "name": "Suriname",
    "since": null,
    "executions": "",
@@ -7513,7 +7513,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "SWZ",
+   "id": "SWZ",
    "name": "Swaziland",
    "since": null,
    "executions": "",
@@ -7521,7 +7521,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TJK",
+   "id": "TJK",
    "name": "Tajikistan",
    "since": null,
    "executions": "",
@@ -7529,7 +7529,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TZA",
+   "id": "TZA",
    "name": "Tanzania",
    "since": null,
    "executions": "",
@@ -7537,7 +7537,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TON",
+   "id": "TON",
    "name": "Tonga",
    "since": null,
    "executions": "",
@@ -7545,7 +7545,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "CHN",
+   "id": "CHN",
    "name": "China",
    "since": null,
    "executions": "1000s+",
@@ -7553,7 +7553,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IRN",
+   "id": "IRN",
    "name": "Iran",
    "since": null,
    "executions": "360+",
@@ -7561,7 +7561,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SAU",
+   "id": "SAU",
    "name": "Saudi Arabia",
    "since": null,
    "executions": "82+",
@@ -7569,7 +7569,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IRQ",
+   "id": "IRQ",
    "name": "Iraq",
    "since": null,
    "executions": "68+",
@@ -7577,7 +7577,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "USA",
+   "id": "USA",
    "name": "United States of America",
    "since": null,
    "executions": "",
@@ -7585,7 +7585,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SDN",
+   "id": "SDN",
    "name": "Sudan",
    "since": null,
    "executions": "",
@@ -7593,7 +7593,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "YEM",
+   "id": "YEM",
    "name": "Yemen",
    "since": null,
    "executions": "41+",
@@ -7601,7 +7601,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "EGY",
+   "id": "EGY",
    "name": "Egypt",
    "since": null,
    "executions": "1+",
@@ -7609,7 +7609,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SOM",
+   "id": "SOM",
    "name": "Somalia",
    "since": null,
    "executions": "",
@@ -7617,7 +7617,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "JOR",
+   "id": "JOR",
    "name": "Jordan",
    "since": null,
    "executions": "",
@@ -7625,7 +7625,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GNQ",
+   "id": "GNQ",
    "name": "Equatorial Guinea",
    "since": null,
    "executions": "",
@@ -7633,7 +7633,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "PAK",
+   "id": "PAK",
    "name": "Pakistan",
    "since": null,
    "executions": "",
@@ -7641,7 +7641,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "AFG",
+   "id": "AFG",
    "name": "Afghanistan",
    "since": null,
    "executions": "",
@@ -7649,7 +7649,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "TWN",
+   "id": "TWN",
    "name": "Taiwan",
    "since": null,
    "executions": "5",
@@ -7657,7 +7657,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BLR",
+   "id": "BLR",
    "name": "Belarus",
    "since": null,
    "executions": "2",
@@ -7665,7 +7665,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "VNM",
+   "id": "VNM",
    "name": "Viet Nam",
    "since": null,
    "executions": "5+",
@@ -7673,7 +7673,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "MYS",
+   "id": "MYS",
    "name": "Malaysia",
    "since": null,
    "executions": "+",
@@ -7681,7 +7681,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "PSE",
+   "id": "PSE",
    "name": "Palestinian Authority",
    "since": null,
    "executions": "3",
@@ -7689,7 +7689,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SGP",
+   "id": "SGP",
    "name": "Singapore",
    "since": null,
    "executions": "",
@@ -7697,7 +7697,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ARE",
+   "id": "ARE",
    "name": "United Arab Emirates",
    "since": null,
    "executions": "1",
@@ -7705,7 +7705,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "PRK",
+   "id": "PRK",
    "name": "North Korea",
    "since": null,
    "executions": "30+",
@@ -7713,7 +7713,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "NGA",
+   "id": "NGA",
    "name": "Nigeria",
    "since": null,
    "executions": "",
@@ -7721,7 +7721,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BGD",
+   "id": "BGD",
    "name": "Bangladesh",
    "since": null,
    "executions": "5+",
@@ -7729,7 +7729,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IND",
+   "id": "IND",
    "name": "India",
    "since": null,
    "executions": "",
@@ -7737,7 +7737,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "THA",
+   "id": "THA",
    "name": "Thailand",
    "since": null,
    "executions": "",
@@ -7745,7 +7745,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "COD",
+   "id": "COD",
    "name": "Democratic Republic of the Congo",
    "since": null,
    "executions": "",
@@ -7753,7 +7753,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LBN",
+   "id": "LBN",
    "name": "Lebanon",
    "since": null,
    "executions": "",
@@ -7761,7 +7761,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ZWE",
+   "id": "ZWE",
    "name": "Zimbabwe",
    "since": null,
    "executions": "",
@@ -7769,7 +7769,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "KWT",
+   "id": "KWT",
    "name": "Kuwait",
    "since": null,
    "executions": "",
@@ -7777,7 +7777,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IDN",
+   "id": "idN",
    "name": "Indonesia",
    "since": null,
    "executions": "",
@@ -7785,7 +7785,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BHR",
+   "id": "BHR",
    "name": "Bahrain",
    "since": null,
    "executions": "",
@@ -7793,7 +7793,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "QAT",
+   "id": "QAT",
    "name": "Qatar",
    "since": null,
    "executions": "0",
@@ -7801,7 +7801,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "TTO",
+   "id": "TTO",
    "name": "Trinidad and Tobago",
    "since": null,
    "executions": "",
@@ -7809,7 +7809,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BRB",
+   "id": "BRB",
    "name": "Barbados",
    "since": null,
    "executions": "",
@@ -7817,7 +7817,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "JPN",
+   "id": "JPN",
    "name": "Japan",
    "since": null,
    "executions": "",
@@ -7825,7 +7825,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GMB",
+   "id": "GMB",
    "name": "Gambia",
    "since": null,
    "executions": "",
@@ -7833,7 +7833,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LSO",
+   "id": "LSO",
    "name": "Lesotho",
    "since": null,
    "executions": "",
@@ -7841,7 +7841,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LBY",
+   "id": "LBY",
    "name": "Libya",
    "since": null,
    "executions": "",
@@ -7849,7 +7849,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BWA",
+   "id": "BWA",
    "name": "Botswana",
    "since": null,
    "executions": "",
@@ -7857,7 +7857,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GUY",
+   "id": "GUY",
    "name": "Guyana",
    "since": null,
    "executions": "",
@@ -7865,7 +7865,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "UGA",
+   "id": "UGA",
    "name": "Uganda",
    "since": null,
    "executions": "",
@@ -7873,7 +7873,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SSD",
+   "id": "SSD",
    "name": "South Sudan",
    "since": null,
    "executions": "",
@@ -7881,7 +7881,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ATG",
+   "id": "ATG",
    "name": "Antigua and Barbuda",
    "since": null,
    "executions": "",
@@ -7889,7 +7889,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BHS",
+   "id": "BHS",
    "name": "Bahamas",
    "since": null,
    "executions": "",
@@ -7897,7 +7897,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BLZ",
+   "id": "BLZ",
    "name": "Belize",
    "since": null,
    "executions": "",
@@ -7905,7 +7905,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "TCD",
+   "id": "TCD",
    "name": "Chad",
    "since": null,
    "executions": "",
@@ -7913,7 +7913,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "COM",
+   "id": "COM",
    "name": "Comoros",
    "since": null,
    "executions": "",
@@ -7921,7 +7921,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "CUB",
+   "id": "CUB",
    "name": "Cuba",
    "since": null,
    "executions": "",
@@ -7929,7 +7929,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "DMA",
+   "id": "DMA",
    "name": "Dominica",
    "since": null,
    "executions": "",
@@ -7937,7 +7937,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ETH",
+   "id": "ETH",
    "name": "Ethiopia",
    "since": null,
    "executions": "",
@@ -7945,7 +7945,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GTM",
+   "id": "GTM",
    "name": "Guatemala",
    "since": null,
    "executions": "",
@@ -7953,7 +7953,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GIN",
+   "id": "GIN",
    "name": "Guinea",
    "since": null,
    "executions": "",
@@ -7961,7 +7961,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "JAM",
+   "id": "JAM",
    "name": "Jamaica",
    "since": null,
    "executions": "",
@@ -7969,7 +7969,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "OMN",
+   "id": "OMN",
    "name": "Oman",
    "since": null,
    "executions": "",
@@ -7977,7 +7977,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "KNA",
+   "id": "KNA",
    "name": "Saint Kitts and Nevis",
    "since": null,
    "executions": "",
@@ -7985,7 +7985,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LCA",
+   "id": "LCA",
    "name": "Saint Lucia",
    "since": null,
    "executions": "",
@@ -7993,7 +7993,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "VCT",
+   "id": "VCT",
    "name": "Saint Vincent and the Grenadines",
    "since": null,
    "executions": "",
@@ -8001,7 +8001,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SYR",
+   "id": "SYR",
    "name": "Syria",
    "since": null,
    "executions": "+",
@@ -8019,7 +8019,7 @@
       "RETENTIONIST":"58",
       "countries":[
  {
-   "ID": "ALB",
+   "id": "ALB",
    "name": "Albania",
    "since": 2007,
    "executions": "0",
@@ -8027,7 +8027,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AND",
+   "id": "AND",
    "name": "Andorra",
    "since": 1990,
    "executions": "0",
@@ -8035,7 +8035,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AGO",
+   "id": "AGO",
    "name": "Angola",
    "since": 1992,
    "executions": "0",
@@ -8043,7 +8043,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ARG",
+   "id": "ARG",
    "name": "Argentina",
    "since": 2008,
    "executions": "0",
@@ -8051,7 +8051,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ARM",
+   "id": "ARM",
    "name": "Armenia",
    "since": 2003,
    "executions": "0",
@@ -8059,7 +8059,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AUS",
+   "id": "AUS",
    "name": "Australia",
    "since": 1985,
    "executions": "0",
@@ -8067,7 +8067,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AUT",
+   "id": "AUT",
    "name": "Austria",
    "since": 1968,
    "executions": "0",
@@ -8075,7 +8075,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "AZE",
+   "id": "AZE",
    "name": "Azerbaijan",
    "since": 1998,
    "executions": "0",
@@ -8083,7 +8083,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BEL",
+   "id": "BEL",
    "name": "Belgium",
    "since": 1996,
    "executions": "0",
@@ -8091,7 +8091,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BTN",
+   "id": "BTN",
    "name": "Bhutan",
    "since": 2004,
    "executions": "0",
@@ -8099,7 +8099,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BOL",
+   "id": "BOL",
    "name": "Bolivia",
    "since": 2009,
    "executions": "0",
@@ -8107,7 +8107,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BIH",
+   "id": "BIH",
    "name": "Bosnia and Herzegovina",
    "since": 2001,
    "executions": "0",
@@ -8115,7 +8115,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BGR",
+   "id": "BGR",
    "name": "Bulgaria",
    "since": 1998,
    "executions": "0",
@@ -8123,7 +8123,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BDI",
+   "id": "BDI",
    "name": "Burundi",
    "since": 2009,
    "executions": "0",
@@ -8131,7 +8131,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "KHM",
+   "id": "KHM",
    "name": "Cambodia",
    "since": 1989,
    "executions": "0",
@@ -8139,7 +8139,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CAN",
+   "id": "CAN",
    "name": "Canada",
    "since": 1998,
    "executions": "0",
@@ -8147,7 +8147,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CPV",
+   "id": "CPV",
    "name": "Cabo Verde",
    "since": 1981,
    "executions": "0",
@@ -8155,7 +8155,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "COL",
+   "id": "COL",
    "name": "Colombia",
    "since": 1910,
    "executions": "0",
@@ -8163,7 +8163,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "COK",
+   "id": "COK",
    "name": "Cook Islands",
    "since": 2007,
    "executions": "0",
@@ -8171,7 +8171,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CRI",
+   "id": "CRI",
    "name": "Costa Rica",
    "since": 1877,
    "executions": "0",
@@ -8179,7 +8179,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CIV",
+   "id": "CIV",
    "name": "Côte d'Ivoire",
    "since": 2000,
    "executions": "0",
@@ -8187,7 +8187,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HRV",
+   "id": "HRV",
    "name": "Croatia",
    "since": 1990,
    "executions": "0",
@@ -8195,7 +8195,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CYP",
+   "id": "CYP",
    "name": "Cyprus",
    "since": 2002,
    "executions": "0",
@@ -8203,7 +8203,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CZE",
+   "id": "CZE",
    "name": "Czech Republic",
    "since": 1990,
    "executions": "0",
@@ -8211,7 +8211,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DNK",
+   "id": "DNK",
    "name": "Denmark",
    "since": 1978,
    "executions": "0",
@@ -8219,7 +8219,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DJI",
+   "id": "DJI",
    "name": "Djibouti",
    "since": 1995,
    "executions": "0",
@@ -8227,7 +8227,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DOM",
+   "id": "DOM",
    "name": "Dominican Republic",
    "since": 1966,
    "executions": "0",
@@ -8235,7 +8235,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ECU",
+   "id": "ECU",
    "name": "Ecuador",
    "since": 1906,
    "executions": "0",
@@ -8243,7 +8243,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "EST",
+   "id": "EST",
    "name": "Estonia",
    "since": 1998,
    "executions": "0",
@@ -8251,7 +8251,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "FIN",
+   "id": "FIN",
    "name": "Finland",
    "since": 1972,
    "executions": "0",
@@ -8259,7 +8259,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "FRA",
+   "id": "FRA",
    "name": "France",
    "since": 1981,
    "executions": "0",
@@ -8267,7 +8267,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GAB",
+   "id": "GAB",
    "name": "Gabon",
    "since": 2010,
    "executions": "0",
@@ -8275,7 +8275,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GEO",
+   "id": "GEO",
    "name": "Georgia",
    "since": 1997,
    "executions": "0",
@@ -8283,7 +8283,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "DEU",
+   "id": "DEU",
    "name": "Germany",
    "since": 1987,
    "executions": "0",
@@ -8291,7 +8291,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GRC",
+   "id": "GRC",
    "name": "Greece",
    "since": 2004,
    "executions": "0",
@@ -8299,7 +8299,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GNB",
+   "id": "GNB",
    "name": "Guinea-Bissau",
    "since": 1993,
    "executions": "0",
@@ -8307,7 +8307,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HTI",
+   "id": "HTI",
    "name": "Haiti",
    "since": 1987,
    "executions": "0",
@@ -8315,7 +8315,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "VAT",
+   "id": "VAT",
    "name": "Holy See",
    "since": 1969,
    "executions": "0",
@@ -8323,7 +8323,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HND",
+   "id": "HND",
    "name": "Honduras",
    "since": 1956,
    "executions": "0",
@@ -8331,7 +8331,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "HUN",
+   "id": "HUN",
    "name": "Hungary",
    "since": 1990,
    "executions": "0",
@@ -8339,7 +8339,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ISL",
+   "id": "ISL",
    "name": "Iceland",
    "since": 1928,
    "executions": "0",
@@ -8347,7 +8347,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "IRL",
+   "id": "IRL",
    "name": "Ireland",
    "since": 1990,
    "executions": "0",
@@ -8355,7 +8355,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ITA",
+   "id": "ITA",
    "name": "Italy",
    "since": 1994,
    "executions": "0",
@@ -8363,7 +8363,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "KIR",
+   "id": "KIR",
    "name": "Kiribati",
    "since": 1979,
    "executions": "0",
@@ -8371,7 +8371,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "KGZ",
+   "id": "KGZ",
    "name": "Kyrgyzstan",
    "since": 2007,
    "executions": "0",
@@ -8379,7 +8379,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "LVA",
+   "id": "LVA",
    "name": "Latvia",
    "since": 2012,
    "executions": "0",
@@ -8387,7 +8387,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "LIE",
+   "id": "LIE",
    "name": "Liechtenstein",
    "since": 1987,
    "executions": "0",
@@ -8395,7 +8395,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "LTU",
+   "id": "LTU",
    "name": "Lithunia",
    "since": 1998,
    "executions": "0",
@@ -8403,7 +8403,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "LUX",
+   "id": "LUX",
    "name": "Luxembourg",
    "since": 1979,
    "executions": "0",
@@ -8411,7 +8411,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MKD",
+   "id": "MKD",
    "name": "Macedonia",
    "since": 1991,
    "executions": "0",
@@ -8419,7 +8419,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MLT",
+   "id": "MLT",
    "name": "Malta",
    "since": 2000,
    "executions": "0",
@@ -8427,7 +8427,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MHL",
+   "id": "MHL",
    "name": "Marshall Islands",
    "since": 1986,
    "executions": "0",
@@ -8435,7 +8435,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MUS",
+   "id": "MUS",
    "name": "Mauritius",
    "since": 1995,
    "executions": "0",
@@ -8443,7 +8443,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MEX",
+   "id": "MEX",
    "name": "Mexico",
    "since": 2005,
    "executions": "0",
@@ -8451,7 +8451,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "FSM",
+   "id": "FSM",
    "name": "Micronesia",
    "since": 1986,
    "executions": "0",
@@ -8459,7 +8459,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MDA",
+   "id": "MDA",
    "name": "Moldova",
    "since": 1995,
    "executions": "0",
@@ -8467,7 +8467,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MCO",
+   "id": "MCO",
    "name": "Monaco",
    "since": 1962,
    "executions": "0",
@@ -8475,7 +8475,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MNE",
+   "id": "MNE",
    "name": "Montenegro",
    "since": 2002,
    "executions": "0",
@@ -8483,7 +8483,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "MOZ",
+   "id": "MOZ",
    "name": "Mozambique",
    "since": 1990,
    "executions": "0",
@@ -8491,7 +8491,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NAM",
+   "id": "NAM",
    "name": "Namibia",
    "since": 1990,
    "executions": "0",
@@ -8499,7 +8499,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NPL",
+   "id": "NPL",
    "name": "Nepal",
    "since": 1997,
    "executions": "0",
@@ -8507,7 +8507,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NLD",
+   "id": "NLD",
    "name": "Netherlands",
    "since": 1982,
    "executions": "0",
@@ -8515,7 +8515,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NZL",
+   "id": "NZL",
    "name": "New Zealand",
    "since": 1989,
    "executions": "0",
@@ -8523,7 +8523,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NIC",
+   "id": "NIC",
    "name": "Nicaragua",
    "since": 1979,
    "executions": "0",
@@ -8531,7 +8531,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NIU",
+   "id": "NIU",
    "name": "Niue",
    "since": 1974,
    "executions": "0",
@@ -8539,7 +8539,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "NOR",
+   "id": "NOR",
    "name": "Norway",
    "since": 1979,
    "executions": "0",
@@ -8547,7 +8547,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PLW",
+   "id": "PLW",
    "name": "Palau",
    "since": 1994,
    "executions": "0",
@@ -8555,7 +8555,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PAN",
+   "id": "PAN",
    "name": "Panama",
    "since": 1922,
    "executions": "0",
@@ -8563,7 +8563,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PRY",
+   "id": "PRY",
    "name": "Paraguay",
    "since": 1992,
    "executions": "0",
@@ -8571,7 +8571,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PHL",
+   "id": "PHL",
    "name": "Philippines",
    "since": 2006,
    "executions": "0",
@@ -8579,7 +8579,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "POL",
+   "id": "POL",
    "name": "Poland",
    "since": 1997,
    "executions": "0",
@@ -8587,7 +8587,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "PRT",
+   "id": "PRT",
    "name": "Portugal",
    "since": 1976,
    "executions": "0",
@@ -8595,7 +8595,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ROU",
+   "id": "ROU",
    "name": "Romania",
    "since": 1989,
    "executions": "0",
@@ -8603,7 +8603,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "RWA",
+   "id": "RWA",
    "name": "Rwanda",
    "since": 2007,
    "executions": "0",
@@ -8611,7 +8611,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "WSM",
+   "id": "WSM",
    "name": "Samoa",
    "since": 2004,
    "executions": "0",
@@ -8619,7 +8619,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SMR",
+   "id": "SMR",
    "name": "San Marino",
    "since": 1865,
    "executions": "0",
@@ -8627,7 +8627,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "STP",
+   "id": "STP",
    "name": "Sao Tome and Principe",
    "since": 1990,
    "executions": "0",
@@ -8635,7 +8635,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SEN",
+   "id": "SEN",
    "name": "Senegal",
    "since": 2004,
    "executions": "0",
@@ -8643,7 +8643,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SRB",
+   "id": "SRB",
    "name": "Serbia",
    "since": 2002,
    "executions": "0",
@@ -8651,7 +8651,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SYC",
+   "id": "SYC",
    "name": "Seychelles",
    "since": 1993,
    "executions": "0",
@@ -8659,7 +8659,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SVK",
+   "id": "SVK",
    "name": "Slovakia",
    "since": 1990,
    "executions": "0",
@@ -8667,7 +8667,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SVN",
+   "id": "SVN",
    "name": "Slovenia",
    "since": 1989,
    "executions": "0",
@@ -8675,7 +8675,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SLB",
+   "id": "SLB",
    "name": "Solomon Islands",
    "since": 1978,
    "executions": "0",
@@ -8683,7 +8683,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ZAF",
+   "id": "ZAF",
    "name": "South Africa",
    "since": 1997,
    "executions": "0",
@@ -8691,7 +8691,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "ESP",
+   "id": "ESP",
    "name": "Spain",
    "since": 1995,
    "executions": "0",
@@ -8699,7 +8699,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "SWE",
+   "id": "SWE",
    "name": "Sweden",
    "since": 1972,
    "executions": "0",
@@ -8707,7 +8707,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "CHE",
+   "id": "CHE",
    "name": "Switzerland",
    "since": 1992,
    "executions": "0",
@@ -8715,7 +8715,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TLS",
+   "id": "TLS",
    "name": "Timor-Leste",
    "since": 1999,
    "executions": "0",
@@ -8723,7 +8723,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TGO",
+   "id": "TGO",
    "name": "Togo",
    "since": 2009,
    "executions": "0",
@@ -8731,7 +8731,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TUR",
+   "id": "TUR",
    "name": "Turkey",
    "since": 2004,
    "executions": "0",
@@ -8739,7 +8739,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TKM",
+   "id": "TKM",
    "name": "Turkmenistan",
    "since": 1999,
    "executions": "0",
@@ -8747,7 +8747,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "TUV",
+   "id": "TUV",
    "name": "Tuvalu",
    "since": 1978,
    "executions": "0",
@@ -8755,7 +8755,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "UKR",
+   "id": "UKR",
    "name": "Ukraine",
    "since": 1999,
    "executions": "0",
@@ -8763,7 +8763,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "GBR",
+   "id": "GBR",
    "name": "UK",
    "since": 1998,
    "executions": "0",
@@ -8771,7 +8771,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "URY",
+   "id": "URY",
    "name": "Uruguay",
    "since": 1907,
    "executions": "0",
@@ -8779,7 +8779,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "UZB",
+   "id": "UZB",
    "name": "Uzbekistan",
    "since": 2008,
    "executions": "0",
@@ -8787,7 +8787,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "VUT",
+   "id": "VUT",
    "name": "Vanuatu",
    "since": 1980,
    "executions": "0",
@@ -8795,7 +8795,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "VEN",
+   "id": "VEN",
    "name": "Venezuela",
    "since": 1863,
    "executions": "0",
@@ -8803,7 +8803,7 @@
    "status": "ABOLITIONIST"
  },
  {
-   "ID": "BRA",
+   "id": "BRA",
    "name": "Brazil",
    "since": null,
    "executions": "0",
@@ -8811,7 +8811,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "CHL",
+   "id": "CHL",
    "name": "Chile",
    "since": null,
    "executions": "0",
@@ -8819,7 +8819,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "SLV",
+   "id": "SLV",
    "name": "El Salvador",
    "since": null,
    "executions": "0",
@@ -8827,7 +8827,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "FJI",
+   "id": "FJI",
    "name": "Fiji",
    "since": null,
    "executions": "0",
@@ -8835,7 +8835,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "ISR",
+   "id": "ISR",
    "name": "Israel",
    "since": null,
    "executions": "0",
@@ -8843,7 +8843,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "KAZ",
+   "id": "KAZ",
    "name": "Kazakhstan",
    "since": null,
    "executions": "0",
@@ -8851,7 +8851,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "PER",
+   "id": "PER",
    "name": "Peru",
    "since": null,
    "executions": "0",
@@ -8859,7 +8859,7 @@
    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
  },
  {
-   "ID": "TZA",
+   "id": "TZA",
    "name": "Tanzania",
    "since": null,
    "executions": "",
@@ -8867,7 +8867,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "LKA",
+   "id": "LKA",
    "name": "Sri Lanka",
    "since": null,
    "executions": "",
@@ -8875,7 +8875,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "KEN",
+   "id": "KEN",
    "name": "Kenya",
    "since": null,
    "executions": "",
@@ -8883,7 +8883,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "DZA",
+   "id": "DZA",
    "name": "Algeria",
    "since": null,
    "executions": "",
@@ -8891,7 +8891,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "ZMB",
+   "id": "ZMB",
    "name": "Zambia",
    "since": null,
    "executions": "",
@@ -8899,7 +8899,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "GHA",
+   "id": "GHA",
    "name": "Ghana",
    "since": null,
    "executions": "",
@@ -8907,7 +8907,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MAR",
+   "id": "MAR",
    "name": "Morocco/Western Sahara",
    "since": null,
    "executions": "",
@@ -8915,7 +8915,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MLI",
+   "id": "MLI",
    "name": "Mali",
    "since": null,
    "executions": "",
@@ -8923,7 +8923,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "COG",
+   "id": "COG",
    "name": "Congo (Republic of)",
    "since": null,
    "executions": "",
@@ -8931,7 +8931,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MRT",
+   "id": "MRT",
    "name": "Mauritania",
    "since": null,
    "executions": "",
@@ -8939,7 +8939,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "SLE",
+   "id": "SLE",
    "name": "Sierra Leone",
    "since": null,
    "executions": "",
@@ -8947,7 +8947,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TUN",
+   "id": "TUN",
    "name": "Tunisia",
    "since": null,
    "executions": "",
@@ -8955,7 +8955,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MDV",
+   "id": "MDV",
    "name": "Maldives",
    "since": null,
    "executions": "",
@@ -8963,7 +8963,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MMR",
+   "id": "MMR",
    "name": "Myanmar",
    "since": null,
    "executions": "",
@@ -8971,7 +8971,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "KOR",
+   "id": "KOR",
    "name": "South Korea",
    "since": null,
    "executions": "",
@@ -8979,7 +8979,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "BEN",
+   "id": "BEN",
    "name": "Benin",
    "since": null,
    "executions": "",
@@ -8987,7 +8987,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "BRN",
+   "id": "BRN",
    "name": "Brunei Darussalam",
    "since": null,
    "executions": "",
@@ -8995,7 +8995,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "BFA",
+   "id": "BFA",
    "name": "Burkina Faso",
    "since": null,
    "executions": "",
@@ -9003,7 +9003,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "CMR",
+   "id": "CMR",
    "name": "Cameroon",
    "since": null,
    "executions": "",
@@ -9011,7 +9011,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "CAF",
+   "id": "CAF",
    "name": "Central African Republic",
    "since": null,
    "executions": "",
@@ -9019,7 +9019,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "ERI",
+   "id": "ERI",
    "name": "Eritrea",
    "since": null,
    "executions": "",
@@ -9027,7 +9027,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "GRD",
+   "id": "GRD",
    "name": "Grenada",
    "since": null,
    "executions": "",
@@ -9035,7 +9035,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "LAO",
+   "id": "LAO",
    "name": "Laos",
    "since": null,
    "executions": "",
@@ -9043,7 +9043,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "LBR",
+   "id": "LBR",
    "name": "Liberia",
    "since": null,
    "executions": "",
@@ -9051,7 +9051,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MDG",
+   "id": "MDG",
    "name": "Madagascar",
    "since": null,
    "executions": "",
@@ -9059,7 +9059,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MWI",
+   "id": "MWI",
    "name": "Malawi",
    "since": null,
    "executions": "",
@@ -9067,7 +9067,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "MNG",
+   "id": "MNG",
    "name": "Mongolia",
    "since": null,
    "executions": "",
@@ -9075,7 +9075,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "NRU",
+   "id": "NRU",
    "name": "Nauru",
    "since": null,
    "executions": "",
@@ -9083,7 +9083,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "NER",
+   "id": "NER",
    "name": "Niger",
    "since": null,
    "executions": "",
@@ -9091,7 +9091,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "PNG",
+   "id": "PNG",
    "name": "Papua New Guinea",
    "since": null,
    "executions": "",
@@ -9099,7 +9099,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "RUS",
+   "id": "RUS",
    "name": "Russian Federation",
    "since": null,
    "executions": "",
@@ -9107,7 +9107,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "SUR",
+   "id": "SUR",
    "name": "Suriname",
    "since": null,
    "executions": "",
@@ -9115,7 +9115,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "SWZ",
+   "id": "SWZ",
    "name": "Swaziland",
    "since": null,
    "executions": "",
@@ -9123,7 +9123,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TJK",
+   "id": "TJK",
    "name": "Tajikistan",
    "since": null,
    "executions": "",
@@ -9131,7 +9131,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TZA",
+   "id": "TZA",
    "name": "Tanzania",
    "since": null,
    "executions": "",
@@ -9139,7 +9139,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "TON",
+   "id": "TON",
    "name": "Tonga",
    "since": null,
    "executions": "",
@@ -9147,7 +9147,7 @@
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
-   "ID": "CHN",
+   "id": "CHN",
    "name": "China",
    "since": null,
    "executions": "1000s+",
@@ -9155,7 +9155,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IRN",
+   "id": "IRN",
    "name": "Iran",
    "since": null,
    "executions": "314+",
@@ -9163,7 +9163,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SAU",
+   "id": "SAU",
    "name": "Saudi Arabia",
    "since": null,
    "executions": "79+",
@@ -9171,7 +9171,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IRQ",
+   "id": "IRQ",
    "name": "Iraq",
    "since": null,
    "executions": "129+",
@@ -9179,7 +9179,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "USA",
+   "id": "USA",
    "name": "United States of America",
    "since": null,
    "executions": "43",
@@ -9187,7 +9187,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SDN",
+   "id": "SDN",
    "name": "Sudan",
    "since": null,
    "executions": "19+",
@@ -9195,7 +9195,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "YEM",
+   "id": "YEM",
    "name": "Yemen",
    "since": null,
    "executions": "28+",
@@ -9203,7 +9203,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "EGY",
+   "id": "EGY",
    "name": "Egypt",
    "since": null,
    "executions": "",
@@ -9211,7 +9211,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SOM",
+   "id": "SOM",
    "name": "Somalia",
    "since": null,
    "executions": "",
@@ -9219,7 +9219,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "JOR",
+   "id": "JOR",
    "name": "Jordan",
    "since": null,
    "executions": "",
@@ -9227,7 +9227,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GNQ",
+   "id": "GNQ",
    "name": "Equatorial Guinea",
    "since": null,
    "executions": "",
@@ -9235,7 +9235,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "PAK",
+   "id": "PAK",
    "name": "Pakistan",
    "since": null,
    "executions": "1",
@@ -9243,7 +9243,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "AFG",
+   "id": "AFG",
    "name": "Afghanistan",
    "since": null,
    "executions": "14",
@@ -9251,7 +9251,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "TWN",
+   "id": "TWN",
    "name": "Taiwan",
    "since": null,
    "executions": "6",
@@ -9259,7 +9259,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BLR",
+   "id": "BLR",
    "name": "Belarus",
    "since": null,
    "executions": "3+",
@@ -9267,7 +9267,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "VNM",
+   "id": "VNM",
    "name": "Viet Nam",
    "since": null,
    "executions": "",
@@ -9275,7 +9275,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "MYS",
+   "id": "MYS",
    "name": "Malaysia",
    "since": null,
    "executions": "",
@@ -9283,7 +9283,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "PSE",
+   "id": "PSE",
    "name": "Palestinian Authority",
    "since": null,
    "executions": "6",
@@ -9291,7 +9291,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SGP",
+   "id": "SGP",
    "name": "Singapore",
    "since": null,
    "executions": "",
@@ -9299,7 +9299,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ARE",
+   "id": "ARE",
    "name": "United Arab Emirates",
    "since": null,
    "executions": "1",
@@ -9307,7 +9307,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "PRK",
+   "id": "PRK",
    "name": "North Korea",
    "since": null,
    "executions": "6+",
@@ -9315,7 +9315,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "NGA",
+   "id": "NGA",
    "name": "Nigeria",
    "since": null,
    "executions": "",
@@ -9323,7 +9323,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BGD",
+   "id": "BGD",
    "name": "Bangladesh",
    "since": null,
    "executions": "1",
@@ -9331,7 +9331,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IND",
+   "id": "IND",
    "name": "India",
    "since": null,
    "executions": "1",
@@ -9339,7 +9339,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "THA",
+   "id": "THA",
    "name": "Thailand",
    "since": null,
    "executions": "",
@@ -9347,7 +9347,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "COD",
+   "id": "COD",
    "name": "Democratic Republic of the Congo",
    "since": null,
    "executions": "0",
@@ -9355,7 +9355,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LBN",
+   "id": "LBN",
    "name": "Lebanon",
    "since": null,
    "executions": "",
@@ -9363,7 +9363,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ZWE",
+   "id": "ZWE",
    "name": "Zimbabwe",
    "since": null,
    "executions": "",
@@ -9371,7 +9371,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "KWT",
+   "id": "KWT",
    "name": "Kuwait",
    "since": null,
    "executions": "",
@@ -9379,7 +9379,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "IDN",
+   "id": "idN",
    "name": "Indonesia",
    "since": null,
    "executions": "",
@@ -9387,7 +9387,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BHR",
+   "id": "BHR",
    "name": "Bahrain",
    "since": null,
    "executions": "",
@@ -9395,7 +9395,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "QAT",
+   "id": "QAT",
    "name": "Qatar",
    "since": null,
    "executions": "",
@@ -9403,7 +9403,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "TTO",
+   "id": "TTO",
    "name": "Trinidad and Tobago",
    "since": null,
    "executions": "",
@@ -9411,7 +9411,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BRB",
+   "id": "BRB",
    "name": "Barbados",
    "since": null,
    "executions": "",
@@ -9419,7 +9419,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "JPN",
+   "id": "JPN",
    "name": "Japan",
    "since": null,
    "executions": "7",
@@ -9427,7 +9427,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GMB",
+   "id": "GMB",
    "name": "Gambia",
    "since": null,
    "executions": "9",
@@ -9435,7 +9435,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LSO",
+   "id": "LSO",
    "name": "Lesotho",
    "since": null,
    "executions": "",
@@ -9443,7 +9443,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LBY",
+   "id": "LBY",
    "name": "Libya",
    "since": null,
    "executions": "",
@@ -9451,7 +9451,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BWA",
+   "id": "BWA",
    "name": "Botswana",
    "since": null,
    "executions": "2",
@@ -9459,7 +9459,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GUY",
+   "id": "GUY",
    "name": "Guyana",
    "since": null,
    "executions": "",
@@ -9467,7 +9467,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "UGA",
+   "id": "UGA",
    "name": "Uganda",
    "since": null,
    "executions": "",
@@ -9475,7 +9475,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SSD",
+   "id": "SSD",
    "name": "South Sudan",
    "since": null,
    "executions": "5+",
@@ -9483,7 +9483,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ATG",
+   "id": "ATG",
    "name": "Antigua and Barbuda",
    "since": null,
    "executions": "",
@@ -9491,7 +9491,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BHS",
+   "id": "BHS",
    "name": "Bahamas",
    "since": null,
    "executions": "",
@@ -9499,7 +9499,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "BLZ",
+   "id": "BLZ",
    "name": "Belize",
    "since": null,
    "executions": "",
@@ -9507,7 +9507,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "TCD",
+   "id": "TCD",
    "name": "Chad",
    "since": null,
    "executions": "",
@@ -9515,7 +9515,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "COM",
+   "id": "COM",
    "name": "Comoros",
    "since": null,
    "executions": "",
@@ -9523,7 +9523,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "CUB",
+   "id": "CUB",
    "name": "Cuba",
    "since": null,
    "executions": "",
@@ -9531,7 +9531,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "DMA",
+   "id": "DMA",
    "name": "Dominica",
    "since": null,
    "executions": "",
@@ -9539,7 +9539,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "ETH",
+   "id": "ETH",
    "name": "Ethiopia",
    "since": null,
    "executions": "",
@@ -9547,7 +9547,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GTM",
+   "id": "GTM",
    "name": "Guatemala",
    "since": null,
    "executions": "",
@@ -9555,7 +9555,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "GIN",
+   "id": "GIN",
    "name": "Guinea",
    "since": null,
    "executions": "",
@@ -9563,7 +9563,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "JAM",
+   "id": "JAM",
    "name": "Jamaica",
    "since": null,
    "executions": "",
@@ -9571,7 +9571,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "OMN",
+   "id": "OMN",
    "name": "Oman",
    "since": null,
    "executions": "",
@@ -9579,7 +9579,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "KNA",
+   "id": "KNA",
    "name": "Saint Kitts and Nevis",
    "since": null,
    "executions": "",
@@ -9587,7 +9587,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "LCA",
+   "id": "LCA",
    "name": "Saint Lucia",
    "since": null,
    "executions": "",
@@ -9595,7 +9595,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "VCT",
+   "id": "VCT",
    "name": "Saint Vincent and the Grenadines",
    "since": null,
    "executions": "",
@@ -9603,7 +9603,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "ID": "SYR",
+   "id": "SYR",
    "name": "Syria",
    "since": null,
    "executions": "",
@@ -10981,7 +10981,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "id": "IDN",
+   "id": "idN",
    "name": "Indonesia",
    "since": null,
    "executions": "5",
@@ -12591,7 +12591,7 @@
    "status": "RETENTIONIST"
  },
  {
-   "id": "IDN",
+   "id": "idN",
    "name": "Indonesia",
    "since": null,
    "executions": "0",
@@ -14137,7 +14137,7 @@
     "status":"RETENTIONIST"
   },
   {
-    "id":"IDN",
+    "id":"idN",
     "name":"Indonesia",
     "since":"",
     "executions":"14",
