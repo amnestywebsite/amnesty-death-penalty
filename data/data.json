@@ -1,1605 +1,1637 @@
 [
    {
       "year":"2007",
-      "total-executions":"2007",
-      "total-death-sentences":"2007",
-      "ABOLITIONIST":"12",
-      "ABOLITIONIST FOR ORDINARY CRIMES":"16",
-      "ABOLITIONIST IN PRACTICE":"52",
-      "RETENTIONIST":"28",
+      "total-executions":"1,290+",
+      "total-death-sentences":"3,417",
+      "ABOLITIONIST":"94",
+      "ABOLITIONIST FOR ORDINARY CRIMES":"10",
+      "ABOLITIONIST IN PRACTICE":"33",
+      "RETENTIONIST":"65",
       "countries":[
- {
-   "id": "ALB",
-   "name": "Albania",
-   "since": 2007,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "AND",
-   "name": "Andorra",
-   "since": 1990,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "AGO",
-   "name": "Angola",
-   "since": 1992,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "ARM",
-   "name": "Armenia",
-   "since": 2003,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "AUS",
-   "name": "Australia",
-   "since": 1985,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "AUT",
-   "name": "Austria",
-   "since": 1968,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "AZE",
-   "name": "Azerbaijan",
-   "since": 1998,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "BEL",
-   "name": "Belgium",
-   "since": 1996,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "BTN",
-   "name": "Bhutan",
-   "since": 2004,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "BIH",
-   "name": "Bosnia and Herzegovina",
-   "since": 2001,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "BGR",
-   "name": "Bulgaria",
-   "since": 1998,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "KHM",
-   "name": "Cambodia",
-   "since": 1989,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "CAN",
-   "name": "Canada",
-   "since": 1998,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "CPV",
-   "name": "Cabo Verde",
-   "since": 1981,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "COL",
-   "name": "Colombia",
-   "since": 1910,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "COK",
-   "name": "Cook Islands",
-   "since": 2007,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "CRI",
-   "name": "Costa Rica",
-   "since": 1877,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "CIV",
-   "name": "CÃ´te d'Ivoire",
-   "since": 2000,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "HRV",
-   "name": "Croatia",
-   "since": 1990,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "CYP",
-   "name": "Cyprus",
-   "since": 2002,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "CZE",
-   "name": "Czech Republic ",
-   "since": 1990,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "DNK",
-   "name": "Denmark",
-   "since": 1978,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "DJI",
-   "name": "Djibouti",
-   "since": 1995,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "DOM",
-   "name": "Dominican Republic",
-   "since": 1966,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "ECU",
-   "name": "Ecuador",
-   "since": 1906,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "EST",
-   "name": "Estonia",
-   "since": 1998,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "FIN",
-   "name": "Finland",
-   "since": 1972,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "FRA",
-   "name": "France",
-   "since": 1981,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "GEO",
-   "name": "Georgia",
-   "since": 1997,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "DEU",
-   "name": "Germany",
-   "since": 1987,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "GRC",
-   "name": "Greece",
-   "since": 2004,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "GNB",
-   "name": "Guinea-Bissau",
-   "since": 1993,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "HTI",
-   "name": "Haiti",
-   "since": 1987,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "VAT",
-   "name": "Holy See",
-   "since": 1969,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "HND",
-   "name": "Honduras",
-   "since": 1956,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "HUN",
-   "name": "Hungary",
-   "since": 1990,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "ISL",
-   "name": "Iceland",
-   "since": 1928,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "IRL",
-   "name": "Ireland",
-   "since": 1990,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "ITA",
-   "name": "Italy",
-   "since": 1994,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "KIR",
-   "name": "Kiribati",
-   "since": 1979,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "KGZ",
-   "name": "Kyrgyzstan",
-   "since": 2007,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "LIE",
-   "name": "Liechtenstein",
-   "since": 1987,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "LTU",
-   "name": "Lithunia",
-   "since": 1998,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "LUX",
-   "name": "Luxembourg",
-   "since": 1979,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "MKD",
-   "name": "Macedonia",
-   "since": 1991,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "MLT",
-   "name": "Malta",
-   "since": 2000,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "MHL",
-   "name": "Marshall Islands",
-   "since": 1986,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "MUS",
-   "name": "Mauritius",
-   "since": 1995,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "MEX",
-   "name": "Mexico",
-   "since": 2005,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "FSM",
-   "name": "Micronesia",
-   "since": 1986,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "MDA",
-   "name": "Moldova",
-   "since": 1995,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "MCO",
-   "name": "Monaco",
-   "since": 1962,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "MNE",
-   "name": "Montenegro",
-   "since": 2002,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "MOZ",
-   "name": "Mozambique",
-   "since": 1990,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "NAM",
-   "name": "Namibia",
-   "since": 1990,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "NPL",
-   "name": "Nepal",
-   "since": 1997,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "NLD",
-   "name": "Netherlands",
-   "since": 1982,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "NZL",
-   "name": "New Zealand",
-   "since": 1989,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "NIC",
-   "name": "Nicaragua",
-   "since": 1979,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "NIU",
-   "name": "Niue",
-   "since": 1974,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "NOR",
-   "name": "Norway",
-   "since": 1979,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "PLW",
-   "name": "Palau",
-   "since": 1994,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "PAN",
-   "name": "Panama",
-   "since": 1922,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "PRY",
-   "name": "Paraguay",
-   "since": 1992,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "PHL",
-   "name": "Philippines",
-   "since": 2006,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "POL",
-   "name": "Poland",
-   "since": 1997,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "PRT",
-   "name": "Portugal",
-   "since": 1976,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "ROU",
-   "name": "Romania",
-   "since": 1989,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "RWA",
-   "name": "Rwanda",
-   "since": 2007,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "WSM",
-   "name": "Samoa",
-   "since": 2004,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "SMR",
-   "name": "San Marino",
-   "since": 1865,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "STP",
-   "name": "Sao Tome and Principe",
-   "since": 1990,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "SEN",
-   "name": "Senegal",
-   "since": 2004,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "SRB",
-   "name": "Serbia",
-   "since": 2002,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "SYC",
-   "name": "Seychelles",
-   "since": 1993,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "SVK",
-   "name": "Slovakia",
-   "since": 1990,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "SVN",
-   "name": "Slovenia",
-   "since": 1989,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "SLB",
-   "name": "Solomon Islands",
-   "since": 1978,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "ZAF",
-   "name": "South Africa",
-   "since": 1997,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "ESP",
-   "name": "Spain",
-   "since": 1995,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "SWE",
-   "name": "Sweden",
-   "since": 1972,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "CHE",
-   "name": "Switzerland",
-   "since": 1992,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "TLS",
-   "name": "Timor-Leste",
-   "since": 1999,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "TGO",
-   "name": "Togo",
-   "since": 1991,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "TUR",
-   "name": "Turkey",
-   "since": 2004,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "TKM",
-   "name": "Turkmenistan",
-   "since": 1999,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "TUV",
-   "name": "Tuvalu",
-   "since": 1978,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "UKR",
-   "name": "Ukraine",
-   "since": 1999,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "GBR",
-   "name": "UK ",
-   "since": 1998,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "URY",
-   "name": "Uruguay",
-   "since": 1907,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "VUT",
-   "name": "Vanuatu",
-   "since": 1980,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "VEN",
-   "name": "Venezuela",
-   "since": 1863,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST"
- },
- {
-   "id": "BRA",
-   "name": "Brazil",
-   "since": null,
-   "executions": "0",
-   "death sentences": "0",
-   "status": "ABOLITIONIST FOR ORDINARY CRIMES"
- },
- {
-   "id": "CHL",
-   "name": "Chile",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST FOR ORDINARY CRIMES"
- },
- {
-   "id": "SLV",
-   "name": "El Salvador",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST FOR ORDINARY CRIMES"
- },
- {
-   "id": "FJI",
-   "name": "Fiji",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST FOR ORDINARY CRIMES"
- },
- {
-   "id": "ISR",
-   "name": "Israel",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST FOR ORDINARY CRIMES"
- },
- {
-   "id": "KAZ",
-   "name": "Kazakhstan",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST FOR ORDINARY CRIMES"
- },
- {
-   "id": "PER",
-   "name": "Peru",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST FOR ORDINARY CRIMES"
- },
- {
-   "id": "ARG",
-   "name": "Argentina",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST FOR ORDINARY CRIMES"
- },
- {
-   "id": "BOL",
-   "name": "Bolivia",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST FOR ORDINARY CRIMES"
- },
- {
-   "id": "LVA",
-   "name": "Latvia",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST FOR ORDINARY CRIMES"
- },
- {
-   "id": "LKA",
-   "name": "Sri Lanka",
-   "since": null,
-   "executions": "",
-   "death sentences": "10+",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "KEN",
-   "name": "Kenya",
-   "since": null,
-   "executions": "",
-   "death sentences": "+",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "DZA",
-   "name": "Algeria",
-   "since": null,
-   "executions": "",
-   "death sentences": "271",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "ZMB",
-   "name": "Zambia",
-   "since": null,
-   "executions": "",
-   "death sentences": "8",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "GHA",
-   "name": "Ghana",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "MAR",
-   "name": "Morocco/Western Sahara",
-   "since": null,
-   "executions": "",
-   "death sentences": "1",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "MLI",
-   "name": "Mali",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "COG",
-   "name": "Congo (Republic of)",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "MRT",
-   "name": "Mauritania",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "SLE",
-   "name": "Sierra Leone",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "TUN",
-   "name": "Tunisia",
-   "since": null,
-   "executions": "",
-   "death sentences": "3",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "MDV",
-   "name": "Maldives",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "MMR",
-   "name": "Myanmar",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "KOR",
-   "name": "South Korea",
-   "since": null,
-   "executions": "",
-   "death sentences": "2",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "BEN",
-   "name": "Benin",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "BRN",
-   "name": "Brunei Darussalam",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "BFA",
-   "name": "Burkina Faso",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "CMR",
-   "name": "Cameroon",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "CAF",
-   "name": "Central African Republic",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "ERI",
-   "name": "Eritrea",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "GRD",
-   "name": "Grenada",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "LAO",
-   "name": "Laos",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "LBR",
-   "name": "Liberia",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "MDG",
-   "name": "Madagascar",
-   "since": null,
-   "executions": "",
-   "death sentences": "12",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": " MWI",
-   "name": "Malawi",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "NRU",
-   "name": "Nauru",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "NER",
-   "name": "Niger",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "PNG",
-   "name": "Papua New Guinea",
-   "since": null,
-   "executions": "",
-   "death sentences": "3+",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "RUS",
-   "name": "Russian Federation",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "SUR",
-   "name": "Suriname",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "SWZ",
-   "name": "Swaziland",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "TJK",
-   "name": "Tajikistan",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "TZA",
-   "name": "Tanzania",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "TON",
-   "name": "Tonga",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "GAB",
-   "name": "Gabon",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "ABOLITIONIST IN PRACTICE"
- },
- {
-   "id": "CHN",
-   "name": "China",
-   "since": null,
-   "executions": "470+",
-   "death sentences": "1860+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "IRN",
-   "name": "Iran",
-   "since": null,
-   "executions": "317+",
-   "death sentences": "+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "SAU",
-   "name": "Saudi Arabia",
-   "since": null,
-   "executions": "143+",
-   "death sentences": "+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "IRQ",
-   "name": "Iraq",
-   "since": null,
-   "executions": "33+",
-   "death sentences": "199+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "USA",
-   "name": "United States of America",
-   "since": null,
-   "executions": "42",
-   "death sentences": "100+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "SDN",
-   "name": "Sudan",
-   "since": null,
-   "executions": "7+",
-   "death sentences": "23+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "YEM",
-   "name": "Yemen",
-   "since": null,
-   "executions": "15+",
-   "death sentences": "+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "EGY",
-   "name": "Egypt",
-   "since": null,
-   "executions": "+",
-   "death sentences": "40+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "SOM",
-   "name": "Somalia",
-   "since": null,
-   "executions": "5+",
-   "death sentences": "",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "JOR",
-   "name": "Jordan",
-   "since": null,
-   "executions": "",
-   "death sentences": "17+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "GNQ",
-   "name": "Equatorial Guinea",
-   "since": null,
-   "executions": "3",
-   "death sentences": "",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "PAK",
-   "name": "Pakistan",
-   "since": null,
-   "executions": "135+",
-   "death sentences": "307+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "AFG",
-   "name": "Afghanistan",
-   "since": null,
-   "executions": "15",
-   "death sentences": "",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "TWN",
-   "name": "Taiwan",
-   "since": null,
-   "executions": "",
-   "death sentences": "5",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "BLR",
-   "name": "Belarus ",
-   "since": null,
-   "executions": "1+",
-   "death sentences": "4",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "VNM",
-   "name": "Viet Nam",
-   "since": null,
-   "executions": "25+",
-   "death sentences": "83+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "MYS",
-   "name": "Malaysia",
-   "since": null,
-   "executions": "",
-   "death sentences": "12",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "PSE",
-   "name": "Palestinian Authority",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "SGP",
-   "name": "Singapore",
-   "since": null,
-   "executions": "2",
-   "death sentences": "2",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "ARE",
-   "name": "United Arab Emirates",
-   "since": null,
-   "executions": "",
-   "death sentences": "2+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "PRK",
-   "name": "North Korea",
-   "since": null,
-   "executions": "+",
-   "death sentences": "+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "NGA",
-   "name": "Nigeria",
-   "since": null,
-   "executions": "",
-   "death sentences": "20+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "BGD",
-   "name": "Bangladesh",
-   "since": null,
-   "executions": "6",
-   "death sentences": "93",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "TZA",
-   "name": "Tanzania",
-   "since": null,
-   "executions": "",
-   "death sentences": "+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "IND",
-   "name": "India",
-   "since": null,
-   "executions": "",
-   "death sentences": "100+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "THA",
-   "name": "Thailand",
-   "since": null,
-   "executions": "",
-   "death sentences": "6+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "COD",
-   "name": "Democratic Republic of the Congo",
-   "since": null,
-   "executions": "",
-   "death sentences": "24+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "LBN ",
-   "name": "Lebanon",
-   "since": null,
-   "executions": "",
-   "death sentences": "4+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "ZWE",
-   "name": "Zimbabwe",
-   "since": null,
-   "executions": "",
-   "death sentences": "1",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "KWT",
-   "name": "Kuwait",
-   "since": null,
-   "executions": "1+",
-   "death sentences": "2+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "idN",
-   "name": "Indonesia",
-   "since": null,
-   "executions": "1+",
-   "death sentences": "11+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "BHR",
-   "name": "Bahrain",
-   "since": null,
-   "executions": "",
-   "death sentences": "2",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "QAT",
-   "name": "Qatar",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "TTO",
-   "name": "Trinidad and Tobago",
-   "since": null,
-   "executions": "",
-   "death sentences": "+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "BRB",
-   "name": "Barbados",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "JPN",
-   "name": "Japan",
-   "since": null,
-   "executions": "9",
-   "death sentences": "23",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "GMB",
-   "name": "Gambia",
-   "since": null,
-   "executions": "",
-   "death sentences": "2",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "LSO",
-   "name": "Lesotho",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "LBY",
-   "name": "Libya",
-   "since": null,
-   "executions": "9+",
-   "death sentences": "+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "BWA",
-   "name": "Botswana",
-   "since": null,
-   "executions": "1+",
-   "death sentences": "",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "GUY",
-   "name": "Guyana",
-   "since": null,
-   "executions": "",
-   "death sentences": "+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "UGA",
-   "name": "Uganda",
-   "since": null,
-   "executions": "",
-   "death sentences": "10+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "SSD",
-   "name": "South Sudan",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "ATG",
-   "name": "Antigua and Barbuda",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "BHS",
-   "name": "Bahamas",
-   "since": null,
-   "executions": "",
-   "death sentences": "+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "BLZ",
-   "name": "Belize",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "TCD",
-   "name": "Chad",
-   "since": null,
-   "executions": "",
-   "death sentences": "+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "COM",
-   "name": "Comoros",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "CUB",
-   "name": "Cuba",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "DMA",
-   "name": "Dominica",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "ETH",
-   "name": "Ethiopia",
-   "since": null,
-   "executions": "1",
-   "death sentences": "+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "GTM",
-   "name": "Guatemala",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "GIN",
-   "name": "Guinea",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "JAM",
-   "name": "Jamaica",
-   "since": null,
-   "executions": "",
-   "death sentences": "+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "OMN",
-   "name": "Oman",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "KNA",
-   "name": "Saint Kitts and Nevis",
-   "since": null,
-   "executions": "",
-   "death sentences": "+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "LCA",
-   "name": "Saint Lucia",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "VCT",
-   "name": "Saint Vincent and the Grenadines",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "SYR",
-   "name": "Syria",
-   "since": null,
-   "executions": "7+",
-   "death sentences": "10+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "MNG",
-   "name": "Mongolia",
-   "since": null,
-   "executions": "",
-   "death sentences": "45",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "BDI",
-   "name": "Burundi",
-   "since": null,
-   "executions": "",
-   "death sentences": "+",
-   "status": "RETENTIONIST"
- },
- {
-   "id": "UZB",
-   "name": "Uzbekistan",
-   "since": null,
-   "executions": "",
-   "death sentences": "",
-   "status": "RETENTIONIST"
- }
+  {
+    "id": "DZA",
+    "name": "Algeria",
+    "since": 2004,
+    "executions": 0,
+    "death sentences": 271,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "AFG",
+    "name": "Afghanistan",
+    "since": "",
+    "executions": 15,
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "ALB",
+    "name": "Albania",
+    "since": 2007,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "BEN",
+    "name": "Benin",
+    "since": 1987,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "AND",
+    "name": "Andorra",
+    "since": 1990,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "AGO",
+    "name": "Angola",
+    "since": 1992,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "ATG",
+    "name": "Antigua and Barbuda",
+    "since": "",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "ARG",
+    "name": "Argentina",
+    "since": 1984,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
+  },
+  {
+    "id": "ARM",
+    "name": "Armenia",
+    "since": 2003,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "AUS",
+    "name": "Australia",
+    "since": 1985,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "AUT",
+    "name": "Austria",
+    "since": 1968,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "AZE",
+    "name": "Azerbaijan",
+    "since": 1998,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "BHS",
+    "name": "Bahamas",
+    "since": "",
+    "executions": 0,
+    "death sentences": "+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "BHR",
+    "name": "Bahrain",
+    "since": "",
+    "executions": 0,
+    "death sentences": 2,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "BGD",
+    "name": "Bangladesh",
+    "since": "",
+    "executions": 6,
+    "death sentences": 93,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "BRB",
+    "name": "Barbados",
+    "since": "",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "BLR",
+    "name": "Belarus",
+    "since": "",
+    "executions": "1+",
+    "death sentences": 4,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "BEL",
+    "name": "Belgium",
+    "since": 1996,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "BLZ",
+    "name": "Belize",
+    "since": "",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "BRN",
+    "name": "Brunei Darussalam",
+    "since": 1957,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "BTN",
+    "name": "Bhutan",
+    "since": 2004,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "BOL",
+    "name": "Bolivia",
+    "since": 1997,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
+  },
+  {
+    "id": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "since": 2001,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "BWA",
+    "name": "Botswana",
+    "since": "",
+    "executions": "1+",
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "BRA",
+    "name": "Brazil",
+    "since": 1979,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
+  },
+  {
+    "id": "BFA",
+    "name": "Burkina Faso",
+    "since": 1988,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "BGR",
+    "name": "Bulgaria",
+    "since": 1998,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "CAF",
+    "name": "Central African Republic",
+    "since": 1981,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "BDI",
+    "name": "Burundi",
+    "since": "",
+    "executions": 0,
+    "death sentences": "+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "CPV",
+    "name": "Cape Verde",
+    "since": 1981,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "KHM",
+    "name": "Cambodia",
+    "since": 1989,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "CMR",
+    "name": "Cameroon",
+    "since": "",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "CAN",
+    "name": "Canada",
+    "since": 1998,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "COG",
+    "name": "Congo (Republic of)",
+    "since": 1982,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "TCD",
+    "name": "Chad",
+    "since": "",
+    "executions": 0,
+    "death sentences": "+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "CHL",
+    "name": "Chile",
+    "since": 2001,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
+  },
+  {
+    "id": "CHN",
+    "name": "China",
+    "since": "",
+    "executions": "470+",
+    "death sentences": "1860+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "COL",
+    "name": "Colombia",
+    "since": 1910,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "COM",
+    "name": "Comoros",
+    "since": "",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "ERI",
+    "name": "Eritrea",
+    "since": 1989,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "COK",
+    "name": "Cook Islands",
+    "since": 2007,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "CRI",
+    "name": "Costa Rica",
+    "since": 1877,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "CIV",
+    "name": "Côte d'Ivoire",
+    "since": 2000,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "HRV",
+    "name": "Croatia",
+    "since": 1990,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "CUB",
+    "name": "Cuba",
+    "since": "",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "CYP",
+    "name": "Cyprus",
+    "since": 2002,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "CZE",
+    "name": "Czech Republic",
+    "since": 1990,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "COD",
+    "name": "Democratic Republic of the Congo",
+    "since": "",
+    "executions": 0,
+    "death sentences": "24+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "DNK",
+    "name": "Denmark",
+    "since": 1978,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "DJI",
+    "name": "Djibouti",
+    "since": 1995,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "DMA",
+    "name": "Dominica",
+    "since": "",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "DOM",
+    "name": "Dominican Republic",
+    "since": 1966,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "ECU",
+    "name": "Ecuador",
+    "since": 1906,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "EGY",
+    "name": "Egypt",
+    "since": "",
+    "executions": "+",
+    "death sentences": "40+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "SLV",
+    "name": "El Salvador",
+    "since": 1983,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
+  },
+  {
+    "id": "GNQ",
+    "name": "Equatorial Guinea",
+    "since": "",
+    "executions": 3,
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "GAB",
+    "name": "Gabon",
+    "since": 2007,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "EST",
+    "name": "Estonia",
+    "since": 1998,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "ETH",
+    "name": "Ethiopia",
+    "since": "",
+    "executions": 1,
+    "death sentences": "+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "FJI",
+    "name": "Fiji",
+    "since": 1979,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
+  },
+  {
+    "id": "FIN",
+    "name": "Finland",
+    "since": 1972,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "FRA",
+    "name": "France",
+    "since": 1981,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "GMB",
+    "name": "Gambia",
+    "since": "",
+    "executions": 0,
+    "death sentences": 2,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "GHA",
+    "name": "Ghana",
+    "since": 1993,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "GEO",
+    "name": "Georgia",
+    "since": 1997,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "DEU",
+    "name": "Germany",
+    "since": 1987,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "GRD",
+    "name": "Grenada",
+    "since": 1978,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "GRC",
+    "name": "Greece",
+    "since": 2004,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "GRL",
+    "name": "Greenland / Denmark",
+    "since": 1978,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "KEN",
+    "name": "Kenya",
+    "since": 2004,
+    "executions": 0,
+    "death sentences": "+",
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "GTM",
+    "name": "Guatemala",
+    "since": "",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "GIN",
+    "name": "Guinea",
+    "since": "",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "GNB",
+    "name": "Guinea-Bissau",
+    "since": 1993,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "GUY",
+    "name": "Guyana",
+    "since": "",
+    "executions": 0,
+    "death sentences": "+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "HTI",
+    "name": "Haiti",
+    "since": 1987,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "VAT",
+    "name": "Holy See",
+    "since": 1969,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "HND",
+    "name": "Honduras",
+    "since": 1956,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "HKG",
+    "name": "Hong Kong",
+    "since": 1993,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "HUN",
+    "name": "Hungary",
+    "since": 1990,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "ISL",
+    "name": "Iceland",
+    "since": 1928,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "IND",
+    "name": "India",
+    "since": "",
+    "executions": 0,
+    "death sentences": "100+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "IDN",
+    "name": "Indonesia",
+    "since": "",
+    "executions": "1+",
+    "death sentences": "11+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "IRN",
+    "name": "Iran",
+    "since": "",
+    "executions": "317+",
+    "death sentences": "+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "IRQ",
+    "name": "Iraq",
+    "since": "",
+    "executions": "33+",
+    "death sentences": "199+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "IRL",
+    "name": "Ireland",
+    "since": 1990,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "ISR",
+    "name": "Israel",
+    "since": 1954,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
+  },
+  {
+    "id": "ITA",
+    "name": "Italy",
+    "since": 1994,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "JAM",
+    "name": "Jamaica",
+    "since": "",
+    "executions": 0,
+    "death sentences": "+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "JPN",
+    "name": "Japan",
+    "since": "",
+    "executions": 9,
+    "death sentences": 23,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "JOR",
+    "name": "Jordan",
+    "since": "",
+    "executions": 0,
+    "death sentences": "17+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "KAZ",
+    "name": "Kazakhstan",
+    "since": 2007,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "LAO",
+    "name": "Laos",
+    "since": 1989,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "KIR",
+    "name": "Kiribati",
+    "since": "NA",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "RKS",
+    "name": "Kosovo / Serbia",
+    "since": 2002,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "KWT",
+    "name": "Kuwait",
+    "since": "",
+    "executions": "1+",
+    "death sentences": "2+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "KGZ",
+    "name": "Kyrgyzstan",
+    "since": 2007,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
+  },
+  {
+    "id": "MDG",
+    "name": "Madagascar",
+    "since": 1958,
+    "executions": 0,
+    "death sentences": 12,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "LVA",
+    "name": "Latvia",
+    "since": 1999,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
+  },
+  {
+    "id": "LBN",
+    "name": "Lebanon",
+    "since": "",
+    "executions": 0,
+    "death sentences": "4+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "LSO",
+    "name": "Lesotho",
+    "since": "",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "LBR",
+    "name": "Liberia",
+    "since": 2000,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "LBY",
+    "name": "Libya",
+    "since": "",
+    "executions": "9+",
+    "death sentences": "+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "LIE",
+    "name": "Liechtenstein",
+    "since": 1987,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "LTU",
+    "name": "Lithunia",
+    "since": 1998,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "LUX",
+    "name": "Luxembourg",
+    "since": 1979,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "MKD",
+    "name": "Macedonia",
+    "since": 1991,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "MWI",
+    "name": "Malawi",
+    "since": 1992,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "MDV",
+    "name": "Maldives",
+    "since": 1954,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "MYS",
+    "name": "Malaysia",
+    "since": "",
+    "executions": 0,
+    "death sentences": 12,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "MLI",
+    "name": "Mali",
+    "since": 1980,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "MRT",
+    "name": "Mauritania",
+    "since": 1980,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "MLT",
+    "name": "Malta",
+    "since": 2000,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "MHL",
+    "name": "Marshall Islands",
+    "since": "NA",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "ESH",
+    "name": "Morocco/Western Sahara",
+    "since": 1993,
+    "executions": 0,
+    "death sentences": 1,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "MUS",
+    "name": "Mauritius",
+    "since": 1995,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "MEX",
+    "name": "Mexico",
+    "since": 2005,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "FSM",
+    "name": "Micronesia",
+    "since": "NA",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "MDA",
+    "name": "Moldova",
+    "since": 1995,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "MCO",
+    "name": "Monaco",
+    "since": 1962,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "MNG",
+    "name": "Mongolia",
+    "since": "",
+    "executions": 0,
+    "death sentences": 45,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "MNE",
+    "name": "Montenegro",
+    "since": 2002,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "MMR",
+    "name": "Myanmar",
+    "since": 1988,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "MOZ",
+    "name": "Mozambique",
+    "since": 1990,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "NAM",
+    "name": "Namibia",
+    "since": 1990,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "NRU",
+    "name": "Nauru",
+    "since": 1968,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "NPL",
+    "name": "Nepal",
+    "since": 1997,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "NLD",
+    "name": "Netherlands",
+    "since": 1982,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "NZL",
+    "name": "New Zealand",
+    "since": 1989,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "NIC",
+    "name": "Nicaragua",
+    "since": 1979,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "NER",
+    "name": "Niger",
+    "since": 1976,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "NGA",
+    "name": "Nigeria",
+    "since": "",
+    "executions": 0,
+    "death sentences": "20+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "NIU",
+    "name": "Niue",
+    "since": 1974,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "PRK",
+    "name": "North Korea",
+    "since": "",
+    "executions": "+",
+    "death sentences": "+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "NOR",
+    "name": "Norway",
+    "since": 1979,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "OMN",
+    "name": "Oman",
+    "since": "",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "PAK",
+    "name": "Pakistan",
+    "since": "",
+    "executions": "135+",
+    "death sentences": "307+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "PLW",
+    "name": "Palau",
+    "since": 1994,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "PSE",
+    "name": "Palestinian Authority",
+    "since": "",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "PAN",
+    "name": "Panama",
+    "since": 1922,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "PNG",
+    "name": "Papua New Guinea",
+    "since": 1950,
+    "executions": 0,
+    "death sentences": "3+",
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "PRY",
+    "name": "Paraguay",
+    "since": 1992,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "PER",
+    "name": "Peru",
+    "since": 1979,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
+  },
+  {
+    "id": "PHL",
+    "name": "Philippines",
+    "since": 2006,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "POL",
+    "name": "Poland",
+    "since": 1997,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "PRT",
+    "name": "Portugal",
+    "since": 1976,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "PRI",
+    "name": "Puerto Rico / USA",
+    "since": "",
+    "executions": 42,
+    "death sentences": "100+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "QAT",
+    "name": "Qatar",
+    "since": "",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "ROU",
+    "name": "Romania",
+    "since": 1989,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "RUS",
+    "name": "Russian Federation",
+    "since": 1999,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "RWA",
+    "name": "Rwanda",
+    "since": 2007,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "KNA",
+    "name": "Saint Kitts and Nevis",
+    "since": "",
+    "executions": 0,
+    "death sentences": "+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "LCA",
+    "name": "Saint Lucia",
+    "since": "",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "VCT",
+    "name": "Saint Vincent and the Grenadines",
+    "since": "",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "WSM",
+    "name": "Samoa",
+    "since": 2004,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "SMR",
+    "name": "San Marino",
+    "since": 1865,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "STP",
+    "name": "Sao Tome and Principe",
+    "since": 1990,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "SAU",
+    "name": "Saudi Arabia",
+    "since": "",
+    "executions": "143+",
+    "death sentences": "+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "SEN",
+    "name": "Senegal",
+    "since": 2004,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "SRB",
+    "name": "Serbia (Including Kosovo)",
+    "since": 2002,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "SYC",
+    "name": "Seychelles",
+    "since": 1993,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "SLE",
+    "name": "Sierra Leone",
+    "since": "",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "SGP",
+    "name": "Singapore",
+    "since": "",
+    "executions": 2,
+    "death sentences": 2,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "SVK",
+    "name": "Slovakia",
+    "since": 1990,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "SVN",
+    "name": "Slovenia",
+    "since": 1989,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "SLB",
+    "name": "Solomon Islands",
+    "since": "NA",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "SOM",
+    "name": "Somalia",
+    "since": "",
+    "executions": "5+",
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "SOL",
+    "name": "Somaliland",
+    "since": "",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "ZAF",
+    "name": "South Africa",
+    "since": 1997,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "KOR",
+    "name": "South Korea",
+    "since": 2007,
+    "executions": 0,
+    "death sentences": 2,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "SSD",
+    "name": "South Sudan",
+    "since": "NA",
+    "executions": "NA",
+    "death sentences": "NA",
+    "status": "NA"
+  },
+  {
+    "id": "ESP",
+    "name": "Spain",
+    "since": 1995,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "LKA",
+    "name": "Sri Lanka",
+    "since": 1990,
+    "executions": 0,
+    "death sentences": "10+",
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "SDN",
+    "name": "Sudan",
+    "since": "",
+    "executions": "7+",
+    "death sentences": "23+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "SUR",
+    "name": "Suriname",
+    "since": 1982,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "SWZ",
+    "name": "Swaziland",
+    "since": 1983,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "SWE",
+    "name": "Sweden",
+    "since": 1972,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "CHE",
+    "name": "Switzerland",
+    "since": 1992,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "SYR",
+    "name": "Syria",
+    "since": "",
+    "executions": "7+",
+    "death sentences": "10+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "TWN",
+    "name": "Taiwan",
+    "since": "",
+    "executions": 0,
+    "death sentences": 5,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "TJK",
+    "name": "Tajikistan",
+    "since": 2004,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "TZA",
+    "name": "Tanzania",
+    "since": "",
+    "executions": 0,
+    "death sentences": "+",
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "THA",
+    "name": "Thailand",
+    "since": "",
+    "executions": 0,
+    "death sentences": "6+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "TLS",
+    "name": "Timor-Leste",
+    "since": 1999,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "TGO",
+    "name": "Togo",
+    "since": 1991,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "TON",
+    "name": "Tonga",
+    "since": 1982,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "TTO",
+    "name": "Trinidad and Tobago",
+    "since": "",
+    "executions": 0,
+    "death sentences": "+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "TUN",
+    "name": "Tunisia",
+    "since": 1991,
+    "executions": 0,
+    "death sentences": 3,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "TUR",
+    "name": "Turkey",
+    "since": 2004,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "TKM",
+    "name": "Turkmenistan",
+    "since": 1999,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "TUV",
+    "name": "Tuvalu",
+    "since": 1978,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "UGA",
+    "name": "Uganda",
+    "since": "",
+    "executions": 0,
+    "death sentences": "10+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "GBR",
+    "name": "UK",
+    "since": 1998,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "UKR",
+    "name": "Ukraine",
+    "since": 1999,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "ARE",
+    "name": "United Arab Emirates",
+    "since": "",
+    "executions": 0,
+    "death sentences": "2+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "USA",
+    "name": "United States of America",
+    "since": "",
+    "executions": 42,
+    "death sentences": "100+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "URY",
+    "name": "Uruguay",
+    "since": 1907,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "UZB",
+    "name": "Uzbekistan",
+    "since": "",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "VUT",
+    "name": "Vanuatu",
+    "since": "NA",
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "VEN",
+    "name": "Venezuela",
+    "since": 1863,
+    "executions": 0,
+    "death sentences": 0,
+    "status": "ABOLITIONIST"
+  },
+  {
+    "id": "VNM",
+    "name": "Viet Nam",
+    "since": "",
+    "executions": "25+",
+    "death sentences": "83+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "YEM",
+    "name": "Yemen",
+    "since": "",
+    "executions": "15+",
+    "death sentences": "+",
+    "status": "RETENTIONIST"
+  },
+  {
+    "id": "ZMB",
+    "name": "Zambia",
+    "since": "",
+    "executions": 0,
+    "death sentences": 8,
+    "status": "ABOLITIONIST IN PRACTICE"
+  },
+  {
+    "id": "ZWE",
+    "name": "Zimbabwe",
+    "since": "",
+    "executions": 0,
+    "death sentences": 1,
+    "status": "RETENTIONIST"
+  }
 ]
 },{
       "year":"2008",
