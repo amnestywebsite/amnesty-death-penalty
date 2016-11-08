@@ -59,7 +59,7 @@ Dictionary.prototype.getTranslation = function (key, language) {
   }
 
   return translation;
-}
+};
 
 var data = [];
 
