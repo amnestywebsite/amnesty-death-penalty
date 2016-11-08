@@ -860,6 +860,13 @@ small,.milli {
   text-align: right;
 }
 
+[dir="rtl"] .media__body{
+  overflow:hidden;
+  width: 74%;
+  padding-top: 0.5rem;
+  text-align: left;
+}
+
 @media screen and (min-width: 40em) {
   .media__body{
     text-align: right;
@@ -905,7 +912,7 @@ small,.milli {
 
 .dp-header {
   font-size: 40px;
-  font-size: 2.5rem;
+  font-size: 2.5em;
   line-height: 1;
   margin-bottom: 0;
   margin-top: 0;
