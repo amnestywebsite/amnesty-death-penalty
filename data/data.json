@@ -3,8 +3,8 @@
       "year":"2007",
       "total-executions":"1,290+",
       "total-death-sentences":"3,417+",
-      "ABOLITIONIST":"94",
-      "ABOLITIONIST FOR ORDINARY CRIMES":"10",
+      "ABOLITIONIST":"95",
+      "ABOLITIONIST FOR ORDINARY CRIMES":"9",
       "ABOLITIONIST IN PRACTICE":"33",
       "RETENTIONIST":"65",
       "countries":[
@@ -772,9 +772,9 @@
     "id": "KGZ",
     "name": "Kyrgyzstan",
     "since": 2007,
-    "executions": "0",
-    "death-penalties": "0",
-    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
+    "executions": "",
+    "death-penalties": "",
+    "status": "ABOLITIONIST"
   },
   {
     "id": "MDG",
@@ -1629,8 +1629,8 @@
       "year":"2008",
       "total-executions":"2,427+",
       "total-death-sentences":"8,961+",
-      "ABOLITIONIST":"95",
-      "ABOLITIONIST FOR ORDINARY CRIMES":"10",
+      "ABOLITIONIST":"96",
+      "ABOLITIONIST FOR ORDINARY CRIMES":"9",
       "ABOLITIONIST IN PRACTICE":"36",
       "RETENTIONIST":"61",
       "countries":[
@@ -2390,9 +2390,9 @@
     "id": "KGZ",
     "name": "Kyrgyzstan",
     "since": 2007,
-    "executions": "0",
-    "death-penalties": "0",
-    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
+    "executions": "",
+    "death-penalties": "",
+    "status": "ABOLITIONIST"
   },
   {
     "id": "LAO",
