@@ -3263,8 +3263,8 @@
       "year":"2009",
       "total-executions":"1,760+",
       "total-death-sentences":"2,100+",
-      "ABOLITIONIST":"98",
-      "ABOLITIONIST FOR ORDINARY CRIMES":"9",
+      "ABOLITIONIST":"99",
+      "ABOLITIONIST FOR ORDINARY CRIMES":"8",
       "ABOLITIONIST IN PRACTICE":"35",
       "RETENTIONIST":"60",
       "countries":[
@@ -3432,9 +3432,9 @@
     "id": "BOL",
     "name": "Bolivia",
     "since": 2009,
-    "executions": "0",
-    "death-penalties": "0",
-    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
+    "executions": "",
+    "death-penalties": "",
+    "status": "ABOLITIONIST"
   },
   {
     "id": "BIH",
@@ -4889,8 +4889,8 @@
       "year":"2010",
       "total-executions":"3,694+",
       "total-death-sentences":"2,127+",
-      "ABOLITIONIST":"99",
-      "ABOLITIONIST FOR ORDINARY CRIMES":"9",
+      "ABOLITIONIST":"100",
+      "ABOLITIONIST FOR ORDINARY CRIMES":"8",
       "ABOLITIONIST IN PRACTICE":"34",
       "RETENTIONIST":"60",
       "countries":[
@@ -5058,9 +5058,9 @@
     "id": "BOL",
     "name": "Bolivia",
     "since": 2009,
-    "executions": "0",
-    "death-penalties": "0",
-    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
+    "executions": "",
+    "death-penalties": "",
+    "status": "ABOLITIONIST"
   },
   {
     "id": "BIH",
@@ -6515,8 +6515,8 @@
       "year":"2011",
       "total-executions":"1,713+",
       "total-death-sentences":"1,976+",
-      "ABOLITIONIST":"99",
-      "ABOLITIONIST FOR ORDINARY CRIMES":"9",
+      "ABOLITIONIST":"100",
+      "ABOLITIONIST FOR ORDINARY CRIMES":"8",
       "ABOLITIONIST IN PRACTICE":"35",
       "RETENTIONIST":"60",
       "countries":[
@@ -6684,9 +6684,9 @@
     "id": "BOL",
     "name": "Bolivia",
     "since": 2009,
-    "executions": "0",
-    "death-penalties": "0",
-    "status": "ABOLITIONIST FOR ORDINARY CRIMES"
+    "executions": "",
+    "death-penalties": "",
+    "status": "ABOLITIONIST"
   },
   {
     "id": "BIH",
