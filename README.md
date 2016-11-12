@@ -21,7 +21,12 @@ The year data sits at the top of each year. This controls the year totals and th
 | countries | [_here is a new array with the country data for this year_] |
 
 ### Country data
-Each country is an object with the countries array for that year. All countries that need to be active (i.e. press for detailbox) need to be in this array. Only the id (ISO3) is necessary. The country name which is displayed comes from the dictionary file, but it's included in this data to make it easier to identify the country (rather than from only the ISO3 code). "Since" is the year an abolitionist country abolished the death penalty. "Status" is must match one of the four statuses outlined above.
+Each country is an object with the countries array for that year. All countries that need to be active (i.e. press for detailbox) need to be in this array.
+
+* The id (ISO3) is necessary to reference to correct geo data from world-topo.json. * The country name is references the country name translation in the dictionary file (lang/dictionary.json)
+* The country name in data.json is in CAPS to indicate that it is not actually the country name but a reference to the key for translation. It must match the translation key in dictionary.json.
+* Putting a "O" in either executions or death-penalties will show the box with O. If you don't want it show - for abolitionist countries - leave it empty, e.g ""
+* "Since" is the year an abolitionist country abolished the death penalty. "Status" is must match one of the four statuses outlined above.
 
 | |  |
 |----------|----------|
@@ -66,13 +71,16 @@ Small edits can be done in Github using a Github account. If it's a tiny change 
 Two files are necessary for yearly updates. One for the year data and one for the country data. Pass these CSVs to a developer who can integrate them and update the timeline for an extra year.
 
 Each year is in a separate sheet. Some things to watch out for:
+
 1. Make sure the extra columns are empty.
 2. Make sure the year is text (Select, right click, Format cells, text)
 3. Make sure when save as CSV to "edit filter settings" and "quote all text cells"
 4. http://www.convertcsv.com/csv-to-json.htm
-5.
+5. Double check everything once it is imported
+6. Export the data from json to csv if someone wants to work in a spreadsheet. This will avoid re-introducing errors that have been fixed.
 
 ## "Rolling" the topojson
+
 1. Downloaded [Natural Earth shapefiles](http://www.naturalearthdata.com/downloads/)
 2. Transform the shapefiles into geojson removing Antarctica: `ogr2ogr -f GeoJSON -where "SU_A3 <> 'ATA'" world.json ne_50m_admin_0_countries/ne_50m_admin_0_countries.shp`
 3. Transform the geojson into topojson: `topojson --id-property iso_a3 -p name -o world-topo.json world.json`

@@ -167,8 +167,8 @@
     "fr": "Bolivia_fr",
     "ar": "Bolivia_ar"
   },
-  "BOSNIA-HERZEGOVINA": {
-    "en": "Bosnia-Herzegovina",
+  "BOSNIA AND HERZEGOVINA": {
+    "en": "Bosnia and Herzegovina",
     "es": "Bosnia-Herzegovina_es",
     "fr": "Bosnia-Herzegovina_fr",
     "ar": "Bosnia-Herzegovina_ar"
@@ -221,6 +221,12 @@
     "fr": "Cook Islands_fr",
     "ar": "Cook Islands_ar"
   },
+  "DOMINICAN REPUBLIC": {
+    "en": "Dominican Republic",
+    "es": "Dominican Republic_es",
+    "fr": "Dominican Republic_fr",
+    "ar": "Dominican Republic_ar"
+  },
   "COSTA RICA": {
     "en": "Costa Rica",
     "es": "Costa Rica_es",
@@ -228,7 +234,7 @@
     "ar": "Costa Rica_ar"
   },
   "COTE D'IVOIRE": {
-    "en": "Cote D'ivoire",
+    "en": "Côte D'Ivoire",
     "es": "Cote D'ivoire_es",
     "fr": "Cote D'ivoire_fr",
     "ar": "Cote D'ivoire_ar"
@@ -593,8 +599,8 @@
     "fr": "Senegal_fr",
     "ar": "Senegal_ar"
   },
-  "SERBIA": {
-    "en": "Serbia",
+  "SERBIA (INCLUDING KOSOVO)": {
+    "en": "Serbia (including Kosovo)",
     "es": "Serbia _es",
     "fr": "Serbia _fr",
     "ar": "Serbia _ar"
@@ -628,6 +634,12 @@
     "es": "Solomon Islands_es",
     "fr": "Solomon Islands_fr",
     "ar": "Solomon Islands_ar"
+  },
+  "SOMALIA": {
+    "en": "Somalia",
+    "es": "Somalia_es",
+    "fr": "Somalia_fr",
+    "ar": "Somalia_ar"
   },
   "SOUTH AFRICA": {
     "en": "South Africa",
@@ -713,11 +725,11 @@
     "fr": "Uzbekistan_fr",
     "ar": "Uzbekistan_ar"
   },
-  "VANUATA": {
-    "en": "Vanuata",
-    "es": "Vanuata_es",
-    "fr": "Vanuata_fr",
-    "ar": "Vanuata_ar"
+  "VANUATU": {
+    "en": "Vanuatu",
+    "es": "Vanuatu_es",
+    "fr": "Vanuatu_fr",
+    "ar": "Vanuatu_ar"
   },
   "VENEZUELA": {
     "en": "Venezuela",
@@ -791,7 +803,7 @@
     "fr": "Central African Republic_fr",
     "ar": "Central African Republic_ar"
   },
-  "CAMEROON": {
+  "CANADA": {
     "en": "Cameroon",
     "es": "Cameroon_es",
     "fr": "Cameroon_fr",
@@ -1025,7 +1037,7 @@
     "fr": "Botswana_fr",
     "ar": "Botswana_ar"
   },
-  "DEMOCRATIC REPUBLIC OF CONGO": {
+  "DEMOCRATIC REPUBLIC OF THE CONGO": {
     "en": "Democratic Republic of Congo",
     "es": "Democratic Republic of Congo_es",
     "fr": "Democratic Republic of Congo_fr",
