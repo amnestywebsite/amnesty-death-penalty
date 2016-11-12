@@ -1199,11 +1199,17 @@
     "fr": "North Korea_fr",
     "ar": "North Korea_ar"
   },
-  "PALESTINE": {
-    "en": "Palestine",
-    "es": "Palestine_es",
-    "fr": "Palestine_fr",
-    "ar": "Palestine_ar"
+  "PALESTINIAN AUTHORITY": {
+    "en": "Palestinian Authority",
+    "es": "Palestinian Authority_es",
+    "fr": "Palestinian Authority_fr",
+    "ar": "Palestinian Authority_ar"
+  },
+  "PALESTINE (STATE OF)": {
+    "en": "Palestine (State of)",
+    "es": "Palestine (State of)_es",
+    "fr": "Palestine (State of)_fr",
+    "ar": "Palestine (State of)_ar"
   },
   "QATAR": {
     "en": "Qatar",
