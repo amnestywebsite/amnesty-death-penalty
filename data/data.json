@@ -1623,6 +1623,14 @@
     "executions": "0",
     "death-penalties": "1",
     "status": "RETENTIONIST"
+  },
+  {
+    "id": "SSD",
+    "name": "SOUTH SUDAN",
+    "since": "",
+    "executions": "",
+    "death-penalties": "",
+    "status": ""
   }
 ]
 },{
@@ -2989,10 +2997,10 @@
   {
     "id": "SSD",
     "name": "SOUTH SUDAN",
-    "since": "NA",
-    "executions": "NA",
-    "death-penalties": "NA",
-    "status": "NA"
+    "since": "",
+    "executions": "",
+    "death-penalties": "",
+    "status": ""
   },
   {
     "id": "ESP",
@@ -3275,6 +3283,14 @@
     "executions": "0",
     "death-penalties": "133+",
     "status": "RETENTIONIST"
+  },
+  {
+    "id": "SSD",
+    "name": "SOUTH SUDAN",
+    "since": "",
+    "executions": "",
+    "death-penalties": "",
+    "status": ""
   },
   {
     "id": "ALB",
@@ -4901,6 +4917,14 @@
     "executions": "0",
     "death-penalties": "100+",
     "status": "RETENTIONIST"
+  },
+  {
+    "id": "SSD",
+    "name": "SOUTH SUDAN",
+    "since": "",
+    "executions": "",
+    "death-penalties": "",
+    "status": ""
   },
   {
     "id": "ALB",
