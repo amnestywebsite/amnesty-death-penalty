@@ -158,7 +158,7 @@ function ready(error, world, active, dict) {
     for (var j=0; j<data_year.countries.length; j++) {
       var data_country = data_year.countries[j];
 
-      data_country.name__localised = dictionary.getTranslation(data_country.id);
+      data_country.name__localised = dictionary.getTranslation(data_country.name);
       data_country.status__localised = dictionary.getTranslation(data_country.status);
       data_country.definition__localised = dictionary.getTranslation(data_country.status + " DEFINITION");
     }
@@ -261,7 +261,7 @@ function draw(topo, activeCountries, coastline) {
           tooltip
             .classed("hidden", false)
             .attr("style", "left:"+(mouse[0]+offsetL)+"px;top:"+(mouse[1]+offsetT)+"px")
-            .html('<div class="title-text">'+ dictionary.getTranslation(d.id) + '</div>');
+            .html('<div class="title-text">'+ dictionary.getTranslation(d.name) + '</div>');
         })
         .on("mouseout",  function(d,i) {
           tooltip.classed("hidden", true);
