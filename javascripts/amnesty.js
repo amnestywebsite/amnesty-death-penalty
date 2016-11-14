@@ -311,6 +311,10 @@ function activateCountry(d){
     countryElement = document.querySelector('path[id="' + (d.id || d.ID) + '"]:not(.country)');
   }
 
+  if (d.note) {
+    console.log (d.note[lang]);
+  }
+
   active.classed("active", false);
   active = d3.select(countryElement).classed("active", true);
 
