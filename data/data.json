@@ -1340,7 +1340,13 @@
     "since": "",
     "executions": "5+",
     "death-penalties": "0",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "ar": ""
+    }
   },
   {
     "id": "SOL",
@@ -2980,7 +2986,13 @@
     "since": "",
     "executions": "0",
     "death-penalties": "0",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "ar": ""
+    }
   },
   {
     "id": "SOL",
@@ -4627,8 +4639,14 @@
     "name": "SOMALIA",
     "since": "",
     "executions": "0",
-    "death-penalties": "12 (6 in Puntland; 6 by the Transitional\nFederal Government)",
-    "status": "RETENTIONIST"
+    "death-penalties": "12",
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "6 death penalties in Puntland; 6 by the Transitional Federal Government",
+      "es": "Death penalty applicable under US federal law_es",
+      "fr": "Death penalty applicable under US federal law_fr",
+      "ar": "Death penalty applicable under US federal law_ar"
+    }
   },
   {
     "id": "SOL",
@@ -6036,9 +6054,15 @@
     "id": "PSE",
     "name": "PALESTINIAN AUTHORITY",
     "since": "",
-    "executions": "5 (Hamas\nauthorities in Gaza)",
-    "death-penalties": "11+ (Hamas\nauthorities in Gaza)",
-    "status": "RETENTIONIST"
+    "executions": "5",
+    "death-penalties": "11+",
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "By Hamas authorities in Gaza",
+      "es": "Note_es",
+      "fr": "Note_fr",
+      "ar": "Note_ar"
+    }
   },
   {
     "id": "PAN",
@@ -6167,7 +6191,7 @@
     "status": "RETENTIONIST"
   },
   {
-    "id": "SOM",
+    "id": "WSM",
     "name": "SAMOA",
     "since": 2004,
     "executions": "",
@@ -6266,9 +6290,15 @@
     "id": "SOM",
     "name": "SOMALIA",
     "since": "",
-    "executions": "8+ (7 in Puntland; 1 by the Transitional\nFederal Government)",
-    "death-penalties": "8+ (2 in Somaliland; 6 in Puntland)",
-    "status": "RETENTIONIST"
+    "executions": "8+",
+    "death-penalties": "8+",
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "7 executions in Puntland; 1 by the Transitional Federal Government<br>2 death penalties in Somaliland; 6 in Puntland",
+      "es": "Note_es",
+      "fr": "Note_fr",
+      "ar": "Note_ar"
+    }
   },
   {
     "id": "SOL",
@@ -7668,9 +7698,15 @@
     "id": "PSE",
     "name": "PALESTINIAN AUTHORITY",
     "since": "",
-    "executions": "3 (Hamas\nauthorities in Gaza)",
-    "death-penalties": "5+ (4 Hamas authorities in Gaza ; 1 Palestinian authority in West Bank)",
-    "status": "RETENTIONIST"
+    "executions": "3",
+    "death-penalties": "5+",
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "3 executions by Hamas authorities in Gaza<br>4 death penalties by Hamas authorities in Gaza; 1 Palestinian authority in West Bank",
+      "es": "Death penalty applicable under US federal law_es",
+      "fr": "Death penalty applicable under US federal law_fr",
+      "ar": "Death penalty applicable under US federal law_ar"
+    }
   },
   {
     "id": "PAN",
@@ -7799,7 +7835,7 @@
     "status": "RETENTIONIST"
   },
   {
-    "id": "SOM",
+    "id": "WSM",
     "name": "SAMOA",
     "since": 2004,
     "executions": "",
@@ -7898,9 +7934,15 @@
     "id": "SOM",
     "name": "SOMALIA",
     "since": "",
-    "executions": "10 ( 6 by the Transitional\nFederal Government; 3 in Puntland; 1 in Galmudug)",
-    "death-penalties": "37+ \n(32+ by the Transitional Federal Government; 4 in Puntland; 1 in Galmudug)",
-    "status": "RETENTIONIST"
+    "executions": "10",
+    "death-penalties": "37+",
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "6 executions by the Transitional Federal Government; 3 in Puntland; 1 in Galmudug<br>32+ death penalties by the Transitional Federal Government; 4 in Puntland; 1 in Galmudug",
+      "es": "Death penalty applicable under US federal law_es",
+      "fr": "Death penalty applicable under US federal law_fr",
+      "ar": "Death penalty applicable under US federal law_ar"
+    }
   },
   {
     "id": "SOL",
@@ -9308,9 +9350,15 @@
     "id": "PSE",
     "name": "PALESTINIAN AUTHORITY",
     "since": "",
-    "executions": "6 (Hamas\nauthorities in Gaza)",
-    "death-penalties": "6+ (5+ Hamas authorities in Gaza; 1 Palestinian\nAuthority in West Bank)",
-    "status": "RETENTIONIST"
+    "executions": "6",
+    "death-penalties": "6+",
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "6 executions by Hamas authorities in Gaza<br>5+ death penalties by Hamas authorities in Gaza; 1 Palestinian Authority in West Bank",
+      "es": "Death penalty applicable under US federal law_es",
+      "fr": "Death penalty applicable under US federal law_fr",
+      "ar": "Death penalty applicable under US federal law_ar"
+    }
   },
   {
     "id": "PAN",
@@ -9538,9 +9586,15 @@
     "id": "SOM",
     "name": "SOMALIA",
     "since": "",
-    "executions": "6+ (5+ by the Transitional\nFederal Government; 1+ in Puntland)",
-    "death-penalties": "76\n(51 by the\nTransitional\nFederal\nGovernment; 7\nin Puntland; 18\nin Somaliland)",
-    "status": "RETENTIONIST"
+    "executions": "6+",
+    "death-penalties": "76",
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "5+ executions by the Transitional Federal Government; 1+ in Puntland<br>51 death penalties by the Transitional Federal Government; 7 in Puntland; 18 in Somaliland",
+      "es": "Death penalty applicable under US federal law_es",
+      "fr": "Death penalty applicable under US federal law_fr",
+      "ar": "Death penalty applicable under US federal law_ar"
+    }
   },
   {
     "id": "SOL",
@@ -10948,9 +11002,15 @@
     "id": "PSE",
     "name": "PALESTINIAN AUTHORITY",
     "since": "",
-    "executions": "3+ (Hamas\nauthorities in Gaza)",
-    "death-penalties": "14+ (13+ Hamas authorities in Gaza; 1+  Palestinian\nAuthority in West Bank)",
-    "status": "RETENTIONIST"
+    "executions": "3+",
+    "death-penalties": "14+",
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "3+ executions by Hamas authorities in Gaza<br>13+ death penalties by Hamas authorities in Gaza; 1+ Palestinian Authority in West Bank",
+      "es": "Death penalty applicable under US federal law_es",
+      "fr": "Death penalty applicable under US federal law_fr",
+      "ar": "Death penalty applicable under US federal law_ar"
+    }
   },
   {
     "id": "PAN",
@@ -11178,9 +11238,15 @@
     "id": "SOM",
     "name": "SOMALIA",
     "since": "",
-    "executions": "34+ ( 15+ by the Federal Government, and 19+ in\nPuntland)",
-    "death-penalties": "117+ (8+ by\nthe Federal Government;\n81+ in Puntland; 28+ in\nSomaliland)",
-    "status": "RETENTIONIST"
+    "executions": "34+",
+    "death-penalties": "117+",
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "15+ executions by the Federal Government, and 19+ in Puntland<br>8+ death penalties by the Federal Government; 81+ in Puntland; 28+ in Somaliland)",
+      "es": "Death penalty applicable under US federal law_es",
+      "fr": "Death penalty applicable under US federal law_fr",
+      "ar": "Death penalty applicable under US federal law_ar"
+    }
   },
   {
     "id": "SOL",
@@ -12588,9 +12654,15 @@
     "id": "PSE",
     "name": "PALESTINE (STATE OF)",
     "since": "",
-    "executions": "2+ (Hamas\nauthorities in Gaza)",
-    "death-penalties": "4+ (Hamas\nauthorities in Gaza)",
-    "status": "RETENTIONIST"
+    "executions": "2+",
+    "death-penalties": "4+",
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "2+ executions by Hamas authorities in Gaza<br>4+ death penalties by Hamas authorities in Gaza",
+      "es": "Death penalty applicable under US federal law_es",
+      "fr": "Death penalty applicable under US federal law_fr",
+      "ar": "Death penalty applicable under US federal law_ar"
+    }
   },
   {
     "id": "PAN",
@@ -12818,9 +12890,15 @@
     "id": "SOM",
     "name": "SOMALIA",
     "since": "",
-    "executions": "14+ (13+ by the\nSomali Federal Government; 1  in Jubaland region",
-    "death-penalties": "52+ (31+ by the\nSomali Federal\nGovernment; 11+ in\nPuntland; 10+ in\nSomaliland)",
-    "status": "RETENTIONIST"
+    "executions": "14+",
+    "death-penalties": "52+",
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "13+ executions by the Somali Federal Government; 1 in Jubaland region<br>31+ death penalties by the Somali Federal Government; 11+ in Puntland; 10+ in Somaliland",
+      "es": "Death penalty applicable under US federal law_es",
+      "fr": "Death penalty applicable under US federal law_fr",
+      "ar": "Death penalty applicable under US federal law_ar"
+    }
   },
   {
     "id": "SOL",
@@ -14237,8 +14315,14 @@
     "name": "PALESTINE (STATE OF)",
     "since": "",
     "executions": "0",
-    "death-penalties": "12+ (10+ Hamas authorities in Gaza; 2+ Palestinian authority in West Bank )",
-    "status": "RETENTIONIST"
+    "death-penalties": "12+",
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "10+ death penalties by Hamas authorities in Gaza; 2+ Palestinian authority in West Bank",
+      "es": "Death penalty applicable under US federal law_es",
+      "fr": "Death penalty applicable under US federal law_fr",
+      "ar": "Death penalty applicable under US federal law_ar"
+    }
   },
   {
     "id": "PAN",
@@ -14367,7 +14451,7 @@
     "status": "RETENTIONIST"
   },
   {
-    "id": "SOM",
+    "id": "WSM",
     "name": "SAMOA",
     "since": 2004,
     "executions": "",
@@ -14466,9 +14550,15 @@
     "id": "SOM",
     "name": "SOMALIA",
     "since": "",
-    "executions": "25+ (Federal Government of\nSomalia 17+; Somaliland 6+; Jubaland 2+)",
-    "death-penalties": "5+ (Federal\nGovernment of Somalia 4+;\nSomaliland 1+)",
-    "status": "RETENTIONIST"
+    "executions": "25+",
+    "death-penalties": "5+",
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "Federal Government of Somalia 17+ executions; Somaliland 6+; Jubaland 2+<br>Federal Government of Somalia 4+ death penalties; Somaliland 1+",
+      "es": "Death penalty applicable under US federal law_es",
+      "fr": "Death penalty applicable under US federal law_fr",
+      "ar": "Death penalty applicable under US federal law_ar"
+    }
   },
   {
     "id": "SOL",
