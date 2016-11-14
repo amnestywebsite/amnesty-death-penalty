@@ -1174,7 +1174,13 @@
     "since": "",
     "executions": 42,
     "death-penalties": "100+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "Death penalty applicable under US federal law",
+      "es": "Death penalty applicable under US federal law_es",
+      "fr": "Death penalty applicable under US federal law_fr",
+      "ar": "Death penalty applicable under US federal law_ar"
+    }
   },
   {
     "id": "QAT",
@@ -2808,7 +2814,13 @@
     "since": "",
     "executions": "37",
     "death-penalties": "111+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "Death penalty applicable under US federal law",
+      "es": "Death penalty applicable under US federal law_es",
+      "fr": "Death penalty applicable under US federal law_fr",
+      "ar": "Death penalty applicable under US federal law_ar"
+    }
   },
   {
     "id": "QAT",
@@ -4450,7 +4462,13 @@
     "since": "",
     "executions": "52",
     "death-penalties": "105+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "Death penalty applicable under US federal law",
+      "es": "Death penalty applicable under US federal law_es",
+      "fr": "Death penalty applicable under US federal law_fr",
+      "ar": "Death penalty applicable under US federal law_ar"
+    }
   },
   {
     "id": "QAT",
@@ -6084,7 +6102,13 @@
     "since": "",
     "executions": "46",
     "death-penalties": "110+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "Death penalty applicable under US federal law",
+      "es": "Death penalty applicable under US federal law_es",
+      "fr": "Death penalty applicable under US federal law_fr",
+      "ar": "Death penalty applicable under US federal law_ar"
+    }
   },
   {
     "id": "QAT",
@@ -7710,7 +7734,13 @@
     "since": "",
     "executions": "43",
     "death-penalties": "78",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "Death penalty applicable under US federal law",
+      "es": "Death penalty applicable under US federal law_es",
+      "fr": "Death penalty applicable under US federal law_fr",
+      "ar": "Death penalty applicable under US federal law_ar"
+    }
   },
   {
     "id": "QAT",
@@ -9344,7 +9374,13 @@
     "since": "",
     "executions": "43",
     "death-penalties": "77",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "Death penalty applicable under US federal law",
+      "es": "Death penalty applicable under US federal law_es",
+      "fr": "Death penalty applicable under US federal law_fr",
+      "ar": "Death penalty applicable under US federal law_ar"
+    }
   },
   {
     "id": "QAT",
@@ -10978,7 +11014,13 @@
     "since": "",
     "executions": "39",
     "death-penalties": "80",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "Death penalty applicable under US federal law",
+      "es": "Death penalty applicable under US federal law_es",
+      "fr": "Death penalty applicable under US federal law_fr",
+      "ar": "Death penalty applicable under US federal law_ar"
+    }
   },
   {
     "id": "QAT",
@@ -12612,7 +12654,13 @@
     "since": "",
     "executions": "35",
     "death-penalties": "72+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "Death penalty applicable under US federal law",
+      "es": "Death penalty applicable under US federal law_es",
+      "fr": "Death penalty applicable under US federal law_fr",
+      "ar": "Death penalty applicable under US federal law_ar"
+    }
   },
   {
     "id": "QAT",
@@ -14254,7 +14302,13 @@
     "since": "",
     "executions": "28",
     "death-penalties": "52",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "Death penalty applicable under US federal law",
+      "es": "Death penalty applicable under US federal law_es",
+      "fr": "Death penalty applicable under US federal law_fr",
+      "ar": "Death penalty applicable under US federal law_ar"
+    }
   },
   {
     "id": "QAT",
