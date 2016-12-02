@@ -234,7 +234,8 @@ function draw(topo, activeCountries, coastline) {
   function toObject(originalArray) {
     var result = {};
     for(var i = 0; i < originalArray.length; i++) {
-      result[originalArray[i].name] = originalArray[i].id;
+      var translatedName =  dictionary.getTranslation(originalArray[i].name);
+      result[translatedName] = originalArray[i].id;
     }
     return result;
   }
@@ -243,7 +244,7 @@ function draw(topo, activeCountries, coastline) {
   var result = "";
     for (var p in obj) {
       if( obj.hasOwnProperty(p) ) {
-        result += dictionary.getTranslation(p) + ",";
+        result += p + ",";
       }
     }
     return result;
@@ -265,7 +266,6 @@ function draw(topo, activeCountries, coastline) {
     console.log (selectedCountryName);
 
     var selectedCountryId = countryIdByName[selectedCountryName];
-    console.log (selectedCountryId);
 
     for (var i=0; i<yearCountries.length; i++) {
       if (yearCountries[i].id === selectedCountryId || yearCountries[i].ID === selectedCountryId) {
