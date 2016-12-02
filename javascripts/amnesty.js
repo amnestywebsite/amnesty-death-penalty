@@ -255,8 +255,6 @@ function draw(topo, activeCountries, coastline) {
   var countryIdByName = toObject(uniqueCountries);
   var translatedCountryNameOnly = showObject(countryIdByName);
 
-  console.log(translatedCountryNameOnly);
-
   var searchCountries = document.getElementById('search-box');
   var searchOutput = '<form onsubmit="return false;"><label class="visually-hidden" for="search-box-input">' + dictionary.getTranslation('SEARCH COUNTRY') + '</label><input id="search-box-input" class="awesomplete" data-list="' + translatedCountryNameOnly + '"" placeholder="' + dictionary.getTranslation('SEARCH COUNTRY') + '" /></form>';
   searchCountries.innerHTML = searchOutput;
@@ -264,9 +262,13 @@ function draw(topo, activeCountries, coastline) {
   new Awesomplete(document.querySelector('.awesomplete'));
   document.querySelector('.awesomplete').addEventListener('awesomplete-selectcomplete', function (e) {
     var selectedCountryName = e.text.value;
+    console.log (selectedCountryName);
+
+    var selectedCountryId = countryIdByName[selectedCountryName];
+    console.log (selectedCountryId);
 
     for (var i=0; i<yearCountries.length; i++) {
-      if (yearCountries[i].name__localised === selectedCountryName) {
+      if (yearCountries[i].id === selectedCountryId || yearCountries[i].ID === selectedCountryId) {
         activateCountry(yearCountries[i]);
         break;
       }
