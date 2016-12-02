@@ -154,7 +154,7 @@ function ready(error, world, active, dict) {
 
   // Add localised names and statuses to data, so that they can be used more easily in templates.
   for (var i=0; i<active.length; i++) {
-    var data_year = active[i]
+    var data_year = active[i];
     for (var j=0; j<data_year.countries.length; j++) {
       var data_country = data_year.countries[j];
 
@@ -177,6 +177,7 @@ function ready(error, world, active, dict) {
 }
 
 function draw(topo, activeCountries, coastline) {
+ var completeDataArray = activeCountries;
  var yearData = _.filter(activeCountries, function(val) {
     return val.year === currentYear;
   });
@@ -195,9 +196,69 @@ function draw(topo, activeCountries, coastline) {
   updateYearTotal(yearData);
   updateExecutionsTotal(yearData);
 
+  function getAll(originalArray) {
+    var result = [];
+    for (var i = 0; i < originalArray.length; i++) {
+      result.push(originalArray[i].countries);
+    }
+    return result;
+  }
+
+  function getCountries(originalArray) {
+    result = [];
+    for (var i = 0; i < originalArray.length; i++) {
+    var current = originalArray[i];
+    for (var j=0; j<current.length; ++j){
+        var country = current[j].name;
+        var id = current[j].id;
+        result.push({id: id, name: country});
+      }
+    }
+    return result;
+  }
+
+  function removeDuplicates(originalArray, prop) {
+       var newArray = [];
+       var lookupObject  = {};
+
+       for(var i in originalArray) {
+          lookupObject[originalArray[i][prop]] = originalArray[i];
+       }
+
+       for(i in lookupObject) {
+           newArray.push(lookupObject[i]);
+       }
+        return newArray;
+   }
+
+  function toObject(originalArray) {
+    var result = {};
+    for(var i = 0; i < originalArray.length; i++) {
+      result[originalArray[i].name] = originalArray[i].id;
+    }
+    return result;
+  }
+
+  function showObject(obj) {
+  var result = "";
+    for (var p in obj) {
+      if( obj.hasOwnProperty(p) ) {
+        result += dictionary.getTranslation(p) + ",";
+      }
+    }
+    return result;
+  }
+
+  var allData = getAll(completeDataArray);
+  var allCountries = getCountries(allData);
+  var uniqueCountries = removeDuplicates(allCountries,'name');
+  var countryIdByName = toObject(uniqueCountries);
+  var translatedCountryNameOnly = showObject(countryIdByName);
+
+  console.log(translatedCountryNameOnly);
+
   var searchCountries = document.getElementById('search-box');
-  var searchTemplate = Hogan.compile('<form onsubmit="return false;"><label class="visually-hidden" for="search-box-input">' + dictionary.getTranslation('SEARCH COUNTRY') + '</label><input id="search-box-input" class="awesomplete" data-list="{{#countries}}{{name__localised}},{{/countries}}" placeholder="' + dictionary.getTranslation('SEARCH COUNTRY') + '" /></form>');
-  var searchOutput = searchTemplate.render(yearData[0]);
+  var searchOutput = '<form onsubmit="return false;"><label class="visually-hidden" for="search-box-input">' + dictionary.getTranslation('SEARCH COUNTRY') + '</label><input id="search-box-input" class="awesomplete" data-list="' + translatedCountryNameOnly + '"" placeholder="' + dictionary.getTranslation('SEARCH COUNTRY') + '" /></form>';
   searchCountries.innerHTML = searchOutput;
 
   new Awesomplete(document.querySelector('.awesomplete'));
