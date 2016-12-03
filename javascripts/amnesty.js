@@ -140,7 +140,7 @@ function reset() {
 
 //Loads in the world data, the active countries, and the translation dictionary
 queue()
-    .defer(d3.json, "data/world-topo-1-1.json?cachebust="+(+new Date()))
+    .defer(d3.json, "data/world-topo-1-2.json?cachebust="+(+new Date()))
     .defer(d3.json, "data/data.json?cachebust="+(+new Date()))
     .defer(d3.json, "lang/dictionary.json?cachebust="+(+new Date()))
     .await(ready);
