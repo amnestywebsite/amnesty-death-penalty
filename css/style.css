@@ -855,14 +855,14 @@ small,.milli {
 
 .media__body{
   overflow:hidden;
-  width: 74%;
+  width: 80%;
   padding-top: 0.5rem;
   text-align: right;
 }
 
 [dir="rtl"] .media__body{
   overflow:hidden;
-  width: 74%;
+  width: 80%;
   padding-top: 0.5rem;
   text-align: left;
 }
@@ -928,6 +928,10 @@ small,.milli {
   width: 100%;
   clear: both;
   margin-bottom: 0.5rem;
+}
+
+.dp-image {
+  padding-left: 0.1rem;
 }
 
 @media screen and (min-width: 40em) {
