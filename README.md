@@ -87,3 +87,26 @@ Each year is in a separate sheet. Some things to watch out for:
 4. The object name in the topojson file needs to match the name in our JavaScript file, in this case "countries".
 5. The resulting file is around 500kb. We could go smaller by doing the same process using the lower resolution (1:110m) or higher by using the higher resolution (1:10m).
 
+## Fixes disputed territories process
+ogr2ogr -f GeoJSON -where "name IN ('Golan Heights', 'Western Sahara')" disputed.json ne_50m_admin_0_breakaway_disputed_areas/ne_50m_admin_0_breakaway_disputed_areas.shp
+
+Merge Western Sahara and Morocco together
+iso_a3 - ESH
+iso_a3 - MAR
+Include Western Sahara from disputed territory dataset
+name="Western Sahara"
+Dotted line for border
+
+Merge Somaliland and Somalia together
+iso_a3 - -99 at the moment  - SOL
+iso_a3 - SOM
+Dotted line for border
+
+Merge Kosovo and Serbia together
+iso_a3 - -99 at the moment  - RKS
+iso_a3 - SRB
+Dotted line for border
+
+Include Golan Heights from disputed territory
+name="Golan Heights"
+Dotted line for border
