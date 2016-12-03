@@ -110,7 +110,13 @@
     "since": "",
     "executions": "0",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "BHR",
@@ -238,7 +244,13 @@
     "since": "",
     "executions": "0",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "CPV",
@@ -286,7 +298,13 @@
     "since": "",
     "executions": "0",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "CHL",
@@ -438,7 +456,13 @@
     "since": "",
     "executions": "+",
     "death-penalties": "40+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "SLV",
@@ -478,7 +502,13 @@
     "since": "",
     "executions": "1",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "FJI",
@@ -566,7 +596,13 @@
     "since": 2004,
     "executions": "0",
     "death-penalties": "+",
-    "status": "ABOLITIONIST IN PRACTICE"
+    "status": "ABOLITIONIST IN PRACTICE",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "GTM",
@@ -598,7 +634,13 @@
     "since": "",
     "executions": "0",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "HTI",
@@ -670,7 +712,13 @@
     "since": "",
     "executions": "317+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "IRQ",
@@ -710,7 +758,13 @@
     "since": "",
     "executions": "0",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "JPN",
@@ -822,7 +876,13 @@
     "since": "",
     "executions": "9+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "LIE",
@@ -1070,7 +1130,13 @@
     "since": "",
     "executions": "+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "NOR",
@@ -1220,7 +1286,13 @@
     "since": "",
     "executions": "0",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "LCA",
@@ -1268,7 +1340,13 @@
     "since": "",
     "executions": "143+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "SEN",
@@ -1458,7 +1536,13 @@
     "since": "",
     "executions": "0",
     "death-penalties": "+",
-    "status": "ABOLITIONIST IN PRACTICE"
+    "status": "ABOLITIONIST IN PRACTICE",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "THA",
@@ -1498,7 +1582,13 @@
     "since": "",
     "executions": "0",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "TUN",
@@ -1618,7 +1708,13 @@
     "since": "",
     "executions": "15+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "ZMB",
@@ -2320,7 +2416,13 @@
     "since": "",
     "executions": "346+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "IRQ",
@@ -2392,7 +2494,13 @@
     "since": 2004,
     "executions": "0",
     "death-penalties": "+",
-    "status": "ABOLITIONIST IN PRACTICE"
+    "status": "ABOLITIONIST IN PRACTICE",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "KIR",
@@ -2472,7 +2580,13 @@
     "since": "",
     "executions": "8+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "LIE",
@@ -2512,7 +2626,13 @@
     "since": 1958,
     "executions": "0",
     "death-penalties": "+",
-    "status": "ABOLITIONIST IN PRACTICE"
+    "status": "ABOLITIONIST IN PRACTICE",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "MWI",
@@ -2616,7 +2736,13 @@
     "since": "",
     "executions": "1+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "MNE",
@@ -2728,7 +2854,13 @@
     "since": "",
     "executions": "15+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "NOR",
@@ -2926,7 +3058,13 @@
     "since": "",
     "executions": "102+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "SEN",
@@ -3130,7 +3268,13 @@
     "since": 2008,
     "executions": "0",
     "death-penalties": "+",
-    "status": "ABOLITIONIST IN PRACTICE"
+    "status": "ABOLITIONIST IN PRACTICE",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "THA",
@@ -3602,7 +3746,13 @@
     "since": "",
     "executions": "0",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "CHL",
@@ -3620,7 +3770,7 @@
     "death-penalties": "+",
     "status": "RETENTIONIST",
     "note": {
-      "en": "In 2009 Amnesty International stopped publishing its estimated figures on the use of the death penalty in China, in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. However, Amnesty International’s monitoring indicates that China remains the world’s top executioner.",
+      "en": "In 2009 Amnesty International stopped publishing its estimated figures on the use of the death penalty in China, in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. However, Amnesty International’s monitoring indicates that China remains the world’s top executioner.<br><br>+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
       "es": "Death penalty applicable under US federal law_es",
       "fr": "Death penalty applicable under US federal law_fr",
       "ar": "Death penalty applicable under US federal law_ar"
@@ -3712,7 +3862,13 @@
     "since": "",
     "executions": "0",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "DNK",
@@ -3992,7 +4148,13 @@
     "since": "",
     "executions": "388+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "IRQ",
@@ -4064,7 +4226,13 @@
     "since": 2004,
     "executions": "0",
     "death-penalties": "+",
-    "status": "ABOLITIONIST IN PRACTICE"
+    "status": "ABOLITIONIST IN PRACTICE",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "KIR",
@@ -4144,7 +4312,13 @@
     "since": "",
     "executions": "4+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "LIE",
@@ -4200,7 +4374,13 @@
     "since": "",
     "executions": "+",
     "death-penalties": "68+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "MDV",
@@ -4400,7 +4580,13 @@
     "since": "",
     "executions": "+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "NOR",
@@ -4788,7 +4974,13 @@
     "since": 2008,
     "executions": "0",
     "death-penalties": "+",
-    "status": "ABOLITIONIST IN PRACTICE"
+    "status": "ABOLITIONIST IN PRACTICE",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "THA",
@@ -4796,7 +4988,13 @@
     "since": "",
     "executions": "2",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "TLS",
@@ -4868,7 +5066,13 @@
     "since": "",
     "executions": "0",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "GBR",
@@ -5188,7 +5392,13 @@
     "since": "",
     "executions": "0",
     "death-penalties": "+",
-    "status": "ABOLITIONIST IN PRACTICE"
+    "status": "ABOLITIONIST IN PRACTICE",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "BGR",
@@ -5228,7 +5438,13 @@
     "since": "",
     "executions": "0",
     "death-penalties": "+",
-    "status": "ABOLITIONIST IN PRACTICE"
+    "status": "ABOLITIONIST IN PRACTICE",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "CAN",
@@ -5278,7 +5494,7 @@
     "death-penalties": "+",
     "status": "RETENTIONIST",
     "note": {
-      "en": "In 2009 Amnesty International stopped publishing its estimated figures on the use of the death penalty in China, in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. However, Amnesty International’s monitoring indicates that China remains the world’s top executioner.",
+      "en": "In 2009 Amnesty International stopped publishing its estimated figures on the use of the death penalty in China, in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. However, Amnesty International’s monitoring indicates that China remains the world’s top executioner.<br><br>+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
       "es": "Death penalty applicable under US federal law_es",
       "fr": "Death penalty applicable under US federal law_fr",
       "ar": "Death penalty applicable under US federal law_ar"
@@ -5370,7 +5586,13 @@
     "since": "",
     "executions": "0",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "DNK",
@@ -5650,7 +5872,13 @@
     "since": "",
     "executions": "252+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "IRQ",
@@ -5802,7 +6030,13 @@
     "since": "",
     "executions": "18+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "LIE",
@@ -6058,7 +6292,13 @@
     "since": "",
     "executions": "60+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "NOR",
@@ -6302,7 +6542,13 @@
     "since": "",
     "executions": "+",
     "death-penalties": "8+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "SVK",
@@ -6380,7 +6626,13 @@
     "since": "",
     "executions": "0",
     "death-penalties": "+",
-    "status": "ABOLITIONIST IN PRACTICE"
+    "status": "ABOLITIONIST IN PRACTICE",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "SDN",
@@ -6492,7 +6744,13 @@
     "since": "",
     "executions": "0",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "TUN",
@@ -6604,7 +6862,13 @@
     "since": "",
     "executions": "+",
     "death-penalties": "34+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "YEM",
@@ -6646,7 +6910,13 @@
     "since": "",
     "executions": "2",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "ALB",
@@ -6878,7 +7148,13 @@
     "since": 1997,
     "executions": "0",
     "death-penalties": "+",
-    "status": "ABOLITIONIST IN PRACTICE"
+    "status": "ABOLITIONIST IN PRACTICE",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "CAN",
@@ -6910,7 +7186,13 @@
     "since": "",
     "executions": "0",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "CHL",
@@ -6928,7 +7210,7 @@
     "death-penalties": "+",
     "status": "RETENTIONIST",
     "note": {
-      "en": "In 2009 Amnesty International stopped publishing its estimated figures on the use of the death penalty in China, in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. However, Amnesty International’s monitoring indicates that China remains the world’s top executioner.",
+      "en": "In 2009 Amnesty International stopped publishing its estimated figures on the use of the death penalty in China, in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. However, Amnesty International’s monitoring indicates that China remains the world’s top executioner.<br><br>+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
       "es": "Death penalty applicable under US federal law_es",
       "fr": "Death penalty applicable under US federal law_fr",
       "ar": "Death penalty applicable under US federal law_ar"
@@ -7020,7 +7302,13 @@
     "since": "",
     "executions": "0",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "DNK",
@@ -7492,7 +7780,13 @@
     "since": 1958,
     "executions": "0",
     "death-penalties": "+",
-    "status": "ABOLITIONIST IN PRACTICE"
+    "status": "ABOLITIONIST IN PRACTICE",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "MWI",
@@ -7508,7 +7802,13 @@
     "since": "",
     "executions": "+",
     "death-penalties": "108+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "MDV",
@@ -7596,7 +7896,13 @@
     "since": "",
     "executions": "0",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "MNE",
@@ -7708,7 +8014,13 @@
     "since": "",
     "executions": "30+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "NOR",
@@ -8086,7 +8398,13 @@
     "since": "",
     "executions": "+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "TWN",
@@ -8110,7 +8428,13 @@
     "since": 2008,
     "executions": "0",
     "death-penalties": "+",
-    "status": "ABOLITIONIST IN PRACTICE"
+    "status": "ABOLITIONIST IN PRACTICE",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "THA",
@@ -8304,7 +8628,13 @@
     "since": "",
     "executions": 14,
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "ALB",
@@ -8586,7 +8916,7 @@
     "death-penalties": "+",
     "status": "RETENTIONIST",
     "note": {
-      "en": "In 2009 Amnesty International stopped publishing its estimated figures on the use of the death penalty in China, in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. However, Amnesty International’s monitoring indicates that China remains the world’s top executioner.",
+      "en": "In 2009 Amnesty International stopped publishing its estimated figures on the use of the death penalty in China, in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. However, Amnesty International’s monitoring indicates that China remains the world’s top executioner.<br><br>+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
       "es": "Death penalty applicable under US federal law_es",
       "fr": "Death penalty applicable under US federal law_fr",
       "ar": "Death penalty applicable under US federal law_ar"
@@ -9070,7 +9400,13 @@
     "since": 1989,
     "executions": "0",
     "death-penalties": "+",
-    "status": "ABOLITIONIST IN PRACTICE"
+    "status": "ABOLITIONIST IN PRACTICE",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "LVA",
@@ -9254,7 +9590,13 @@
     "since": 2012,
     "executions": "0",
     "death-penalties": "+",
-    "status": "ABOLITIONIST IN PRACTICE"
+    "status": "ABOLITIONIST IN PRACTICE",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "MNE",
@@ -9366,7 +9708,13 @@
     "since": "",
     "executions": "6+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "NOR",
@@ -9680,7 +10028,13 @@
     "since": "",
     "executions": "5+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "ESP",
@@ -11024,7 +11378,13 @@
     "since": "",
     "executions": "+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "NOR",
@@ -11902,7 +12262,7 @@
     "death-penalties": "1,000+",
     "status": "RETENTIONIST",
     "note": {
-      "en": "In 2009 Amnesty International stopped publishing its estimated figures on the use of the death penalty in China, in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. However, Amnesty International’s monitoring indicates that China remains the world’s top executioner.",
+      "en": "In 2009 Amnesty International stopped publishing its estimated figures on the use of the death penalty in China, in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. However, Amnesty International’s monitoring indicates that China remains the world’s top executioner.<br><br>+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
       "es": "Death penalty applicable under US federal law_es",
       "fr": "Death penalty applicable under US federal law_fr",
       "ar": "Death penalty applicable under US federal law_ar"
@@ -12682,7 +13042,13 @@
     "since": "",
     "executions": "+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "NOR",
@@ -12996,7 +13362,13 @@
     "since": "",
     "executions": "0",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "ESP",
@@ -13932,7 +14304,13 @@
     "since": "",
     "executions": "977+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "IRQ",
@@ -14140,7 +14518,13 @@
     "since": "",
     "executions": "+",
     "death-penalties": "39+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "MDV",
@@ -14348,7 +14732,13 @@
     "since": "",
     "executions": "+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "NOR",
@@ -14902,7 +15292,13 @@
     "since": "",
     "executions": "+",
     "death-penalties": "47+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "YEM",
@@ -14910,7 +15306,13 @@
     "since": "",
     "executions": "8+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
+    "note": {
+      "en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+      "es": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._es",
+      "fr": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._fr",
+      "ar": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure._ar"
+    }
   },
   {
     "id": "ZMB",
