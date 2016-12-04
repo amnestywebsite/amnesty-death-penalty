@@ -575,12 +575,6 @@
     "fr": "Rwanda_fr",
     "ar": "Rwanda_ar"
   },
-  "SOMALILAND": {
-    "en": "Somaliland",
-    "es": "Somaliland_es",
-    "fr": "Somaliland_fr",
-    "ar": "Somaliland_ar"
-  },
   "SAN MARINO": {
     "en": "San Marino",
     "es": "San Marino_es",
@@ -604,12 +598,6 @@
     "es": "Serbia _es",
     "fr": "Serbia _fr",
     "ar": "Serbia _ar"
-  },
-  "KOSOVO / SERBIA": {
-    "en": "Kosovo / Serbia",
-    "es": "Kosovo / Serbia_es",
-    "fr": "Kosovo / Serbia_fr",
-    "ar": "Kosovo / Serbia_ar"
   },
   "SEYCHELLES": {
     "en": "Seychelles",
@@ -636,7 +624,7 @@
     "ar": "Solomon Islands_ar"
   },
   "SOMALIA": {
-    "en": "Somalia",
+    "en": "Somalia (including Somaliland)",
     "es": "Somalia_es",
     "fr": "Somalia_fr",
     "ar": "Somalia_ar"
@@ -822,16 +810,10 @@
     "ar": "Eritrea_ar"
   },
   "MOROCCO / WESTERN SAHARA": {
-    "en": "Morocco / Western Sahara",
+    "en": "Morocco (including Western Sahara)",
     "es": "Morocco / Western Sahara_es",
     "fr": "Morocco / Western Sahara_fr",
     "ar": "Morocco / Western Sahara_ar"
-  },
-  "MOROCCO": {
-    "en": "Morocco",
-    "es": "Morocco_es",
-    "fr": "Morocco_fr",
-    "ar": "Morocco_ar"
   },
   "GHANA": {
     "en": "Ghana",

@@ -807,14 +807,6 @@
     "status": "ABOLITIONIST"
   },
   {
-    "id": "RKS",
-    "name": "KOSOVO / SERBIA",
-    "since": 2002,
-    "executions": "",
-    "death-penalties": "",
-    "status": "ABOLITIONIST"
-  },
-  {
     "id": "KWT",
     "name": "KUWAIT",
     "since": "",
@@ -973,9 +965,9 @@
     "status": "ABOLITIONIST"
   },
   {
-    "id": "ESH",
+    "id": "MAR",
     "name": "MOROCCO / WESTERN SAHARA",
-    "since": 1993,
+    "since": "",
     "executions": "0",
     "death-penalties": "1",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -1425,14 +1417,6 @@
       "fr": "",
       "ar": ""
     }
-  },
-  {
-    "id": "SOL",
-    "name": "SOMALILAND",
-    "since": "",
-    "executions": "0",
-    "death-penalties": "0",
-    "status": "RETENTIONIST"
   },
   {
     "id": "ZAF",
@@ -2511,14 +2495,6 @@
     "status": "ABOLITIONIST"
   },
   {
-    "id": "RKS",
-    "name": "KOSOVO / SERBIA",
-    "since": 2002,
-    "executions": "",
-    "death-penalties": "",
-    "status": "ABOLITIONIST"
-  },
-  {
     "id": "KWT",
     "name": "KUWAIT",
     "since": "",
@@ -2753,9 +2729,9 @@
     "status": "ABOLITIONIST"
   },
   {
-    "id": "ESH",
+    "id": "MAR",
     "name": "MOROCCO / WESTERN SAHARA",
-    "since": 1993,
+    "since": "",
     "executions": "0",
     "death-penalties": "4+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -3143,14 +3119,6 @@
       "fr": "",
       "ar": ""
     }
-  },
-  {
-    "id": "SOL",
-    "name": "SOMALILAND",
-    "since": "",
-    "executions": "0",
-    "death-penalties": "0",
-    "status": "RETENTIONIST"
   },
   {
     "id": "ZAF",
@@ -4243,14 +4211,6 @@
     "status": "ABOLITIONIST"
   },
   {
-    "id": "RKS",
-    "name": "KOSOVO / SERBIA",
-    "since": 2002,
-    "executions": "",
-    "death-penalties": "",
-    "status": "ABOLITIONIST"
-  },
-  {
     "id": "KWT",
     "name": "KUWAIT",
     "since": "",
@@ -4479,9 +4439,9 @@
     "status": "ABOLITIONIST"
   },
   {
-    "id": "ESH",
+    "id": "MAR",
     "name": "MOROCCO / WESTERN SAHARA",
-    "since": 1993,
+    "since": "",
     "executions": "0",
     "death-penalties": "13",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -4863,14 +4823,6 @@
       "fr": "Death penalty applicable under US federal law_fr",
       "ar": "Death penalty applicable under US federal law_ar"
     }
-  },
-  {
-    "id": "SOL",
-    "name": "SOMALILAND",
-    "since": "",
-    "executions": "0",
-    "death-penalties": "0",
-    "status": "RETENTIONIST"
   },
   {
     "id": "ZAF",
@@ -5961,14 +5913,6 @@
     "status": "ABOLITIONIST"
   },
   {
-    "id": "RKS",
-    "name": "KOSOVO / SERBIA",
-    "since": 2002,
-    "executions": "",
-    "death-penalties": "",
-    "status": "ABOLITIONIST"
-  },
-  {
     "id": "KWT",
     "name": "KUWAIT",
     "since": "",
@@ -6191,7 +6135,7 @@
     "status": "ABOLITIONIST"
   },
   {
-    "id": "ESH",
+    "id": "MAR",
     "name": "MOROCCO / WESTERN SAHARA",
     "since": "",
     "executions": "0",
@@ -6587,14 +6531,6 @@
       "fr": "Note_fr",
       "ar": "Note_ar"
     }
-  },
-  {
-    "id": "SOL",
-    "name": "SOMALILAND",
-    "since": "",
-    "executions": "0",
-    "death-penalties": "2",
-    "status": "RETENTIONIST"
   },
   {
     "id": "ZAF",
@@ -7671,14 +7607,6 @@
     "status": "ABOLITIONIST"
   },
   {
-    "id": "RKS",
-    "name": "KOSOVO / SERBIA",
-    "since": 2002,
-    "executions": "",
-    "death-penalties": "",
-    "status": "ABOLITIONIST"
-  },
-  {
     "id": "KWT",
     "name": "KUWAIT",
     "since": "",
@@ -7913,9 +7841,9 @@
     "status": "ABOLITIONIST"
   },
   {
-    "id": "ESH",
+    "id": "MAR",
     "name": "MOROCCO / WESTERN SAHARA",
-    "since": 1993,
+    "since": "",
     "executions": "0",
     "death-penalties": "5",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -8303,14 +8231,6 @@
       "fr": "Death penalty applicable under US federal law_fr",
       "ar": "Death penalty applicable under US federal law_ar"
     }
-  },
-  {
-    "id": "SOL",
-    "name": "SOMALILAND",
-    "since": "",
-    "executions": "0",
-    "death-penalties": "0",
-    "status": "RETENTIONIST"
   },
   {
     "id": "ZAF",
@@ -9371,14 +9291,6 @@
     "status": "ABOLITIONIST"
   },
   {
-    "id": "RKS",
-    "name": "KOSOVO / SERBIA",
-    "since": 2002,
-    "executions": "",
-    "death-penalties": "",
-    "status": "ABOLITIONIST"
-  },
-  {
     "id": "KWT",
     "name": "KUWAIT",
     "since": "",
@@ -9607,9 +9519,9 @@
     "status": "ABOLITIONIST"
   },
   {
-    "id": "ESH",
+    "id": "MAR",
     "name": "MOROCCO / WESTERN SAHARA",
-    "since": 1993,
+    "since": "",
     "executions": "0",
     "death-penalties": "7+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -9997,14 +9909,6 @@
       "fr": "Death penalty applicable under US federal law_fr",
       "ar": "Death penalty applicable under US federal law_ar"
     }
-  },
-  {
-    "id": "SOL",
-    "name": "SOMALILAND",
-    "since": "",
-    "executions": "0",
-    "death-penalties": 18,
-    "status": "RETENTIONIST"
   },
   {
     "id": "ZAF",
@@ -11053,14 +10957,6 @@
     "status": "ABOLITIONIST"
   },
   {
-    "id": "RKS",
-    "name": "KOSOVO / SERBIA",
-    "since": 2002,
-    "executions": "",
-    "death-penalties": "",
-    "status": "ABOLITIONIST"
-  },
-  {
     "id": "KWT",
     "name": "KUWAIT",
     "since": "",
@@ -11277,9 +11173,9 @@
     "status": "ABOLITIONIST"
   },
   {
-    "id": "ESH",
+    "id": "MAR",
     "name": "MOROCCO / WESTERN SAHARA",
-    "since": 1993,
+    "since": "",
     "executions": "0",
     "death-penalties": "10",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11666,15 +11562,8 @@
       "es": "Death penalty applicable under US federal law_es",
       "fr": "Death penalty applicable under US federal law_fr",
       "ar": "Death penalty applicable under US federal law_ar"
+
     }
-  },
-  {
-    "id": "SOL",
-    "name": "SOMALILAND",
-    "since": "",
-    "executions": "0",
-    "death-penalties": "28+",
-    "status": "RETENTIONIST"
   },
   {
     "id": "ZAF",
@@ -12717,14 +12606,6 @@
     "status": "ABOLITIONIST"
   },
   {
-    "id": "RKS",
-    "name": "KOSOVO / SERBIA",
-    "since": 2002,
-    "executions": "",
-    "death-penalties": "",
-    "status": "ABOLITIONIST"
-  },
-  {
     "id": "KWT",
     "name": "KUWAIT",
     "since": "",
@@ -12941,9 +12822,9 @@
     "status": "ABOLITIONIST"
   },
   {
-    "id": "ESH",
+    "id": "MAR",
     "name": "MOROCCO / WESTERN SAHARA",
-    "since": 1993,
+    "since": "",
     "executions": "0",
     "death-penalties": 9,
     "status": "ABOLITIONIST IN PRACTICE"
@@ -13331,14 +13212,6 @@
       "fr": "Death penalty applicable under US federal law_fr",
       "ar": "Death penalty applicable under US federal law_ar"
     }
-  },
-  {
-    "id": "SOL",
-    "name": "SOMALILAND",
-    "since": "",
-    "executions": "0",
-    "death-penalties": "10+",
-    "status": "RETENTIONIST"
   },
   {
     "id": "ZAF",
@@ -14393,14 +14266,6 @@
     "status": "ABOLITIONIST"
   },
   {
-    "id": "RKS",
-    "name": "KOSOVO / SERBIA",
-    "since": 2002,
-    "executions": "",
-    "death-penalties": "",
-    "status": "ABOLITIONIST"
-  },
-  {
     "id": "KWT",
     "name": "KUWAIT",
     "since": "",
@@ -14623,16 +14488,8 @@
     "status": "ABOLITIONIST"
   },
   {
-    "id": "ESH",
-    "name": "MOROCCO / WESTERN SAHARA",
-    "since": "",
-    "executions": "0",
-    "death-penalties": "9",
-    "status": "ABOLITIONIST IN PRACTICE"
-  },
-  {
     "id": "MAR",
-    "name": "MOROCCO",
+    "name": "MOROCCO / WESTERN SAHARA",
     "since": "",
     "executions": "0",
     "death-penalties": "9",
@@ -15021,14 +14878,6 @@
       "fr": "Death penalty applicable under US federal law_fr",
       "ar": "Death penalty applicable under US federal law_ar"
     }
-  },
-  {
-    "id": "SOL",
-    "name": "SOMALILAND",
-    "since": "",
-    "executions": "6+",
-    "death-penalties": "1+",
-    "status": "RETENTIONIST"
   },
   {
     "id": "ZAF",

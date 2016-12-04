@@ -88,16 +88,18 @@ Each year is in a separate sheet. Some things to watch out for:
 5. The resulting file is around 500kb. We could go smaller by doing the same process using the lower resolution (1:110m) or higher by using the higher resolution (1:10m).
 
 ## Fixes disputed territories process
+### Get the two shapefiles into a separate geojson file
 ogr2ogr -f GeoJSON -where "name IN ('Golan Heights', 'Western Sahara')" disputed.json ne_50m_admin_0_breakaway_disputed_areas/ne_50m_admin_0_breakaway_disputed_areas.shp
 
-Merge Western Sahara and Morocco together
+### Get the two shapefiles into a separate geojson file
+Merge Western Sahara and Morocco together in single polygon
 iso_a3 - ESH
 iso_a3 - MAR
 Include Western Sahara from disputed territory dataset
 name="Western Sahara"
 Dotted line for border
 
-Merge Somaliland and Somalia together
+Merge Somaliland and Somalia together into single polygon
 iso_a3 - -99 at the moment  - SOL
 iso_a3 - SOM
 Dotted line for border
