@@ -149,6 +149,8 @@ function ready(error, world, active, dict) {
   dictionary = new Dictionary(dict);
   translateHTML();
 
+  console.log (world);
+
   var countries = topojson.feature(world, world.objects.countries).features;
   topo = countries;
 
