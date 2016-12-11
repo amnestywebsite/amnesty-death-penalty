@@ -167,8 +167,14 @@ function ready(error, world, active, dict) {
   }
 
   activeCountries = active;
-  coastline = topojson.mesh(world, world.objects.countries, function(a, b) {return a === b});
-  draw(topo, activeCountries, coastline);
+  coastline = topojson.mesh(world, world.objects.countries, function(a, b) {return a === b;});
+  saharaBorder = topojson.mesh(world, world.objects.countries, function(a, b) {return a === b && a.name === "Western Sahara";});
+
+  console.log (saharaBorder);
+
+
+
+  draw(topo, activeCountries, coastline, saharaBorder);
 
   setupBarChart(activeCountries);
   setUpSliderPlayPauseButton();
@@ -178,7 +184,7 @@ function ready(error, world, active, dict) {
   pymChild.sendHeight();
 }
 
-function draw(topo, activeCountries, coastline) {
+function draw(topo, activeCountries, coastline, saharaBorder) {
  var completeDataArray = activeCountries;
  var yearData = _.filter(activeCountries, function(val) {
     return val.year === currentYear;
@@ -297,6 +303,11 @@ function draw(topo, activeCountries, coastline) {
    g.insert("path", ".graticule")
       .datum(coastline)
       .attr("class","coastline")
+      .attr("d", path);
+
+    g.insert("path")
+      .datum(saharaBorder)
+      .attr("class","subunit-boundary")
       .attr("d", path);
 
   activeCountry.enter().append("path")
