@@ -169,12 +169,13 @@ function ready(error, world, active, dict) {
   activeCountries = active;
   coastline = topojson.mesh(world, world.objects.countries, function(a, b) {return a === b;});
   somalilandBorder = topojson.mesh(world, world.objects.countries, function(a, b) {return a === b && a.id === "SOL";});
+  kosovoBorder = topojson.mesh(world, world.objects.countries, function(a, b) {return a === b && a.id === "RKS";});
 
 
-  console.log (somalilandBorder);
+  console.log (kosovoBorder);
  // console.log (world.objects.countries.geometries[239].properties.name);
 
-  draw(topo, activeCountries, coastline, somalilandBorder);
+  draw(topo, activeCountries, coastline, somalilandBorder, kosovoBorder);
 
   setupBarChart(activeCountries);
   setUpSliderPlayPauseButton();
@@ -184,7 +185,7 @@ function ready(error, world, active, dict) {
   pymChild.sendHeight();
 }
 
-function draw(topo, activeCountries, coastline, somalilandBorder) {
+function draw(topo, activeCountries, coastline, somalilandBorder, kosovoBorder) {
  var completeDataArray = activeCountries;
  var yearData = _.filter(activeCountries, function(val) {
     return val.year === currentYear;
@@ -314,10 +315,15 @@ function draw(topo, activeCountries, coastline, somalilandBorder) {
       .attr("id", function(d) { return d.id; })
       .attr("d", path);
 
-    console.log ("passed" + JSON.stringify(somalilandBorder));
     g.insert("path")
       .datum(somalilandBorder)
       .attr("class","somaliland-boundary")
+      .attr("d", path);
+
+    console.log ("passed" + JSON.stringify(kosovoBorder));
+    g.insert("path")
+      .datum(kosovoBorder)
+      .attr("class","kosovo-boundary")
       .attr("d", path);
 
   if (dir === "rtl") {
