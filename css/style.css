@@ -769,7 +769,7 @@ small,.milli {
   stroke: #000;
   stroke-linejoin: round;
   stroke-linecap: round;
-  stroke-width: 0.5px;
+  stroke-width: 0.02px;
 }
 
 .retentionist:hover, .abolitionisipractice:hover, .abolitionisfoordinarcrimes:hover, .abolitionist:hover {
@@ -779,7 +779,7 @@ small,.milli {
   stroke: #000;
   stroke-linejoin: round;
   stroke-linecap: round;
-  stroke-width: 0.5px;
+  stroke-width: 0.2px;
 }
 
 .hidden {
@@ -1262,10 +1262,11 @@ small,.milli {
   }
 }
 
-.somaliland-boundary {
+.somaliland-boundary, .kosovo-boundary {
   fill: none;
-  stroke: #ff69b4;
-  stroke-dasharray: 2,2;
+  stroke: #fff;
+  stroke-dasharray: 1,1;
   stroke-linejoin: round;
+  stroke-width: 0.2px;
 }
 
