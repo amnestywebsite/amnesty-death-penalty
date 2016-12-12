@@ -170,11 +170,13 @@ function ready(error, world, active, dict) {
   coastline = topojson.mesh(world, world.objects.countries, function(a, b) {return a === b;});
   somalilandBorder = topojson.mesh(world, world.objects.countries, function(a, b) {return a === b && a.id === "SOL";});
 
+  westernSaharaBorder = topojson.mesh(world, world.objects.countries, function(a, b) {return a !== b && b.properties.name === "Western Sahara";});
 
-  console.log (somalilandBorder);
- // console.log (world.objects.countries.geometries[239].properties.name);
+  golanHeightsBorder = topojson.mesh(world, world.objects.countries, function(a, b) {return a !== b && b.properties.name === "Golan Heights";});
 
-  draw(topo, activeCountries, coastline, somalilandBorder);
+  kosovoBorder = topojson.mesh(world, world.objects.countries, function(a, b) {return a == b && a.properties.name === "Kosovo";});
+
+  draw(topo, activeCountries, coastline, somalilandBorder, westernSaharaBorder, golanHeightsBorder, kosovoBorder);
 
   setupBarChart(activeCountries);
   setUpSliderPlayPauseButton();
@@ -184,7 +186,7 @@ function ready(error, world, active, dict) {
   pymChild.sendHeight();
 }
 
-function draw(topo, activeCountries, coastline, somalilandBorder) {
+function draw(topo, activeCountries, coastline, somalilandBorder, westernSaharaBorder, golanHeightsBorder, kosovoBorder) {
  var completeDataArray = activeCountries;
  var yearData = _.filter(activeCountries, function(val) {
     return val.year === currentYear;
@@ -249,7 +251,7 @@ function draw(topo, activeCountries, coastline, somalilandBorder) {
   }
 
   function showObject(obj) {
-  var result = "";
+    var result = "";
     for (var p in obj) {
       if( obj.hasOwnProperty(p) ) {
         result += p + ",";
@@ -319,6 +321,26 @@ function draw(topo, activeCountries, coastline, somalilandBorder) {
       .datum(somalilandBorder)
       .attr("class","somaliland-boundary")
       .attr("d", path);
+
+    console.log ("passed" + JSON.stringify(westernSaharaBorder));
+    g.insert("path")
+      .datum(westernSaharaBorder)
+      .attr("class","somaliland-boundary")
+      .attr("d", path);
+
+    console.log ("passed" + JSON.stringify(golanHeightsBorder));
+    g.insert("path")
+      .datum(golanHeightsBorder)
+      .attr("class","somaliland-boundary")
+      .attr("d", path);
+
+    console.log ("passed" + JSON.stringify(kosovoBorder));
+    g.insert("path")
+      .datum(kosovoBorder)
+      .attr("class","somaliland-boundary")
+      .attr("d", path);
+
+
 
   if (dir === "rtl") {
     tooltipOffset = -20;
