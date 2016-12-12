@@ -168,11 +168,9 @@ function ready(error, world, active, dict) {
 
   activeCountries = active;
   coastline = topojson.mesh(world, world.objects.countries, function(a, b) {return a === b;});
-  saharaBorder = topojson.mesh(world, world.objects.countries, function(a, b) {return a === b && a.name === "Western Sahara";});
+  saharaBorder = topojson.mesh(world, world.objects.countries, function(a, b) {return a.properties.name === "Western Sahara";});
 
   console.log (saharaBorder);
-
-
 
   draw(topo, activeCountries, coastline, saharaBorder);
 
@@ -305,6 +303,7 @@ function draw(topo, activeCountries, coastline, saharaBorder) {
       .attr("class","coastline")
       .attr("d", path);
 
+    console.log ("passed" + JSON.stringify(saharaBorder));
     g.insert("path")
       .datum(saharaBorder)
       .attr("class","subunit-boundary")
