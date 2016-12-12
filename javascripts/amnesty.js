@@ -305,12 +305,6 @@ function draw(topo, activeCountries, coastline, somalilandBorder) {
       .attr("class","coastline")
       .attr("d", path);
 
-    console.log ("passed" + JSON.stringify(somalilandBorder));
-    g.insert("path")
-      .datum(somalilandBorder)
-      .attr("class","somaliland-boundary")
-      .attr("d", path);
-
   activeCountry.enter().append("path")
       .attr("class", function(d,i) {
         var className = getPathClassFromCountry(d);
@@ -318,6 +312,12 @@ function draw(topo, activeCountries, coastline, somalilandBorder) {
         return className;
       })
       .attr("id", function(d) { return d.id; })
+      .attr("d", path);
+
+    console.log ("passed" + JSON.stringify(somalilandBorder));
+    g.insert("path")
+      .datum(somalilandBorder)
+      .attr("class","somaliland-boundary")
       .attr("d", path);
 
   if (dir === "rtl") {
