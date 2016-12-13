@@ -329,9 +329,17 @@ function draw(topo, activeCountries, coastline, somalilandBorder, kosovoBorder, 
 
     g.insert("path")
       .datum(somalilandBorder)
+      .attr("class","disputed-boundary-background")
+      .attr("d", path);
+    g.insert("path")
+      .datum(somalilandBorder)
       .attr("class","disputed-boundary")
       .attr("d", path);
 
+    g.insert("path")
+      .datum(westernSaharaBorder)
+      .attr("class","disputed-boundary-background")
+      .attr("d", path);
     g.insert("path")
       .datum(westernSaharaBorder)
       .attr("class","disputed-boundary")
@@ -339,9 +347,17 @@ function draw(topo, activeCountries, coastline, somalilandBorder, kosovoBorder, 
 
     g.insert("path")
       .datum(golanHeightsBorder)
+      .attr("class","disputed-boundary-background")
+      .attr("d", path);
+    g.insert("path")
+      .datum(golanHeightsBorder)
       .attr("class","disputed-boundary")
       .attr("d", path);
 
+    g.insert("path")
+      .datum(kosovoBorder)
+      .attr("class","disputed-boundary-background")
+      .attr("d", path);
     g.insert("path")
       .datum(kosovoBorder)
       .attr("class","disputed-boundary")
