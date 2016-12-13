@@ -764,12 +764,12 @@ small,.milli {
   stroke-width: 0.1px;
 }
 
-.active {
+.active, .solid-border {
   fill: #f7f7f7;
   stroke: #000;
   stroke-linejoin: round;
   stroke-linecap: round;
-  stroke-width: 0.02px;
+  stroke-width: 0.2px;
 }
 
 .retentionist:hover, .abolitionisipractice:hover, .abolitionisfoordinarcrimes:hover, .abolitionist:hover {
@@ -1262,7 +1262,7 @@ small,.milli {
   }
 }
 
-.somaliland-boundary, .kosovo-boundary {
+.disputed-boundary {
   fill: none;
   stroke: #fff;
   stroke-dasharray: 1,1;

@@ -42,6 +42,7 @@ var dictionary;
 var detailTemplate;
 var detailBoxOpen = false;
 var selectedCountryId;
+var somalilandBorder, kosovoBorder, westernSaharaBorder, golanHeightsBorder;
 
 function Dictionary(dictionaryJson) {
   this.dictionary = dictionaryJson;
@@ -149,8 +150,6 @@ function ready(error, world, active, dict) {
   dictionary = new Dictionary(dict);
   translateHTML();
 
-  console.log (world);
-
   var countries = topojson.feature(world, world.objects.countries).features;
   topo = countries;
 
@@ -168,15 +167,25 @@ function ready(error, world, active, dict) {
 
   activeCountries = active;
   coastline = topojson.mesh(world, world.objects.countries, function(a, b) {return a === b;});
+
+  //bit of custom stuff to show borders of disputed territories
   somalilandBorder = topojson.mesh(world, world.objects.countries, function(a, b) {return a === b && a.id === "SOL";});
   kosovoBorder = topojson.mesh(world, world.objects.countries, function(a, b) {return a === b && a.id === "RKS";});
-
   westernSaharaBorder = topojson.mesh(world, world.objects.countries, function(a, b) {return a !== b && b.properties.name === "Western Sahara";});
+  golanHeightsBorder = topojson.mesh(world, world.objects.countries, function(a, b) {return a === b && b.properties.name === "Golan Heights";});
 
-  golanHeightsBorder = topojson.mesh(world, world.objects.countries, function(a, b) {return a !== b && b.properties.name === "Golan Heights";});
-
-  console.log (kosovoBorder);
- // console.log (world.objects.countries.geometries[239].properties.name);
+  westernSaharaBorder = {"type": "LineString",
+        "coordinates": [
+          [
+            -13.18359375,
+            27.664068965384516
+          ],
+          [
+            -8.701171874999998,
+            27.664068965384516
+          ]
+        ]
+      };
 
   draw(topo, activeCountries, coastline, somalilandBorder, kosovoBorder, westernSaharaBorder, golanHeightsBorder);
 
@@ -320,25 +329,22 @@ function draw(topo, activeCountries, coastline, somalilandBorder, kosovoBorder, 
 
     g.insert("path")
       .datum(somalilandBorder)
-      .attr("class","somaliland-boundary")
+      .attr("class","disputed-boundary")
       .attr("d", path);
 
-    console.log ("passed" + JSON.stringify(westernSaharaBorder));
     g.insert("path")
       .datum(westernSaharaBorder)
-      .attr("class","somaliland-boundary")
+      .attr("class","disputed-boundary")
       .attr("d", path);
 
-    console.log ("passed" + JSON.stringify(golanHeightsBorder));
     g.insert("path")
       .datum(golanHeightsBorder)
-      .attr("class","somaliland-boundary")
+      .attr("class","disputed-boundary")
       .attr("d", path);
 
-    console.log ("passed" + JSON.stringify(kosovoBorder));
     g.insert("path")
       .datum(kosovoBorder)
-      .attr("class","kosovo-boundary")
+      .attr("class","disputed-boundary")
       .attr("d", path);
 
   if (dir === "rtl") {
@@ -849,7 +855,7 @@ function redraw() {
   mapScale = (width-20)*mapWidthScaleFactor;
   center = [width / 2, height * 0.567];
   setup(width,height);
-  draw(topo, activeCountries, coastline);
+  draw(topo, activeCountries, coastline, somalilandBorder, kosovoBorder, westernSaharaBorder, golanHeightsBorder);
 
   d3.select("#bar-chart > svg").remove();
   setupBarChart(activeCountries);
