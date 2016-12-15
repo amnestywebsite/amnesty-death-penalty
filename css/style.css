@@ -249,6 +249,32 @@ body {
   background-color: #fff;
 }
 
+#loading {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 2000;
+  width: auto;
+  height: auto;
+  background: #e5e5e5;
+  opacity: 1;
+  transition: opacity .2s ease-out;
+}
+
+#loading p {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  margin-top: -.5em;
+  font-weight: bold;
+  line-height: 1em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
 h1, h2, h3, h4, h5, h6  {
   font-family: "AmnestyTradeGothicW04BdCnNo-20", HelveticaNeue-CondensedBold, "Franklin Gothic Medium", sans-serif;
 }
