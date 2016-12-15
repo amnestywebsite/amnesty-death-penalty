@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <style>
+    body {
+      margin: 0;
+      border: 0;
+      padding: 1em;
+      font-family: sans-serif;
+    }
+
+    h1 {
+      margin: 0 0 .5em;
+      font-size: 2em;
+      line-height: 1;
+      text-transform: uppercase;
+    }
+
+    p {
+      margin: 0 0 1em;
+      line-height: 1;
+    }
+
+    .map-wrapper {
+      margin: 0 0 1em;
+      padding: 1em;
+      background: #222;
+      color: #fff;
+    }
+
+    .map-wrapper h2 {
+      margin: 0 0 1em;
+      font-size: 100%;
+      line-height: 1;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+  </style>
+
+  <title>Embedding the map using Pym at different widths</title>  
+</head>
+
+<body>
+  <h1>Embedding the map using Pym at different widths</h1>
+
+  <p>Note: this page may take some time to load.</p>
+
+  <div class="map-wrapper" style="width:320px;">
+    <h2>320 pixels wide</h2>
+
+    <div id="map-embed-320"></div>
+  </div>
+
+  <div class="map-wrapper" style="width:375px;">
+    <h2>375 pixels wide</h2>
+
+    <div id="map-embed-375"></div>
+  </div>
+
+  <div class="map-wrapper" style="width:414px;">
+    <h2>414 pixels wide</h2>
+
+    <div id="map-embed-414"></div>
+  </div>
+
+  <div class="map-wrapper" style="width:568px;">
+    <h2>568 pixels wide</h2>
+
+    <div id="map-embed-568"></div>
+  </div>
+
+  <div class="map-wrapper" style="width:667px;">
+    <h2>667 pixels wide</h2>
+
+    <div id="map-embed-667"></div>
+  </div>
+
+  <div class="map-wrapper" style="width:736px;">
+    <h2>736 pixels wide</h2>
+
+    <div id="map-embed-736"></div>
+  </div>
+
+  <div class="map-wrapper" style="width:768px;">
+    <h2>768 pixels wide</h2>
+
+    <div id="map-embed-768"></div>
+  </div>
+
+  <div class="map-wrapper" style="width:1024px;">
+    <h2>1024 pixels wide</h2>
+
+    <div id="map-embed-1024"></div>
+  </div>
+
+  <div class="map-wrapper" style="width:1366px;">
+    <h2>1366 pixels wide</h2>
+
+    <div id="map-embed-1366"></div>
+  </div>
+
+
+  <script type="text/javascript" src="javascripts/vendor/pym.js"></script>
+  <script>
+    var pymParent320  = new pym.Parent('map-embed-320',  'index.html', {});
+    var pymParent375  = new pym.Parent('map-embed-375',  'index.html', {});
+    var pymParent414  = new pym.Parent('map-embed-414',  'index.html', {});
+    var pymParent568  = new pym.Parent('map-embed-568',  'index.html', {});
+    var pymParent667  = new pym.Parent('map-embed-667',  'index.html', {});
+    var pymParent736  = new pym.Parent('map-embed-736',  'index.html', {});
+    var pymParent768  = new pym.Parent('map-embed-768',  'index.html', {});
+    var pymParent1024 = new pym.Parent('map-embed-1024', 'index.html', {});
+    var pymParent1366 = new pym.Parent('map-embed-1366', 'index.html', {});
+  </script>
+</body>
+
+</html>
