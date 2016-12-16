@@ -139,6 +139,21 @@ function reset() {
   g.transition().duration(750).attr("transform", "");
 }
 
+function removeLoadingScreen() {
+  var loadingScreenEl = document.getElementById('loading');
+
+  if(typeof loadingScreenEl.style['transition'] !== 'undefined') {
+    loadingScreenEl && loadingScreenEl.addEventListener('transitionend', function () {
+      loadingScreenEl.parentNode.removeChild(loadingScreenEl);
+    });
+
+    loadingScreenEl && loadingScreenEl.style.opacity = '0';
+  }
+  else {
+    loadingScreenEl && loadingScreenEl.parentNode.removeChild(loadingScreenEl);
+  }
+}
+
 //Loads in the world data, the active countries, and the translation dictionary
 queue()
     .defer(d3.json, "data/world-topo-1-3.json?cachebust="+(+new Date()))
@@ -195,6 +210,7 @@ function ready(error, world, active, dict) {
   setupNextPreviousYear();
 
   pymChild.sendHeight();
+  removeLoadingScreen();
 }
 
 function draw(topo, activeCountries, coastline, somalilandBorder, kosovoBorder, westernSaharaBorder, golanHeightsBorder) {
