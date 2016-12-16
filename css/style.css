@@ -1097,6 +1097,10 @@ small,.milli {
 @media screen and (min-width: 40em) {
   #slider {
     float: left;
+    position: relative;
+    height: 58px;
+    font-size: 12px;
+    padding-left: 4em;
   }
 
   [dir="rtl"] #slider {
@@ -1119,7 +1123,9 @@ small,.milli {
   }
 
   #slider-play-pause {
-    float: left;
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 4em;
     margin: 0;
     border-right-style: solid;

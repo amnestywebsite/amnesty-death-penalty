@@ -284,7 +284,6 @@ function draw(topo, activeCountries, coastline, somalilandBorder, kosovoBorder, 
   new Awesomplete(document.querySelector('.awesomplete'));
   document.querySelector('.awesomplete').addEventListener('awesomplete-selectcomplete', function (e) {
     var selectedCountryName = e.text.value;
-    console.log (selectedCountryName);
 
     var selectedCountryId = countryIdByName[selectedCountryName];
 
@@ -775,6 +774,18 @@ function setupSlider() {
     });
 }
 
+function updateSliderWidth() {
+  var newSliderWidth = windowWidth - sliderPlayPauseButton.getBoundingClientRect().width,
+      existingSliderSVGEl = document.querySelector('.chroniton .slider');
+
+  // Removing existing slider pointer element, to avoid it being redrawn repeatedly for some reason
+  existingSliderSVGEl.parentNode.removeChild(existingSliderSVGEl);
+
+  customSlider.width(newSliderWidth);
+
+  d3.select("#slider").call(customSlider);
+}
+
 function setupNextPreviousYear() {
   document.getElementById('timeline-previous').addEventListener('click', function () {
     var newYear;
@@ -882,6 +893,7 @@ function throttle() {
   window.clearTimeout(throttleTimer);
     throttleTimer = window.setTimeout(function() {
       redraw();
+      updateSliderWidth();
       pymChild.sendHeight();
     }, 200);
 }
