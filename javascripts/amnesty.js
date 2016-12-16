@@ -142,17 +142,20 @@ function reset() {
 function removeLoadingScreen() {
   var loadingScreenEl = document.getElementById('loading');
 
+  if (!loadingScreenEl) {
+    return;
+  }
+
   if(typeof loadingScreenEl.style['transition'] !== 'undefined') {
     loadingScreenEl && loadingScreenEl.addEventListener('transitionend', function () {
       loadingScreenEl.parentNode.removeChild(loadingScreenEl);
     });
 
-   // loadingScreenEl = '0';
     loadingScreenEl.style.opacity = '0';
   }
 
   else {
-    loadingScreenEl && loadingScreenEl.parentNode.removeChild(loadingScreenEl);
+    loadingScreenEl.parentNode.removeChild(loadingScreenEl);
   }
 }
 
