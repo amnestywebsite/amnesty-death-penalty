@@ -363,24 +363,16 @@ function draw(topo, activeCountries, coastline, somalilandBorder, kosovoBorder, 
       .attr("class","disputed-boundary")
       .attr("d", path);
 
-  if (dir === "rtl") {
-    tooltipOffset = -20;
-  }
-
-  else {
-    tooltipOffset = -250;
-  }
-
-  //ofsets plus width/height of transform, plus 20 px of padding, plus 20 extra for tooltip offset off mouse
-  var offsetL = document.getElementById('map').offsetLeft+tooltipOffset;
-  var offsetT =document.getElementById('map').offsetTop+(height/40);
-
   activeCountry
     .on("mousemove", function(d,i) {
         var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
+
+        var xPositionProperty = (dir === "rtl" ? "right" : "left");
+        var xPositionValue = (dir === "rtl" ? width-mouse[0]+15 : mouse[0]+15);
+
           tooltip
             .classed("hidden", false)
-            .attr("style", "left:"+(mouse[0]+offsetL)+"px;top:"+(mouse[1]+offsetT)+"px")
+            .attr("style", xPositionProperty+":"+xPositionValue+"px;top:"+(mouse[1]+15)+"px")
             .html('<div class="title-text">'+ dictionary.getTranslation(d.name) + '</div>');
         })
         .on("mouseout",  function(d,i) {
