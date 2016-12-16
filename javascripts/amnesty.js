@@ -147,8 +147,10 @@ function removeLoadingScreen() {
       loadingScreenEl.parentNode.removeChild(loadingScreenEl);
     });
 
-    loadingScreenEl && loadingScreenEl.style.opacity = '0';
+   // loadingScreenEl = '0';
+    loadingScreenEl.style.opacity = '0';
   }
+
   else {
     loadingScreenEl && loadingScreenEl.parentNode.removeChild(loadingScreenEl);
   }
