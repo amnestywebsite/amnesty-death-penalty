@@ -4,6 +4,233 @@
   src:url("fonts/AmnestyTradeGothicW04BdCnNo-20.eot?#iefix") format("eot"),url("fonts/AmnestyTradeGothicW04BdCnNo-20.woff") format("woff"),url("fonts/AmnestyTradeGothicW04BdCnNo-20.ttf") format("truetype"),url("fonts/AmnestyTradeGothicW04BdCnNo-20.svg#AmnestyTradeGothicW04BdCnNo-20") format("svg");
 }
 
+/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+/**
+ * 1. Set default font family to sans-serif.
+ * 2. Prevent iOS and IE text size adjust after device orientation change,
+ *    without disabling user zoom.
+ */
+html { font-family: sans-serif; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
+/**
+ * Remove default margin.
+ */
+body { margin: 0; }
+/* HTML5 display definitions
+   ========================================================================== */
+/**
+ * Correct `block` display not defined for any HTML5 element in IE 8/9.
+ * Correct `block` display not defined for `details` or `summary` in IE 10/11
+ * and Firefox.
+ * Correct `block` display not defined for `main` in IE 11.
+ */
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
+nav, section, summary { display: block; }
+/**
+ * 1. Correct `inline-block` display not defined in IE 8/9.
+ * 2. Normalize vertical alignment of `progress` in Chrome, Firefox, and Opera.
+ */
+audio, canvas, progress, video { display: inline-block; /* 1 */ vertical-align: baseline; /* 2 */ }
+/**
+ * Prevent modern browsers from displaying `audio` without controls.
+ * Remove excess height in iOS 5 devices.
+ */
+audio:not([controls]) { display: none; height: 0; }
+/**
+ * Address `[hidden]` styling not present in IE 8/9/10.
+ * Hide the `template` element in IE 8/9/10/11, Safari, and Firefox < 22.
+ */
+[hidden], template { display: none; }
+/* Links
+   ========================================================================== */
+/**
+ * Remove the gray background color from active links in IE 10.
+ */
+a { background-color: transparent; }
+/**
+ * Improve readability of focused elements when they are also in an
+ * active/hover state.
+ */
+a:active, a:hover { outline: 0; }
+/* Text-level semantics
+   ========================================================================== */
+/**
+ * Address styling not present in IE 8/9/10/11, Safari, and Chrome.
+ */
+abbr[title] { border-bottom: 1px dotted; }
+/**
+ * Address style set to `bolder` in Firefox 4+, Safari, and Chrome.
+ */
+b, strong { font-weight: bold; }
+/**
+ * Address styling not present in Safari and Chrome.
+ */
+dfn { font-style: italic; }
+/**
+ * Address variable `h1` font-size and margin within `section` and `article`
+ * contexts in Firefox 4+, Safari, and Chrome.
+ */
+h1 { font-size: 2em; margin: 0.67em 0; }
+/**
+ * Address styling not present in IE 8/9.
+ */
+mark { background: #ff0; color: #000; }
+/**
+ * Address inconsistent and variable font size in all browsers.
+ */
+small { font-size: 80%; }
+/**
+ * Prevent `sub` and `sup` affecting `line-height` in all browsers.
+ */
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline; }
+sup { top: -0.5em; }
+sub { bottom: -0.25em; }
+/* Embedded content
+   ========================================================================== */
+/**
+ * Remove border when inside `a` element in IE 8/9/10.
+ */
+img { border: 0; }
+/**
+ * Correct overflow not hidden in IE 9/10/11.
+ */
+svg:not(:root) { overflow: hidden; }
+/* Grouping content
+   ========================================================================== */
+/**
+ * Address margin not present in IE 8/9 and Safari.
+ */
+figure { margin: 1em 40px; }
+/**
+ * Address differences between Firefox and other browsers.
+ */
+hr { box-sizing: content-box; height: 0; }
+/**
+ * Contain overflow in all browsers.
+ */
+pre { overflow: auto; }
+/**
+ * Address odd `em`-unit font size rendering in all browsers.
+ */
+code, kbd, pre, samp { font-family: monospace, monospace; font-size: 1em; }
+/* Forms
+   ========================================================================== */
+/**
+ * Known limitation: by default, Chrome and Safari on OS X allow very limited
+ * styling of `select`, unless a `border` property is set.
+ */
+/**
+ * 1. Correct color not being inherited.
+ *    Known issue: affects color of disabled elements.
+ * 2. Correct font properties not being inherited.
+ * 3. Address margins set differently in Firefox 4+, Safari, and Chrome.
+ */
+button, input, optgroup, select, textarea { color: inherit; /* 1 */ font: inherit; /* 2 */ margin: 0; /* 3 */ }
+/**
+ * Address `overflow` set to `hidden` in IE 8/9/10/11.
+ */
+button { overflow: visible; }
+/**
+ * Address inconsistent `text-transform` inheritance for `button` and `select`.
+ * All other form control elements do not inherit `text-transform` values.
+ * Correct `button` style inheritance in Firefox, IE 8/9/10/11, and Opera.
+ * Correct `select` style inheritance in Firefox.
+ */
+button, select { text-transform: none; }
+/**
+ * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
+ *    and `video` controls.
+ * 2. Correct inability to style clickable `input` types in iOS.
+ * 3. Improve usability and consistency of cursor style between image-type
+ *    `input` and others.
+ */
+button, html input[type="button"], /* 1 */
+input[type="reset"],
+input[type="submit"] { -webkit-appearance: button; /* 2 */ cursor: pointer; /* 3 */ }
+/**
+ * Re-set default cursor for disabled elements.
+ */
+button[disabled], html input[disabled] { cursor: default; }
+/**
+ * Remove inner padding and border in Firefox 4+.
+ */
+button::-moz-focus-inner, input::-moz-focus-inner { border: 0; padding: 0; }
+/**
+ * Address Firefox 4+ setting `line-height` on `input` using `!important` in
+ * the UA stylesheet.
+ */
+input { line-height: normal; }
+/**
+ * It's recommended that you don't attempt to style these elements.
+ * Firefox's implementation doesn't respect box-sizing, padding, or width.
+ *
+ * 1. Address box sizing set to `content-box` in IE 8/9/10.
+ * 2. Remove excess padding in IE 8/9/10.
+ */
+input[type="checkbox"], input[type="radio"] { box-sizing: border-box; /* 1 */ padding: 0; /* 2 */ }
+/**
+ * Fix the cursor style for Chrome's increment/decrement buttons. For certain
+ * `font-size` values of the `input`, it causes the cursor style of the
+ * decrement button to change from `default` to `text`.
+ */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button { height: auto; }
+/**
+ * 1. Address `appearance` set to `searchfield` in Safari and Chrome.
+ * 2. Address `box-sizing` set to `border-box` in Safari and Chrome.
+ */
+input[type="search"] { -webkit-appearance: textfield; /* 1 */ box-sizing: content-box; /* 2 */ }
+/**
+ * Remove inner padding and search cancel button in Safari and Chrome on OS X.
+ * Safari (but not Chrome) clips the cancel button when the search input has
+ * padding (and `textfield` appearance).
+ */
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration { -webkit-appearance: none; }
+/**
+ * Define consistent border, margin, and padding.
+ */
+fieldset { border: 1px solid #c0c0c0; margin: 0 2px; padding: 0.35em 0.625em 0.75em; }
+/**
+ * 1. Correct `color` not being inherited in IE 8/9/10/11.
+ * 2. Remove padding so people aren't caught out if they zero out fieldsets.
+ */
+legend { border: 0; /* 1 */ padding: 0; /* 2 */ }
+/**
+ * Remove default vertical scrollbar in IE 8/9/10/11.
+ */
+textarea { overflow: auto; }
+/**
+ * Don't inherit the `font-weight` (applied by a rule above).
+ * NOTE: the default cannot safely be changed in Chrome and Safari on OS X.
+ */
+optgroup { font-weight: bold; }
+/* Tables
+   ========================================================================== */
+/**
+ * Remove most spacing between table cells.
+ */
+table { border-collapse: collapse; border-spacing: 0; }
+td, th { padding: 0; }
+
+*, *:before, *:after {
+      -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+     }
+
+/* Pinch visually hidden class from HTML5 Boilerplate (see https://github.com/h5bp/html5-boilerplate and http://snook.ca/archives/html_and_css/hiding-content-for-accessibility) */
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+
 html {
   height: 100%;
   font-size: 1em;
@@ -17,10 +244,35 @@ html {
 }
 
 body {
-  height: 100%;
   padding: 0;
   margin: 0;
   background-color: #fff;
+}
+
+#loading {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 2000;
+  width: auto;
+  height: auto;
+  background: #e5e5e5;
+  opacity: 1;
+  transition: opacity .2s ease-out;
+}
+
+#loading p {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  margin-top: -.5em;
+  font-weight: bold;
+  line-height: 1em;
+  text-align: center;
+  text-transform: uppercase;
 }
 
 h1, h2, h3, h4, h5, h6  {
@@ -28,14 +280,31 @@ h1, h2, h3, h4, h5, h6  {
 }
 
 .giga{
-    font-size:80px;
-    font-size:5rem;     /* 80px */
-    line-height:0.83;    /* 96px */
+  font-size:80px;
+  font-size:5rem;     /* 80px */
+  line-height:0.83;    /* 96px */
 }
+
+.super {
+  font-size:64px;
+  font-size:4rem;     /* 64px */
+  line-height:0.83;
+}
+
 .mega{
-    font-size:40px;
-    font-size:2.5rem;     /* 64px */
+    font-size:32px;
+    font-size:2rem;     /* 64px */
     line-height:1.125;  /* 72px */
+}
+
+@media screen and (min-width: 40em) {
+  html {
+    .mega{
+      font-size:40px;
+      font-size:2.5rem;     /* 64px */
+      line-height:1.125;  /* 72px */
+    }
+  }
 }
 
 @media screen and (min-width: 70em) {
@@ -54,9 +323,17 @@ h1, h2, h3, h4, h5, h6  {
 
 /* Define headings and their associated classes here. */
 h1,.alpha{
+    font-size:19px;
+    font-size:1.2rem;     /* 32px */
+    line-height:1.5;    /* 48px */
+}
+
+@media screen and (min-width: 40em) {
+  h1,.alpha {
     font-size:24px;
     font-size:1.5rem;     /* 32px */
     line-height:1.5;    /* 48px */
+  }
 }
 
 @media screen and (min-width: 70em) {
@@ -70,6 +347,13 @@ h1,.alpha{
 h2,.beta{
     font-size:1.5em;    /* 24px */
     line-height:1;      /* 24px */
+}
+
+@media screen and (min-width: 40em) {
+  h2,.beta{
+    font-size:1.3em;    /* 24px */
+    line-height:1;      /* 24px */
+  }
 }
 
 h3,.gamma{
@@ -125,22 +409,29 @@ small,.milli {
   width: 100%;
   display: block;
   background-color: #e5e5e5;
-  border-top: 2px solid #939598;
-  margin-top: -3rem;
+  border-top: 1px solid #939598;
 }
 
 @media screen and (min-width: 40em) {
   #info-box {
-    width: 25%;
+    width: 320px;
     float: left;
     background-color: #e5e5e5;
     height: 100%;
     border-top: none;
     margin-top: 0;
   }
+
+  [dir="rtl"] #info-box {
+    float: right;
+  }
 }
 
 #info-box-inner {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
   display: flex;
   flex-wrap: wrap;
 }
@@ -148,20 +439,34 @@ small,.milli {
 @media screen and (min-width: 40em) {
   #info-box-inner {
     display: block;
-    margin-left: 1rem;
-    margin-right: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    position: relative;
   }
 }
 
 #map {
   width: 100%;
   display: block;
+  position: relative;
 }
 
 @media screen and (min-width: 40em) {
-  #map {
-    width: 75%;
+  #map-wrapper {
+    width: 100%;
+    box-sizing: border-box;
     float: right;
+    margin-left: -320px;
+    padding-left: 320px;
+  }
+
+  [dir="rtl"] #map-wrapper {
+    float: left;
+    margin-right: 0;
+    margin-left: -320px;
+    padding-right: 0;
+    padding-left: 320px;
   }
 }
 
@@ -172,17 +477,32 @@ small,.milli {
 @media screen and (min-width: 40em) {
   .overview-year-ns {
     display: block;
+    font-size: 80px;
+    font-size: 5rem;
+    line-height: 0.83;
+    margin-bottom: 2rem;
     margin-top: 1rem;
+    text-transform: uppercase;
   }
  }
 
 .footer-left-m {
   width: 50%;
   background-color: white;
-  border-right: 2px solid #939598;
+  border-right: 1px solid #939598;
+  margin-right: -1px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
-  padding-top: 2rem;
+}
+
+[dir="rtl"] .footer-left-m {
+  border-right: none;
+  margin-right: 0;
+  border-left: 1px solid #939598;
+  margin-left: -1px;
 }
 
 @media screen and (min-width: 40em) {
@@ -190,67 +510,180 @@ small,.milli {
     width: 100%;
     background-color: #e5e5e5;
     border-right: none;
+    margin-right: 0;
     display: block;
     padding-top: 0;
+  }
+  [dir="rtl"] .footer-left-m {
+    border-left: none;
+    margin-left: 0;
   }
  }
 
 .footer-right-m {
   width: 50%;
-  display: flex
-  justify-content: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center; /* align vertical */
+  -webkit-justify-content: center;
+  -ms-justify-content: center;
+  -webkit-justify-content: center;
+  justify-content: space-around; /* align horizontal */
 }
 
 @media screen and (min-width: 40em) {
+  .lte-ie9 .footer-right-m,
   .footer-right-m {
     width: 100%;
     display: block;
+    padding-top: 1rem;
   }
 }
 
-#donut-chart-wrapper {
-  width: 80%;
+#bar-chart-wrapper {
+  width: 98%;
+  margin-left: 1%;
+}
+
+[dir="rtl"] #bar-chart-wrapper {
+  margin-left: 0;
+  margin-right: 1%;
 }
 
 @media screen and (min-width: 40em) {
-  #donut-chart-wrapper {
+  #bar-chart-wrapper {
     width: 100%;
-    padding-left: 0;
   }
 }
 
+#bar-chart {
+  /* Make this element have the same aspect ratio as the bar chart SVG’s viewport, so that the SVG can scale to fill the available width and maintain its aspect ration */
+  position: relative;
+  width: 100%;
+  height: 0;
+  /* The bar chart SVG's viewbox, at time of writing, is 368×270, and 270 ÷ 368 ≈ 0.7336957 */
+  padding-bottom: 73.36957%;
+}
+
+#bar-chart svg {
+  /* Make the SVG fill the #bar-chart element, which has its aspect ratio set to the same as the SVG itself (see above) */
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+
+#bar-chart svg text {
+  /*fill: #000;*/
+  font-family: "AmnestyTradeGothicW04BdCnNo-20", HelveticaNeue-CondensedBold, "Franklin Gothic Medium", sans-serif;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+#bar-chart svg .axis path {
+  fill: none;
+  stroke: none;
+}
+
+#bar-chart svg .axis line {
+  stroke: #aaa;
+  stroke-width: 1px;
+  stroke-dasharray: 2,3;
+}
+
+#bar-chart svg .axis text {
+  fill: #aaa;
+}
+
+
+
+#bar-chart svg .barGroup .ABOLITIONIST {
+  fill: #ff0;
+}
+
+#bar-chart svg .barGroup .ABOLITIONIST_IN_PRACTICE   {
+  fill: #b6b6b6;
+}
+
+#bar-chart svg .barGroup .ABOLITIONIST_FOR_ORDINARY_CRIMES {
+  fill: #7a7d81;
+}
+
+#bar-chart svg .barGroup .RETENTIONIST {
+  fill: #000;
+}
+
+
+
+
+
 .total-executions {
-  padding-left: 10%;
+  display: table;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 @media screen and (min-width: 40em) {
   .total-executions {
     border-top: 4px solid #939598;
     padding-left: 0;
+    padding-top: 1rem;
+    width: 100%;
   }
  }
+
+.total-executions-l {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.total-executions-r {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.total-executions-icon {
+  width: 50px;
+  height: 122px;
+  padding-right: 0.5rem;
+}
+
+[dir="rtl"] .total-executions-icon {
+  padding-right: 0;
+  padding-left: 0.5rem;
+}
 
 .wrapper {
   margin: 1rem;
 }
 
 #detail-box {
-  width: 100%;
-  float: left;
-  background-color: #cccccc;
-  height: 100%;
+  display: none;
+  background-color: #ccc;
   position: absolute;
   top: 0;
   left: 0;
-  overflow:hidden;
-  display: none;
+  right: 0;
+  bottom: 0;
+  width: auto;
+  height: auto;
+  overflow: hidden;
   z-index: 100;
 }
 
 @media screen and (min-width: 40em) {
   #detail-box {
-    width: 25%;
-    top: 6rem;
+    top: 7.15rem;
+  }
+  #detail-box.ABOLITIONIST {
+    top: 1rem;
   }
 }
 
@@ -272,10 +705,42 @@ small,.milli {
   font-size: 1.4rem;
 }
 
+[dir="rtl"] #btn-close {
+  float: left;
+}
+
 #btn-close:hover {
   color: #000000;
   cursor: pointer;
   cursor: hand;
+}
+
+#detail-box h1 {
+  margin-right: 2rem;/* Leave space for #btn-close */
+  font-size: 2rem;
+}
+
+@media screen and (min-width: 40em) {
+  #detail-box h1 {
+    font-size: 1.25rem;
+  }
+}
+
+[dir="rtl"] #detail-box h1 {
+  margin-right: 0;
+  margin-left: 2rem;/* Leave space for #btn-close */
+}
+
+.detailBox-definition {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+@media screen and (min-width: 40em) {
+  .detailBox-definition {
+   font-size: 0.7rem;
+   line-height: 0.85rem;
+  }
 }
 
 .coastline {
@@ -325,12 +790,12 @@ small,.milli {
   stroke-width: 0.1px;
 }
 
-.active {
+.active, .solid-border {
   fill: #f7f7f7;
   stroke: #000;
   stroke-linejoin: round;
   stroke-linecap: round;
-  stroke-width: 0.5px;
+  stroke-width: 0.2px;
 }
 
 .retentionist:hover, .abolitionisipractice:hover, .abolitionisfoordinarcrimes:hover, .abolitionist:hover {
@@ -340,7 +805,7 @@ small,.milli {
   stroke: #000;
   stroke-linejoin: round;
   stroke-linecap: round;
-  stroke-width: 0.5px;
+  stroke-width: 0.2px;
 }
 
 .hidden {
@@ -361,27 +826,46 @@ small,.milli {
   max-width: 8em;
 }
 
-.buttons {
-  position: absolute;
-  right: 30px;
-  top: 30px;
-}
-
 .cf {
   content:"";
   display:table;
   clear:both;
 }
 
-.media{
-    display:block;
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+.media {
+  display:block;
 }
 
 .media__img{
   float:left;
-  margin-right: 0.5rem;
-  width: 20%;
+  width: 16%;
+  padding: 0.5rem;
 }
+
+[dir="rtl"] .media__img{
+  float: right;
+  width: 16%;
+  padding: 0.5rem;
+}
+
+@media screen and (min-width: 40em) {
+  .buttons {
+    .media__img{
+      width: 20%;
+    }
+  }
+}
+
 /**
 * Reversed image location (right instead of left).
 */
@@ -397,8 +881,24 @@ small,.milli {
 
 .media__body{
   overflow:hidden;
-  width: 74%;
+  width: 80%;
+  padding-top: 0.5rem;
+  text-align: right;
 }
+
+[dir="rtl"] .media__body{
+  overflow:hidden;
+  width: 80%;
+  padding-top: 0.5rem;
+  text-align: left;
+}
+
+@media screen and (min-width: 40em) {
+  .media__body{
+    text-align: right;
+  }
+}
+
 .media__body,
 .media__body > :last-child{
   margin-bottom:0;
@@ -407,6 +907,121 @@ small,.milli {
 .lh-reset {
   line-height: 1;
 }
+
+.mv2 {
+  margin-top: .5rem;
+  margin-bottom: .5rem;
+}
+
+.pb1 {
+  padding-bottom: 0.5rem;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.bg-black {
+  background-color: #111;
+}
+
+.white {
+  color: #fff;
+}
+
+.since-header {
+  color: #939598;
+  text-transform: uppercase;
+  margin-top: .5rem;
+  margin-bottom: .5rem;
+}
+
+.dp-header {
+  font-size: 40px;
+  font-size: 2.5em;
+  line-height: 1;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-transform: uppercase;
+}
+
+.dp-words {
+  font-size: 20px;
+  font-size: 1.25rem;
+  line-height: 1.2;
+  text-transform: uppercase;
+  margin-top: 0;
+  width: 100%;
+  clear: both;
+  margin-bottom: 0.5rem;
+}
+
+.dp-image {
+  padding-left: 0.1rem;
+}
+
+@media screen and (min-width: 40em) {
+  .dp-words {
+  font-size: 14px;
+  font-size: 0.875rem;
+  line-height: 1.2;
+  }
+}
+
+
+.execution-header {
+  font-size: 40px;
+  font-size: 2.5rem;
+  line-height: 1;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-transform: uppercase;
+}
+
+.execution-words {
+  font-size: 20px;
+  font-size: 1.25rem;
+  line-height: 1.2;
+  text-transform: uppercase;
+  margin-top: 0;
+  width: 100%;
+  clear: both;
+  margin-bottom: 0.5rem;
+}
+
+.execution-header-m {
+  font-size: 32px;
+  font-size: 2rem;
+  line-height: 1.125;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.execution-words-m {
+  font-size: 16px;
+  font-size: 1rem;
+  line-height: 1;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+@media screen and (min-width: 40em) {
+  .execution-words {
+    font-size: 14px;
+    font-size: 0.875rem;
+    line-height: 1.2;
+  }
+
+  .execution-header-m {
+    font-size: 4.5rem;
+  }
+
+  .execution-words-m {
+    font-size: 2rem;
+  }
+}
+
 
 .title-text {
   text-transform: uppercase;
@@ -418,8 +1033,8 @@ small,.milli {
 
 .buttons {
   position: absolute;
-  right: 2rem;
-  top: 2rem;
+  left: 0.5rem;
+  bottom: 3rem;
 }
 
 @media screen and (min-width: 40em) {
@@ -427,6 +1042,8 @@ small,.milli {
     position: absolute;
     right: 2rem;
     top: 2rem;
+    left: auto;
+    bottom: auto;
   }
 }
 
@@ -463,18 +1080,25 @@ small,.milli {
 }
 
 .totals-block {
+  display: table;
   margin-top: 2rem;
   text-align: left;
-  position: fixed;
+  position: absolute;
   bottom: 0;
   width: 100%;
+}
+
+.totals-block .media {
+  display: table-cell;
+  width: 50%;
+  text-align: center;
+  vertical-align: middle;
 }
 
 @media screen and (min-width: 40em) {
   .totals-block {
     text-align: right;
     border-right: 1px solid #ccc;
-    width: 25%;
   }
 }
 
@@ -483,8 +1107,7 @@ small,.milli {
 }
 
 .executions-icon {
-  height: 5rem;
-  margin: auto;
+  height: 3.5rem;
 }
 
 .label-line {
@@ -492,12 +1115,198 @@ small,.milli {
     stroke: #393939;
 }
 
-.donut-arc:hover {
-  cursor: pointer;
-  cursor: hand;
-  stroke-width: 1;
-  stroke: #393939;
+#slider,
+#slider-play-pause {
+  display: none;
+}
+
+@media screen and (min-width: 40em) {
+  #slider {
+    float: left;
+    position: relative;
+    height: 58px;
+    font-size: 12px;
+    padding-left: 4em;
+  }
+
+  [dir="rtl"] #slider {
+    float: right;
+  }
+
+  #slider,
+  #slider-play-pause {
+    display: block;
+    z-index: 1;
+    position: relative;
+  }
+
+  .chroniton,
+  #slider-play-pause {
+    border-style: solid none;
+    border-width: 1px;
+    border-color: #000;
+    background: #fff;
+  }
+
+  #slider-play-pause {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4em;
+    margin: 0;
+    border-right-style: solid;
+    font: 12px "AmnestyTradeGothicW04BdCnNo-20", HelveticaNeue-CondensedBold, "Franklin Gothic Medium", sans-serif;
+    text-transform: uppercase;
+  }
+
+  #slider-play-pause:focus,
+  #slider-play-pause:hover,
+  #slider-play-pause:active {
+    outline: none;
+  }
+
+  #slider-play-pause:before {
+    display: block;
+    font-size: 1.5em;
+  }
+
+  #slider-play-pause.pause:before {
+    content: "❙❙";/* See http://stackoverflow.com/a/27053825/20578 */
+    letter-spacing: .1em;
+  }
+
+  #slider-play-pause.play:before {
+    content: "►";/* See http://stackoverflow.com/a/27053825/20578 */
+  }
+
+  .chroniton {
+    display: block;
+  }
+}
+
+.header-m {
+  background-color: #ffff00;
+  border-bottom: 1px solid #939598;
+  margin-bottom: 2rem;/* Leave space for #search-box */
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center; /* align vertical */
+  -webkit-justify-content: center;
+  -ms-justify-content: center;
+  -webkit-justify-content: center;
+  justify-content: space-around; /* align horizontal */
+}
+
+@media screen and (min-width: 40em) {
+  .header-m {
+    display: none;
+  }
+}
+
+#overview-year-m {
+  display: inline;
+  font-size: 64px;
+  font-size: 4rem;
+  line-height: 0.83;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+  text-transform: uppercase;
+}
+
+.timeline-button {
+  border: none;
+  background: none;
+  display: inline;
+  font-size: 1.8rem;
+}
+
+.next:before {
+  content: "▶";/* See http://stackoverflow.com/a/27053825/20578 */
+}
+
+[dir="rtl"] .next:before {
+  content: "◀";/* See http://stackoverflow.com/a/27053825/20578 */
+}
+
+.previous:before {
+  content: "◀";/* See http://stackoverflow.com/a/27053825/20578 */
+}
+
+[dir="rtl"] .previous:before {
+  content: "▶";/* See http://stackoverflow.com/a/27053825/20578 */
 }
 
 
+#search-box {
+  position: absolute;
+  top: 4.32rem;/* Must match height of .header-m */
+  left: 0;
+  width: 100%;
+}
+
+#search-box .awesomplete {
+  display: block;
+}
+
+@media screen and (min-width: 40em) {
+  #search-box .awesomplete {
+    z-index: 1000;
+  }
+}
+
+#search-box input {
+  box-sizing: border-box;
+  width: 100%;
+  border-style: solid none;
+  border-width: 1px;
+  border-color: #000;
+  padding: .6rem .8rem;
+  font-family: inherit;
+  font-size: .675rem;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+#search-box input:focus,
+#search-box input:hover {
+  outline: none;
+}
+
+@media screen and (min-width: 40em) {
+  #search-box {
+    position: static;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width: auto;
+  }
+
+  #search-box input {
+    border-style: solid;
+  }
+}
+
+.disputed-boundary-background,
+.disputed-boundary {
+  fill: none;
+  stroke-linejoin: round;
+  stroke-width: 0.2px;
+}
+
+.disputed-boundary-background {
+  stroke: #000;
+}
+
+.disputed-boundary {
+  stroke: #fff;
+  stroke-dasharray: 1,1;
+}
 

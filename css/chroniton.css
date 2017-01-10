@@ -1,0 +1,51 @@
+.chroniton {
+  font: 10px sans-serif;
+  outline:none;
+}
+.chroniton .play-button {
+  fill:#444;
+}
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+.x.axis, .slider text {
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  user-select:none;
+}
+.x.axis path.domain {
+  stroke-width:1;
+  stroke-linecap:round;
+  stroke:#000;
+}
+.x.axis path.halo {
+  display: none;
+}
+.tick line {
+  stroke:#000;
+  stroke-width:1;
+}
+.slider .handle {
+  fill: #000;
+  stroke-width:1;
+  stroke:#000;
+}
+.slider .handle, .slider text {
+  cursor: move;
+  cursor: -webkit-grab;
+  transition:fill 200ms ease-in-out;
+}
+.handle:active, .slider text:active {
+  cursor: move;
+  cursor: -moz-grabbing;
+  cursor: -webkit-grabbing;
+}
+.slider.brushing .handle {
+  fill: #eee;
+}
+.tick text {
+  font: 12px "AmnestyTradeGothicW04BdCnNo-20", HelveticaNeue-CondensedBold, "Franklin Gothic Medium", sans-serif;
+}
