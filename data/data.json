@@ -11,7 +11,7 @@
   {
     "id": "DZA",
     "name": "ALGERIA",
-    "since": 2004,
+    "since": "",
     "executions": "0",
     "death-penalties": "271",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -35,7 +35,7 @@
   {
     "id": "BEN",
     "name": "BENIN",
-    "since": 1987,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -67,7 +67,7 @@
   {
     "id": "ARG",
     "name": "ARGENTINA",
-    "since": 1984,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -169,7 +169,7 @@
   {
     "id": "BRN",
     "name": "BRUNEI DARUSSALAM",
-    "since": 1957,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -185,7 +185,7 @@
   {
     "id": "BOL",
     "name": "BOLIVIA",
-    "since": 1997,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -209,7 +209,7 @@
   {
     "id": "BRA",
     "name": "BRAZIL",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -217,7 +217,7 @@
   {
     "id": "BFA",
     "name": "BURKINA FASO",
-    "since": 1988,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -233,7 +233,7 @@
   {
     "id": "CAF",
     "name": "CENTRAL AFRICAN REPUBLIC",
-    "since": 1981,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -287,7 +287,7 @@
   {
     "id": "COG",
     "name": "CONGO (REPUBLIC OF)",
-    "since": 1982,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -309,7 +309,7 @@
   {
     "id": "CHL",
     "name": "CHILE",
-    "since": 2001,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -341,7 +341,7 @@
   {
     "id": "ERI",
     "name": "ERITREA",
-    "since": 1989,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -467,7 +467,7 @@
   {
     "id": "SLV",
     "name": "EL SALVADOR",
-    "since": 1983,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -483,7 +483,7 @@
   {
     "id": "GAB",
     "name": "GABON",
-    "since": 2007,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -513,7 +513,7 @@
   {
     "id": "FJI",
     "name": "FIJI",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -545,7 +545,7 @@
   {
     "id": "GHA",
     "name": "GHANA",
-    "since": 1993,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -569,7 +569,7 @@
   {
     "id": "GRD",
     "name": "GRENADA",
-    "since": 1978,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -593,7 +593,7 @@
   {
     "id": "KEN",
     "name": "KENYA",
-    "since": 2004,
+    "since": "",
     "executions": "0",
     "death-penalties": "+",
     "status": "ABOLITIONIST IN PRACTICE",
@@ -739,7 +739,7 @@
   {
     "id": "ISR",
     "name": "ISRAEL",
-    "since": 1954,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -793,7 +793,7 @@
   {
     "id": "LAO",
     "name": "LAOS",
-    "since": 1989,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -825,7 +825,7 @@
   {
     "id": "MDG",
     "name": "MADAGASCAR",
-    "since": 1958,
+    "since": "",
     "executions": "0",
     "death-penalties": "12",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -833,7 +833,7 @@
   {
     "id": "LVA",
     "name": "LATVIA",
-    "since": 1999,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -911,7 +911,7 @@
   {
     "id": "MWI",
     "name": "MALAWI",
-    "since": 1992,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -919,7 +919,7 @@
   {
     "id": "MDV",
     "name": "MALDIVES",
-    "since": 1954,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -935,7 +935,7 @@
   {
     "id": "MLI",
     "name": "MALI",
-    "since": 1980,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -943,7 +943,7 @@
   {
     "id": "MRT",
     "name": "MAURITANIA",
-    "since": 1980,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -1031,7 +1031,7 @@
   {
     "id": "MMR",
     "name": "MYANMAR",
-    "since": 1988,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -1055,7 +1055,7 @@
   {
     "id": "NRU",
     "name": "NAURU",
-    "since": 1968,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -1095,7 +1095,7 @@
   {
     "id": "NER",
     "name": "NIGER",
-    "since": 1976,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -1181,7 +1181,7 @@
   {
     "id": "PNG",
     "name": "PAPUA NEW GUINEA",
-    "since": 1950,
+    "since": "",
     "executions": "0",
     "death-penalties": "3+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -1197,7 +1197,7 @@
   {
     "id": "PER",
     "name": "PERU",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -1259,7 +1259,7 @@
   {
     "id": "RUS",
     "name": "RUSSIAN FEDERATION",
-    "since": 1999,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -1429,7 +1429,7 @@
   {
     "id": "KOR",
     "name": "SOUTH KOREA",
-    "since": 2007,
+    "since": "",
     "executions": "0",
     "death-penalties": "2",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -1445,7 +1445,7 @@
   {
     "id": "LKA",
     "name": "SRI LANKA",
-    "since": 1990,
+    "since": "",
     "executions": "0",
     "death-penalties": "10+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -1461,7 +1461,7 @@
   {
     "id": "SUR",
     "name": "SURINAME",
-    "since": 1982,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -1469,7 +1469,7 @@
   {
     "id": "SWZ",
     "name": "SWAZILAND",
-    "since": 1983,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -1547,7 +1547,7 @@
   {
     "id": "TGO",
     "name": "TOGO",
-    "since": 1991,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -1555,7 +1555,7 @@
   {
     "id": "TON",
     "name": "TONGA",
-    "since": 1982,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -1577,7 +1577,7 @@
   {
     "id": "TUN",
     "name": "TUNISIA",
-    "since": 1991,
+    "since": "",
     "executions": "0",
     "death-penalties": "3",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -1759,7 +1759,7 @@
   {
     "id": "DZA",
     "name": "ALGERIA",
-    "since": 2004,
+    "since": "",
     "executions": "0",
     "death-penalties": "200+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -1887,7 +1887,7 @@
   {
     "id": "BEN",
     "name": "BENIN",
-    "since": 1987,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -1903,7 +1903,7 @@
   {
     "id": "BOL",
     "name": "BOLIVIA",
-    "since": 1997,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -1927,7 +1927,7 @@
   {
     "id": "BRA",
     "name": "BRAZIL",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -1935,7 +1935,7 @@
   {
     "id": "BRN",
     "name": "BRUNEI DARUSSALAM",
-    "since": 1957,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -1951,7 +1951,7 @@
   {
     "id": "BFA",
     "name": "BURKINA FASO",
-    "since": 1988,
+    "since": "",
     "executions": "0",
     "death-penalties": "1",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -1983,7 +1983,7 @@
   {
     "id": "CMR",
     "name": "CAMEROON",
-    "since": 1997,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -1999,7 +1999,7 @@
   {
     "id": "CAF",
     "name": "CENTRAL AFRICAN REPUBLIC",
-    "since": 1981,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -2015,7 +2015,7 @@
   {
     "id": "CHL",
     "name": "CHILE",
-    "since": 2001,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -2053,7 +2053,7 @@
   {
     "id": "COG",
     "name": "CONGO (REPUBLIC OF)",
-    "since": 1982,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -2173,7 +2173,7 @@
   {
     "id": "SLV",
     "name": "EL SALVADOR",
-    "since": 1983,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -2189,7 +2189,7 @@
   {
     "id": "ERI",
     "name": "ERITREA",
-    "since": 1989,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -2213,7 +2213,7 @@
   {
     "id": "FJI",
     "name": "FIJI",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -2237,7 +2237,7 @@
   {
     "id": "GAB",
     "name": "GABON",
-    "since": 2007,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -2269,7 +2269,7 @@
   {
     "id": "GHA",
     "name": "GHANA",
-    "since": 1993,
+    "since": "",
     "executions": "0",
     "death-penalties": "3",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -2293,7 +2293,7 @@
   {
     "id": "GRD",
     "name": "GRENADA",
-    "since": 1978,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -2427,7 +2427,7 @@
   {
     "id": "ISR",
     "name": "ISRAEL",
-    "since": 1954,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -2467,7 +2467,7 @@
   {
     "id": "KAZ",
     "name": "KAZAKHSTAN",
-    "since": 2007,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -2475,7 +2475,7 @@
   {
     "id": "KEN",
     "name": "KENYA",
-    "since": 2004,
+    "since": "",
     "executions": "0",
     "death-penalties": "+",
     "status": "ABOLITIONIST IN PRACTICE",
@@ -2513,7 +2513,7 @@
   {
     "id": "LAO",
     "name": "LAOS",
-    "since": 1989,
+    "since": "",
     "executions": "0",
     "death-penalties": "2",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -2521,7 +2521,7 @@
   {
     "id": "LVA",
     "name": "LATVIA",
-    "since": 1999,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -2545,7 +2545,7 @@
   {
     "id": "LBR",
     "name": "LIBERIA",
-    "since": 2000,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -2599,7 +2599,7 @@
   {
     "id": "MDG",
     "name": "MADAGASCAR",
-    "since": 1958,
+    "since": "",
     "executions": "0",
     "death-penalties": "+",
     "status": "ABOLITIONIST IN PRACTICE",
@@ -2613,7 +2613,7 @@
   {
     "id": "MWI",
     "name": "MALAWI",
-    "since": 1992,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -2629,7 +2629,7 @@
   {
     "id": "MDV",
     "name": "MALDIVES",
-    "since": 1954,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -2637,7 +2637,7 @@
   {
     "id": "MLI",
     "name": "MALI",
-    "since": 1980,
+    "since": "",
     "executions": "0",
     "death-penalties": "15+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -2661,7 +2661,7 @@
   {
     "id": "MRT",
     "name": "MAURITANIA",
-    "since": 1980,
+    "since": "",
     "executions": "0",
     "death-penalties": "8",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -2747,7 +2747,7 @@
   {
     "id": "MMR",
     "name": "MYANMAR",
-    "since": 1988,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -2763,7 +2763,7 @@
   {
     "id": "NRU",
     "name": "NAURU",
-    "since": 1968,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -2803,7 +2803,7 @@
   {
     "id": "NER",
     "name": "NIGER",
-    "since": 1976,
+    "since": "",
     "executions": "0",
     "death-penalties": "1",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -2889,7 +2889,7 @@
   {
     "id": "PNG",
     "name": "PAPUA NEW GUINEA",
-    "since": 1950,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -2905,7 +2905,7 @@
   {
     "id": "PER",
     "name": "PERU",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -2967,7 +2967,7 @@
   {
     "id": "RUS",
     "name": "RUSSIAN FEDERATION",
-    "since": 1999,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -3131,7 +3131,7 @@
   {
     "id": "KOR",
     "name": "SOUTH KOREA",
-    "since": 2007,
+    "since": "",
     "executions": "0",
     "death-penalties": "2+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -3161,7 +3161,7 @@
   {
     "id": "LKA",
     "name": "SRI LANKA",
-    "since": 1990,
+    "since": "",
     "executions": "0",
     "death-penalties": "2",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -3177,7 +3177,7 @@
   {
     "id": "SUR",
     "name": "SURINAME",
-    "since": 1982,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -3185,7 +3185,7 @@
   {
     "id": "SWZ",
     "name": "SWAZILAND",
-    "since": 1983,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -3225,7 +3225,7 @@
   {
     "id": "TJK",
     "name": "TAJIKISTAN",
-    "since": 2004,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -3233,7 +3233,7 @@
   {
     "id": "TZA",
     "name": "TANZANIA",
-    "since": 2008,
+    "since": "",
     "executions": "0",
     "death-penalties": "+",
     "status": "ABOLITIONIST IN PRACTICE",
@@ -3263,7 +3263,7 @@
   {
     "id": "TGO",
     "name": "TOGO",
-    "since": 1991,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -3271,7 +3271,7 @@
   {
     "id": "TON",
     "name": "TONGA",
-    "since": 1982,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -3287,7 +3287,7 @@
   {
     "id": "TUN",
     "name": "TUNISIA",
-    "since": 1991,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -3407,7 +3407,7 @@
   {
     "id": "ZMB",
     "name": "ZAMBIA",
-    "since": 1997,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -3463,7 +3463,7 @@
   {
     "id": "DZA",
     "name": "ALGERIA",
-    "since": 2004,
+    "since": "",
     "executions": "0",
     "death-penalties": "100+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -3591,7 +3591,7 @@
   {
     "id": "BEN",
     "name": "BENIN",
-    "since": 1987,
+    "since": "",
     "executions": "0",
     "death-penalties": "5+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -3631,7 +3631,7 @@
   {
     "id": "BRA",
     "name": "BRAZIL",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -3639,7 +3639,7 @@
   {
     "id": "BRN",
     "name": "BRUNEI DARUSSALAM",
-    "since": 1957,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -3655,7 +3655,7 @@
   {
     "id": "BFA",
     "name": "BURKINA FASO",
-    "since": 1988,
+    "since": "",
     "executions": "0",
     "death-penalties": "6+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -3687,7 +3687,7 @@
   {
     "id": "CMR",
     "name": "CAMEROON",
-    "since": 1997,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -3703,7 +3703,7 @@
   {
     "id": "CAF",
     "name": "CENTRAL AFRICAN REPUBLIC",
-    "since": 1981,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -3725,7 +3725,7 @@
   {
     "id": "CHL",
     "name": "CHILE",
-    "since": 2001,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -3763,7 +3763,7 @@
   {
     "id": "COG",
     "name": "CONGO (REPUBLIC OF)",
-    "since": 1982,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -3889,7 +3889,7 @@
   {
     "id": "SLV",
     "name": "EL SALVADOR",
-    "since": 1983,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -3905,7 +3905,7 @@
   {
     "id": "ERI",
     "name": "ERITREA",
-    "since": 1989,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -3929,7 +3929,7 @@
   {
     "id": "FJI",
     "name": "FIJI",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -3953,7 +3953,7 @@
   {
     "id": "GAB",
     "name": "GABON",
-    "since": 2007,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -3985,7 +3985,7 @@
   {
     "id": "GHA",
     "name": "GHANA",
-    "since": 1993,
+    "since": "",
     "executions": "0",
     "death-penalties": "7+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -4009,7 +4009,7 @@
   {
     "id": "GRD",
     "name": "GRENADA",
-    "since": 1978,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -4143,7 +4143,7 @@
   {
     "id": "ISR",
     "name": "ISRAEL",
-    "since": 1954,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -4183,7 +4183,7 @@
   {
     "id": "KAZ",
     "name": "KAZAKHSTAN",
-    "since": 2007,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -4191,7 +4191,7 @@
   {
     "id": "KEN",
     "name": "KENYA",
-    "since": 2004,
+    "since": "",
     "executions": "0",
     "death-penalties": "+",
     "status": "ABOLITIONIST IN PRACTICE",
@@ -4229,7 +4229,7 @@
   {
     "id": "LAO",
     "name": "LAOS",
-    "since": 1989,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -4237,7 +4237,7 @@
   {
     "id": "LVA",
     "name": "LATVIA",
-    "since": 1999,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -4261,7 +4261,7 @@
   {
     "id": "LBR",
     "name": "LIBERIA",
-    "since": 2000,
+    "since": "",
     "executions": "0",
     "death-penalties": "3",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -4315,7 +4315,7 @@
   {
     "id": "MDG",
     "name": "MADAGASCAR",
-    "since": 1958,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -4323,7 +4323,7 @@
   {
     "id": "MWI",
     "name": "MALAWI",
-    "since": 1992,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -4345,7 +4345,7 @@
   {
     "id": "MDV",
     "name": "MALDIVES",
-    "since": 1954,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -4353,7 +4353,7 @@
   {
     "id": "MLI",
     "name": "MALI",
-    "since": 1980,
+    "since": "",
     "executions": "0",
     "death-penalties": "10+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -4377,7 +4377,7 @@
   {
     "id": "MRT",
     "name": "MAURITANIA",
-    "since": 1980,
+    "since": "",
     "executions": "0",
     "death-penalties": "1+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -4457,7 +4457,7 @@
   {
     "id": "MMR",
     "name": "MYANMAR",
-    "since": 1988,
+    "since": "",
     "executions": "0",
     "death-penalties": "2+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -4473,7 +4473,7 @@
   {
     "id": "NRU",
     "name": "NAURU",
-    "since": 1968,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -4513,7 +4513,7 @@
   {
     "id": "NER",
     "name": "NIGER",
-    "since": 1976,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -4599,7 +4599,7 @@
   {
     "id": "PNG",
     "name": "PAPUA NEW GUINEA",
-    "since": 1950,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -4615,7 +4615,7 @@
   {
     "id": "PER",
     "name": "PERU",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -4677,7 +4677,7 @@
   {
     "id": "RUS",
     "name": "RUSSIAN FEDERATION",
-    "since": 1999,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -4835,7 +4835,7 @@
   {
     "id": "KOR",
     "name": "SOUTH KOREA",
-    "since": 2007,
+    "since": "",
     "executions": "0",
     "death-penalties": "5+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -4851,7 +4851,7 @@
   {
     "id": "LKA",
     "name": "SRI LANKA",
-    "since": 1990,
+    "since": "",
     "executions": "0",
     "death-penalties": "108",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -4867,7 +4867,7 @@
   {
     "id": "SUR",
     "name": "SURINAME",
-    "since": 1982,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -4875,7 +4875,7 @@
   {
     "id": "SWZ",
     "name": "SWAZILAND",
-    "since": 1983,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -4915,7 +4915,7 @@
   {
     "id": "TJK",
     "name": "TAJIKISTAN",
-    "since": 2004,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -4923,7 +4923,7 @@
   {
     "id": "TZA",
     "name": "TANZANIA",
-    "since": 2008,
+    "since": "",
     "executions": "0",
     "death-penalties": "+",
     "status": "ABOLITIONIST IN PRACTICE",
@@ -4967,7 +4967,7 @@
   {
     "id": "TON",
     "name": "TONGA",
-    "since": 1982,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -4983,7 +4983,7 @@
   {
     "id": "TUN",
     "name": "TUNISIA",
-    "since": 1991,
+    "since": "",
     "executions": "0",
     "death-penalties": "2+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -5109,7 +5109,7 @@
   {
     "id": "ZMB",
     "name": "ZAMBIA",
-    "since": 1997,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -5333,7 +5333,7 @@
   {
     "id": "BRA",
     "name": "BRAZIL",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -5433,7 +5433,7 @@
   {
     "id": "CHL",
     "name": "CHILE",
-    "since": 2001,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -5597,7 +5597,7 @@
   {
     "id": "SLV",
     "name": "EL SALVADOR",
-    "since": 1983,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -5637,7 +5637,7 @@
   {
     "id": "FJI",
     "name": "FIJI",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -5851,7 +5851,7 @@
   {
     "id": "ISR",
     "name": "ISRAEL",
-    "since": 1954,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -5891,7 +5891,7 @@
   {
     "id": "KAZ",
     "name": "KAZAKHSTAN",
-    "since": 2007,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -5939,7 +5939,7 @@
   {
     "id": "LVA",
     "name": "LATVIA",
-    "since": 1999,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -6317,7 +6317,7 @@
   {
     "id": "PER",
     "name": "PERU",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -6543,7 +6543,7 @@
   {
     "id": "KOR",
     "name": "SOUTH KOREA",
-    "since": 2007,
+    "since": "",
     "executions": "0",
     "death-penalties": "4",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -6865,7 +6865,7 @@
   {
     "id": "DZA",
     "name": "ALGERIA",
-    "since": 2004,
+    "since": "",
     "executions": "0",
     "death-penalties": "51+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -6993,7 +6993,7 @@
   {
     "id": "BEN",
     "name": "BENIN",
-    "since": 1987,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -7033,7 +7033,7 @@
   {
     "id": "BRA",
     "name": "BRAZIL",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -7041,7 +7041,7 @@
   {
     "id": "BRN",
     "name": "BRUNEI DARUSSALAM",
-    "since": 1957,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -7057,7 +7057,7 @@
   {
     "id": "BFA",
     "name": "BURKINA FASO",
-    "since": 1988,
+    "since": "",
     "executions": "0",
     "death-penalties": "3",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -7081,7 +7081,7 @@
   {
     "id": "CMR",
     "name": "CAMEROON",
-    "since": 1997,
+    "since": "",
     "executions": "0",
     "death-penalties": "+",
     "status": "ABOLITIONIST IN PRACTICE",
@@ -7111,7 +7111,7 @@
   {
     "id": "CAF",
     "name": "CENTRAL AFRICAN REPUBLIC",
-    "since": 1981,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -7133,7 +7133,7 @@
   {
     "id": "CHL",
     "name": "CHILE",
-    "since": 2001,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -7171,7 +7171,7 @@
   {
     "id": "COG",
     "name": "CONGO (REPUBLIC OF)",
-    "since": 1982,
+    "since": "",
     "executions": "0",
     "death-penalties": "3",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -7297,7 +7297,7 @@
   {
     "id": "SLV",
     "name": "EL SALVADOR",
-    "since": 1983,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -7313,7 +7313,7 @@
   {
     "id": "ERI",
     "name": "ERITREA",
-    "since": 1989,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -7337,7 +7337,7 @@
   {
     "id": "FJI",
     "name": "FIJI",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -7369,7 +7369,7 @@
   {
     "id": "GMB",
     "name": "GAMBIA",
-    "since": 1996,
+    "since": "",
     "executions": "0",
     "death-penalties": "13",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -7393,7 +7393,7 @@
   {
     "id": "GHA",
     "name": "GHANA",
-    "since": 1993,
+    "since": "",
     "executions": "0",
     "death-penalties": "4",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -7417,7 +7417,7 @@
   {
     "id": "GRD",
     "name": "GRENADA",
-    "since": 1978,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -7545,7 +7545,7 @@
   {
     "id": "ISR",
     "name": "ISRAEL",
-    "since": 1954,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -7585,7 +7585,7 @@
   {
     "id": "KAZ",
     "name": "KAZAKHSTAN",
-    "since": 2007,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -7593,7 +7593,7 @@
   {
     "id": "KEN",
     "name": "KENYA",
-    "since": 2004,
+    "since": "",
     "executions": "0",
     "death-penalties": "11+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -7625,7 +7625,7 @@
   {
     "id": "LAO",
     "name": "LAOS",
-    "since": 1989,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -7633,7 +7633,7 @@
   {
     "id": "LVA",
     "name": "LATVIA",
-    "since": 1999,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -7657,7 +7657,7 @@
   {
     "id": "LBR",
     "name": "LIBERIA",
-    "since": 2000,
+    "since": "",
     "executions": "0",
     "death-penalties": "1",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -7705,7 +7705,7 @@
   {
     "id": "MDG",
     "name": "MADAGASCAR",
-    "since": 1958,
+    "since": "",
     "executions": "0",
     "death-penalties": "+",
     "status": "ABOLITIONIST IN PRACTICE",
@@ -7719,7 +7719,7 @@
   {
     "id": "MWI",
     "name": "MALAWI",
-    "since": 1992,
+    "since": "",
     "executions": "0",
     "death-penalties": "2",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -7741,7 +7741,7 @@
   {
     "id": "MDV",
     "name": "MALDIVES",
-    "since": 1954,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -7749,7 +7749,7 @@
   {
     "id": "MLI",
     "name": "MALI",
-    "since": 1980,
+    "since": "",
     "executions": "0",
     "death-penalties": "2",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -7773,7 +7773,7 @@
   {
     "id": "MRT",
     "name": "MAURITANIA",
-    "since": 1980,
+    "since": "",
     "executions": "0",
     "death-penalties": "8",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -7859,7 +7859,7 @@
   {
     "id": "MMR",
     "name": "MYANMAR",
-    "since": 1988,
+    "since": "",
     "executions": "0",
     "death-penalties": "33+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -7875,7 +7875,7 @@
   {
     "id": "NRU",
     "name": "NAURU",
-    "since": 1968,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -7915,7 +7915,7 @@
   {
     "id": "NER",
     "name": "NIGER",
-    "since": 1976,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -8007,7 +8007,7 @@
   {
     "id": "PNG",
     "name": "PAPUA NEW GUINEA",
-    "since": 1950,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -8023,7 +8023,7 @@
   {
     "id": "PER",
     "name": "PERU",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -8181,7 +8181,7 @@
   {
     "id": "SLE",
     "name": "SIERRA LEONE",
-    "since": 2011,
+    "since": "",
     "executions": "0",
     "death-penalties": "2",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -8243,7 +8243,7 @@
   {
     "id": "KOR",
     "name": "SOUTH KOREA",
-    "since": 2007,
+    "since": "",
     "executions": "0",
     "death-penalties": "1",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -8267,7 +8267,7 @@
   {
     "id": "LKA",
     "name": "SRI LANKA",
-    "since": 1990,
+    "since": "",
     "executions": "0",
     "death-penalties": "106",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -8283,7 +8283,7 @@
   {
     "id": "SUR",
     "name": "SURINAME",
-    "since": 1982,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -8291,7 +8291,7 @@
   {
     "id": "SWZ",
     "name": "SWAZILAND",
-    "since": 1983,
+    "since": "",
     "executions": "0",
     "death-penalties": "1",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -8337,7 +8337,7 @@
   {
     "id": "TJK",
     "name": "TAJIKISTAN",
-    "since": 2004,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -8345,7 +8345,7 @@
   {
     "id": "TZA",
     "name": "TANZANIA",
-    "since": 2008,
+    "since": "",
     "executions": "0",
     "death-penalties": "+",
     "status": "ABOLITIONIST IN PRACTICE",
@@ -8383,7 +8383,7 @@
   {
     "id": "TON",
     "name": "TONGA",
-    "since": 1982,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -8399,7 +8399,7 @@
   {
     "id": "TUN",
     "name": "TUNISIA",
-    "since": 1991,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -8519,7 +8519,7 @@
   {
     "id": "ZMB",
     "name": "ZAMBIA",
-    "since": 1997,
+    "since": "",
     "executions": "0",
     "death-penalties": "48",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -8567,7 +8567,7 @@
   {
     "id": "DZA",
     "name": "ALGERIA",
-    "since": 2004,
+    "since": "",
     "executions": "0",
     "death-penalties": "153+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -8695,7 +8695,7 @@
   {
     "id": "BEN",
     "name": "BENIN",
-    "since": 1987,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -8735,7 +8735,7 @@
   {
     "id": "BRA",
     "name": "BRAZIL",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -8743,7 +8743,7 @@
   {
     "id": "BRN",
     "name": "BRUNEI DARUSSALAM",
-    "since": 1957,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -8759,7 +8759,7 @@
   {
     "id": "BFA",
     "name": "BURKINA FASO",
-    "since": 1988,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -8791,7 +8791,7 @@
   {
     "id": "CMR",
     "name": "CAMEROON",
-    "since": 1997,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -8807,7 +8807,7 @@
   {
     "id": "CAF",
     "name": "CENTRAL AFRICAN REPUBLIC",
-    "since": 1981,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -8823,7 +8823,7 @@
   {
     "id": "CHL",
     "name": "CHILE",
-    "since": 2001,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -8861,7 +8861,7 @@
   {
     "id": "COG",
     "name": "CONGO (REPUBLIC OF)",
-    "since": 1982,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -8981,7 +8981,7 @@
   {
     "id": "SLV",
     "name": "EL SALVADOR",
-    "since": 1983,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -8997,7 +8997,7 @@
   {
     "id": "ERI",
     "name": "ERITREA",
-    "since": 1989,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -9021,7 +9021,7 @@
   {
     "id": "FJI",
     "name": "FIJI",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -9077,7 +9077,7 @@
   {
     "id": "GHA",
     "name": "GHANA",
-    "since": 1993,
+    "since": "",
     "executions": "0",
     "death-penalties": "27",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -9101,7 +9101,7 @@
   {
     "id": "GRD",
     "name": "GRENADA",
-    "since": 1978,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -9229,7 +9229,7 @@
   {
     "id": "ISR",
     "name": "ISRAEL",
-    "since": 1954,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -9269,7 +9269,7 @@
   {
     "id": "KAZ",
     "name": "KAZAKHSTAN",
-    "since": 2007,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -9277,7 +9277,7 @@
   {
     "id": "KEN",
     "name": "KENYA",
-    "since": 2004,
+    "since": "",
     "executions": "0",
     "death-penalties": "21+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -9309,7 +9309,7 @@
   {
     "id": "LAO",
     "name": "LAOS",
-    "since": 1989,
+    "since": "",
     "executions": "0",
     "death-penalties": "+",
     "status": "ABOLITIONIST IN PRACTICE",
@@ -9347,7 +9347,7 @@
   {
     "id": "LBR",
     "name": "LIBERIA",
-    "since": 2000,
+    "since": "",
     "executions": "0",
     "death-penalties": "4+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -9395,7 +9395,7 @@
   {
     "id": "MDG",
     "name": "MADAGASCAR",
-    "since": 1958,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -9403,7 +9403,7 @@
   {
     "id": "MWI",
     "name": "MALAWI",
-    "since": 1992,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -9419,7 +9419,7 @@
   {
     "id": "MDV",
     "name": "MALDIVES",
-    "since": 1954,
+    "since": "",
     "executions": "0",
     "death-penalties": "2+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -9427,7 +9427,7 @@
   {
     "id": "MLI",
     "name": "MALI",
-    "since": 1980,
+    "since": "",
     "executions": "0",
     "death-penalties": "10+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -9451,7 +9451,7 @@
   {
     "id": "MRT",
     "name": "MAURITANIA",
-    "since": 1980,
+    "since": "",
     "executions": "0",
     "death-penalties": "6+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -9499,7 +9499,7 @@
   {
     "id": "MNG",
     "name": "MONGOLIA",
-    "since": 2012,
+    "since": "",
     "executions": "0",
     "death-penalties": "+",
     "status": "ABOLITIONIST IN PRACTICE",
@@ -9537,7 +9537,7 @@
   {
     "id": "MMR",
     "name": "MYANMAR",
-    "since": 1988,
+    "since": "",
     "executions": "0",
     "death-penalties": "17+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -9553,7 +9553,7 @@
   {
     "id": "NRU",
     "name": "NAURU",
-    "since": 1968,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -9593,7 +9593,7 @@
   {
     "id": "NER",
     "name": "NIGER",
-    "since": 1976,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -9685,7 +9685,7 @@
   {
     "id": "PNG",
     "name": "PAPUA NEW GUINEA",
-    "since": 1950,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -9701,7 +9701,7 @@
   {
     "id": "PER",
     "name": "PERU",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -9763,7 +9763,7 @@
   {
     "id": "RUS",
     "name": "RUSSIAN FEDERATION",
-    "since": 1999,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -9859,7 +9859,7 @@
   {
     "id": "SLE",
     "name": "SIERRA LEONE",
-    "since": 2011,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -9921,7 +9921,7 @@
   {
     "id": "KOR",
     "name": "SOUTH KOREA",
-    "since": 2007,
+    "since": "",
     "executions": "0",
     "death-penalties": "2",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -9951,7 +9951,7 @@
   {
     "id": "LKA",
     "name": "SRI LANKA",
-    "since": 1990,
+    "since": "",
     "executions": "0",
     "death-penalties": "7+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -9967,7 +9967,7 @@
   {
     "id": "SUR",
     "name": "SURINAME",
-    "since": 1982,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -9975,7 +9975,7 @@
   {
     "id": "SWZ",
     "name": "SWAZILAND",
-    "since": 1983,
+    "since": "",
     "executions": "0",
     "death-penalties": "1",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -10015,7 +10015,7 @@
   {
     "id": "TJK",
     "name": "TAJIKISTAN",
-    "since": 2004,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -10023,7 +10023,7 @@
   {
     "id": "TZA",
     "name": "TANZANIA",
-    "since": 2008,
+    "since": "",
     "executions": "0",
     "death-penalties": "3",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -10055,7 +10055,7 @@
   {
     "id": "TON",
     "name": "TONGA",
-    "since": 1982,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -10071,7 +10071,7 @@
   {
     "id": "TUN",
     "name": "TUNISIA",
-    "since": 1991,
+    "since": "",
     "executions": "0",
     "death-penalties": "9",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -10191,7 +10191,7 @@
   {
     "id": "ZMB",
     "name": "ZAMBIA",
-    "since": 1997,
+    "since": "",
     "executions": "0",
     "death-penalties": "7+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -10233,7 +10233,7 @@
   {
     "id": "DZA",
     "name": "ALGERIA",
-    "since": 2004,
+    "since": "",
     "executions": "0",
     "death-penalties": "40+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -10361,7 +10361,7 @@
   {
     "id": "BEN",
     "name": "BENIN",
-    "since": 1987,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -10401,7 +10401,7 @@
   {
     "id": "BRA",
     "name": "BRAZIL",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -10409,7 +10409,7 @@
   {
     "id": "BRN",
     "name": "BRUNEI DARUSSALAM",
-    "since": 1957,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -10425,7 +10425,7 @@
   {
     "id": "BFA",
     "name": "BURKINA FASO",
-    "since": 1988,
+    "since": "",
     "executions": "0",
     "death-penalties": "1+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -10457,7 +10457,7 @@
   {
     "id": "CMR",
     "name": "CAMEROON",
-    "since": 1997,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -10473,7 +10473,7 @@
   {
     "id": "CAF",
     "name": "CENTRAL AFRICAN REPUBLIC",
-    "since": 1981,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -10489,7 +10489,7 @@
   {
     "id": "CHL",
     "name": "CHILE",
-    "since": 2001,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -10527,7 +10527,7 @@
   {
     "id": "COG",
     "name": "CONGO (REPUBLIC OF)",
-    "since": 1982,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -10647,7 +10647,7 @@
   {
     "id": "SLV",
     "name": "EL SALVADOR",
-    "since": 1983,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -10663,7 +10663,7 @@
   {
     "id": "ERI",
     "name": "ERITREA",
-    "since": 1989,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -10687,7 +10687,7 @@
   {
     "id": "FJI",
     "name": "FIJI",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -10743,7 +10743,7 @@
   {
     "id": "GHA",
     "name": "GHANA",
-    "since": 1993,
+    "since": "",
     "executions": "0",
     "death-penalties": "14",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -10767,7 +10767,7 @@
   {
     "id": "GRD",
     "name": "GRENADA",
-    "since": 1978,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -10895,7 +10895,7 @@
   {
     "id": "ISR",
     "name": "ISRAEL",
-    "since": 1954,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -10935,7 +10935,7 @@
   {
     "id": "KAZ",
     "name": "KAZAKHSTAN",
-    "since": 2007,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -10943,7 +10943,7 @@
   {
     "id": "KEN",
     "name": "KENYA",
-    "since": 2004,
+    "since": "",
     "executions": "0",
     "death-penalties": "11+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -10975,7 +10975,7 @@
   {
     "id": "LAO",
     "name": "LAOS",
-    "since": 1989,
+    "since": "",
     "executions": "0",
     "death-penalties": "3+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11007,7 +11007,7 @@
   {
     "id": "LBR",
     "name": "LIBERIA",
-    "since": 2000,
+    "since": "",
     "executions": "0",
     "death-penalties": "1",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11055,7 +11055,7 @@
   {
     "id": "MDG",
     "name": "MADAGASCAR",
-    "since": 1958,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11063,7 +11063,7 @@
   {
     "id": "MWI",
     "name": "MALAWI",
-    "since": 1992,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11079,7 +11079,7 @@
   {
     "id": "MDV",
     "name": "MALDIVES",
-    "since": 1954,
+    "since": "",
     "executions": "0",
     "death-penalties": "13",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11087,7 +11087,7 @@
   {
     "id": "MLI",
     "name": "MALI",
-    "since": 1980,
+    "since": "",
     "executions": "0",
     "death-penalties": "7+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11111,7 +11111,7 @@
   {
     "id": "MRT",
     "name": "MAURITANIA",
-    "since": 1980,
+    "since": "",
     "executions": "0",
     "death-penalties": "2+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11159,7 +11159,7 @@
   {
     "id": "MNG",
     "name": "MONGOLIA",
-    "since": 2012,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11191,7 +11191,7 @@
   {
     "id": "MMR",
     "name": "MYANMAR",
-    "since": 1988,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11207,7 +11207,7 @@
   {
     "id": "NRU",
     "name": "NAURU",
-    "since": 1968,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11247,7 +11247,7 @@
   {
     "id": "NER",
     "name": "NIGER",
-    "since": 1976,
+    "since": "",
     "executions": "0",
     "death-penalties": "12",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11339,7 +11339,7 @@
   {
     "id": "PNG",
     "name": "PAPUA NEW GUINEA",
-    "since": 1950,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11355,7 +11355,7 @@
   {
     "id": "PER",
     "name": "PERU",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -11417,7 +11417,7 @@
   {
     "id": "RUS",
     "name": "RUSSIAN FEDERATION",
-    "since": 1999,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11513,7 +11513,7 @@
   {
     "id": "SLE",
     "name": "SIERRA LEONE",
-    "since": 2011,
+    "since": "",
     "executions": "0",
     "death-penalties": "1",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11576,7 +11576,7 @@
   {
     "id": "KOR",
     "name": "SOUTH KOREA",
-    "since": 2007,
+    "since": "",
     "executions": "0",
     "death-penalties": "2",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11600,7 +11600,7 @@
   {
     "id": "LKA",
     "name": "SRI LANKA",
-    "since": 1990,
+    "since": "",
     "executions": "0",
     "death-penalties": "13+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11616,7 +11616,7 @@
   {
     "id": "SUR",
     "name": "SURINAME",
-    "since": 1982,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11624,7 +11624,7 @@
   {
     "id": "SWZ",
     "name": "SWAZILAND",
-    "since": 1983,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11664,7 +11664,7 @@
   {
     "id": "TJK",
     "name": "TAJIKISTAN",
-    "since": 2004,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11672,7 +11672,7 @@
   {
     "id": "TZA",
     "name": "TANZANIA",
-    "since": 2008,
+    "since": "",
     "executions": "0",
     "death-penalties": "7+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11704,7 +11704,7 @@
   {
     "id": "TON",
     "name": "TONGA",
-    "since": 1982,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11720,7 +11720,7 @@
   {
     "id": "TUN",
     "name": "TUNISIA",
-    "since": 1991,
+    "since": "",
     "executions": "0",
     "death-penalties": "5+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11840,7 +11840,7 @@
   {
     "id": "ZMB",
     "name": "ZAMBIA",
-    "since": 1997,
+    "since": "",
     "executions": "0",
     "death-penalties": "9+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -11882,7 +11882,7 @@
   {
     "id": "DZA",
     "name": "ALGERIA",
-    "since": 2004,
+    "since": "",
     "executions": "0",
     "death-penalties": "16+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -12010,7 +12010,7 @@
   {
     "id": "BEN",
     "name": "BENIN",
-    "since": 1987,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -12050,7 +12050,7 @@
   {
     "id": "BRA",
     "name": "BRAZIL",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -12058,7 +12058,7 @@
   {
     "id": "BRN",
     "name": "BRUNEI DARUSSALAM",
-    "since": 1957,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -12074,7 +12074,7 @@
   {
     "id": "BFA",
     "name": "BURKINA FASO",
-    "since": 1988,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -12106,7 +12106,7 @@
   {
     "id": "CMR",
     "name": "CAMEROON",
-    "since": 1997,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -12122,7 +12122,7 @@
   {
     "id": "CAF",
     "name": "CENTRAL AFRICAN REPUBLIC",
-    "since": 1981,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -12138,7 +12138,7 @@
   {
     "id": "CHL",
     "name": "CHILE",
-    "since": 2001,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -12176,7 +12176,7 @@
   {
     "id": "COG",
     "name": "CONGO (REPUBLIC OF)",
-    "since": 1982,
+    "since": "",
     "executions": "",
     "death-penalties": "3+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -12296,7 +12296,7 @@
   {
     "id": "SLV",
     "name": "EL SALVADOR",
-    "since": 1983,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -12312,7 +12312,7 @@
   {
     "id": "ERI",
     "name": "ERITREA",
-    "since": 1989,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -12336,7 +12336,7 @@
   {
     "id": "FJI",
     "name": "FIJI",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -12392,7 +12392,7 @@
   {
     "id": "GHA",
     "name": "GHANA",
-    "since": 1993,
+    "since": "",
     "executions": "0",
     "death-penalties": "9",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -12416,7 +12416,7 @@
   {
     "id": "GRD",
     "name": "GRENADA",
-    "since": 1978,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -12544,7 +12544,7 @@
   {
     "id": "ISR",
     "name": "ISRAEL",
-    "since": 1954,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -12584,7 +12584,7 @@
   {
     "id": "KAZ",
     "name": "KAZAKHSTAN",
-    "since": 2007,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -12592,7 +12592,7 @@
   {
     "id": "KEN",
     "name": "KENYA",
-    "since": 2004,
+    "since": "",
     "executions": "0",
     "death-penalties": "26+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -12624,7 +12624,7 @@
   {
     "id": "LAO",
     "name": "LAOS",
-    "since": 1989,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -12656,7 +12656,7 @@
   {
     "id": "LBR",
     "name": "LIBERIA",
-    "since": 2000,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -12704,7 +12704,7 @@
   {
     "id": "MDG",
     "name": "MADAGASCAR",
-    "since": 1958,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -12712,7 +12712,7 @@
   {
     "id": "MWI",
     "name": "MALAWI",
-    "since": 1992,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -12728,7 +12728,7 @@
   {
     "id": "MDV",
     "name": "MALDIVES",
-    "since": 1954,
+    "since": "",
     "executions": "0",
     "death-penalties": "2",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -12760,7 +12760,7 @@
   {
     "id": "MRT",
     "name": "MAURITANIA",
-    "since": 1980,
+    "since": "",
     "executions": "0",
     "death-penalties": "3",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -12808,7 +12808,7 @@
   {
     "id": "MNG",
     "name": "MONGOLIA",
-    "since": 2012,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -12840,7 +12840,7 @@
   {
     "id": "MMR",
     "name": "MYANMAR",
-    "since": 1988,
+    "since": "",
     "executions": "0",
     "death-penalties": "1+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -12856,7 +12856,7 @@
   {
     "id": "NRU",
     "name": "NAURU",
-    "since": 1968,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -12988,7 +12988,7 @@
   {
     "id": "PNG",
     "name": "PAPUA NEW GUINEA",
-    "since": 1950,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -13004,7 +13004,7 @@
   {
     "id": "PER",
     "name": "PERU",
-    "since": 1979,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
@@ -13066,7 +13066,7 @@
   {
     "id": "RUS",
     "name": "RUSSIAN FEDERATION",
-    "since": 1999,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -13162,7 +13162,7 @@
   {
     "id": "SLE",
     "name": "SIERRA LEONE",
-    "since": 2011,
+    "since": "",
     "executions": "0",
     "death-penalties": "3",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -13224,7 +13224,7 @@
   {
     "id": "KOR",
     "name": "SOUTH KOREA",
-    "since": 2007,
+    "since": "",
     "executions": "0",
     "death-penalties": "1",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -13254,7 +13254,7 @@
   {
     "id": "LKA",
     "name": "SRI LANKA",
-    "since": 1990,
+    "since": "",
     "executions": "0",
     "death-penalties": "61+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -13270,7 +13270,7 @@
   {
     "id": "SUR",
     "name": "SURINAME",
-    "since": 1982,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -13278,7 +13278,7 @@
   {
     "id": "SWZ",
     "name": "SWAZILAND",
-    "since": 1983,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -13318,7 +13318,7 @@
   {
     "id": "TJK",
     "name": "TAJIKISTAN",
-    "since": 2004,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -13326,7 +13326,7 @@
   {
     "id": "TZA",
     "name": "TANZANIA",
-    "since": 2008,
+    "since": "",
     "executions": "0",
     "death-penalties": "91",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -13358,7 +13358,7 @@
   {
     "id": "TON",
     "name": "TONGA",
-    "since": 1982,
+    "since": "",
     "executions": "0",
     "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -13374,7 +13374,7 @@
   {
     "id": "TUN",
     "name": "TUNISIA",
-    "since": 1991,
+    "since": "",
     "executions": "0",
     "death-penalties": "2+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -13494,7 +13494,7 @@
   {
     "id": "ZMB",
     "name": "ZAMBIA",
-    "since": 1997,
+    "since": "",
     "executions": "0",
     "death-penalties": "13+",
     "status": "ABOLITIONIST IN PRACTICE"
@@ -14474,7 +14474,7 @@
   {
     "id": "MNG",
     "name": "MONGOLIA",
-    "since": 2012,
+    "since": "",
     "executions": "0",
     "death-penalties": "2+",
     "status": "ABOLITIONIST IN PRACTICE"
