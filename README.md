@@ -44,12 +44,12 @@ To set the language add the language code in a variable in the embed url. Suppor
 
 To set the application to Arabic, for example, add `?lang=ar` to the end of the url.
 
-## Pym.js
-Pym.js is a way to embed an iframe whose aspect ratio changes at different screen widths.
+## iframe-resizer
+iframe-resizer is a way to embed an iframe whose aspect ratio changes at different screen widths.
 
-> In Pym.js parlance, the parent page is the page you embed the iframe in. And the child frame is the page that is embedded.
+See https://github.com/davidjbradshaw/iframe-resizer for documentation.
 
-An example of pym usage is in [iframe-pym.html](/iframe-pym.html)
+An example of iframe-resizer usage is in [iframe-resizer.html](/iframe-resizer.html)
 
 ## Updates
 We're leveraging Github's functionality as much as possible. The live version sits in the gh-pages branch. To keep the data clean and not re-introduce errors it's important to pull before pushing (for yearly updates)

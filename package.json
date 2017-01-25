@@ -4,10 +4,11 @@
   "description": "Maps for death penalties and executions",
   "main": "index.html",
   "scripts": {
+    "copy-vendor-js": "./scripts/copy-vendor-js.sh",
     "minify:js": "uglifyjs javascripts/vendor/*.js -o javascripts/vendor.min.js",
     "clean": "rm -rf javascripts/vendor.min.js",
     "start": "http-server",
-    "build:js": "npm run clean && npm run minify:js"
+    "build:js": "npm run clean && npm run copy-vendor-js && npm run minify:js"
   },
   "repository": {
     "type": "git",
@@ -29,5 +30,8 @@
     "http-server": "^0.9.0",
     "jshint": "^2.9.1",
     "uglify-js": "^2.6.2"
+  },
+  "dependencies": {
+    "iframe-resizer": "3"
   }
 }

@@ -31,8 +31,6 @@ var customSlider;
 var sliderPlayPauseButton;
 var sliderPlayPauseButtonState;
 
-var pymChild = new pym.Child();
-
 var defaultLang= "en";
 var supportedLanguages = ['ar', 'en', 'es', 'fr'];
 var lang = getLangFromQueryString();
@@ -214,7 +212,9 @@ function ready(error, world, active, dict) {
   setupSlider();
   setupNextPreviousYear();
 
-  pymChild.sendHeight();
+  if ('parentIFrame' in window) {
+      parentIFrame.size();
+  }
   removeLoadingScreen();
 }
 
@@ -907,7 +907,9 @@ function throttle() {
     throttleTimer = window.setTimeout(function() {
       redraw();
       updateSliderWidth();
-      pymChild.sendHeight();
+      if ('parentIFrame' in window) {
+          parentIFrame.size();
+      }
     }, 200);
 }
 
