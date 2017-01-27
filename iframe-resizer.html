@@ -5,11 +5,11 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
   <body>
-    <div id="map-embed"></div>
+    <iframe src="index.html" style="width:100%;" scrolling="no" frameborder="0" style="border:0;"></iframe>
 
-    <script type="text/javascript" src="javascripts/vendor/pym.js"></script>
+    <script type="text/javascript" src="javascripts/vendor-external/iframeResizer.js"></script>
     <script>
-        var pymParent = new pym.Parent('map-embed', 'index.html', {});
+    iFrameResize(document.querySelector('iframe'));
     </script>
   </body>
 </html>
