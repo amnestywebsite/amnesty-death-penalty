@@ -60,12 +60,12 @@ We're leveraging Github's functionality as much as possible. The live version si
 Small edits can be done in Github using a Github account. If it's a tiny change and you are confident about making it, you can work directly in gh-pages. If not, you can create a new branch when you save it and then merge it into gh-pages once you are happy using a pull request.
 
 1. Log in to Github
-2. Make sure you are working in the correct branch. gh-pages is the live branch - don't go near this branch unless you know what you are doing. v2-all branch is where the new development is going on. It's fine to work in this branch.
+2. Make sure you are working in the correct branch. gh-pages is the live branch. If you're not sure, you can make a new branch from the gh-pages one and then merge your changes into gh-pages once you have previewed them.
 3. Go to the [data file](/data/data.json)
 4. Click on the pencil in the top right
 5. Make the edit
 6. Save the edit - add a commit message and save in the current branch (see point 2 above for details about branches).
-7. You can preview the changes made in the v2-all branch [here](https://htmlpreview.github.io/?https://github.com/wearethoughtfox/amnesty-dp-2016/blob/v2-all/index.html)
+7. You can preview the changes made in the your branch using this url and adding the correct branch name where is says BRANCH-NAME: https://htmlpreview.github.io/?https://github.com/wearethoughtfox/amnesty-dp-2016/blob/BRANCH-NAME/index.html
 
 ## Editing workflow - yearly updates
 Two files are necessary for yearly updates. One for the year data and one for the country data. Pass these CSVs to a developer who can integrate them and update the timeline for an extra year.
