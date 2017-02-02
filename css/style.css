@@ -237,7 +237,7 @@ html {
   line-height:1.5;
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   html {
     overflow: hidden;
   }
@@ -297,7 +297,7 @@ h1, h2, h3, h4, h5, h6  {
     line-height:1.125;  /* 72px */
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   html {
     .mega{
       font-size:40px;
@@ -328,7 +328,7 @@ h1,.alpha{
     line-height:1.5;    /* 48px */
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   h1,.alpha {
     font-size:24px;
     font-size:1.5rem;     /* 32px */
@@ -349,7 +349,7 @@ h2,.beta{
     line-height:1;      /* 24px */
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   h2,.beta{
     font-size:1.3em;    /* 24px */
     line-height:1;      /* 24px */
@@ -412,7 +412,7 @@ small,.milli {
   border-top: 1px solid #939598;
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   #info-box {
     width: 320px;
     float: left;
@@ -436,7 +436,7 @@ small,.milli {
   flex-wrap: wrap;
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   #info-box-inner {
     display: block;
     padding-left: 1rem;
@@ -452,7 +452,7 @@ small,.milli {
   position: relative;
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   #map-wrapper {
     width: 100%;
     box-sizing: border-box;
@@ -474,7 +474,7 @@ small,.milli {
   display: none;
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   .overview-year-ns {
     display: block;
     font-size: 80px;
@@ -505,7 +505,7 @@ small,.milli {
   margin-left: -1px;
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   .footer-left-m {
     width: 100%;
     background-color: #e5e5e5;
@@ -537,7 +537,7 @@ small,.milli {
   justify-content: space-around; /* align horizontal */
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   .lte-ie9 .footer-right-m,
   .footer-right-m {
     width: 100%;
@@ -556,7 +556,7 @@ small,.milli {
   margin-right: 1%;
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   #bar-chart-wrapper {
     width: 100%;
   }
@@ -630,7 +630,7 @@ small,.milli {
   margin-left: auto;
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   .total-executions {
     border-top: 4px solid #939598;
     padding-left: 0;
@@ -678,7 +678,7 @@ small,.milli {
   z-index: 100;
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   #detail-box {
     top: 7.15rem;
   }
@@ -720,7 +720,7 @@ small,.milli {
   font-size: 2rem;
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   #detail-box h1 {
     font-size: 1.25rem;
   }
@@ -736,7 +736,7 @@ small,.milli {
   line-height: 1.5rem;
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   .detailBox-definition {
    font-size: 0.7rem;
    line-height: 0.85rem;
@@ -858,7 +858,7 @@ small,.milli {
   padding: 0.5rem;
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   .buttons {
     .media__img{
       width: 20%;
@@ -893,7 +893,7 @@ small,.milli {
   text-align: left;
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   .media__body{
     text-align: right;
   }
@@ -960,7 +960,7 @@ small,.milli {
   padding-left: 0.1rem;
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   .dp-words {
   font-size: 14px;
   font-size: 0.875rem;
@@ -1006,7 +1006,7 @@ small,.milli {
   margin: 0;
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   .execution-words {
     font-size: 14px;
     font-size: 0.875rem;
@@ -1037,7 +1037,7 @@ small,.milli {
   bottom: 3rem;
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   .buttons {
     position: absolute;
     right: 2rem;
@@ -1095,7 +1095,7 @@ small,.milli {
   vertical-align: middle;
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   .totals-block {
     text-align: right;
     border-right: 1px solid #ccc;
@@ -1120,7 +1120,7 @@ small,.milli {
   display: none;
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   #slider {
     float: left;
     position: relative;
@@ -1203,7 +1203,7 @@ small,.milli {
   justify-content: space-around; /* align horizontal */
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   .header-m {
     display: none;
   }
@@ -1256,7 +1256,7 @@ small,.milli {
   display: block;
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   #search-box .awesomplete {
     z-index: 1000;
   }
@@ -1280,7 +1280,7 @@ small,.milli {
   outline: none;
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 49em) {
   #search-box {
     position: static;
     padding-top: 1rem;
