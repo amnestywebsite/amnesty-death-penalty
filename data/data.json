@@ -10207,8 +10207,8 @@
 ]
 },{
       "year":"2013",
-      "total-executions":"1,813+",
-      "total-death-sentences":"3,029+",
+      "total-executions":"778+",
+      "total-death-sentences":"1,925+",
       "ABOLITIONIST":"98",
       "ABOLITIONIST FOR ORDINARY CRIMES":"7",
       "ABOLITIONIST IN PRACTICE":"35",
@@ -10498,7 +10498,7 @@
     "id": "CHN",
     "name": "CHINA",
     "since": "",
-    "executions": "1,000+",
+    "executions": "+",
     "death-penalties": "1,000+",
     "status": "RETENTIONIST",
     "note": {
