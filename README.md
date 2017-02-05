@@ -24,7 +24,8 @@ The year data sits at the top of each year. This controls the year totals and th
 Each country is an object with the countries array for that year. All countries that need to be active (i.e. press for detailbox) need to be in this array.
 
 * The id (ISO3) is necessary to reference to correct geo data from world-topo.json. * The country name is references the country name translation in the dictionary file (lang/dictionary.json)
-* The country name in data.json is in CAPS to indicate that it is not actually the country name but a reference to the key for translation. It must match the translation key in dictionary.json. If you want to change a country name in any language you need to do it in the dictionary file (lang/dictionary.json)
+* The country name in data.json is in CAPS to indicate that it is not actually the country name but a reference to the key for translation. It must match the translation key in dictionary.json. If you want to change a country name in any language you need to do it in the dictionary file (lang/dictionary.json).
+* Don’t ever change anything in CAPS - that indicates it’s a reference rather than the actual value. If in doubt, please double check.
 * Putting a "O" in either executions or death-penalties will show the box with O. If you don't want it show - for abolitionist countries - leave it empty, e.g ""
 * "Since" is the year an abolitionist country abolished the death penalty. "Status" is must match one of the four statuses outlined above.
 
