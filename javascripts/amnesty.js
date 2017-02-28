@@ -32,7 +32,7 @@ var sliderPlayPauseButton;
 var sliderPlayPauseButtonState;
 
 var defaultLang= "en";
-var supportedLanguages = ['ar', 'en', 'es', 'fr'];
+var supportedLanguages = ['ar', 'en', 'es', 'fr','zh-Hans','zh-Hant'];
 var lang = getLangFromQueryString();
 var dir;
 setLangAndDir(lang);
