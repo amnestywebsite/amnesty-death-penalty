@@ -4,40 +4,40 @@
       "es":"Abolitionist-es",
       "fr":"Abolitionist-fr",
       "ar":"Abolitionist-ar",
-      "zh-Hans":"tk-chinese-simp",
-      "zh-Hant":"tk-chinese-trad"
+      "zh-Hans":"完全废除死刑",
+      "zh-Hant":"完全廢除死刑"
    },
    "RETENTIONIST":{
       "en":"Retentionist",
       "es":"Retentionist-es",
       "fr":"Retentionist-fr",
       "ar":"Retentionist-ar",
-      "zh-Hans":"tk-chinese-simp",
-      "zh-Hant":"tk-chinese-trad"
+      "zh-Hans":"保留死刑",
+      "zh-Hant":"保留死刑"
    },
    "ABOLITIONIST IN PRACTICE":{
       "en":"Abolitionist in practice",
       "es":"Abolitionist in practice-es",
       "fr":"Abolitionist in practice-fr",
       "ar":"Abolitionist in practice-ar",
-      "zh-Hans":"tk-chinese-simp",
-      "zh-Hant":"tk-chinese-trad"
+      "zh-Hans":"实际上废除死刑",
+      "zh-Hant":"廢除普通犯罪的死刑"
    },
    "ABOLITIONIST FOR ORDINARY CRIMES":{
       "en":"Abolitionist for ordinary crimes only",
       "es":"Abolitionist for ordinary crimes-es",
       "fr":"Abolitionist for ordinary crimes-fr",
       "ar":"Abolitionist for ordinary crimes-ar",
-      "zh-Hans":"tk-chinese-simp",
-      "zh-Hant":"tk-chinese-trad"
+      "zh-Hans":"废除普通犯罪的死刑",
+      "zh-Hant":"废除普通犯罪的死刑"
    },
    "ABOLITIONIST DEFINITION":{
       "en":"Use of the death penalty is not allowed by law",
       "es":"Does not use the death penalty-es",
       "fr":"Does not use the death penalty-fr",
       "ar":"Does not use the death penalty-ar",
-      "zh-Hans":"tk-chinese-simp",
-      "zh-Hant":"tk-chinese-trad"
+      "zh-Hans":"对任何犯罪不处以死刑的国家",
+      "zh-Hant":"對任何犯罪不判處死刑的國家"
    },
    "RETENTIONIST DEFINITION":{
       "en":"Retains the death penalty in law",
@@ -52,7 +52,7 @@
       "es":"Retains the death penalty in law, but hasn’t executed for at least 10 years-es",
       "fr":"Retains the death penalty in law, but hasn’t executed for at least 10 years-fr",
       "ar":"Retains the death penalty in law, but hasn’t executed for at least 10 years-ar",
-      "zh-Hans":"tk-chinese-simp",
+      "zh-Hans":"实际上废除死刑",
       "zh-Hant":"tk-chinese-trad"
    },
    "ABOLITIONIST FOR ORDINARY CRIMES DEFINITION":{
@@ -60,8 +60,8 @@
       "es":"Retains the death penalty only for exceptional crimes, such as those committed during times of war-es",
       "fr":"Retains the death penalty only for exceptional crimes, such as those committed during times of war-fr",
       "ar":"Retains the death penalty only for exceptional crimes, such as those committed during times of war-ar",
-      "zh-Hans":"tk-chinese-simp",
-      "zh-Hant":"tk-chinese-trad"
+      "zh-Hans":"对普通犯罪保留死刑的国家",
+      "zh-Hant":"保留對普通犯罪判處死刑的國家"
    },
    "EXECUTIONS":{
       "en":"Executions",
@@ -140,8 +140,8 @@
     "es": "Albania_es",
     "fr": "Albania_fr",
     "ar": "Albania_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh-Hans":"阿尔巴尼亚",
+    "zh-Hant":"阿爾巴尼亞"
   },
   "ANDORRA": {
     "en": "Andorra",
@@ -180,8 +180,8 @@
     "es": "Australia_es",
     "fr": "Australia_fr",
     "ar": "Australia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh-Hans":"澳大利亚",
+    "zh-Hant":"澳洲"
   },
   "AUSTRIA": {
     "en": "Austria",
@@ -660,8 +660,8 @@
     "es": "Nepal_es",
     "fr": "Nepal_fr",
     "ar": "Nepal_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh-Hans":"尼泊尔",
+    "zh-Hant":"尼泊爾"
   },
   "NETHERLANDS": {
     "en": "Netherlands",
@@ -724,16 +724,16 @@
     "es": "Paraguay_es",
     "fr": "Paraguay_fr",
     "ar": "Paraguay_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh-Hans":"巴拉圭",
+    "zh-Hant":"巴拉圭"
   },
   "PHILIPPINES": {
     "en": "Philippines",
     "es": "Philippines_es",
     "fr": "Philippines_fr",
     "ar": "Philippines_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh-Hans":"菲律宾",
+    "zh-Hant":"菲律賓"
   },
   "POLAND": {
     "en": "Poland",
