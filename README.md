@@ -41,7 +41,7 @@ Each country is an object with the countries array for that year. All countries 
 ### Languages
 The languages come from a [language file](/lang/dictionary.json) which includes the translations for all the terms in the application. This approach keeps the data clean and avoids duplication.
 
-To set the language add the language code in a variable in the embed url. Supported languages are ['ar', 'en', 'es', 'fr']. If it is not recognised, it will default to English.
+To set the language add the language code in a variable in the embed url. Supported languages are ['ar', 'en', 'es', 'fr', 'zh-Hans','zh-Hant']. If it is not recognised, it will default to English.
 
 To set the application to Arabic, for example, add `?lang=ar` to the end of the url.
 
