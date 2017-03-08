@@ -4,1745 +4,1970 @@
       "es":"Abolitionist-es",
       "fr":"Abolitionist-fr",
       "ar":"Abolitionist-ar",
-      "zh-Hans":"完全废除死刑",
-      "zh-Hant":"完全廢除死刑"
+      "zh_Hans":"完全废除死刑",
+      "zh_Hant":"完全廢除死刑",
+      "zh_TW":"tk-chinese-taiwan"
    },
    "RETENTIONIST":{
       "en":"Retentionist",
       "es":"Retentionist-es",
       "fr":"Retentionist-fr",
       "ar":"Retentionist-ar",
-      "zh-Hans":"保留死刑",
-      "zh-Hant":"保留死刑"
+      "zh_Hans":"保留死刑",
+      "zh_Hant":"保留死刑",
+      "zh_TW":"tk-chinese-taiwan"
    },
    "ABOLITIONIST IN PRACTICE":{
       "en":"Abolitionist in practice",
       "es":"Abolitionist in practice-es",
       "fr":"Abolitionist in practice-fr",
       "ar":"Abolitionist in practice-ar",
-      "zh-Hans":"实际上废除死刑",
-      "zh-Hant":"廢除普通犯罪的死刑"
+      "zh_Hans":"实际上废除死刑",
+      "zh_Hant":"廢除普通犯罪的死刑",
+      "zh_TW":"tk-chinese-taiwan"
    },
    "ABOLITIONIST FOR ORDINARY CRIMES":{
       "en":"Abolitionist for ordinary crimes only",
       "es":"Abolitionist for ordinary crimes-es",
       "fr":"Abolitionist for ordinary crimes-fr",
       "ar":"Abolitionist for ordinary crimes-ar",
-      "zh-Hans":"废除普通犯罪的死刑",
-      "zh-Hant":"废除普通犯罪的死刑"
+      "zh_Hans":"废除普通犯罪的死刑",
+      "zh_Hant":"废除普通犯罪的死刑",
+      "zh_TW":"tk-chinese-taiwan"
    },
    "ABOLITIONIST DEFINITION":{
       "en":"Use of the death penalty is not allowed by law",
       "es":"Does not use the death penalty-es",
       "fr":"Does not use the death penalty-fr",
       "ar":"Does not use the death penalty-ar",
-      "zh-Hans":"对任何犯罪不处以死刑的国家",
-      "zh-Hant":"對任何犯罪不判處死刑的國家"
+      "zh_Hans":"对任何犯罪不处以死刑的国家",
+      "zh_Hant":"對任何犯罪不判處死刑的國家",
+      "zh_TW":"tk-chinese-taiwan"
    },
    "RETENTIONIST DEFINITION":{
       "en":"Retains the death penalty in law",
       "es":"Retains the death penalty in law-es",
       "fr":"Retains the death penalty in law-fr",
       "ar":"Retains the death penalty in law-ar",
-      "zh-Hans":"tk-chinese-simp",
-      "zh-Hant":"tk-chinese-trad"
+      "zh_Hans":"tk-chinese-simp",
+      "zh_Hant":"tk-chinese-trad",
+      "zh_TW":"tk-chinese-taiwan"
    },
    "ABOLITIONIST IN PRACTICE DEFINITION":{
       "en":"Retains the death penalty in law, but hasn’t executed for at least 10 years as part of an established practice",
       "es":"Retains the death penalty in law, but hasn’t executed for at least 10 years-es",
       "fr":"Retains the death penalty in law, but hasn’t executed for at least 10 years-fr",
       "ar":"Retains the death penalty in law, but hasn’t executed for at least 10 years-ar",
-      "zh-Hans":"实际上废除死刑",
-      "zh-Hant":"tk-chinese-trad"
+      "zh_Hans":"实际上废除死刑",
+      "zh_Hant":"tk-chinese-trad",
+      "zh_TW":"tk-chinese-taiwan"
    },
    "ABOLITIONIST FOR ORDINARY CRIMES DEFINITION":{
       "en":"Retains the death penalty only for serious crimes, such as those committed during times of war",
       "es":"Retains the death penalty only for exceptional crimes, such as those committed during times of war-es",
       "fr":"Retains the death penalty only for exceptional crimes, such as those committed during times of war-fr",
       "ar":"Retains the death penalty only for exceptional crimes, such as those committed during times of war-ar",
-      "zh-Hans":"对普通犯罪保留死刑的国家",
-      "zh-Hant":"保留對普通犯罪判處死刑的國家"
+      "zh_Hans":"对普通犯罪保留死刑的国家",
+      "zh_Hant":"保留對普通犯罪判處死刑的國家",
+      "zh_TW":"tk-chinese-taiwan"
    },
    "EXECUTIONS":{
       "en":"Executions",
       "es":"Executions-es",
       "fr":"Executions-fr",
       "ar":"Executions-ar",
-      "zh-Hans":"tk-chinese-simp",
-      "zh-Hant":"tk-chinese-trad"
+      "zh_Hans":"tk-chinese-simp",
+      "zh_Hant":"tk-chinese-trad",
+      "zh_TW":"tk-chinese-taiwan"
    },
    "DEATH SENTENCES":{
       "en":"Death sentences",
       "es":"Death sentences-es",
       "fr":"Death sentences-fr",
       "ar":"Death sentences-ar",
-      "zh-Hans":"tk-chinese-simp",
-      "zh-Hant":"tk-chinese-trad"
+      "zh_Hans":"tk-chinese-simp",
+      "zh_Hant":"tk-chinese-trad",
+      "zh_TW":"tk-chinese-taiwan"
    },
    "SINCE":{
       "en":"Since",
       "es":"Since-es",
       "fr":"Since-fr",
       "ar":"Since-ar",
-      "zh-Hans":"tk-chinese-simp",
-      "zh-Hant":"tk-chinese-trad"
+      "zh_Hans":"tk-chinese-simp",
+      "zh_Hant":"tk-chinese-trad",
+      "zh_TW":"tk-chinese-taiwan"
    },
    "SEARCH COUNTRY":{
       "en":"Search country",
       "es":"Search country-es",
       "fr":"Search country-fr",
       "ar":"Search country-ar",
-      "zh-Hans":"tk-chinese-simp",
-      "zh-Hant":"tk-chinese-trad"
+      "zh_Hans":"tk-chinese-simp",
+      "zh_Hant":"tk-chinese-trad",
+      "zh_TW":"tk-chinese-taiwan"
    },
    "PLAY":{
       "en":"Play",
       "es":"Play-es",
       "fr":"Play-fr",
       "ar":"Play-ar",
-      "zh-Hans":"tk-chinese-simp",
-      "zh-Hant":"tk-chinese-trad"
+      "zh_Hans":"tk-chinese-simp",
+      "zh_Hant":"tk-chinese-trad",
+      "zh_TW":"tk-chinese-taiwan"
    },
    "PAUSE":{
       "en":"Pause",
       "es":"Pause-es",
       "fr":"Pause-fr",
       "ar":"Pause-ar",
-      "zh-Hans":"tk-chinese-simp",
-      "zh-Hant":"tk-chinese-trad"
+      "zh_Hans":"tk-chinese-simp",
+      "zh_Hant":"tk-chinese-trad",
+      "zh_TW":"tk-chinese-taiwan"
    },
    "ZOOM IN":{
       "en":"Zoom in",
       "es":"Zoom in-es",
       "fr":"Zoom in-fr",
       "ar":"Zoom in-ar",
-      "zh-Hans":"tk-chinese-simp",
-      "zh-Hant":"tk-chinese-trad"
+      "zh_Hans":"tk-chinese-simp",
+      "zh_Hant":"tk-chinese-trad",
+      "zh_TW":"tk-chinese-taiwan"
    },
    "ZOOM OUT":{
       "en":"Zoom out",
       "es":"Zoom out-es",
       "fr":"Zoom out-fr",
       "ar":"Zoom out-ar",
-      "zh-Hans":"tk-chinese-simp",
-      "zh-Hant":"tk-chinese-trad"
+      "zh_Hans":"tk-chinese-simp",
+      "zh_Hant":"tk-chinese-trad",
+      "zh_TW":"tk-chinese-taiwan"
    },
    "COUNTRIES":{
       "en":"countries",
       "es":"countries-es",
       "fr":"countries-fr",
       "ar":"countries-ar",
-      "zh-Hans":"tk-chinese-simp",
-      "zh-Hant":"tk-chinese-trad"
+      "zh_Hans":"tk-chinese-simp",
+      "zh_Hant":"tk-chinese-trad",
+      "zh_TW":"tk-chinese-taiwan"
    },
   "ALBANIA": {
     "en": "Albania",
     "es": "Albania_es",
     "fr": "Albania_fr",
     "ar": "Albania_ar",
-    "zh-Hans":"阿尔巴尼亚",
-    "zh-Hant":"阿爾巴尼亞"
+    "zh_Hans":"阿尔巴尼亚",
+    "zh_Hant":"阿爾巴尼亞",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "ANDORRA": {
     "en": "Andorra",
     "es": "Andorra_es",
     "fr": "Andorra_fr",
     "ar": "Andorra_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "ANGOLA": {
     "en": "Angola",
     "es": "Angola_es",
     "fr": "Angola_fr",
     "ar": "Angola_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "ARGENTINA": {
     "en": "Argentina",
     "es": "Argentina_es",
     "fr": "Argentina_fr",
     "ar": "Argentina_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "ARMENIA": {
     "en": "Armenia",
     "es": "Armenia_es",
     "fr": "Armenia_fr",
     "ar": "Armenia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "AUSTRALIA": {
     "en": "Australia",
     "es": "Australia_es",
     "fr": "Australia_fr",
     "ar": "Australia_ar",
-    "zh-Hans":"澳大利亚",
-    "zh-Hant":"澳洲"
+    "zh_Hans":"澳大利亚",
+    "zh_Hant":"澳洲",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "AUSTRIA": {
     "en": "Austria",
     "es": "Austria_es",
     "fr": "Austria_fr",
     "ar": "Austria_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "AZERBAIJAN": {
     "en": "Azerbaijan",
     "es": "Azerbaijan_es",
     "fr": "Azerbaijan_fr",
     "ar": "Azerbaijan_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "BELGIUM": {
     "en": "Belgium",
     "es": "Belgium_es",
     "fr": "Belgium_fr",
     "ar": "Belgium_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "BHUTAN": {
     "en": "Bhutan",
     "es": "Bhutan_es",
     "fr": "Bhutan_fr",
     "ar": "Bhutan_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "BOLIVIA": {
     "en": "Bolivia",
     "es": "Bolivia_es",
     "fr": "Bolivia_fr",
     "ar": "Bolivia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "BOSNIA AND HERZEGOVINA": {
     "en": "Bosnia and Herzegovina",
     "es": "Bosnia-Herzegovina_es",
     "fr": "Bosnia-Herzegovina_fr",
     "ar": "Bosnia-Herzegovina_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "BULGARIA": {
     "en": "Bulgaria",
     "es": "Bulgaria_es",
     "fr": "Bulgaria_fr",
     "ar": "Bulgaria_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "BURUNDI": {
     "en": "Burundi",
     "es": "Burundi_es",
     "fr": "Burundi_fr",
     "ar": "Burundi_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "CAMBODIA": {
     "en": "Cambodia",
     "es": "Cambodia_es",
     "fr": "Cambodia_fr",
     "ar": "Cambodia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "CANADA": {
     "en": "Canada",
     "es": "Canada_es",
     "fr": "Canada_fr",
     "ar": "Canada_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "CAPE VERDE": {
     "en": "Cape Verde",
     "es": "Cape Verde_es",
     "fr": "Cape Verde_fr",
     "ar": "Cape Verde_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "COLOMBIA": {
     "en": "Colombia",
     "es": "Colombia_es",
     "fr": "Colombia_fr",
     "ar": "Colombia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "CONGO (REPUBLIC OF)": {
     "en": "Republic of Congo",
     "es": "Congo (Republic of)_es",
     "fr": "Congo (Republic of)_fr",
     "ar": "Congo (Republic of)_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "COOK ISLANDS": {
     "en": "Cook Islands",
     "es": "Cook Islands_es",
     "fr": "Cook Islands_fr",
     "ar": "Cook Islands_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "DOMINICAN REPUBLIC": {
     "en": "Dominican Republic",
     "es": "Dominican Republic_es",
     "fr": "Dominican Republic_fr",
     "ar": "Dominican Republic_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "COSTA RICA": {
     "en": "Costa Rica",
     "es": "Costa Rica_es",
     "fr": "Costa Rica_fr",
     "ar": "Costa Rica_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "COTE D'IVOIRE": {
     "en": "Côte D'Ivoire",
     "es": "Cote D'ivoire_es",
     "fr": "Cote D'ivoire_fr",
     "ar": "Cote D'ivoire_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "CROATIA": {
     "en": "Croatia",
     "es": "Croatia_es",
     "fr": "Croatia_fr",
     "ar": "Croatia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "CYPRUS": {
     "en": "Cyprus",
     "es": "Cyprus_es",
     "fr": "Cyprus_fr",
     "ar": "Cyprus_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "CZECH REPUBLIC": {
     "en": "Czech Republic",
     "es": "Czech Republic_es",
     "fr": "Czech Republic_fr",
     "ar": "Czech Republic_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "DENMARK": {
     "en": "Denmark",
     "es": "Denmark_es",
     "fr": "Denmark_fr",
     "ar": "Denmark_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "DJIBOUTI": {
     "en": "Djibouti",
     "es": "Djibouti_es",
     "fr": "Djibouti_fr",
     "ar": "Djibouti_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "DOMINICA": {
     "en": "Dominica",
     "es": "Dominica_es",
     "fr": "Dominica_fr",
     "ar": "Dominica_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "ECUADOR": {
     "en": "Ecuador",
     "es": "Ecuador_es",
     "fr": "Ecuador_fr",
     "ar": "Ecuador_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "ESTONIA": {
     "en": "Estonia",
     "es": "Estonia_es",
     "fr": "Estonia_fr",
     "ar": "Estonia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "FINLAND": {
     "en": "Finland",
     "es": "Finland_es",
     "fr": "Finland_fr",
     "ar": "Finland_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "FIJI": {
     "en": "Fiji",
     "es": "Fiji_es",
     "fr": "Fiji_fr",
     "ar": "Fiji_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "FRANCE": {
     "en": "France",
     "es": "France_es",
     "fr": "France_fr",
     "ar": "France_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "GABON": {
     "en": "Gabon",
     "es": "Gabon_es",
     "fr": "Gabon_fr",
     "ar": "Gabon_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "GEORGIA": {
     "en": "Georgia",
     "es": "Georgia_es",
     "fr": "Georgia_fr",
     "ar": "Georgia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "GERMANY": {
     "en": "Germany",
     "es": "Germany_es",
     "fr": "Germany_fr",
     "ar": "Germany_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "GREECE": {
     "en": "Greece",
     "es": "Greece_es",
     "fr": "Greece_fr",
     "ar": "Greece_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "GREENLAND / DENMARK": {
     "en": "Greenland / Denmark",
     "es": "Greenland / Denmark_es",
     "fr": "Greenland / Denmark_fr",
     "ar": "Greenland / Denmark_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "GUINEA-BISSAU": {
     "en": "Guinea-Bissau",
     "es": "Guinea-Bissau_es",
     "fr": "Guinea-Bissau_fr",
     "ar": "Guinea-Bissau_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "HAITI": {
     "en": "Haiti",
     "es": "Haiti_es",
     "fr": "Haiti_fr",
     "ar": "Haiti_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "HOLY SEE": {
     "en": "Holy See",
     "es": "Holy See_es",
     "fr": "Holy See_fr",
     "ar": "Holy See_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "HONDURAS": {
     "en": "Honduras",
     "es": "Honduras_es",
     "fr": "Honduras_fr",
     "ar": "Honduras_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "HUNGARY": {
     "en": "Hungary",
     "es": "Hungary_es",
     "fr": "Hungary_fr",
     "ar": "Hungary_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "ICELAND": {
     "en": "Iceland",
     "es": "Iceland_es",
     "fr": "Iceland_fr",
     "ar": "Iceland_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "IRELAND": {
     "en": "Ireland",
     "es": "Ireland_es",
     "fr": "Ireland_fr",
     "ar": "Ireland_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "ITALY": {
     "en": "Italy",
     "es": "Italy_es",
     "fr": "Italy_fr",
     "ar": "Italy_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "KYRGYZSTAN": {
     "en": "Kyrgyzstan",
     "es": "Kyrgyzstan_es",
     "fr": "Kyrgyzstan_fr",
     "ar": "Kyrgyzstan_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "KIRIBATI": {
     "en": "Kiribati",
     "es": "Kiribati_es",
     "fr": "Kiribati_fr",
     "ar": "Kiribati_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "LATVIA": {
     "en": "Latvia",
     "es": "Latvia_es",
     "fr": "Latvia_fr",
     "ar": "Latvia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "LIECHTENSTEIN": {
     "en": "Liechtenstein",
     "es": "Liechtenstein_es",
     "fr": "Liechtenstein_fr",
     "ar": "Liechtenstein_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "LITHUANIA": {
     "en": "Lithuania",
     "es": "Lithuania_es",
     "fr": "Lithuania_fr",
     "ar": "Lithuania_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "LUXEMBOURG": {
     "en": "Luxembourg",
     "es": "Luxembourg_es",
     "fr": "Luxembourg_fr",
     "ar": "Luxembourg_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "MACEDONIA": {
     "en": "Macedonia",
     "es": "Macedonia_es",
     "fr": "Macedonia_fr",
     "ar": "Macedonia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "MADAGASCAR": {
     "en": "Madagascar",
     "es": "Madagascar_es",
     "fr": "Madagascar_fr",
     "ar": "Madagascar_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "MALTA": {
     "en": "Malta",
     "es": "Malta_es",
     "fr": "Malta_fr",
     "ar": "Malta_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "MARSHELL ISLANDS": {
     "en": "Marshell Islands",
     "es": "Marshell Islands_es",
     "fr": "Marshell Islands_fr",
     "ar": "Marshell Islands_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "MAURITIUS": {
     "en": "Mauritius",
     "es": "Mauritius_es",
     "fr": "Mauritius_fr",
     "ar": "Mauritius_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "MEXICO": {
     "en": "Mexico",
     "es": "Mexico_es",
     "fr": "Mexico_fr",
     "ar": "Mexico_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "MICRONESIA": {
     "en": "Micronesia",
     "es": "Micronesia_es",
     "fr": "Micronesia_fr",
     "ar": "Micronesia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "MOLDOVA": {
     "en": "Moldova",
     "es": "Moldova_es",
     "fr": "Moldova_fr",
     "ar": "Moldova_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "MONACO": {
     "en": "Monaco",
     "es": "Monaco_es",
     "fr": "Monaco_fr",
     "ar": "Monaco_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "MONTENEGRO": {
     "en": "Montenegro",
     "es": "Montenegro_es",
     "fr": "Montenegro_fr",
     "ar": "Montenegro_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "MOZAMBIQUE": {
     "en": "Mozambique",
     "es": "Mozambique_es",
     "fr": "Mozambique_fr",
     "ar": "Mozambique_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "NAMIBIA": {
     "en": "Namibia",
     "es": "Namibia_es",
     "fr": "Namibia_fr",
     "ar": "Namibia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "NEPAL": {
     "en": "Nepal",
     "es": "Nepal_es",
     "fr": "Nepal_fr",
     "ar": "Nepal_ar",
-    "zh-Hans":"尼泊尔",
-    "zh-Hant":"尼泊爾"
+    "zh_Hans":"尼泊尔",
+    "zh_Hant":"尼泊爾",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "NETHERLANDS": {
     "en": "Netherlands",
     "es": "Netherlands_es",
     "fr": "Netherlands_fr",
     "ar": "Netherlands_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "NEW ZEALAND": {
     "en": "New Zealand",
     "es": "New Zealand_es",
     "fr": "New Zealand_fr",
     "ar": "New Zealand_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "NICARAGUA": {
     "en": "Nicaragua",
     "es": "Nicaragua_es",
     "fr": "Nicaragua_fr",
     "ar": "Nicaragua_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "NIUE": {
     "en": "Niue",
     "es": "Niue_es",
     "fr": "Niue_fr",
     "ar": "Niue_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "NORWAY": {
     "en": "Norway",
     "es": "Norway_es",
     "fr": "Norway_fr",
     "ar": "Norway_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "PALAU": {
     "en": "Palau",
     "es": "Palau_es",
     "fr": "Palau_fr",
     "ar": "Palau_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "PANAMA": {
     "en": "Panama",
     "es": "Panama_es",
     "fr": "Panama_fr",
     "ar": "Panama_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "PARAGUAY": {
     "en": "Paraguay",
     "es": "Paraguay_es",
     "fr": "Paraguay_fr",
     "ar": "Paraguay_ar",
-    "zh-Hans":"巴拉圭",
-    "zh-Hant":"巴拉圭"
+    "zh_Hans":"巴拉圭",
+    "zh_Hant":"巴拉圭",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "PHILIPPINES": {
     "en": "Philippines",
     "es": "Philippines_es",
     "fr": "Philippines_fr",
     "ar": "Philippines_ar",
-    "zh-Hans":"菲律宾",
-    "zh-Hant":"菲律賓"
+    "zh_Hans":"菲律宾",
+    "zh_Hant":"菲律賓",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "POLAND": {
     "en": "Poland",
     "es": "Poland_es",
     "fr": "Poland_fr",
     "ar": "Poland_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "PORTUGAL": {
     "en": "Portugal",
     "es": "Portugal_es",
     "fr": "Portugal_fr",
     "ar": "Portugal_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "ROMANIA": {
     "en": "Romania",
     "es": "Romania_es",
     "fr": "Romania_fr",
     "ar": "Romania_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "RWANDA": {
     "en": "Rwanda",
     "es": "Rwanda_es",
     "fr": "Rwanda_fr",
     "ar": "Rwanda_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SAN MARINO": {
     "en": "San Marino",
     "es": "San Marino_es",
     "fr": "San Marino_fr",
     "ar": "San Marino_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SAO TOME AND PRINCIPE": {
     "en": "Sao Tome and Principe",
     "es": "Sao Tome and Principe_es",
     "fr": "Sao Tome and Principe_fr",
     "ar": "Sao Tome and Principe_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SENEGAL": {
     "en": "Senegal",
     "es": "Senegal_es",
     "fr": "Senegal_fr",
     "ar": "Senegal_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SERBIA (INCLUDING KOSOVO)": {
     "en": "Serbia (including Kosovo)",
     "es": "Serbia _es",
     "fr": "Serbia _fr",
     "ar": "Serbia _ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SEYCHELLES": {
     "en": "Seychelles",
     "es": "Seychelles_es",
     "fr": "Seychelles_fr",
     "ar": "Seychelles_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SLOVAKIA": {
     "en": "Slovakia",
     "es": "Slovakia_es",
     "fr": "Slovakia_fr",
     "ar": "Slovakia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SLOVENIA": {
     "en": "Slovenia",
     "es": "Slovenia_es",
     "fr": "Slovenia_fr",
     "ar": "Slovenia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SOLOMON ISLANDS": {
     "en": "Solomon Islands",
     "es": "Solomon Islands_es",
     "fr": "Solomon Islands_fr",
     "ar": "Solomon Islands_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SOMALIA": {
     "en": "Somalia (including Somaliland)",
     "es": "Somalia_es",
     "fr": "Somalia_fr",
     "ar": "Somalia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SOUTH AFRICA": {
     "en": "South Africa",
     "es": "South africa_es",
     "fr": "South africa_fr",
     "ar": "South africa_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SPAIN": {
     "en": "Spain",
     "es": "Spain_es",
     "fr": "Spain_fr",
     "ar": "Spain_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SURINAME": {
     "en": "Suriname",
     "es": "Suriname_es",
     "fr": "Suriname_fr",
     "ar": "Suriname_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SWEDEN": {
     "en": "Sweden",
     "es": "Sweden_es",
     "fr": "Sweden_fr",
     "ar": "Sweden_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SWITZERLAND": {
     "en": "Switzerland",
     "es": "Switzerland_es",
     "fr": "Switzerland_fr",
     "ar": "Switzerland_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "TOGO": {
     "en": "Togo",
     "es": "Togo_es",
     "fr": "Togo_fr",
     "ar": "Togo_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "TIMOR-LESTE": {
     "en": "Timor-Leste",
     "es": "Timor-Leste_es",
     "fr": "Timor-Leste_fr",
     "ar": "Timor-Leste_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "TURKEY": {
     "en": "Turkey",
     "es": "Turkey_es",
     "fr": "Turkey_fr",
     "ar": "Turkey_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "TURKMENISTAN": {
     "en": "Turkmenistan",
     "es": "Turkmenistan_es",
     "fr": "Turkmenistan_fr",
     "ar": "Turkmenistan_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "TUVALU": {
     "en": "Tuvalu",
     "es": "Tuvalu_es",
     "fr": "Tuvalu_fr",
     "ar": "Tuvalu_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "UKRAINE": {
     "en": "Ukraine",
     "es": "Ukraine_es",
     "fr": "Ukraine_fr",
     "ar": "Ukraine_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "UNITED KINGDOM": {
     "en": "United Kingdom",
     "es": "United Kingdom_es",
     "fr": "United Kingdom_fr",
     "ar": "United Kingdom_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "URUGUAY": {
     "en": "Uruguay",
     "es": "Uruguay_es",
     "fr": "Uruguay_fr",
     "ar": "Uruguay_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "UZBEKISTAN": {
     "en": "Uzbekistan",
     "es": "Uzbekistan_es",
     "fr": "Uzbekistan_fr",
     "ar": "Uzbekistan_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "VANUATU": {
     "en": "Vanuatu",
     "es": "Vanuatu_es",
     "fr": "Vanuatu_fr",
     "ar": "Vanuatu_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "VENEZUELA": {
     "en": "Venezuela",
     "es": "Venezuela_es",
     "fr": "Venezuela_fr",
     "ar": "Venezuela_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "HONG KONG": {
     "en": "Hong Kong SAR",
     "es": "Hong Kong_es",
     "fr": "Hong Kong_fr",
     "ar": "Hong Kong_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "ISRAEL": {
     "en": "Israel",
     "es": "Israel_es",
     "fr": "Israel_fr",
     "ar": "Israel_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "PERU": {
     "en": "Peru",
     "es": "Peru_es",
     "fr": "Peru_fr",
     "ar": "Peru_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "KAZAKHSTAN": {
     "en": "Kazakhstan",
     "es": "Kazakhstan_es",
     "fr": "Kazakhstan_fr",
-    "ar": "Kazakhstan_ar"
+    "ar": "Kazakhstan_ar",
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "CHILE": {
     "en": "Chile",
     "es": "Chile_es",
     "fr": "Chile_fr",
     "ar": "Chile_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "EL SALVADOR": {
     "en": "El Salvador",
     "es": "El Salvador_es",
     "fr": "El Salvador_fr",
-    "ar": "El Salvador_ar"
+    "ar": "El Salvador_ar",
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "BRAZIL": {
     "en": "Brazil",
     "es": "Brazil_es",
     "fr": "Brazil_fr",
     "ar": "Brazil_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "BENIN": {
     "en": "Benin",
     "es": "Benin_es",
     "fr": "Benin_fr",
     "ar": "Benin_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "BURKINA FASO": {
     "en": "Burkina Faso",
     "es": "Burkina Faso_es",
     "fr": "Burkina Faso_fr",
     "ar": "Burkina Faso_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "BRUNEI DARUSSALAM": {
     "en": "Brunei Darussalam",
     "es": "Brunei Darussalam_es",
     "fr": "Brunei Darussalam_fr",
-    "ar": "Brunei Darussalam_ar"
+    "ar": "Brunei Darussalam_ar",
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "CENTRAL AFRICAN REPUBLIC": {
     "en": "Central African Republic",
     "es": "Central African Republic_es",
     "fr": "Central African Republic_fr",
     "ar": "Central African Republic_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "CAMEROON": {
     "en": "Cameroon",
     "es": "Cameroon_es",
     "fr": "Cameroon_fr",
     "ar": "Cameroon_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "ALGERIA": {
     "en": "Algeria",
     "es": "Algeria_es",
     "fr": "Algeria_fr",
     "ar": "Algeria_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "ERITREA": {
     "en": "Eritrea",
     "es": "Eritrea_es",
     "fr": "Eritrea_fr",
     "ar": "Eritrea_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "MOROCCO / WESTERN SAHARA": {
     "en": "Morocco (including Western Sahara)",
     "es": "Morocco / Western Sahara_es",
     "fr": "Morocco / Western Sahara_fr",
     "ar": "Morocco / Western Sahara_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "GHANA": {
     "en": "Ghana",
     "es": "Ghana_es",
     "fr": "Ghana_fr",
     "ar": "Ghana_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "GRENADA": {
     "en": "Grenada",
     "es": "Grenada_es",
     "fr": "Grenada_fr",
     "ar": "Grenada_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "KENYA": {
     "en": "Kenya",
     "es": "Kenya_es",
     "fr": "Kenya_fr",
     "ar": "Kenya_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SOUTH KOREA": {
     "en": "Republic of Korea",
     "es": "South Korea_es",
     "fr": "South Korea_fr",
     "ar": "South Korea_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "LAOS": {
     "en": "Laos",
     "es": "Laos_es",
     "fr": "Laos_fr",
     "ar": "Laos_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "LIBERIA": {
     "en": "Liberia",
     "es": "Liberia_es",
     "fr": "Liberia_fr",
     "ar": "Liberia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SRI LANKA": {
     "en": "Sri Lanka",
     "es": "Sri Lanka_es",
     "fr": "Sri Lanka_fr",
     "ar": "Sri Lanka_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "MOROCCO": {
     "en": "Morocco",
     "es": "Morocco_es",
     "fr": "Morocco_fr",
     "ar": "Morocco_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "MALDIVES": {
     "en": "Maldives",
     "es": "Maldives_es",
     "fr": "Maldives_fr",
     "ar": "Maldives_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "MALI": {
     "en": "Mali",
     "es": "Mali_es",
     "fr": "Mali_fr",
     "ar": "Mali_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "MYANMAR": {
     "en": "Myanmar",
     "es": "Myanmar_es",
     "fr": "Myanmar_fr",
     "ar": "Myanmar_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "MONGOLIA": {
     "en": "Mongolia",
     "es": "Mongolia_es",
     "fr": "Mongolia_fr",
     "ar": "Mongolia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "MAURITANIA": {
     "en": "Mauritania",
     "es": "Mauritania_es",
     "fr": "Mauritania_fr",
     "ar": "Mauritania_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "MALAWI": {
     "en": "Malawi",
     "es": "Malawi_es",
     "fr": "Malawi_fr",
     "ar": "Malawi_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "NIGER": {
     "en": "Niger",
     "es": "Niger_es",
     "fr": "Niger_fr",
     "ar": "Niger_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "NAURU": {
     "en": "Nauru",
     "es": "Nauru_es",
     "fr": "Nauru_fr",
     "ar": "Nauru_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "PAPUA NEW GUINEA": {
     "en": "Papua New Guinea",
     "es": "Papua New Guinea_es",
     "fr": "Papua New Guinea_fr",
     "ar": "Papua New Guinea_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "RUSSIAN FEDERATION": {
     "en": "Russian Federation",
     "es": "Russian Federation_es",
     "fr": "Russian Federation_fr",
     "ar": "Russian Federation_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SIERRA LEONE": {
     "en": "Sierra Leone",
     "es": "Sierra Leone_es",
     "fr": "Sierra Leone_fr",
-    "ar": "Sierra Leone_ar"
+    "ar": "Sierra Leone_ar",
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SWAZILAND": {
     "en": "Swaziland",
     "es": "Swaziland_es",
     "fr": "Swaziland_fr",
     "ar": "Swaziland_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "TAJIKISTAN": {
     "en": "Tajikistan",
     "es": "Tajikistan_es",
     "fr": "Tajikistan_fr",
     "ar": "Tajikistan_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "TONGA": {
     "en": "Tonga",
     "es": "Tonga_es",
     "fr": "Tonga_fr",
     "ar": "Tonga_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "TUNISIA": {
     "en": "Tunisia",
     "es": "Tunisia_es",
     "fr": "Tunisia_fr",
     "ar": "Tunisia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "TANZANIA": {
     "en": "Tanzania",
     "es": "Tanzania_es",
     "fr": "Tanzania_fr",
     "ar": "Tanzania_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "ZAMBIA": {
     "en": "Zambia",
     "es": "Zambia_es",
     "fr": "Zambia_fr",
     "ar": "Zambia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "AFGHANISTAN": {
     "en": "Afghanistan",
     "es": "Afghanistan_es",
     "fr": "Afghanistan_fr",
     "ar": "Afghanistan_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "UNITED ARAB EMIRATES": {
     "en": "United Arab Emirates",
     "es": "United Arab Emirates_es",
     "fr": "United Arab Emirates_fr",
     "ar": "United Arab Emirates_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "ANTIGUA AND BARBUDA": {
     "en": "Antigua and Barbuda",
     "es": "Antigua and Barbuda_es",
     "fr": "Antigua and Barbuda_fr",
     "ar": "Antigua and Barbuda_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "BANGLADESH": {
     "en": "Bangladesh",
     "es": "Bangladesh_es",
     "fr": "Bangladesh_fr",
     "ar": "Bangladesh_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "BAHRAIN": {
     "en": "Bahrain",
     "es": "Bahrain_es",
     "fr": "Bahrain_fr",
     "ar": "Bahrain_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "BAHAMAS": {
     "en": "Bahamas",
     "es": "Bahamas_es",
     "fr": "Bahamas_fr",
     "ar": "Bahamas_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "BELARUS": {
     "en": "Belarus",
     "es": "Belarus_es",
     "fr": "Belarus_fr",
     "ar": "Belarus_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "BELIZE": {
     "en": "Belize",
     "es": "Belize_es",
     "fr": "Belize_fr",
     "ar": "Belize_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "BARBADOS": {
     "en": "Barbados",
     "es": "Barbados_es",
     "fr": "Barbados_fr",
     "ar": "Barbados_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "BOTSWANA": {
     "en": "Botswana",
     "es": "Botswana_es",
     "fr": "Botswana_fr",
     "ar": "Botswana_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "DEMOCRATIC REPUBLIC OF THE CONGO": {
     "en": "Democratic Republic of Congo",
     "es": "Democratic Republic of Congo_es",
     "fr": "Democratic Republic of Congo_fr",
     "ar": "Democratic Republic of Congo_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "COMOROS": {
     "en": "Comoros",
     "es": "Comoros_es",
     "fr": "Comoros_fr",
     "ar": "Comoros_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "CUBA": {
     "en": "Cuba",
     "es": "Cuba_es",
     "fr": "Cuba_fr",
     "ar": "Cuba_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "EGYPT": {
     "en": "Egypt",
     "es": "Egypt_es",
     "fr": "Egypt_fr",
     "ar": "Egypt_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "ETHIOPIA": {
     "en": "Ethiopia",
     "es": "Ethiopia_es",
     "fr": "Ethiopia_fr",
     "ar": "Ethiopia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "GUINEA": {
     "en": "Guinea",
     "es": "Guinea_es",
     "fr": "Guinea_fr",
     "ar": "Guinea_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "EQUATORIAL GUINEA": {
     "en": "Equatorial Guinea",
     "es": "Equatorial Guinea_es",
     "fr": "Equatorial Guinea_fr",
     "ar": "Equatorial Guinea_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "GUATEMALA": {
     "en": "Guatemala",
     "es": "Guatemala_es",
     "fr": "Guatemala_fr",
     "ar": "Guatemala_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "GUYANA": {
     "en": "Guyana",
     "es": "Guyana_es",
     "fr": "Guyana_fr",
     "ar": "Guyana_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "INDONESIA": {
     "en": "Indonesia",
     "es": "Indonesia_es",
     "fr": "Indonesia_fr",
     "ar": "Indonesia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "INDIA": {
     "en": "India",
     "es": "India_es",
     "fr": "India_fr",
     "ar": "India_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "IRAN": {
     "en": "Iran",
     "es": "Iran_es",
     "fr": "Iran_fr",
     "ar": "Iran_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "IRAQ": {
     "en": "Iraq",
     "es": "Iraq_es",
     "fr": "Iraq_fr",
     "ar": "Iraq_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "JAMAICA": {
     "en": "Jamaica",
     "es": "Jamaica_es",
     "fr": "Jamaica_fr",
     "ar": "Jamaica_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "JORDAN": {
     "en": "Jordan",
     "es": "Jordan_es",
     "fr": "Jordan_fr",
     "ar": "Jordan_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "JAPAN": {
     "en": "Japan",
     "es": "Japan_es",
     "fr": "Japan_fr",
     "ar": "Japan_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SAINT KITTS AND NEVIS": {
     "en": "Saint Kitts and Nevis",
     "es": "Saint Kitts and Nevis_es",
     "fr": "Saint Kitts and Nevis_fr",
     "ar": "Saint Kitts and Nevis_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "KUWAIT": {
     "en": "Kuwait",
     "es": "Kuwait_es",
     "fr": "Kuwait_fr",
     "ar": "Kuwait_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "LEBANON": {
     "en": "Lebanon",
     "es": "Lebanon_es",
     "fr": "Lebanon_fr",
     "ar": "Lebanon_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "LIBYA": {
     "en": "Libya",
     "es": "Libya_es",
     "fr": "Libya_fr",
     "ar": "Libya_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SAINT LUCIA": {
     "en": "Saint Lucia",
     "es": "Saint Lucia_es",
     "fr": "Saint Lucia_fr",
     "ar": "Saint Lucia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "LESOTHO": {
     "en": "Lesotho",
     "es": "Lesotho_es",
     "fr": "Lesotho_fr",
     "ar": "Lesotho_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "MALAYSIA": {
     "en": "Malaysia",
     "es": "Malaysia_es",
     "fr": "Malaysia_fr",
     "ar": "Malaysia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "NIGERIA": {
     "en": "Nigeria",
     "es": "Nigeria_es",
     "fr": "Nigeria_fr",
     "ar": "Nigeria_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "PAKISTAN": {
     "en": "Pakistan",
     "es": "Pakistan_es",
     "fr": "Pakistan_fr",
     "ar": "Pakistan_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "PUERTO RICO / USA": {
     "en": "Puerto Rico / USA",
     "es": "Puerto Rico / USA_es",
     "fr": "Puerto Rico / USA_fr",
     "ar": "Puerto Rico / USA_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "NORTH KOREA": {
     "en": "Dem. People's Rep. of Korea",
     "es": "North Korea_es",
     "fr": "North Korea_fr",
     "ar": "North Korea_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "PALESTINIAN AUTHORITY": {
     "en": "Palestinian Authority",
     "es": "Palestinian Authority_es",
     "fr": "Palestinian Authority_fr",
     "ar": "Palestinian Authority_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "PALESTINE (STATE OF)": {
     "en": "State of Palestine",
     "es": "Palestine (State of)_es",
     "fr": "Palestine (State of)_fr",
     "ar": "Palestine (State of)_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "QATAR": {
     "en": "Qatar",
     "es": "Qatar_es",
     "fr": "Qatar_fr",
     "ar": "Qatar_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "OMAN": {
     "en": "Oman",
     "es": "Oman_es",
     "fr": "Oman_fr",
     "ar": "Oman_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SAUDI ARABIA": {
     "en": "Saudi Arabia",
     "es": "Saudi Arabia_es",
     "fr": "Saudi Arabia_fr",
     "ar": "Saudi Arabia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SUDAN": {
     "en": "Sudan",
     "es": "Sudan_es",
     "fr": "Sudan_fr",
     "ar": "Sudan_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SINGAPORE": {
     "en": "Singapore",
     "es": "Singapore_es",
     "fr": "Singapore_fr",
     "ar": "Singapore_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SOUTH SUDAN": {
     "en": "South Sudan",
     "es": "South Sudan_es",
     "fr": "South Sudan_fr",
     "ar": "South Sudan_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SYRIA": {
     "en": "Syria",
     "es": "Syria_es",
     "fr": "Syria_fr",
     "ar": "Syria_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "CHAD": {
     "en": "Chad",
     "es": "Chad_es",
     "fr": "Chad_fr",
     "ar": "Chad_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "THAILAND": {
     "en": "Thailand",
     "es": "Thailand_es",
     "fr": "Thailand_fr",
     "ar": "Thailand_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "TRINIDAD AND TOBAGO": {
     "en": "Trinidad and Tobago",
     "es": "Trinidad and Tobago_es",
     "fr": "Trinidad and Tobago_fr",
     "ar": "Trinidad and Tobago_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "TAIWAN": {
     "en": "Taiwan",
     "es": "Taiwan_es",
     "fr": "Taiwan_fr",
     "ar": "Taiwan_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "CHINA": {
     "en": "China",
     "es": "China_es",
     "fr": "China_fr",
     "ar": "China_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "UGANDA": {
     "en": "Uganda",
     "es": "Uganda_es",
     "fr": "Uganda_fr",
     "ar": "Uganda_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "UNITED STATES OF AMERICA": {
     "en": "United States of America",
     "es": "United States of America_es",
     "fr": "United States of America_fr",
     "ar": "United States of America_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "SAINT VINCENT AND THE GRENADINES": {
     "en": "Saint Vincent and the Grenadines",
     "es": "Saint Vincent and the Grenadines_es",
     "fr": "Saint Vincent and the Grenadines_fr",
     "ar": "Saint Vincent and the Grenadines_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "VIET NAM": {
     "en": "Viet Nam",
     "es": "Viet Nam_es",
     "fr": "Viet Nam_fr",
     "ar": "Viet Nam_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "YEMEN": {
     "en": "Yemen",
     "es": "Yemen_es",
     "fr": "Yemen_fr",
     "ar": "Yemen_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "ZIMBABWE": {
     "en": "Zimbabwe",
     "es": "Zimbabwe_es",
     "fr": "Zimbabwe_fr",
     "ar": "Zimbabwe_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   },
   "GAMBIA": {
     "en": "Gambia",
     "es": "Gambia_es",
     "fr": "Gambia_fr",
     "ar": "Gambia_ar",
-    "zh-Hans":"tk-chinese-simp",
-    "zh-Hant":"tk-chinese-trad"
+    "zh_Hans":"tk-chinese-simp",
+    "zh_Hant":"tk-chinese-trad",
+    "zh_TW":"tk-chinese-taiwan"
   }
 }
