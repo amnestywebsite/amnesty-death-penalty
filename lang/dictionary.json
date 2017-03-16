@@ -1,4 +1,4 @@
-[
+{
 	"ABOLITIONIST": {
 		"en": "Abolitionist for all crimes",
 		"es": "ABOLICIONISTA PARA TODOS LOS DELITOS",
@@ -1983,4 +1983,5 @@
 		"zh_Hans": "冈比亚",
 		"zh_Hant": "岡比亞",
 		"zh_TW": "甘比亞"
-	},
+	}
+}
