@@ -15188,7 +15188,7 @@
     "id": "AFG",
     "name": "AFGHANISTAN",
     "since": "",
-    "executions": 6,
+    "executions": "6",
     "death-penalties": "4+",
     "status": "RETENTIONIST"
   },
@@ -15196,103 +15196,103 @@
     "id": "ALB",
     "name": "ALBANIA",
     "since": 2007,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "",
     "status": "ABOLITIONIST"
   },
   {
     "id": "DZA",
     "name": "ALGERIA",
     "since": "",
-    "executions": 0,
-    "death-penalties": 50,
+    "executions": "0",
+    "death-penalties": "50",
     "status": "ABOLITIONIST IN PRACTICE"
   },
   {
     "id": "AND",
     "name": "ANDORRA",
     "since": 1990,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "",
     "status": "ABOLITIONIST"
   },
   {
     "id": "AGO",
     "name": "ANGOLA",
     "since": 1992,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "",
     "status": "ABOLITIONIST"
   },
   {
     "id": "ATG",
     "name": "ANTIGUA AND BARBUDA",
     "since": "",
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "0",
+    "death-penalties": "0",
     "status": "RETENTIONIST"
   },
   {
     "id": "ARG",
     "name": "ARGENTINA",
     "since": 2008,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "",
     "status": "ABOLITIONIST"
   },
   {
     "id": "ARM",
     "name": "ARMENIA",
     "since": 2003,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "",
     "status": "ABOLITIONIST"
   },
   {
     "id": "AUS",
     "name": "AUSTRALIA",
     "since": 1985,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "",
     "status": "ABOLITIONIST"
   },
   {
     "id": "AUT",
     "name": "AUSTRIA",
     "since": 1968,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "",
     "status": "ABOLITIONIST"
   },
   {
     "id": "AZE",
     "name": "AZERBAIJAN",
     "since": 1998,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "",
     "status": "ABOLITIONIST"
   },
   {
     "id": "BHS",
     "name": "BAHAMAS",
     "since": "",
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "0",
+    "death-penalties": "0",
     "status": "RETENTIONIST"
   },
   {
     "id": "BHR",
     "name": "BAHRAIN",
     "since": "",
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "0",
+    "death-penalties": "0",
     "status": "RETENTIONIST"
   },
   {
     "id": "BGD",
     "name": "BANGLADESH",
     "since": "",
-    "executions": 10,
+    "executions": "10",
     "death-penalties": "245+",
     "status": "RETENTIONIST"
   },
@@ -15300,8 +15300,8 @@
     "id": "BRB",
     "name": "BARBADOS",
     "since": "",
-    "executions": 0,
-    "death-penalties": 3,
+    "executions": "0",
+    "death-penalties": "3",
     "status": "RETENTIONIST"
   },
   {
@@ -15309,118 +15309,118 @@
     "name": "BELARUS",
     "since": "",
     "executions": "4+",
-    "death-penalties": 4,
+    "death-penalties": "4",
     "status": "RETENTIONIST"
   },
   {
     "id": "BEL",
     "name": "BELGIUM",
     "since": 1996,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "",
     "status": "ABOLITIONIST"
   },
   {
     "id": "BLZ",
     "name": "BELIZE",
     "since": "",
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "0",
+    "death-penalties": "0",
     "status": "RETENTIONIST"
   },
   {
     "id": "BEN",
     "name": "BENIN",
     "since": "",
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "0",
+    "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
   },
   {
     "id": "BTN",
     "name": "BHUTAN",
     "since": 2004,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "",
     "status": "ABOLITIONIST"
   },
   {
     "id": "BOL",
     "name": "BOLIVIA",
     "since": 2009,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "",
     "status": "ABOLITIONIST"
   },
   {
     "id": "BIH",
     "name": "BOSNIA AND HERZEGOVINA",
     "since": 2001,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "",
     "status": "ABOLITIONIST"
   },
   {
     "id": "BWA",
     "name": "BOTSWANA",
     "since": "",
-    "executions": 1,
-    "death-penalties": 0,
+    "executions": "1",
+    "death-penalties": "0",
     "status": "RETENTIONIST"
   },
   {
     "id": "BRA",
     "name": "BRAZIL",
     "since": "",
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "0",
+    "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
   },
   {
     "id": "BRN",
     "name": "BRUNEI DARUSSALAM",
     "since": "",
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "0",
+    "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
   },
   {
     "id": "BGR",
     "name": "BULGARIA",
     "since": 1998,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "",
     "status": "ABOLITIONIST"
   },
   {
     "id": "BFA",
     "name": "BURKINA FASO",
     "since": "",
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "0",
+    "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
   },
   {
     "id": "BDI",
     "name": "BURUNDI",
     "since": 2009,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "",
     "status": "ABOLITIONIST"
   },
   {
     "id": "KHM",
     "name": "CAMBODIA",
     "since": 1989,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "",
     "status": "ABOLITIONIST"
   },
   {
     "id": "CMR",
     "name": "CAMEROON",
     "since": "",
-    "executions": 0,
+    "executions": "0",
     "death-penalties": "160+",
     "status": "ABOLITIONIST IN PRACTICE"
   },
@@ -15428,40 +15428,40 @@
     "id": "CAN",
     "name": "CANADA",
     "since": 1998,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "",
     "status": "ABOLITIONIST"
   },
   {
     "id": "CPV",
     "name": "CAPE VERDE",
     "since": 1981,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "0",
     "status": "ABOLITIONIST"
   },
   {
     "id": "CAF",
     "name": "CENTRAL AFRICAN REPUBLIC",
     "since": "",
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "0",
+    "death-penalties": "0",
     "status": "ABOLITIONIST IN PRACTICE"
   },
   {
     "id": "TCD",
     "name": "CHAD",
     "since": "",
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "0",
+    "death-penalties": "0",
     "status": "RETENTIONIST"
   },
   {
     "id": "CHL",
     "name": "CHILE",
     "since": "",
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "0",
+    "death-penalties": "0",
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
   },
   {
@@ -15476,87 +15476,87 @@
     "id": "COL",
     "name": "COLOMBIA",
     "since": 1910,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "",
     "status": "ABOLITIONIST"
   },
   {
     "id": "COM",
     "name": "COMOROS",
     "since": "",
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "0",
+    "death-penalties": "0",
     "status": "RETENTIONIST"
   },
   {
     "id": "COG",
     "name": "CONGO (REPUBLIC OF)",
     "since": 2015,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "",
     "status": "ABOLITIONIST"
   },
   {
     "id": "COK",
     "name": "COOK ISLANDS",
     "since": 2007,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "",
     "status": "ABOLITIONIST"
   },
   {
     "id": "CRI",
     "name": "COSTA RICA",
     "since": 1877,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "",
     "status": "ABOLITIONIST"
   },
   {
     "id": "CIV",
     "name": "COTE D'IVOIRE",
     "since": 2000,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "",
     "status": "ABOLITIONIST"
   },
   {
     "id": "HRV",
     "name": "CROATIA",
     "since": 1990,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "",
+    "death-penalties": "",
     "status": "ABOLITIONIST"
   },
   {
     "id": "CUB",
     "name": "CUBA",
     "since": "",
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "0",
+    "death-penalties": "0",
     "status": "RETENTIONIST"
   },
   {
     "id": "CYP",
     "name": "CYPRUS",
     "since": 2002,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "0",
+    "death-penalties": "0",
     "status": "ABOLITIONIST"
   },
   {
     "id": "CZE",
     "name": "CZECH REPUBLIC",
     "since": 1990,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "0",
+    "death-penalties": "0",
     "status": "ABOLITIONIST"
   },
   {
     "id": "COD",
     "name": "DEMOCRATIC REPUBLIC OF THE CONGO",
     "since": "",
-    "executions": 0,
+    "executions": "0",
     "death-penalties": "93+",
     "status": "RETENTIONIST"
   },
@@ -15564,40 +15564,40 @@
     "id": "DNK",
     "name": "DENMARK",
     "since": 1978,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "0",
+    "death-penalties": "0",
     "status": "ABOLITIONIST"
   },
   {
     "id": "DJI",
     "name": "DJIBOUTI",
     "since": 1995,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "0",
+    "death-penalties": "0",
     "status": "ABOLITIONIST"
   },
   {
     "id": "DOM",
     "name": "DOMINICA",
     "since": "",
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "0",
+    "death-penalties": "0",
     "status": "RETENTIONIST"
   },
   {
     "id": "DOM",
     "name": "DOMINICAN REPUBLIC",
     "since": 1966,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "0",
+    "death-penalties": "0",
     "status": "ABOLITIONIST"
   },
   {
     "id": "ECU",
     "name": "ECUADOR",
     "since": 1906,
-    "executions": 0,
-    "death-penalties": 0,
+    "executions": "0",
+    "death-penalties": "0",
     "status": "ABOLITIONIST"
   },
   {
