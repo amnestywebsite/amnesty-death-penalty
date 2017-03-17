@@ -36,7 +36,7 @@
 		"ar": "ملغاة بالنسبة للجرائم العادية",
 		"zh_Hans": "废除普通犯罪的死刑",
 		"zh_Hant": "廢除普通犯罪死刑",
-		"zh_TW": "一般罪行無死刑",
+		"zh_TW": "一般罪行無死刑"
 		
 	},
 	"ABOLITIONIST DEFINITION": {
@@ -46,7 +46,7 @@
 		"ar": "تطبيق حكومة الإعدام غير مسموح به قانونياً",
 		"zh_Hans": "法律不允许使用死刑",
 		"zh_Hant": "當地法律不容判處死刑",
-		"zh_TW": "法律不允許適用死刑",
+		"zh_TW": "法律不允許適用死刑"
 		
 	},
 	"RETENTIONIST DEFINITION": {
@@ -56,27 +56,27 @@
 		"ar": "بلدان أبقت على عقوبة الإعدام في القانون",
 		"zh_Hans": "在法律上保留死刑",
 		"zh_Hant": "於法律中保留死刑",
-		"zh_TW": "法律中保留死刑",
+		"zh_TW": "法律中保留死刑"
 		
 	},
-	"ABOLITIONIST IN PRACTICE":{
+	"ABOLITIONIST IN PRACTICE DEFINITION":{
 		"en": "Retains the death penalty in law, but hasn’t executed for at least 10 years",
 		"es": " Retiene la pena de muerte en la legislación, pero lleva al menos 10 años sin llevar a cabo ejecuciones.",
 		"fr": "La peine de mort est inscrite dans la législation du pays ou territoire, mais les autorités n’ont procédé à aucune exécution depuis au moins 10 ans.",
 		"ar": "بلدان أبقت على عقوبة الإعدام في القانون ولكن لم تنفذها منذ 10 سنوات على الأقل",
 		"zh_Hans": "在法律上保留死刑，但已有至少10年没有执行处决",
 		"zh_Hant": "於法律中保留死刑，但於過去10年沒有使用",
-		"zh_TW": "法律中保留死刑，但10年以上未執行死刑",
+		"zh_TW": "法律中保留死刑，但10年以上未執行死刑"
 		
 	},
-	"ABOLITIONIST FOR ORDINARY CRIMES": {
+	"ABOLITIONIST FOR ORDINARY CRIMES DEFNITION": {
 		"en": "Retains the death penalty only for serious crimes, such as those committed during times of war",
 		"es": "Retiene la pena de muerte únicamente para delitos graves, como los cometidos en épocas de guerra.",
 		"fr": "La peine de mort est appliquée uniquement en cas de crime grave, par exemple en cas de crime commis en temps de guerre.",
 		"ar": "أبقت على عقوبة الإعدام بالنسبة للجرائم الخطيرة فقط، كتلك التي ا رتكبت في وقت الحرب",
 		"zh_Hans": "仅对特殊犯罪保留死刑，例如在战时犯下的罪行.",
 		"zh_Hant": "於特定情況如戰爭中犯下罪行，可判處死刑",
-		"zh_TW": "法律規定只有特別罪行適用死刑，譬如戰爭期間犯罪者",
+		"zh_TW": "法律規定只有特別罪行適用死刑，譬如戰爭期間犯罪者"
 	},
 	"EXECUTIONS": {
 		"en": "Executions",
@@ -85,7 +85,7 @@
 		"ar": "الاعدامات",
 		"zh_Hans": "处决",
 		"zh_Hant": "處決",
-		"zh_TW": "處決",
+		"zh_TW": "處決"
 	
 	},
 	"DEATH SENTENCES": {
@@ -95,7 +95,7 @@
 		"ar": "أحكام الإعدام",
 		"zh_Hans": "死刑判决",
 		"zh_Hant": "死刑",
-		"zh_TW": "死刑判決",
+		"zh_TW": "死刑判決"
 
 	},
 	"SINCE": {
@@ -105,7 +105,7 @@
 		"ar": "منذ",
 		"zh_Hans": "自",
 		"zh_Hant": "自",
-		"zh_TW": "自",
+		"zh_TW": "自"
 	
 	},
 	"SEARCH COUNTRY": {
@@ -115,7 +115,7 @@
 		"ar": "ابحث عن البلد",
 		"zh_Hans": "搜索国家",
 		"zh_Hant": "搜尋國家",
-		"zh_TW": "查詢國家",
+		"zh_TW": "查詢國家"
 	
 	},
 	"PLAY": {
@@ -125,7 +125,7 @@
 		"ar": "تشغيل",
 		"zh_Hans": "播放",
 		"zh_Hant": "播放",
-		"zh_TW": "播放",
+		"zh_TW": "播放"
 	
 	},
 	"PAUSE": {
@@ -135,7 +135,7 @@
 		"ar": "إيقاف",
 		"zh_Hans": "暂停",
 		"zh_Hant": "暫停",
-		"zh_TW": "暫停",
+		"zh_TW": "暫停"
 		
 	},
 	"ZOOM IN": {
@@ -145,7 +145,7 @@
 		"ar": "تكبير الصورة",
 		"zh_Hans": "放大",
 		"zh_Hant": "放大",
-		"zh_TW": "放大",
+		"zh_TW": "放大"
 	
 	},
 	"ZOOM OUT": {
