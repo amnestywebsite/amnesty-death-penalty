@@ -328,7 +328,7 @@
 		"zh_Hant": "哥倫比亞",
 		"zh_TW": "哥倫比亞"
 	},
-	"CONGO": {
+	"REPUBLIC OF CONGO": {
 		"en": "Republic of Congo",
 		"es": "Republic of Congo",
 		"fr": "República del Congo",
@@ -953,10 +953,10 @@
 		"en": "Somalia including Somaliland",
 		"es": "Somalia incluida Somalilandia",
 		"fr": "Somalie y compris Somaliland",
-		"ar": "الصومال (بما في ذلك أرض الصومال)",
-		"zh_Hans": "索马里（包括索马里兰）",
-		"zh_Hant": "索馬里（包括索馬里蘭）",
-		"zh_TW": "索馬利亞（含索馬利蘭）"
+		"ar": "الصومال بما في ذلك أرض الصومال",
+		"zh_Hans": "索马里 包括索马里兰",
+		"zh_Hant": "索馬里 包括索馬里蘭",
+		"zh_TW": "索馬利亞 含索馬利蘭"
 	},
 	"SOUTH AFRICA": {
 		"en": "South Africa",
