@@ -905,13 +905,13 @@
 		"zh_TW": "塞內加爾"
 	},
 	"SERBIA": {
-		"en": "Serbia (including Kosovo)",
-		"es": "Serbia (incluido Kosovo)",
-		"fr": "Serbie (y compris Kosovo)",
-		"ar": "صربيا (بما في ذلك كوسوفو)",
-		"zh_Hans": "塞尔维亚（包括科索沃）",
-		"zh_Hant": "塞爾維亞（包括科索沃）",
-		"zh_TW": "塞爾維亞（含科索沃）"
+		"en": "Serbia including Kosovo",
+		"es": "Serbia incluido Kosovo",
+		"fr": "Serbie y compris Kosovo",
+		"ar": "صربيا بما في ذلك كوسوفو",
+		"zh_Hans": "塞尔维亚 包括科索沃",
+		"zh_Hant": "塞爾維亞 包括科索沃",
+		"zh_TW": "塞爾維亞含科索沃"
 	},
 	"SEYCHELLES": {
 		"en": "Seychelles",
@@ -950,9 +950,9 @@
 		"zh_TW": "所羅門群島"
 	},
 	"SOMALIA": {
-		"en": "Somalia (including Somaliland)",
-		"es": "Somalia (incluida Somalilandia)",
-		"fr": "Somalie (y compris Somaliland)",
+		"en": "Somalia including Somaliland",
+		"es": "Somalia incluida Somalilandia",
+		"fr": "Somalie y compris Somaliland",
 		"ar": "الصومال (بما في ذلك أرض الصومال)",
 		"zh_Hans": "索马里（包括索马里兰）",
 		"zh_Hant": "索馬里（包括索馬里蘭）",
@@ -1228,14 +1228,14 @@
 		"zh_Hant": "厄立特里亞",
 		"zh_TW": "厄利垂亞"
 	},
-	"MOROCCO (INCLUDING WESTERN SAHARA": {
-		"en": "Morocco (including Western Sahara)",
+	"MOROCCO INCLUDING WESTERN SAHARA": {
+		"en": "Morocco including Western Sahara",
 		"es": "Marruecos y el Sáhara Occidental",
 		"fr": "Maroc et Sahara Occidental",
 		"ar": "المغرب والصحراء الغربية",
-		"zh_Hans": "摩洛哥（包括西撒哈拉）",
-		"zh_Hant": "摩洛哥（包括西撒哈拉）",
-		"zh_TW": "摩洛哥（含西薩哈拉）"
+		"zh_Hans": "摩洛哥 包括西撒哈拉",
+		"zh_Hant": "摩洛哥 包括西撒哈拉",
+		"zh_TW": "摩洛哥 含西薩哈拉"
 	},
 	"GHANA": {
 		"en": "Ghana",
@@ -1806,8 +1806,8 @@
 	},
 	"STATE OF PALESTINE": {
 		"en": "State of Palestine",
-		"es": "Palestina (Estado de)",
-		"fr": "Palestine (État de)",
+		"es": "Estado de Palestina",
+		"fr": "État de Palestine",
 		"ar": "دولة فلسطين",
 		"zh_Hans": "巴勒斯坦国",
 		"zh_Hant": "巴勒斯坦國",
