@@ -257,7 +257,7 @@
 		"status": "ABOLITIONIST"
 	}, {
 		"id": "COG",
-		"name": "CONGO (REPUBLIC OF)",
+		"name": "REPUBLIC OF CONGO",
 		"since": "",
 		"executions": "0",
 		"death-penalties": "0",
@@ -882,7 +882,7 @@
 		"status": "ABOLITIONIST"
 	}, {
 		"id": "MAR",
-		"name": "MOROCCO / WESTERN SAHARA",
+		"name": "MOROCCO INCLUDING WESTERN SAHARA",
 		"since": "",
 		"executions": "0",
 		"death-penalties": "1",
