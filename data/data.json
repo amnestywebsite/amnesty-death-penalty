@@ -882,7 +882,7 @@
 		"status": "ABOLITIONIST"
 	}, {
 		"id": "MAR",
-		"name": "MOROCCO INCLUDING WESTERN SAHARA",
+		"name": "MOROCCO / WESTERN SAHARA",
 		"since": "",
 		"executions": "0",
 		"death-penalties": "1",
@@ -14500,7 +14500,7 @@
 		"status": "ABOLITIONIST"
 	}, {
 		"id": "MAR",
-		"name": "MOROCCO INCLUDING WESTERN SAHARA",
+		"name": "MOROCCO / WESTERN SAHARA",
 		"since": "",
 		"executions": "0",
 		"death-penalties": "6",
