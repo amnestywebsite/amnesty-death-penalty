@@ -330,8 +330,8 @@
 	},
 	"REPUBLIC OF CONGO": {
 		"en": "Republic of Congo",
-		"es": "Republic of Congo",
-		"fr": "República del Congo",
+		"es": "República del Congo",
+		"fr": "Congo",
 		"ar": "الكونغو",
 		"zh_Hans": "刚果共和国",
 		"zh_Hant": "剛果共和國",
@@ -421,7 +421,7 @@
 	"DOMINICA": {
 		"en": "Dominica",
 		"es": "Dominica",
-		"fr": "Dominica",
+		"fr": "Dominique",
 		"ar": "دومينكا",
 		"zh_Hans": "多米尼加",
 		"zh_Hant": "多米尼加",
@@ -493,7 +493,7 @@
 	"GERMANY": {
 		"en": "Germany",
 		"es": "Alemania",
-		"fr": "Allemangne",
+		"fr": "Allemagne",
 		"ar": "ألمانيا",
 		"zh_Hans": "德国",
 		"zh_Hant": "德國",
@@ -943,7 +943,7 @@
 	"SOLOMON ISLANDS": {
 		"en": "Solomon Islands",
 		"es": "Islas Salomón",
-		"fr": "Îles Salomon",
+		"fr": "Salomon",
 		"ar": "جزر سليمان",
 		"zh_Hans": "所罗门群岛",
 		"zh_Hant": "所羅門群島",
@@ -1195,7 +1195,7 @@
 	"CENTRAL AFRICAN REPUBLIC": {
 		"en": "Central African Republic",
 		"es": "República Centroafricana",
-		"fr": "République Centrafricaine",
+		"fr": "République centrafricaine",
 		"ar": "جمهورية أقريقيا الوسطى",
 		"zh_Hans": "中非共和国",
 		"zh_Hant": "中非共和國",
@@ -1231,7 +1231,7 @@
 	"MOROCCO / WESTERN SAHARA": {
 		"en": "Morocco (including Western Sahara)",
 		"es": "Marruecos y el Sáhara Occidental",
-		"fr": "Maroc et Sahara Occidental",
+		"fr": "Maroc et sahara occidental",
 		"ar": "المغرب والصحراء الغربية",
 		"zh_Hans": "摩洛哥 包括西撒哈拉",
 		"zh_Hant": "摩洛哥 包括西撒哈拉",
@@ -1474,7 +1474,7 @@
 	"UNITED ARAB EMIRATES": {
 		"en": "United Arab Emirates",
 		"es": "Emiratos Árabes Unidos",
-		"fr": "Émirats Arabes Unis",
+		"fr": "Émirats arabes unis",
 		"ar": "الإمارات العربية المتحدة",
 		"zh_Hans": "阿拉伯联合酋长国",
 		"zh_Hant": "阿拉伯聯合酋長國",
@@ -1555,7 +1555,7 @@
 	"DEMOCRATIC REPUBLIC OF CONGO": {
 		"en": "Democratic Republic of Congo",
 		"es": "República Democrática del Congo",
-		"fr": "République Démocratique du Congo",
+		"fr": "République démocratique du Congo",
 		"ar": "جمهورية الكونغو الديمقراطية",
 		"zh_Hans": "刚果民主共和国",
 		"zh_Hant": "剛果民主共和國",
@@ -1609,7 +1609,7 @@
 	"EQUATORIAL GUINEA": {
 		"en": "Equatorial Guinea",
 		"es": "Guinea Ecuatorial",
-		"fr": "Guinée Équatoriale",
+		"fr": "Guinée équatoriale",
 		"ar": "غينيا الاستوائية",
 		"zh_Hans": "赤道几内亚",
 		"zh_Hant": "赤道幾內亞",
@@ -1735,7 +1735,7 @@
 	"SAINT LUCIA": {
 		"en": "Saint Lucia",
 		"es": "Santa Lucía",
-		"fr": "Saint Lucia",
+		"fr": "Sainte-Lucie",
 		"ar": "سانت لوشيا",
 		"zh_Hans": "圣卢西亚",
 		"zh_Hant": "聖盧西亞",
@@ -1834,7 +1834,7 @@
 	"SAUDI ARABIA": {
 		"en": "Saudi Arabia",
 		"es": "Arabia Saudí ",
-		"fr": "Arabie Saoudite",
+		"fr": "Arabie saoudite",
 		"ar": "السعودية",
 		"zh_Hans": "沙特阿拉伯",
 		"zh_Hant": "沙特阿拉伯",
@@ -1897,7 +1897,7 @@
 	"TRINIDAD AND TOBAGO": {
 		"en": "Trinidad and Tobago",
 		"es": "Trinidad y Tobago",
-		"fr": "Trinidad and Tobago",
+		"fr": "Trinité-et-Tobago",
 		"ar": "ترينداد وتوباغو",
 		"zh_Hans": "特立尼达和多巴哥",
 		"zh_Hant": "特立尼達和多巴哥",
@@ -1951,7 +1951,7 @@
 	"VIET NAM": {
 		"en": "Viet Nam",
 		"es": "Vietnam",
-		"fr": "Viêt Nam",
+		"fr": "Viêt-Nam",
 		"ar": "فيتنام",
 		"zh_Hans": "越南",
 		"zh_Hant": "越南",
