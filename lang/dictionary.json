@@ -231,7 +231,7 @@
 	},
 	"AZERBAIJAN": {
 		"en": "Azerbaijan",
-		"es": "Azerbaiyán ", 
+		"es": "Azerbaiyán", 
 		"fr": "Azerbaïdjan",
 		"ar": "أذربيجان",
 		"zh_Hans": "阿塞拜疆",
@@ -528,7 +528,7 @@
 	},
 	"HAITI": {
 		"en": "Haiti",
-		"es": "Haití ",
+		"es": "Haití",
 		"fr": "Haïti",
 		"ar": "هايتي",
 		"zh_Hans": "海地",
@@ -555,7 +555,7 @@
 	},
 	"HUNGARY": {
 		"en": "Hungary",
-		"es": "Hungría ",
+		"es": "Hungría",
 		"fr": "Hongrie",
 		"ar": "المجر",
 		"zh_Hans": "匈牙利",
@@ -907,7 +907,7 @@
 	"SERBIA INCLUDING KOSOVO": {
 		"en": "Serbia including Kosovo",
 		"es": "Serbia incluido Kosovo",
-		"fr": "Serbie y compris Kosovo",
+		"fr": "Serbie, y compris Kosovo",
 		"ar": "صربيا بما في ذلك كوسوفو",
 		"zh_Hans": "塞尔维亚 包括科索沃",
 		"zh_Hant": "塞爾維亞 包括科索沃",
@@ -951,7 +951,7 @@
 	},
 	"SOMALIA": {
 		"en": "Somalia including Somaliland",
-		"es": "Somalia incluida Somalilandia",
+		"es": "Somalia, incluida Somalilandia",
 		"fr": "Somalie y compris Somaliland",
 		"ar": "الصومال بما في ذلك أرض الصومال",
 		"zh_Hans": "索马里 包括索马里兰",
@@ -969,7 +969,7 @@
 	},
 	"SPAIN": {
 		"en": "Spain",
-		"es": "España ",
+		"es": "España",
 		"fr": "Espagne",
 		"ar": "أسبانيا",
 		"zh_Hans": "西班牙",
@@ -1231,7 +1231,7 @@
 	"MOROCCO / WESTERN SAHARA": {
 		"en": "Morocco (including Western Sahara)",
 		"es": "Marruecos y el Sáhara Occidental",
-		"fr": "Maroc et sahara occidental",
+		"fr": "Maroc et Sahara occidental",
 		"ar": "المغرب والصحراء الغربية",
 		"zh_Hans": "摩洛哥 包括西撒哈拉",
 		"zh_Hant": "摩洛哥 包括西撒哈拉",
@@ -1536,7 +1536,7 @@
 	},
 	"BARBADOS": {
 		"en": "Barbados",
-		"es": "Barbade",
+		"es": "Barbados",
 		"fr": "Barbade",
 		"ar": "بربادوس",
 		"zh_Hans": "巴巴多斯",
@@ -1681,7 +1681,7 @@
 	"JORDAN": {
 		"en": "Jordan",
 		"es": "Jordania",
-		"fr": "Jordan",
+		"fr": "Jordanie",
 		"ar": "الأردن",
 		"zh_Hans": "约旦",
 		"zh_Hant": "約旦",
@@ -1833,7 +1833,7 @@
 	},
 	"SAUDI ARABIA": {
 		"en": "Saudi Arabia",
-		"es": "Arabia Saudí ",
+		"es": "Arabia Saudí",
 		"fr": "Arabie saoudite",
 		"ar": "السعودية",
 		"zh_Hans": "沙特阿拉伯",
@@ -1842,7 +1842,7 @@
 	},
 	"SUDAN": {
 		"en": "Sudan",
-		"es": " Sudán",
+		"es": "Sudán",
 		"fr": "Soudan",
 		"ar": "السوادن",
 		"zh_Hans": "苏丹",
@@ -1860,7 +1860,7 @@
 	},
 	"SOUTH SUDAN": {
 		"en": "South Sudan",
-		"es": " Sudán del Sur",
+		"es": "Sudán del Sur",
 		"fr": "Soudan du Sud",
 		"ar": "جنوب السودان",
 		"zh_Hans": "南苏丹",
