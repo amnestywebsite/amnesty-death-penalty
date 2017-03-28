@@ -1987,5 +1987,14 @@
     "zh_Hans": "1000s-zh_Hans",
     "zh_Hant": "1000s-zh_Hant",
     "zh_TW": "1000s-zh_TW"
+  },
+  "SINCE_SUFFIX": {
+    "en": "",
+    "es": "",
+    "fr": "",
+    "ar": "",
+    "zh_Hans": " 年",
+    "zh_Hant": " 年",
+    "zh_TW": " 年"
   }
 }
