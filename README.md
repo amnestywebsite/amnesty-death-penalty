@@ -45,6 +45,11 @@ To set the language add the language code in a variable in the embed url. Suppor
 
 To set the application to Arabic, for example, add `?lang=ar` to the end of the url.
 
+### Language "hacks"
+
+1. Added a Chinese character after "since" using CSS (line 1315 - style.css). This hack solves an issue with a characrer and avoids messing with the data.
+
+
 ## iframe-resizer
 iframe-resizer is a way to embed an iframe whose aspect ratio changes at different screen widths.
 

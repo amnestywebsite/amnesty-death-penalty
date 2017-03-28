@@ -1310,3 +1310,16 @@ small,.milli {
   stroke-dasharray: 1,1;
 }
 
+/* CSS hack to a language specific issue to avoid messing up the data */
+
+:lang(zh_Hans) .since-header:after {
+  content: " 年";
+}
+
+:lang(zh_Hant) .since-header:after {
+  content: " 年";
+}
+
+:lang(zh_TW) .since-header:after {
+  content: " 年";
+}
