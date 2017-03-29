@@ -13797,7 +13797,7 @@
 		"since": "",
 		"executions": "0",
 		"death-penalties": "0",
-		"status": "ABOLITIONIST IN PRACTICE"
+		"status": "ABOLITIONIST"
 	}, {
 		"id": "BTN",
 		"name": "BHUTAN",
@@ -14161,7 +14161,7 @@
 		"since": "",
 		"executions": "0",
 		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"status": "ABOLITIONIST FOR ORDINARY CRIMES"
 	}, {
 		"id": "GNB",
 		"name": "GUINEA-BISSAU",
@@ -14223,7 +14223,7 @@
 		"name": "INDIA",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "121+",
+		"death-penalties": "136",
 		"status": "RETENTIONIST"
 	}, {
 		"id": "IDN",
@@ -14412,7 +14412,7 @@
 		"name": "MALAYSIA",
 		"since": "",
 		"executions": "9",
-		"death-penalties": "40+",
+		"death-penalties": "36+",
 		"status": "RETENTIONIST"
 	}, {
 		"id": "MDV",
@@ -14532,7 +14532,7 @@
 		"since": "",
 		"executions": "0",
 		"death-penalties": "0",
-		"status": "ABOLITIONIST IN PRACTICE"
+		"status": "ABOLITIONIST"
 	}, {
 		"id": "NPL",
 		"name": "NEPAL",
