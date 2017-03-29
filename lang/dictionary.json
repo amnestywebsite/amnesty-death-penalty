@@ -6,8 +6,7 @@
 		"ar": "ألغت عقوبة الإعدام",
 		"zh_Hans": "完全废除死刑",
 		"zh_Hant": "完全廢除死刑",
-		"zh_TW": "所有罪行均無死刑懲罰",
-		"": ""
+		"zh_TW": "所有罪行均無死刑懲罰"
 	},
 	"RETENTIONIST": {
 		"en": "Retentionist",
@@ -16,8 +15,7 @@
 		"ar": "مطبقة لعقوبة الإعدام",
 		"zh_Hans": "保留死刑",
 		"zh_Hant": "保留死刑",
-		"zh_TW": "維持死刑",
-		"": ""
+		"zh_TW": "維持死刑"
 	},
 	"ABOLITIONIST IN PRACTICE": {
 		"en": "Abolitionist in practice",
@@ -26,8 +24,7 @@
 		"ar": "غير مطبقة في الواقع الفعلي",
 		"zh_Hans": "实际上废除死刑",
 		"zh_Hant": "實質上廢除死刑",
-		"zh_TW": "實際上廢除死刑",
-		"": ""
+		"zh_TW": "實際上廢除死刑"
 	},
 	"ABOLITIONIST FOR ORDINARY CRIMES": {
 		"en": "Abolitionist for ordinary crimes",
@@ -37,7 +34,6 @@
 		"zh_Hans": "废除普通犯罪的死刑",
 		"zh_Hant": "廢除普通犯罪死刑",
 		"zh_TW": "一般罪行無死刑"
-
 	},
 	"ABOLITIONIST DEFINITION": {
 		"en": "Use of the death penalty is not allowed by law",
@@ -47,7 +43,6 @@
 		"zh_Hans": "法律不允许使用死刑",
 		"zh_Hant": "當地法律不容判處死刑",
 		"zh_TW": "法律不允許適用死刑"
-
 	},
 	"RETENTIONIST DEFINITION": {
 		"en": "Retains the death penalty in law",
@@ -57,7 +52,6 @@
 		"zh_Hans": "在法律上保留死刑",
 		"zh_Hant": "於法律中保留死刑",
 		"zh_TW": "法律中保留死刑"
-
 	},
 	"ABOLITIONIST IN PRACTICE DEFINITION":{
 		"en": "Retains the death penalty in law, but hasn’t executed for at least 10 years",
@@ -67,7 +61,6 @@
 		"zh_Hans": "在法律上保留死刑，但已有至少10年没有执行处决",
 		"zh_Hant": "於法律中保留死刑，但於過去10年沒有使用",
 		"zh_TW": "法律中保留死刑，但10年以上未執行死刑"
-
 	},
 	"ABOLITIONIST FOR ORDINARY CRIMES DEFNITION": {
 		"en": "Retains the death penalty only for serious crimes, such as those committed during times of war",
@@ -86,7 +79,6 @@
 		"zh_Hans": "处决",
 		"zh_Hant": "處決",
 		"zh_TW": "處決"
-
 	},
 	"DEATH SENTENCES": {
 		"en": "Death sentences",
@@ -96,7 +88,6 @@
 		"zh_Hans": "死刑判决",
 		"zh_Hant": "死刑",
 		"zh_TW": "死刑判決"
-
 	},
 	"SINCE": {
 		"en": "Since",
@@ -106,7 +97,6 @@
 		"zh_Hans": "自",
 		"zh_Hant": "自",
 		"zh_TW": "自"
-
 	},
 	"SEARCH COUNTRY": {
 		"en": "Search country",
@@ -116,7 +106,6 @@
 		"zh_Hans": "搜索国家",
 		"zh_Hant": "搜尋國家",
 		"zh_TW": "查詢國家"
-
 	},
 	"PLAY": {
 		"en": "Play",
@@ -126,7 +115,6 @@
 		"zh_Hans": "播放",
 		"zh_Hant": "播放",
 		"zh_TW": "播放"
-
 	},
 	"PAUSE": {
 		"en": "Pause",
@@ -136,7 +124,6 @@
 		"zh_Hans": "暂停",
 		"zh_Hant": "暫停",
 		"zh_TW": "暫停"
-
 	},
 	"ZOOM IN": {
 		"en": "Zoom in",
@@ -146,7 +133,6 @@
 		"zh_Hans": "放大",
 		"zh_Hant": "放大",
 		"zh_TW": "放大"
-
 	},
 	"ZOOM OUT": {
 		"en": "Zoom out",
@@ -231,7 +217,7 @@
 	},
 	"AZERBAIJAN": {
 		"en": "Azerbaijan",
-		"es": "Azerbaiyán", 
+		"es": "Azerbaiyán",
 		"fr": "Azerbaïdjan",
 		"ar": "أذربيجان",
 		"zh_Hans": "阿塞拜疆",
@@ -1983,5 +1969,32 @@
 		"zh_Hans": "冈比亚",
 		"zh_Hant": "岡比亞",
 		"zh_TW": "甘比亞"
-	}
+	},
+  "1,000s": {
+    "en": "1,000s",
+    "es": "1000s-es",
+    "fr": "1000s-fr",
+    "ar": "1000s-ar",
+    "zh_Hans": "1000s-zh_Hans",
+    "zh_Hant": "1000s-zh_Hant",
+    "zh_TW": "1000s-zh_TW"
+  },
+  "1000s": {
+    "en": "1,000s",
+    "es": "1000s-es",
+    "fr": "1000s-fr",
+    "ar": "1000s-ar",
+    "zh_Hans": "1000s-zh_Hans",
+    "zh_Hant": "1000s-zh_Hant",
+    "zh_TW": "1000s-zh_TW"
+  },
+  "SINCE_SUFFIX": {
+    "en": "",
+    "es": "",
+    "fr": "",
+    "ar": "",
+    "zh_Hans": " 年",
+    "zh_Hant": " 年",
+    "zh_TW": " 年"
+  }
 }
