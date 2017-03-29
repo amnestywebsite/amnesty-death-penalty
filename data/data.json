@@ -13794,7 +13794,7 @@
 	}, {
 		"id": "BEN",
 		"name": "BENIN",
-		"since": "",
+		"since": "2016",
 		"executions": "0",
 		"death-penalties": "0",
 		"status": "ABOLITIONIST"
@@ -14529,7 +14529,7 @@
 	}, {
 		"id": "NRU",
 		"name": "NAURU",
-		"since": "",
+		"since": "2016",
 		"executions": "0",
 		"death-penalties": "0",
 		"status": "ABOLITIONIST"
