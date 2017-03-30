@@ -1971,19 +1971,19 @@
 		"zh_TW": "甘比亞"
 	},
   "1,000s": {
-    "en": "1,000s",
-    "es": "1000s-es",
-    "fr": "1000s-fr",
-    "ar": "1000s-ar",
+    "en": "Thousands",
+    "es": "Miles",
+    "fr": "Des milliers",
+    "ar": "آلاف",
     "zh_Hans": "1000s-zh_Hans",
     "zh_Hant": "1000s-zh_Hant",
     "zh_TW": "1000s-zh_TW"
   },
   "1000s": {
-    "en": "1,000s",
-    "es": "1000s-es",
-    "fr": "1000s-fr",
-    "ar": "1000s-ar",
+    "en": "Thousands",
+    "es": "Miles",
+    "fr": "Des milliers",
+    "ar": "آلاف",
     "zh_Hans": "1000s-zh_Hans",
     "zh_Hant": "1000s-zh_Hant",
     "zh_TW": "1000s-zh_TW"
