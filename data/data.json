@@ -1540,7 +1540,7 @@
 		"name": "YEMEN",
 		"since": "",
 		"executions": "15+",
-		"death-penalties": "0",
+		"death-penalties": "",
 		"status": "RETENTIONIST",
 		"note": {
 			"en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
@@ -3077,7 +3077,7 @@
 		"name": "YEMEN",
 		"since": "",
 		"executions": "13+",
-		"death-penalties": "0",
+		"death-penalties": "",
 		"status": "RETENTIONIST"
 	}, {
 		"id": "ZMB",
@@ -6937,8 +6937,8 @@
 		"id": "LBY",
 		"name": "LIBYA",
 		"since": "",
-		"executions": "0",
-		"death-penalties": "0",
+		"executions": "",
+		"death-penalties": "",
 		"status": "RETENTIONIST"
 	}, {
 		"id": "LIE",
@@ -8463,7 +8463,7 @@
 		"id": "LBY",
 		"name": "LIBYA",
 		"since": "",
-		"executions": "0",
+		"executions": "",
 		"death-penalties": "5+",
 		"status": "RETENTIONIST"
 	}, {
@@ -9049,8 +9049,8 @@
 		"id": "SYR",
 		"name": "SYRIA",
 		"since": "",
-		"executions": "0",
-		"death-penalties": "0",
+		"executions": "",
+		"death-penalties": "",
 		"status": "RETENTIONIST"
 	}, {
 		"id": "TWN",
@@ -9942,7 +9942,7 @@
 		"id": "LBY",
 		"name": "LIBYA",
 		"since": "",
-		"executions": "0",
+		"executions": "",
 		"death-penalties": "18+",
 		"status": "RETENTIONIST"
 	}, {
@@ -10510,8 +10510,8 @@
 		"id": "SYR",
 		"name": "SYRIA",
 		"since": "",
-		"executions": "0",
-		"death-penalties": "0",
+		"executions": "",
+		"death-penalties": "",
 		"status": "RETENTIONIST"
 	}, {
 		"id": "TWN",
@@ -11403,7 +11403,7 @@
 		"id": "LBY",
 		"name": "LIBYA",
 		"since": "",
-		"executions": "0",
+		"executions": "",
 		"death-penalties": "1+",
 		"status": "RETENTIONIST"
 	}, {
@@ -11981,8 +11981,8 @@
 		"id": "SYR",
 		"name": "SYRIA",
 		"since": "",
-		"executions": "0",
-		"death-penalties": "0",
+		"executions": "",
+		"death-penalties": "",
 		"status": "RETENTIONIST"
 	}, {
 		"id": "TWN",
@@ -12883,7 +12883,7 @@
 		"id": "LBY",
 		"name": "LIBYA",
 		"since": "",
-		"executions": "0",
+		"executions": "",
 		"death-penalties": "10+",
 		"status": "RETENTIONIST"
 	}, {
@@ -13460,7 +13460,7 @@
 		"id": "SYR",
 		"name": "SYRIA",
 		"since": "",
-		"executions": "0",
+		"executions": "",
 		"death-penalties": "20+",
 		"status": "RETENTIONIST"
 	}, {
@@ -14380,7 +14380,7 @@
 		"id": "LBY",
 		"name": "LIBYA",
 		"since": "",
-		"executions": "0",
+		"executions": "",
 		"death-penalties": "1+",
 		"status": "RETENTIONIST"
 	}, {
@@ -14951,8 +14951,8 @@
 		"id": "SYR",
 		"name": "SYRIA",
 		"since": "",
-		"executions": "0",
-		"death-penalties": "0",
+		"executions": "",
+		"death-penalties": "",
 		"status": "RETENTIONIST"
 	}, {
 		"id": "TWN",
