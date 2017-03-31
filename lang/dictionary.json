@@ -1975,18 +1975,18 @@
     "es": "Miles",
     "fr": "Des milliers",
     "ar": "آلاف",
-    "zh_Hans": "1000s-zh_Hans",
-    "zh_Hant": "1000s-zh_Hant",
-    "zh_TW": "1000s-zh_TW"
+    "zh_Hans": "数以千计",
+    "zh_Hant": "數千以上",
+    "zh_TW": "數千"
   },
   "1000s": {
     "en": "1000s",
     "es": "Miles",
     "fr": "Des milliers",
     "ar": "آلاف",
-    "zh_Hans": "1000s-zh_Hans",
-    "zh_Hant": "1000s-zh_Hant",
-    "zh_TW": "1000s-zh_TW"
+    "zh_Hans": "数以千计",
+    "zh_Hant": "數千以上",
+    "zh_TW": "數千"
   },
   "SINCE_SUFFIX": {
     "en": "",
