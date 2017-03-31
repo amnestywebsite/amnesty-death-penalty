@@ -734,7 +734,7 @@
 	}, {
 		"id": "KIR",
 		"name": "KIRIBATI",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -876,7 +876,7 @@
 	}, {
 		"id": "MHL",
 		"name": "MARSHALL ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -904,7 +904,7 @@
 	}, {
 		"id": "FSM",
 		"name": "MICRONESIA",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -1276,7 +1276,7 @@
 	}, {
 		"id": "SLB",
 		"name": "SOLOMON ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -1517,7 +1517,7 @@
 	}, {
 		"id": "VUT",
 		"name": "VANUATU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -2248,7 +2248,7 @@
 	}, {
 		"id": "KIR",
 		"name": "KIRIBATI",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -2399,7 +2399,7 @@
 	}, {
 		"id": "MHL",
 		"name": "MARSHALL ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -2427,7 +2427,7 @@
 	}, {
 		"id": "FSM",
 		"name": "MICRONESIA",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -2806,7 +2806,7 @@
 	}, {
 		"id": "SLB",
 		"name": "SOLOMON ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -2998,7 +2998,7 @@
 	}, {
 		"id": "TUV",
 		"name": "TUVALU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -3054,7 +3054,7 @@
 	}, {
 		"id": "VUT",
 		"name": "VANUATU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -3803,7 +3803,7 @@
 	}, {
 		"id": "KIR",
 		"name": "KIRIBATI",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -3954,7 +3954,7 @@
 	}, {
 		"id": "MHL",
 		"name": "MARSHALL ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -3982,7 +3982,7 @@
 	}, {
 		"id": "FSM",
 		"name": "MICRONESIA",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -4343,7 +4343,7 @@
 	}, {
 		"id": "SLB",
 		"name": "SOLOMON ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -4531,7 +4531,7 @@
 	}, {
 		"id": "TUV",
 		"name": "TUVALU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -4596,7 +4596,7 @@
 	}, {
 		"id": "VUT",
 		"name": "VANUATU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -5345,7 +5345,7 @@
 	}, {
 		"id": "KIR",
 		"name": "KIRIBATI",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -5487,7 +5487,7 @@
 	}, {
 		"id": "MHL",
 		"name": "MARSHALL ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -5515,7 +5515,7 @@
 	}, {
 		"id": "FSM",
 		"name": "MICRONESIA",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -5894,7 +5894,7 @@
 	}, {
 		"id": "SLB",
 		"name": "SOLOMON ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -6081,7 +6081,7 @@
 	}, {
 		"id": "TUV",
 		"name": "TUVALU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -6137,7 +6137,7 @@
 	}, {
 		"id": "VUT",
 		"name": "VANUATU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -6880,7 +6880,7 @@
 	}, {
 		"id": "KIR",
 		"name": "KIRIBATI",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -7031,7 +7031,7 @@
 	}, {
 		"id": "MHL",
 		"name": "MARSHALL ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -7059,7 +7059,7 @@
 	}, {
 		"id": "FSM",
 		"name": "MICRONESIA",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -7439,7 +7439,7 @@
 	}, {
 		"id": "SLB",
 		"name": "SOLOMON ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -7635,7 +7635,7 @@
 	}, {
 		"id": "TUV",
 		"name": "TUVALU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -7691,7 +7691,7 @@
 	}, {
 		"id": "VUT",
 		"name": "VANUATU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -8397,7 +8397,7 @@
 	}, {
 		"id": "KIR",
 		"name": "KIRIBATI",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -8539,7 +8539,7 @@
 	}, {
 		"id": "MHL",
 		"name": "MARSHALL ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -8567,7 +8567,7 @@
 	}, {
 		"id": "FSM",
 		"name": "MICRONESIA",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -8946,7 +8946,7 @@
 	}, {
 		"id": "SLB",
 		"name": "SOLOMON ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -9132,7 +9132,7 @@
 	}, {
 		"id": "TUV",
 		"name": "TUVALU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -9188,7 +9188,7 @@
 	}, {
 		"id": "VUT",
 		"name": "VANUATU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -9885,7 +9885,7 @@
 	}, {
 		"id": "KIR",
 		"name": "KIRIBATI",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -10018,7 +10018,7 @@
 	}, {
 		"id": "MHL",
 		"name": "MARSHALL ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -10046,7 +10046,7 @@
 	}, {
 		"id": "FSM",
 		"name": "MICRONESIA",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -10416,7 +10416,7 @@
 	}, {
 		"id": "SLB",
 		"name": "SOLOMON ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -10593,7 +10593,7 @@
 	}, {
 		"id": "TUV",
 		"name": "TUVALU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -10649,7 +10649,7 @@
 	}, {
 		"id": "VUT",
 		"name": "VANUATU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -11346,7 +11346,7 @@
 	}, {
 		"id": "KIR",
 		"name": "KIRIBATI",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -11479,7 +11479,7 @@
 	}, {
 		"id": "MHL",
 		"name": "MARSHALL ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -11507,7 +11507,7 @@
 	}, {
 		"id": "FSM",
 		"name": "MICRONESIA",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -11877,7 +11877,7 @@
 	}, {
 		"id": "SLB",
 		"name": "SOLOMON ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -12064,7 +12064,7 @@
 	}, {
 		"id": "TUV",
 		"name": "TUVALU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -12120,7 +12120,7 @@
 	}, {
 		"id": "VUT",
 		"name": "VANUATU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -12826,7 +12826,7 @@
 	}, {
 		"id": "KIR",
 		"name": "KIRIBATI",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -12968,7 +12968,7 @@
 	}, {
 		"id": "MHL",
 		"name": "MARSHALL ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -12996,7 +12996,7 @@
 	}, {
 		"id": "FSM",
 		"name": "MICRONESIA",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -13366,7 +13366,7 @@
 	}, {
 		"id": "SLB",
 		"name": "SOLOMON ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -13543,7 +13543,7 @@
 	}, {
 		"id": "TUV",
 		"name": "TUVALU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -13599,7 +13599,7 @@
 	}, {
 		"id": "VUT",
 		"name": "VANUATU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -14323,7 +14323,7 @@
 	}, {
 		"id": "KIR",
 		"name": "KIRIBATI",
-		"since": "NA",
+		"since": "",
 		"executions": "0",
 		"death-penalties": "0",
 		"status": "ABOLITIONIST"
@@ -14456,7 +14456,7 @@
 	}, {
 		"id": "MHL",
 		"name": "MARSHALL ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -14484,7 +14484,7 @@
 	}, {
 		"id": "FSM",
 		"name": "MICRONESIA",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -14855,7 +14855,7 @@
 	}, {
 		"id": "SLB",
 		"name": "SOLOMON ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -15034,7 +15034,7 @@
 	}, {
 		"id": "TUV",
 		"name": "TUVALU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -15090,7 +15090,7 @@
 	}, {
 		"id": "VUT",
 		"name": "VANUATU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
