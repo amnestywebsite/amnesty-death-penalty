@@ -290,7 +290,7 @@
 		"name": "CHINA",
 		"since": "",
 		"executions": "470+",
-		"death-penalties": "1,860+",
+		"death-penalties": "1860+",
 		"status": "RETENTIONIST"
 	}, {
 		"id": "COL",
@@ -3376,8 +3376,8 @@
 		"id": "CHN",
 		"name": "CHINA",
 		"since": "",
-		"executions": "1,000s",
-		"death-penalties": "1,000s",
+		"executions": "1000s",
+		"death-penalties": "1000s",
 		"status": "RETENTIONIST",
 		"note": {
 			"en": "In 2009 Amnesty International stopped publishing our estimated figures on the use of the death penalty in China, in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. Our monitoring indicates that China remains the world’s top executioner.",
@@ -6470,8 +6470,8 @@
 		"id": "CHN",
 		"name": "CHINA",
 		"since": "",
-		"executions": "1,000s",
-		"death-penalties": "1,000s",
+		"executions": "1000s",
+		"death-penalties": "1000s",
 		"status": "RETENTIONIST",
 		"note": {
 			"en": "In 2009 Amnesty International stopped publishing our estimated figures on the use of the death penalty in China in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. Our monitoring indicates that China remains the world’s top executioner.",
