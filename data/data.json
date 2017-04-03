@@ -4125,8 +4125,8 @@
 		"id": "OMN",
 		"name": "OMAN",
 		"since": "",
-		"executions": "0",
-		"death-penalties": "0",
+		"executions": "4",
+		"death-penalties": "7",
 		"status": "RETENTIONIST"
 	}, {
 		"id": "PAK",
@@ -4323,7 +4323,7 @@
 		"id": "SGP",
 		"name": "SINGAPORE",
 		"since": "",
-		"executions": "1",
+		"executions": "5",
 		"death-penalties": "6+",
 		"status": "RETENTIONIST"
 	}, {
@@ -4468,7 +4468,7 @@
 		"name": "THAILAND",
 		"since": "",
 		"executions": "2",
-		"death-penalties": "+",
+		"death-penalties": "50",
 		"status": "RETENTIONIST",
 		"note": {
 			"en": "+ means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
