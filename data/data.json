@@ -4125,8 +4125,8 @@
 		"id": "OMN",
 		"name": "OMAN",
 		"since": "",
-		"executions": "4",
-		"death-penalties": "7",
+		"executions": "0",
+		"death-penalties": "0",
 		"status": "RETENTIONIST"
 	}, {
 		"id": "PAK",
@@ -4323,7 +4323,7 @@
 		"id": "SGP",
 		"name": "SINGAPORE",
 		"since": "",
-		"executions": "5",
+		"executions": "1",
 		"death-penalties": "6+",
 		"status": "RETENTIONIST"
 	}, {
@@ -4468,7 +4468,7 @@
 		"name": "THAILAND",
 		"since": "",
 		"executions": "2",
-		"death-penalties": "50",
+		"death-penalties": "+",
 		"status": "RETENTIONIST",
 		"note": {
 			"en": "+ means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
@@ -14865,7 +14865,7 @@
 		"since": "",
 		"executions": "14",
 		"death-penalties": "60",
-		"status": "RETENTIONIST"
+		"status": "RETENTIONIST",
 		"note": {
 			"en": "Death Sentences: 4+ by the Federal Government of Somalia; 1+ in Somaliland; Executions: 17+ by the Federal Government of Somalia; Somaliland 6+; Jubaland 2+",
 			"fr": "Condamnations à mort: 4+par le gouvernement fédéral somalien; 1+au Somaliland; Exécutions : 17+ par le gouvernement fédéral somalien; 6+au Somaliland; 2+au Jubaland",
@@ -14874,7 +14874,7 @@
 			"zh_Hans": "死刑判决：索马里联邦政府4+起；索马里兰1+起; 处决: 索马里联邦政府17+起；朱巴兰地区2+起",
 			"zh_Hant": "死刑：索馬里聯邦政府4+宗; 索馬里蘭1+宗; 處決：索馬里聯邦政府17+宗 索馬里蘭6+宗; 朱巴蘭地區2+宗",
 			"zh_TW": "死刑：4+件由索馬利亞聯邦政府執行；1+件於索馬利蘭; 處決：17+件由索馬利亞聯邦政府執行；6+於索馬利蘭；2+於朱巴蘭"
-		
+		}
 	}, {
 		"id": "ZAF",
 		"name": "SOUTH AFRICA",
