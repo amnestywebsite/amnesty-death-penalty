@@ -1310,7 +1310,7 @@ small,.milli {
   stroke-dasharray: 1,1;
 }
 
--/* CSS hack to a language specific issue to avoid messing up the data */
+/* CSS hack to a language specific issue to avoid messing up the data */
 
 :lang(zh_Hans) .since-header span {
   font-size: 1.35rem;
@@ -1323,3 +1323,13 @@ small,.milli {
 :lang(zh_TW) .since-header span {
   font-size: 1.35rem;
 }
+
+:lang(fr) .execution-header {
+  font-size: 1.3rem;
+}
+
+:lang(fr) .dp-header {
+  font-size: 1.3rem;
+}
+
+
