@@ -404,6 +404,7 @@ function draw(topo, activeCountries, coastline, somalilandBorder, kosovoBorder, 
         });
 
   activeCountry.on('click', activateCountry);
+  activeCountry.on('touchend', activateCountry);
 }
 
 function updateYearTotal(yearData) {
