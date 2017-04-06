@@ -9049,9 +9049,12 @@
 		"id": "SYR",
 		"name": "SYRIA",
 		"since": "",
-		"executions": "",
-		"death-penalties": "",
-		"status": "RETENTIONIST"
+		"executions": "-",
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict."
+		}
 	}, {
 		"id": "TWN",
 		"name": "TAIWAN",
@@ -10510,9 +10513,12 @@
 		"id": "SYR",
 		"name": "SYRIA",
 		"since": "",
-		"executions": "",
-		"death-penalties": "",
-		"status": "RETENTIONIST"
+		"executions": "-",
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict."
+		}
 	}, {
 		"id": "TWN",
 		"name": "TAIWAN",
@@ -11981,9 +11987,12 @@
 		"id": "SYR",
 		"name": "SYRIA",
 		"since": "",
-		"executions": "",
-		"death-penalties": "",
-		"status": "RETENTIONIST"
+		"executions": "-",
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict."
+		}
 	}, {
 		"id": "TWN",
 		"name": "TAIWAN",
