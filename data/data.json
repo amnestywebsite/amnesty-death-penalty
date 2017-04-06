@@ -14960,9 +14960,18 @@
 		"id": "SYR",
 		"name": "SYRIA",
 		"since": "",
-		"executions": "",
-		"death-penalties": "",
+		"executions": "-",
+		"death-penalties": "-",
 		"status": "RETENTIONIST"
+		"note": {
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict",
+			"fr": 
+			"es": 
+			"ar": 
+			"zh_Hans": 
+			"zh_Hant": 
+			"zh_TW": 
+		}
 	}, {
 		"id": "TWN",
 		"name": "TAIWAN",
