@@ -1540,16 +1540,10 @@
 		"name": "YEMEN",
 		"since": "",
 		"executions": "15+",
-		"death-penalties": "",
+		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
-			"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
-			"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise.",
-			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
-			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
-			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in Yemen."
 		}
 	}, {
 		"id": "ZMB",
@@ -3077,8 +3071,11 @@
 		"name": "YEMEN",
 		"since": "",
 		"executions": "13+",
-		"death-penalties": "",
-		"status": "RETENTIONIST"
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in Yemen."
+		}
 	}, {
 		"id": "ZMB",
 		"name": "ZAMBIA",
@@ -6937,9 +6934,12 @@
 		"id": "LBY",
 		"name": "LIBYA",
 		"since": "",
-		"executions": "",
-		"death-penalties": "",
-		"status": "RETENTIONIST"
+		"executions": "-",
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Libya."
+		}
 	}, {
 		"id": "LIE",
 		"name": "LIECHTENSTEIN",
