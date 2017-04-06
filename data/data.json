@@ -14392,9 +14392,12 @@
 		"id": "LBY",
 		"name": "LIBYA",
 		"since": "",
-		"executions": "",
+		"executions": "-",
 		"death-penalties": "1+",
-		"status": "RETENTIONIST"
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether judicial executions took place in Libya."
+		}
 	}, {
 		"id": "LIE",
 		"name": "LIECHTENSTEIN",
@@ -15145,9 +15148,12 @@
 		"id": "YEM",
 		"name": "YEMEN",
 		"since": "",
-		"executions": "",
-		"death-penalties": "",
-		"status": "RETENTIONIST"
+		"executions": "-",
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Yemen due to the armed conflict."
+		}
 	}, {
 		"id": "ZMB",
 		"name": "ZAMBIA",
