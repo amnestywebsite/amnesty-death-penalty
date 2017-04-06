@@ -8463,7 +8463,7 @@
 		"id": "LBY",
 		"name": "LIBYA",
 		"since": "",
-		"executions": "",
+		"executions": "0",
 		"death-penalties": "5+",
 		"status": "RETENTIONIST"
 	}, {
@@ -9945,7 +9945,7 @@
 		"id": "LBY",
 		"name": "LIBYA",
 		"since": "",
-		"executions": "",
+		"executions": "0",
 		"death-penalties": "18+",
 		"status": "RETENTIONIST"
 	}, {
@@ -11409,7 +11409,7 @@
 		"id": "LBY",
 		"name": "LIBYA",
 		"since": "",
-		"executions": "",
+		"executions": "0",
 		"death-penalties": "1+",
 		"status": "RETENTIONIST"
 	}, {
@@ -12892,7 +12892,7 @@
 		"id": "LBY",
 		"name": "LIBYA",
 		"since": "",
-		"executions": "",
+		"executions": "0",
 		"death-penalties": "10+",
 		"status": "RETENTIONIST"
 	}, {
