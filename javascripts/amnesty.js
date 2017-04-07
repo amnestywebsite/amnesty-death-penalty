@@ -16,8 +16,8 @@ var height = width*mapHeightWidthRatio;
 var mapScale = (width-20)*mapWidthScaleFactor;
 var center = [width / 2, height * 0.567];// For some reason, the height needs to be translated a little more than half to actually center the map. No idea why.
 
-var startYear = '2015';
-var maxYear = '2015';
+var startYear = '2016';
+var maxYear = '2016';
 var minYear = '2007';
 var currentYear = startYear;
 var tooltip = d3.select("#map").append("div").attr("class", "tooltip hidden");
@@ -55,6 +55,10 @@ Dictionary.prototype.getTranslation = function (key, language) {
 
   if ( this.dictionary.hasOwnProperty(key) && this.dictionary[key].hasOwnProperty(language) ) {
     translation = this.dictionary[key][language];
+  }
+
+  else {
+    translation = key;
   }
 
   return translation;
@@ -400,6 +404,7 @@ function draw(topo, activeCountries, coastline, somalilandBorder, kosovoBorder, 
         });
 
   activeCountry.on('click', activateCountry);
+  activeCountry.on('touchend', activateCountry);
 }
 
 function updateYearTotal(yearData) {
@@ -460,7 +465,10 @@ function activateCountry(d){
     detailBox.classList.remove("ABOLITIONIST");
   }
 
-  detailTemplate = Hogan.compile("<div class='wrapper'><div id='btn-close'>×</div><h1 class='no-caps-title pb1'>{{name__localised}}</h1><div class='status-block'><h2 class='mv2'>{{status__localised}}</h2></div>{{#since}}<div class='since-date'><h3 class='since-header'>" + dictionary.getTranslation('SINCE') + " {{since}}</h3></div>{{/since}}<div class='definition'><p class='mv2 detailBox-definition'>{{definition__localised}}</p>{{#note}}" + note + "{{/note}}</p></div></div><div class='totals-block'><div class='media bg-white'>{{#death-penalties}}<div class='media__img dp-image'><img class='death-sentences-icon' src='images/hammer.svg'></div><div class='media__body'><h2 class='dp-header' id='dp-header'>{{death-penalties}}</h2></div><h3 class='dp-words lh-reset'>" + dictionary.getTranslation('DEATH SENTENCES') + "</h3>{{/death-penalties}}</div><div class='media bg-black white'>{{#executions}}<div class='media__img executions-image'><img class='executions-icon' src='images/WhiteNoose.svg'></div><div class='media__body'><h2 class='execution-header' id='execution-header'>{{executions}}</h2></div><h3 class='execution-words lh-reset'>" + dictionary.getTranslation('EXECUTIONS') + "</h3>{{/executions}}</div></div>");
+  var deathPenalties = d['death-penalties'] || '';
+  var executions = d['executions'] || '';
+
+  detailTemplate = Hogan.compile("<div class='wrapper'><div id='btn-close'>×</div><h1 class='no-caps-title pb1'>{{name__localised}}</h1><div class='status-block'><h2 class='mv2'>{{status__localised}}</h2></div>{{#since}}<div class='since-date'><h3 class='since-header'>" + dictionary.getTranslation('SINCE') + "<span>&nbsp;{{since}}</span>" + dictionary.getTranslation('SINCE_SUFFIX') + "</h3></div>{{/since}}<div class='definition'><p class='mv2 detailBox-definition'>{{definition__localised}}</p>{{#note}}" + note + "{{/note}}</p></div></div><div class='totals-block'><div class='media bg-white'>{{#death-penalties}}<div class='media__img dp-image'><img class='death-sentences-icon' src='images/hammer.svg'></div><div class='media__body'><h2 class='dp-header' id='dp-header'>" + dictionary.getTranslation(deathPenalties) + "</h2></div><h3 class='dp-words lh-reset'>" + dictionary.getTranslation('DEATH SENTENCES') + "</h3>{{/death-penalties}}</div><div class='media bg-black white'>{{#executions}}<div class='media__img executions-image'><img class='executions-icon' src='images/WhiteNoose.svg'></div><div class='media__body'><h2 class='execution-header' id='execution-header'>" + dictionary.getTranslation(executions) + "</h2></div><h3 class='execution-words lh-reset'>" + dictionary.getTranslation('EXECUTIONS') + "</h3>{{/executions}}</div></div>");
   var output = detailTemplate.render(d);
   detailBox.innerHTML = output;
 

@@ -45,6 +45,10 @@ To set the language add the language code in a variable in the embed url. Suppor
 
 To set the application to Arabic, for example, add `?lang=ar` to the end of the url.
 
+Dictionary.getTranslation() looks for a translation in lang/dictionary.json and if it doesn’t find a translation for the provided key and language, it just returns the key instead of the translation. This allows us to translate 1,000s in the DP and execution figures.
+
+To deal with the need for a Chinese symbol after "since" we have added a new dictionary entry with a key like "SINCE_SUFFIX", with the Chinese symbol as the Chinese translation, and a blank string for all other languages.
+
 ## iframe-resizer
 iframe-resizer is a way to embed an iframe whose aspect ratio changes at different screen widths.
 
