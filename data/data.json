@@ -1,7 +1,7 @@
 [{
 	"year": "2007",
-	"total-executions": "1,253+",
-	"total-death-sentences": "3,345+",
+	"total-executions": "1253+",
+	"total-death-sentences": "3345+",
 	"ABOLITIONIST": "91",
 	"ABOLITIONIST FOR ORDINARY CRIMES": "10",
 	"ABOLITIONIST IN PRACTICE": "33",
@@ -290,7 +290,7 @@
 		"name": "CHINA",
 		"since": "",
 		"executions": "470+",
-		"death-penalties": "1,860+",
+		"death-penalties": "1860+",
 		"status": "RETENTIONIST"
 	}, {
 		"id": "COL",
@@ -734,7 +734,7 @@
 	}, {
 		"id": "KIR",
 		"name": "KIRIBATI",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -876,7 +876,7 @@
 	}, {
 		"id": "MHL",
 		"name": "MARSHALL ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -904,7 +904,7 @@
 	}, {
 		"id": "FSM",
 		"name": "MICRONESIA",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -1276,7 +1276,7 @@
 	}, {
 		"id": "SLB",
 		"name": "SOLOMON ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -1517,7 +1517,7 @@
 	}, {
 		"id": "VUT",
 		"name": "VANUATU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -1540,16 +1540,10 @@
 		"name": "YEMEN",
 		"since": "",
 		"executions": "15+",
-		"death-penalties": "0",
+		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
-			"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
-			"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise.",
-			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
-			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
-			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in Yemen."
 		}
 	}, {
 		"id": "ZMB",
@@ -1584,8 +1578,8 @@
 	}]
 }, {
 	"year": "2008",
-	"total-executions": "2,395+",
-	"total-death-sentences": "8,875+",
+	"total-executions": "2395+",
+	"total-death-sentences": "8875+",
 	"ABOLITIONIST": "92",
 	"ABOLITIONIST FOR ORDINARY CRIMES": "10",
 	"ABOLITIONIST IN PRACTICE": "36",
@@ -1839,8 +1833,8 @@
 		"id": "CHN",
 		"name": "CHINA",
 		"since": "",
-		"executions": "1,718+",
-		"death-penalties": "7,003+",
+		"executions": "1718+",
+		"death-penalties": "7003+",
 		"status": "RETENTIONIST"
 	}, {
 		"id": "COL",
@@ -2248,7 +2242,7 @@
 	}, {
 		"id": "KIR",
 		"name": "KIRIBATI",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -2399,7 +2393,7 @@
 	}, {
 		"id": "MHL",
 		"name": "MARSHALL ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -2427,7 +2421,7 @@
 	}, {
 		"id": "FSM",
 		"name": "MICRONESIA",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -2601,7 +2595,7 @@
 		"name": "PALESTINIAN AUTHORITY",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
+		"death-penalties": "11",
 		"status": "RETENTIONIST"
 	}, {
 		"id": "PAN",
@@ -2786,7 +2780,7 @@
 		"id": "SGP",
 		"name": "SINGAPORE",
 		"since": "",
-		"executions": "1+",
+		"executions": "6",
 		"death-penalties": "5",
 		"status": "RETENTIONIST"
 	}, {
@@ -2806,7 +2800,7 @@
 	}, {
 		"id": "SLB",
 		"name": "SOLOMON ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -2998,7 +2992,7 @@
 	}, {
 		"id": "TUV",
 		"name": "TUVALU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -3054,7 +3048,7 @@
 	}, {
 		"id": "VUT",
 		"name": "VANUATU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -3077,8 +3071,11 @@
 		"name": "YEMEN",
 		"since": "",
 		"executions": "13+",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in Yemen."
+		}
 	}, {
 		"id": "ZMB",
 		"name": "ZAMBIA",
@@ -3097,7 +3094,7 @@
 }, {
 	"year": "2009",
 	"total-executions": "722+",
-	"total-death-sentences": "2,056+",
+	"total-death-sentences": "2056+",
 	"ABOLITIONIST": "95",
 	"ABOLITIONIST FOR ORDINARY CRIMES": "9",
 	"ABOLITIONIST IN PRACTICE": "35",
@@ -3376,8 +3373,8 @@
 		"id": "CHN",
 		"name": "CHINA",
 		"since": "",
-		"executions": "1,000s",
-		"death-penalties": "1,000s",
+		"executions": "1000s",
+		"death-penalties": "1000s",
 		"status": "RETENTIONIST",
 		"note": {
 			"en": "In 2009 Amnesty International stopped publishing our estimated figures on the use of the death penalty in China, in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. Our monitoring indicates that China remains the world’s top executioner.",
@@ -3803,7 +3800,7 @@
 	}, {
 		"id": "KIR",
 		"name": "KIRIBATI",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -3954,7 +3951,7 @@
 	}, {
 		"id": "MHL",
 		"name": "MARSHALL ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -3982,7 +3979,7 @@
 	}, {
 		"id": "FSM",
 		"name": "MICRONESIA",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -4125,8 +4122,8 @@
 		"id": "OMN",
 		"name": "OMAN",
 		"since": "",
-		"executions": "0",
-		"death-penalties": "0",
+		"executions": "4",
+		"death-penalties": "7",
 		"status": "RETENTIONIST"
 	}, {
 		"id": "PAK",
@@ -4323,7 +4320,7 @@
 		"id": "SGP",
 		"name": "SINGAPORE",
 		"since": "",
-		"executions": "1",
+		"executions": "5",
 		"death-penalties": "6+",
 		"status": "RETENTIONIST"
 	}, {
@@ -4343,7 +4340,7 @@
 	}, {
 		"id": "SLB",
 		"name": "SOLOMON ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -4358,7 +4355,7 @@
 			"en": "Death Sentences: 6 in Puntland; 6 by the Transitional Federal Government",
 			"fr": "Condamnations à mort : 6 au Puntland ; 6 par le gouvernement fédéral de transition",
 			"es": "Condenas a muerte: 6 en Puntlandia; 6 por el Gobierno Federal de Transición",
-			"ar": "أحكام الإعدام: 6 في  6 من قبل الحكومة الاتحادية الانتقالية",
+			"ar": "أحكام الإعدام: 6 في بونتلاند و6 من قبل الحكومة الاتحادية الانتقالية ",
 			"zh_Hans": "死刑判决：邦特兰6起；过渡联邦政府6起",
 			"zh_Hant": "死刑判決：邦特蘭6宗;聯邦過渡政府6宗",
 			"zh_TW": "死刑：6件發生在邦特蘭；6件由過渡聯邦政府執行"
@@ -4468,7 +4465,7 @@
 		"name": "THAILAND",
 		"since": "",
 		"executions": "2",
-		"death-penalties": "+",
+		"death-penalties": "50+",
 		"status": "RETENTIONIST",
 		"note": {
 			"en": "+ means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
@@ -4531,7 +4528,7 @@
 	}, {
 		"id": "TUV",
 		"name": "TUVALU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -4596,7 +4593,7 @@
 	}, {
 		"id": "VUT",
 		"name": "VANUATU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -4639,7 +4636,7 @@
 }, {
 	"year": "2010",
 	"total-executions": "534+",
-	"total-death-sentences": "2,024+",
+	"total-death-sentences": "2024+",
 	"ABOLITIONIST": "96",
 	"ABOLITIONIST FOR ORDINARY CRIMES": "9",
 	"ABOLITIONIST IN PRACTICE": "34",
@@ -4927,8 +4924,8 @@
 		"id": "CHN",
 		"name": "CHINA",
 		"since": "",
-		"executions": "1,000s",
-		"death-penalties": "1,000s",
+		"executions": "1000s",
+		"death-penalties": "1000s",
 		"status": "RETENTIONIST",
 		"note": {
 			"en": "In 2009 Amnesty International stopped publishing our estimated figures on the use of the death penalty in China, in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. Our monitoring indicates that China remains the world’s top executioner.",
@@ -5040,7 +5037,7 @@
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
 	}, {
-		"id": "DOM",
+		"id": "DMA",
 		"name": "DOMINICA",
 		"since": "",
 		"executions": "0",
@@ -5345,7 +5342,7 @@
 	}, {
 		"id": "KIR",
 		"name": "KIRIBATI",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -5487,7 +5484,7 @@
 	}, {
 		"id": "MHL",
 		"name": "MARSHALL ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -5515,7 +5512,7 @@
 	}, {
 		"id": "FSM",
 		"name": "MICRONESIA",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -5865,7 +5862,7 @@
 		"id": "SGP",
 		"name": "SINGAPORE",
 		"since": "",
-		"executions": "+",
+		"executions": "0",
 		"death-penalties": "8+",
 		"status": "RETENTIONIST",
 		"note": {
@@ -5894,7 +5891,7 @@
 	}, {
 		"id": "SLB",
 		"name": "SOLOMON ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -6081,7 +6078,7 @@
 	}, {
 		"id": "TUV",
 		"name": "TUVALU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -6137,7 +6134,7 @@
 	}, {
 		"id": "VUT",
 		"name": "VANUATU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -6168,7 +6165,7 @@
 		"id": "YEM",
 		"name": "YEMEN",
 		"since": "",
-		"executions": "53+",
+		"executions": "62+",
 		"death-penalties": "27+",
 		"status": "RETENTIONIST"
 	}, {
@@ -6189,7 +6186,7 @@
 }, {
 	"year": "2011",
 	"total-executions": "680+",
-	"total-death-sentences": "1,923+",
+	"total-death-sentences": "1923+",
 	"ABOLITIONIST": "96",
 	"ABOLITIONIST FOR ORDINARY CRIMES": "9",
 	"ABOLITIONIST IN PRACTICE": "35",
@@ -6470,8 +6467,8 @@
 		"id": "CHN",
 		"name": "CHINA",
 		"since": "",
-		"executions": "1,000s",
-		"death-penalties": "1,000s",
+		"executions": "1000s",
+		"death-penalties": "1000s",
 		"status": "RETENTIONIST",
 		"note": {
 			"en": "In 2009 Amnesty International stopped publishing our estimated figures on the use of the death penalty in China in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. Our monitoring indicates that China remains the world’s top executioner.",
@@ -6584,7 +6581,7 @@
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
 	}, {
-		"id": "DOM",
+		"id": "DMA",
 		"name": "DOMINICA",
 		"since": "",
 		"executions": "0",
@@ -6880,7 +6877,7 @@
 	}, {
 		"id": "KIR",
 		"name": "KIRIBATI",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -6937,9 +6934,12 @@
 		"id": "LBY",
 		"name": "LIBYA",
 		"since": "",
-		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"executions": "-",
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Libya."
+		}
 	}, {
 		"id": "LIE",
 		"name": "LIECHTENSTEIN",
@@ -7031,7 +7031,7 @@
 	}, {
 		"id": "MHL",
 		"name": "MARSHALL ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -7059,7 +7059,7 @@
 	}, {
 		"id": "FSM",
 		"name": "MICRONESIA",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -7419,7 +7419,7 @@
 		"id": "SGP",
 		"name": "SINGAPORE",
 		"since": "",
-		"executions": "0",
+		"executions": "4",
 		"death-penalties": "5+",
 		"status": "RETENTIONIST"
 	}, {
@@ -7439,7 +7439,7 @@
 	}, {
 		"id": "SLB",
 		"name": "SOLOMON ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -7635,7 +7635,7 @@
 	}, {
 		"id": "TUV",
 		"name": "TUVALU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -7691,7 +7691,7 @@
 	}, {
 		"id": "VUT",
 		"name": "VANUATU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -7734,7 +7734,7 @@
 }, {
 	"year": "2012",
 	"total-executions": "682+",
-	"total-death-sentences": "1,730+",
+	"total-death-sentences": "1730+",
 	"ABOLITIONIST": "97",
 	"ABOLITIONIST FOR ORDINARY CRIMES": "8",
 	"ABOLITIONIST IN PRACTICE": "35",
@@ -7997,8 +7997,8 @@
 		"id": "CHN",
 		"name": "CHINA",
 		"since": "",
-		"executions": "1,000s",
-		"death-penalties": "1,000s",
+		"executions": "1000s",
+		"death-penalties": "1000s",
 		"status": "RETENTIONIST",
 		"note": {
 			"en": "In 2009 Amnesty International stopped publishing our estimated figures on the use of the death penalty in China in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. Our monitoring indicates that China remains the world’s top executioner.",
@@ -8101,7 +8101,7 @@
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
 	}, {
-		"id": "DOM",
+		"id": "DMA",
 		"name": "DOMINICA",
 		"since": "",
 		"executions": "0",
@@ -8397,7 +8397,7 @@
 	}, {
 		"id": "KIR",
 		"name": "KIRIBATI",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -8539,7 +8539,7 @@
 	}, {
 		"id": "MHL",
 		"name": "MARSHALL ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -8567,7 +8567,7 @@
 	}, {
 		"id": "FSM",
 		"name": "MICRONESIA",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -8946,7 +8946,7 @@
 	}, {
 		"id": "SLB",
 		"name": "SOLOMON ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -9049,9 +9049,12 @@
 		"id": "SYR",
 		"name": "SYRIA",
 		"since": "",
-		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"executions": "-",
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict."
+		}
 	}, {
 		"id": "TWN",
 		"name": "TAIWAN",
@@ -9132,7 +9135,7 @@
 	}, {
 		"id": "TUV",
 		"name": "TUVALU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -9188,7 +9191,7 @@
 	}, {
 		"id": "VUT",
 		"name": "VANUATU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -9231,7 +9234,7 @@
 }, {
 	"year": "2013",
 	"total-executions": "778+",
-	"total-death-sentences": "1,925+",
+	"total-death-sentences": "1925+",
 	"ABOLITIONIST": "98",
 	"ABOLITIONIST FOR ORDINARY CRIMES": "7",
 	"ABOLITIONIST IN PRACTICE": "35",
@@ -9485,8 +9488,8 @@
 		"id": "CHN",
 		"name": "CHINA",
 		"since": "",
-		"executions": "1,000s",
-		"death-penalties": "1,000s",
+		"executions": "1000s",
+		"death-penalties": "1000s",
 		"status": "RETENTIONIST",
 		"note": {
 			"en": "In 2009 Amnesty International stopped publishing our estimated figures on the use of the death penalty in China in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. Our monitoring indicates that China remains the world’s top executioner.",
@@ -9589,7 +9592,7 @@
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
 	}, {
-		"id": "DOM",
+		"id": "DMA",
 		"name": "DOMINICA",
 		"since": "",
 		"executions": "0",
@@ -9885,7 +9888,7 @@
 	}, {
 		"id": "KIR",
 		"name": "KIRIBATI",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -10018,7 +10021,7 @@
 	}, {
 		"id": "MHL",
 		"name": "MARSHALL ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -10046,7 +10049,7 @@
 	}, {
 		"id": "FSM",
 		"name": "MICRONESIA",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -10416,7 +10419,7 @@
 	}, {
 		"id": "SLB",
 		"name": "SOLOMON ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -10429,7 +10432,7 @@
 		"status": "RETENTIONIST",
 		"note": {
 			"en": "Death Sentences: 8+ by the Federal Government; 81+ in Puntland; 28+ in Somaliland. Executions: 15+ by the Federal Government; 19+ in Puntland",
-			"fr": "Condamnations à mort: 8+par le gouvernement fédéral; 81+au Puntland; 28+ au Somaliland. Exécutions: 15+par le gouvernement fédéral; 19+ au Puntland",
+			"fr": "Condamnations à mort : 8+ par le gouvernement fédéral ; 81+ au Puntland ; 28+ au Somaliland ; Exécutions : 15+ par le gouvernement fédéral ; 19+ au Puntland.",
 			"es": "Condenas a muerte: +8 por el Gobierno Federal de Transición; +81 en Puntlandia; +28 en Somalilandia. Ejecuciones: +15 por el Gobierno Federal de Transición; +19 en Puntlandia",
 			"ar": "أحكام الإعدام: 8+ من قبل الحكومة الاتحادية، 81+ في بونتلاند 28+ في أرض الصومال ;الإعدام: 15+ من قبل الحكومة الاتحادية. 19+ في بونتلاند",
 			"zh_Hans": "死刑判决：联邦政府8+起；邦特兰81+起；索马里兰28+起; 处决: 联邦政府15+起；邦特兰19+起",
@@ -10510,9 +10513,12 @@
 		"id": "SYR",
 		"name": "SYRIA",
 		"since": "",
-		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"executions": "-",
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict."
+		}
 	}, {
 		"id": "TWN",
 		"name": "TAIWAN",
@@ -10593,7 +10599,7 @@
 	}, {
 		"id": "TUV",
 		"name": "TUVALU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -10649,7 +10655,7 @@
 	}, {
 		"id": "VUT",
 		"name": "VANUATU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -10692,7 +10698,7 @@
 }, {
 	"year": "2014",
 	"total-executions": "607+",
-	"total-death-sentences": "2,466+",
+	"total-death-sentences": "2466+",
 	"ABOLITIONIST": "98",
 	"ABOLITIONIST FOR ORDINARY CRIMES": "7",
 	"ABOLITIONIST IN PRACTICE": "35",
@@ -10946,8 +10952,8 @@
 		"id": "CHN",
 		"name": "CHINA",
 		"since": "",
-		"executions": "1,000s",
-		"death-penalties": "1,000s",
+		"executions": "1000s",
+		"death-penalties": "1000s",
 		"status": "RETENTIONIST",
 		"note": {
 			"en": "In 2009 Amnesty International stopped publishing our estimated figures on the use of the death penalty in China in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. Our monitoring indicates that China remains the world’s top executioner.",
@@ -11050,7 +11056,7 @@
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
 	}, {
-		"id": "DOM",
+		"id": "DMA",
 		"name": "DOMINICA",
 		"since": "",
 		"executions": "0",
@@ -11346,7 +11352,7 @@
 	}, {
 		"id": "KIR",
 		"name": "KIRIBATI",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -11479,7 +11485,7 @@
 	}, {
 		"id": "MHL",
 		"name": "MARSHALL ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -11507,7 +11513,7 @@
 	}, {
 		"id": "FSM",
 		"name": "MICRONESIA",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -11676,7 +11682,7 @@
 		"status": "RETENTIONIST",
 		"note": {
 			"en": "Death Sentences: 4+ by Hamas authorities in Gaza. Executions: 2+ by Hamas authorities in Gaza",
-			"fr": "Condamnations à mort: 4+ par les autorités du Hamas à Gaza. Exécutions: 2+par les autorités du Hamas à Gaza",
+			"fr": "Condamnations à mort : 4+ par les autorités du Hamas à Gaza ; Exécutions : 2+ par les autorités du Hamas à Gaza",
 			"es": "Condenas a muerte: +4 por las autoridades de Hamás en Gaza. Ejecuciones: 2 por las autoridades de Hamás en Gaza",
 			"ar": "أحكام الإعدام: 4+ من قبل سلطة حماس في غزة ;الإعدام: 2+  من قبل سلطة حماس في غزة ",
 			"zh_Hans": "死刑判决：加沙哈马斯当局4+起; 处决: 加沙哈马斯当局2+起",
@@ -11877,7 +11883,7 @@
 	}, {
 		"id": "SLB",
 		"name": "SOLOMON ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -11890,7 +11896,7 @@
 		"status": "RETENTIONIST",
 		"note": {
 			"en": "Death Sentences:31+ by the Somali Federal Government; 11+ in Puntland; 10+ in Somaliland. Executions: 13+ by the Somali Federal Government; 1 in Jubaland region",
-			"fr": "Condamnations à mort: 31+par le gouvernement fédéral somalien; 11+au Puntland; 10+ au Somaliland. Exécutions: 13+par le gouvernement fédéral somalien; 1 dans la région du Jubaland",
+			"fr": "Condamnations à mort : 31+ par le gouvernement fédéral somalien ; 11+ au Puntland ; 10+ au Somaliland ; Exécutions : 13+ par le gouvernement fédéral somalien ; 1 dans la région du Jubaland",
 			"es": "Condenas a muerte:+31 por el Gobierno Federal somalí;  +11 en Puntlandia. Ejecuciones: +13 por el Gobierno Federal somalí; 1 en la región de Jubalandia",
 			"ar": "أحكام الإعدام: 31+ من قبل الحكومة الاتحادية  الصومالية، 11+ في بونتلاند، 10+ في أرض الصومال ;عمليات الاعدام: 13+ من قبل الحكومة الاتحادية الصومالية. 1 في منطقة جوبالاند ",
 			"zh_Hans": "死刑判决：索马里联邦政府31+起；邦特兰11+起；索马里兰10+起; 处决: 索马里联邦政府13+起；朱巴兰地区1起",
@@ -11981,9 +11987,12 @@
 		"id": "SYR",
 		"name": "SYRIA",
 		"since": "",
-		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"executions": "-",
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict."
+		}
 	}, {
 		"id": "TWN",
 		"name": "TAIWAN",
@@ -12064,7 +12073,7 @@
 	}, {
 		"id": "TUV",
 		"name": "TUVALU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -12120,7 +12129,7 @@
 	}, {
 		"id": "VUT",
 		"name": "VANUATU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -12162,8 +12171,8 @@
 	}]
 }, {
 	"year": "2015",
-	"total-executions": "1,634+",
-	"total-death-sentences": "1,998+",
+	"total-executions": "1634+",
+	"total-death-sentences": "1998+",
 	"ABOLITIONIST": "102",
 	"ABOLITIONIST FOR ORDINARY CRIMES": "6",
 	"ABOLITIONIST IN PRACTICE": "32",
@@ -12417,8 +12426,8 @@
 		"id": "CHN",
 		"name": "CHINA",
 		"since": "",
-		"executions": "1,000s",
-		"death-penalties": "1,000s",
+		"executions": "1000s",
+		"death-penalties": "1000s",
 		"status": "RETENTIONIST",
 		"note": {
 			"en": "In 2009 Amnesty International stopped publishing our estimated figures on the use of the death penalty in China in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. Our monitoring indicates that China remains the world’s top executioner.",
@@ -12521,7 +12530,7 @@
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
 	}, {
-		"id": "DOM",
+		"id": "DMA",
 		"name": "DOMINICA",
 		"since": "",
 		"executions": "0",
@@ -12752,13 +12761,13 @@
 		"death-penalties": "+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "+ means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
-			"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise",
-			"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
-			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
-			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
-			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"en": "In 2015 Amnesty International began using the combined figure of officially announced executions and those executions not officially announced but which we confirmed, from credible sources, took place. + means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
+			"fr": "En 2015, Amnesty International a commencé à utiliser le chiffre combiné des exécutions officiellement reconnues et des exécutions qui n’ont pas été annoncées officiellement, mais que l’organisation a pu confirmer auprès de sources crédibles. Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise",
+			"es": "En julio de 2015, Amnistía Internacional comenzó a utilizar la cifra conjunta de ejecuciones reconocidas oficialmente y ejecuciones no reconocidas oficialmente, pero que confirmamos a través de fuentes fidedignas. El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
+			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها. في عام 2015، بدأت منظمة العفو الدولية استخدام الرقم الإجمالي لعمليات الإعدام المعلن عنها بشكل رسمي،  وتلك غير المعلن عنها رسمياً ، ولكن أكدت لنا مصادر موثوقة انها قد نُفّذت ",
+			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。. 自2015年起，国际特赦组织开始使用合拼数据，即结合官方公布之处决数据以及非官方公布但我们从可靠消息来源确认之处决数据。",
+			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字 . 自2015年起，國際特赦組織開始使用合併數據，即合併官方公布之處決及非官方公布但我們從可靠來源證實的處決數據。",
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。. 2015年國際特赦組織開始結合官方發布的處決數據，以及官方未宣布，然而經國際特赦組織透過可靠消息來源確認曾發生處決的數據。"
 		}
 	}, {
 		"id": "IRQ",
@@ -12826,7 +12835,7 @@
 	}, {
 		"id": "KIR",
 		"name": "KIRIBATI",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -12968,7 +12977,7 @@
 	}, {
 		"id": "MHL",
 		"name": "MARSHALL ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -12996,7 +13005,7 @@
 	}, {
 		"id": "FSM",
 		"name": "MICRONESIA",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -13165,7 +13174,7 @@
 		"status": "RETENTIONIST",
 		"note": {
 			"en": "Death Sentences: 10+ by Hamas authorities in Gaza; 2+ by Palestinian authority in West Bank",
-			"fr": "Condamnations à mort: 10+ par les autorités du Hamas à Gaza; 2+ par l’Autorité palestinienne en Cisjordanie",
+			"fr": "Condamnations à mort : 10+ par les autorités du Hamas à Gaza ; 2+ par l’Autorité palestinienne en Cisjordanie",
 			"es": "Condenas a muerte: +10 por las autoridades de Hamás en Gaza; +2 por la Autoridad Palestina en Cisjordania",
 			"ar": "أحكام الإعدام: 10+ من قبل سلطة حماس في غزة. 2+ من قبل السلطة الفلسطينية في الضفة الغربية",
 			"zh_Hans": "死刑判决：加沙哈马斯当局10+起；西岸巴勒斯坦权力机构2+起",
@@ -13366,7 +13375,7 @@
 	}, {
 		"id": "SLB",
 		"name": "SOLOMON ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -13379,7 +13388,7 @@
 		"status": "RETENTIONIST",
 		"note": {
 			"en": "Death Sentences: 4+ by the Federal Government of Somalia; 1+ in Somaliland. Executions: 17+ by the Federal Government of Somalia; Somaliland 6+; Jubaland 2+",
-			"fr": "Condamnations à mort: 4+par le gouvernement fédéral somalien; 1+au Somaliland. Exécutions : 17+ par le gouvernement fédéral somalien; 6+au Somaliland; 2+au Jubaland",
+			"fr": "Condamnations à mort : 4+ par le gouvernement fédéral somalien ; 1+ au Somaliland ; Exécutions : 17+ par le gouvernement fédéral somalien ; 6+ au Somaliland ; 2+ au Jubaland",
 			"es": "Condenas a muerte: +4 por el Gobierno Federal somalí; +1 en Somalilandia. Ejecuciones: +17 por el Gobierno Federal somalí; +6 en Somalilandia. +2 en Jubalandia",
 			"ar": "أحكام الإعدام: 4+ من قبل الحكومة الاتحادية من أرض الصومال؛ 1+ في أرض الصومال ;عمليات الاعدام: 17+ من قبل الحكومة الاتحادية  الصومالية. أرض الصومال 6+ و جوبالاند 2+ ",
 			"zh_Hans": "死刑判决：索马里联邦政府4+起；索马里兰1+起; 处决: 索马里联邦政府17+起；朱巴兰地区2+起",
@@ -13460,9 +13469,12 @@
 		"id": "SYR",
 		"name": "SYRIA",
 		"since": "",
-		"executions": "0",
+		"executions": "-",
 		"death-penalties": "20+",
-		"status": "RETENTIONIST"
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether judicial executions took place in Syria due to the armed conflict."
+		}
 	}, {
 		"id": "TWN",
 		"name": "TAIWAN",
@@ -13543,7 +13555,7 @@
 	}, {
 		"id": "TUV",
 		"name": "TUVALU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -13599,7 +13611,7 @@
 	}, {
 		"id": "VUT",
 		"name": "VANUATU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -13647,7 +13659,7 @@
 		"name": "ZAMBIA",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "7+",
+		"death-penalties": "89",
 		"status": "ABOLITIONIST IN PRACTICE"
 	}, {
 		"id": "ZWE",
@@ -13659,8 +13671,8 @@
 	}]
 }, {
 	"year": "2016",
-	"total-executions": "1,032+",
-	"total-death-sentences": "3,106+",
+	"total-executions": "1032+",
+	"total-death-sentences": "3106+",
 	"ABOLITIONIST": "104",
 	"ABOLITIONIST FOR ORDINARY CRIMES": "7",
 	"ABOLITIONIST IN PRACTICE": "30",
@@ -13794,10 +13806,10 @@
 	}, {
 		"id": "BEN",
 		"name": "BENIN",
-		"since": "",
+		"since": "2016",
 		"executions": "0",
 		"death-penalties": "0",
-		"status": "ABOLITIONIST IN PRACTICE"
+		"status": "ABOLITIONIST"
 	}, {
 		"id": "BTN",
 		"name": "BHUTAN",
@@ -13914,9 +13926,18 @@
 		"id": "CHN",
 		"name": "CHINA",
 		"since": "",
-		"executions": "1,000s",
-		"death-penalties": "1,000s",
-		"status": "RETENTIONIST"
+		"executions": "1000s",
+		"death-penalties": "1000s",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "In 2009 Amnesty International stopped publishing our estimated figures on the use of the death penalty in China in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. Our monitoring indicates that China remains the world’s top executioner.",
+			"fr": " En 2009, Amnesty International a cessé de publier des chiffres estimatifs sur l’utilisation de la peine de mort en Chine pour dénoncer le secret qu’entretient le pays à ce propos. La Chine continue de classer ces statistiques secret d’État. Les informations que nous avons recueillies montrent que la Chine demeure le pays où ont lieu le plus grand nombre d’exécutions.",
+			"es": "En 2009, Amnistía Internacional dejó de publicar sus cálculos estimados sobre el uso de la pena de muerte en China a modo de desafío frente al secretismo que aplica el país. China sigue categorizando esas cifras como secreto de Estado. De nuestra actividad de monitoreo se desprende que China sigue siendo el país del mundo donde se llevan a cabo más ejecuciones.",
+			"ar": "عام 2009، توقفت منظمة العفو الدولية عن نشر احصاءاتنا التقديرية بشأن تنفيذ عقوبة الإعدام في الصين، في تحدّ للسرية التي تعتمدها البلاد. لا تزال الصين تعتبر هذه الإحصاءات بمثابة سر حكومي. وبحسب متابعتنا ، لا تزال الصين تحتل الصدارة في عدد احكام الإعدام التي تنفذها.",
+			"zh_Hans": "基于中国在死刑方面秘而不言，国际特赦组织自2009年起即停止公布估算的中国使用死刑数字。中国继续将这类数据列为国家机密。我们的跟踪调查显示中国仍然是世界头号刽子手。",
+			"zh_Hant": "中國繼續將相關數字列為國家機密。我們的監察發現，中國仍是世界上處決最多人的國家。",
+			"zh_TW": "因為中國的保密狀態，2009年國際特赦組織停止發佈預估的中國執行死刑次數。中國繼續將此類數據列為國家機密。我們的監測指出，中國仍為世界上處刑最頻繁的國家。"
+		}
 	}, {
 		"id": "COL",
 		"name": "COLOMBIA",
@@ -14009,7 +14030,7 @@
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
 	}, {
-		"id": "DOM",
+		"id": "DMA",
 		"name": "DOMINICA",
 		"since": "",
 		"executions": "0",
@@ -14161,7 +14182,7 @@
 		"since": "",
 		"executions": "0",
 		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"status": "ABOLITIONIST FOR ORDINARY CRIMES"
 	}, {
 		"id": "GNB",
 		"name": "GUINEA-BISSAU",
@@ -14223,7 +14244,7 @@
 		"name": "INDIA",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "121+",
+		"death-penalties": "136",
 		"status": "RETENTIONIST"
 	}, {
 		"id": "IDN",
@@ -14238,7 +14259,16 @@
 		"since": "",
 		"executions": "567+",
 		"death-penalties": "+",
-		"status": "RETENTIONIST"
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "In 2015 Amnesty International began using the combined figure of officially announced executions and those executions not officially announced but which we confirmed, from credible sources, took place. + means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
+			"fr": "En 2015, Amnesty International a commencé à utiliser le chiffre combiné des exécutions officiellement reconnues et des exécutions qui n’ont pas été annoncées officiellement, mais que l’organisation a pu confirmer auprès de sources crédibles. Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise",
+			"es": "En julio de 2015, Amnistía Internacional comenzó a utilizar la cifra conjunta de ejecuciones reconocidas oficialmente y ejecuciones no reconocidas oficialmente, pero que confirmamos a través de fuentes fidedignas. El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
+			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها. في عام 2015، بدأت منظمة العفو الدولية استخدام الرقم الإجمالي لعمليات الإعدام المعلن عنها بشكل رسمي،  وتلك غير المعلن عنها رسمياً ، ولكن أكدت لنا مصادر موثوقة انها قد نُفّذت ",
+			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。. 自2015年起，国际特赦组织开始使用合拼数据，即结合官方公布之处决数据以及非官方公布但我们从可靠消息来源确认之处决数据。",
+			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字 . 自2015年起，國際特赦組織開始使用合併數據，即合併官方公布之處決及非官方公布但我們從可靠來源證實的處決數據。",
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。. 2015年國際特赦組織開始結合官方發布的處決數據，以及官方未宣布，然而經國際特赦組織透過可靠消息來源確認曾發生處決的數據。"
+		}
 	}, {
 		"id": "IRQ",
 		"name": "IRAQ",
@@ -14305,7 +14335,7 @@
 	}, {
 		"id": "KIR",
 		"name": "KIRIBATI",
-		"since": "NA",
+		"since": "",
 		"executions": "0",
 		"death-penalties": "0",
 		"status": "ABOLITIONIST"
@@ -14362,9 +14392,12 @@
 		"id": "LBY",
 		"name": "LIBYA",
 		"since": "",
-		"executions": "0",
+		"executions": "-",
 		"death-penalties": "1+",
-		"status": "RETENTIONIST"
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether judicial executions took place in Libya."
+		}
 	}, {
 		"id": "LIE",
 		"name": "LIECHTENSTEIN",
@@ -14412,7 +14445,7 @@
 		"name": "MALAYSIA",
 		"since": "",
 		"executions": "9",
-		"death-penalties": "40+",
+		"death-penalties": "36+",
 		"status": "RETENTIONIST"
 	}, {
 		"id": "MDV",
@@ -14438,7 +14471,7 @@
 	}, {
 		"id": "MHL",
 		"name": "MARSHALL ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -14466,7 +14499,7 @@
 	}, {
 		"id": "FSM",
 		"name": "MICRONESIA",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -14529,10 +14562,10 @@
 	}, {
 		"id": "NRU",
 		"name": "NAURU",
-		"since": "",
+		"since": "2016",
 		"executions": "0",
 		"death-penalties": "0",
-		"status": "ABOLITIONIST IN PRACTICE"
+		"status": "ABOLITIONIST"
 	}, {
 		"id": "NPL",
 		"name": "NEPAL",
@@ -14588,7 +14621,16 @@
 		"since": "",
 		"executions": "+",
 		"death-penalties": "+",
-		"status": "RETENTIONIST"
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "+ means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
+			"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise",
+			"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
+			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
+			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
+			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+		}
 	}, {
 		"id": "NOR",
 		"name": "NORWAY",
@@ -14623,7 +14665,16 @@
 		"since": "",
 		"executions": "3",
 		"death-penalties": "21",
-		"status": "RETENTIONIST"
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Death sentences and executions by Hamas authorities in Gaza",
+			"fr": "Condamnations à mort et exécutions par les autorités du Hamas à Gaza",
+			"es": "Condenas a muerte y ejecuciones por las autoridades de Hamás en Gaza.",
+			"ar": "أأحكام الإعدام وتنفيذها من قبل سلطة حماس في غزة",
+			"zh_Hans": "加沙哈马斯当局下达的死刑判决与执行的处决",
+			"zh_Hant": "在加沙的哈馬斯政權判決和執行死刑",
+			"zh_TW": "哈馬斯當局政權於加薩執行的死刑及處決"
+		}
 	}, {
 		"id": "PAN",
 		"name": "PANAMA",
@@ -14679,7 +14730,17 @@
 		"since": "",
 		"executions": "20",
 		"death-penalties": "32",
-		"status": "RETENTIONIST"
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Death penalty applicable under US federal law",
+			"fr": "La peine de mort est applicable au titre de la législation fédérale américaine.",
+			"es": "Pena de muerte aplicable en virtud de la legislación federal estadounidense.",
+			"ar": "عقوبة الإعدام نافذة بموجب القانون الفدرالي الأميركي",
+			"zh_Hans": "死刑在美国联邦法律之下适用",
+			"zh_Hant": "死刑為美國聯邦法律所許可",
+			"zh_TW": "美國聯邦法律之下適用死刑。"
+		}
+
 	}, {
 		"id": "QAT",
 		"name": "QATAR",
@@ -14809,7 +14870,7 @@
 	}, {
 		"id": "SLB",
 		"name": "SOLOMON ISLANDS",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -14819,7 +14880,16 @@
 		"since": "",
 		"executions": "14",
 		"death-penalties": "60",
-		"status": "RETENTIONIST"
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Death Sentences: 4+ by the Federal Government of Somalia; 1+ in Somaliland; Executions: 17+ by the Federal Government of Somalia; Somaliland 6+; Jubaland 2+",
+			"fr": "Condamnations à mort: 4+par le gouvernement fédéral somalien; 1+au Somaliland; Exécutions : 17+ par le gouvernement fédéral somalien; 6+au Somaliland; 2+au Jubaland",
+			"es": "Condenas a muerte: +4 por el Gobierno Federal somalí; +1 en Somalilandia; Ejecuciones: +17 por el Gobierno Federal somalí; +6 en Somalilandia; +2 en Jubalandia",
+			"ar": "أحكام الإعدام: 4+ من قبل الحكومة الاتحادية من أرض الصومال؛ 1+ في أرض الصومال ; عمليات الاعدام: 17+ من قبل الحكومة الاتحادية  الصومالية. أرض الصومال 6+ و جوبالاند 2+ ",
+			"zh_Hans": "死刑判决：索马里联邦政府4+起；索马里兰1+起; 处决: 索马里联邦政府17+起；朱巴兰地区2+起",
+			"zh_Hant": "死刑：索馬里聯邦政府4+宗; 索馬里蘭1+宗; 處決：索馬里聯邦政府17+宗 索馬里蘭6+宗; 朱巴蘭地區2+宗",
+			"zh_TW": "死刑：4+件由索馬利亞聯邦政府執行；1+件於索馬利蘭; 處決：17+件由索馬利亞聯邦政府執行；6+於索馬利蘭；2+於朱巴蘭"
+		}
 	}, {
 		"id": "ZAF",
 		"name": "SOUTH AFRICA",
@@ -14840,7 +14910,18 @@
 		"since": "",
 		"executions": "+",
 		"death-penalties": "+",
-		"status": "RETENTIONIST"
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "+ means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
+			"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu mais qu’elle n’a pas pu parvenir à une estimation plus précise",
+			"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
+			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
+			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
+			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+		}
+
+
 	}, {
 		"id": "ESP",
 		"name": "SPAIN",
@@ -14894,9 +14975,12 @@
 		"id": "SYR",
 		"name": "SYRIA",
 		"since": "",
-		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"executions": "-",
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict."
+		}
 	}, {
 		"id": "TWN",
 		"name": "TAIWAN",
@@ -14977,7 +15061,7 @@
 	}, {
 		"id": "TUV",
 		"name": "TUVALU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -15033,7 +15117,7 @@
 	}, {
 		"id": "VUT",
 		"name": "VANUATU",
-		"since": "NA",
+		"since": "",
 		"executions": "",
 		"death-penalties": "",
 		"status": "ABOLITIONIST"
@@ -15050,14 +15134,26 @@
 		"since": "",
 		"executions": "+",
 		"death-penalties": "63+",
-		"status": "RETENTIONIST"
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "+ means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
+			"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu mais qu’elle n’a pas pu parvenir à une estimation plus précise",
+			"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
+			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
+			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
+			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+		}
 	}, {
 		"id": "YEM",
 		"name": "YEMEN",
 		"since": "",
-		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"executions": "-",
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Yemen due to the armed conflict."
+		}
 	}, {
 		"id": "ZMB",
 		"name": "ZAMBIA",

@@ -29,7 +29,7 @@
 	"ABOLITIONIST FOR ORDINARY CRIMES": {
 		"en": "Abolitionist for ordinary crimes",
 		"es": "ABOLICIONISTA SÓLO PARA DELITOS COMUNES",
-		"fr": "ABOLITIONNISTE POUR LES CRIMES DE DROIT COMMUN SEULEMENT",
+		"fr": "ABOLITIONNISTE POUR LES CRIMES DE DROIT COMMUN",
 		"ar": "ملغاة بالنسبة للجرائم العادية",
 		"zh_Hans": "废除普通犯罪的死刑",
 		"zh_Hant": "廢除普通犯罪死刑",
@@ -62,7 +62,7 @@
 		"zh_Hant": "於法律中保留死刑，但於過去10年沒有使用",
 		"zh_TW": "法律中保留死刑，但10年以上未執行死刑"
 	},
-	"ABOLITIONIST FOR ORDINARY CRIMES DEFNITION": {
+	"ABOLITIONIST FOR ORDINARY CRIMES DEFINITION": {
 		"en": "Retains the death penalty only for serious crimes, such as those committed during times of war",
 		"es": "Retiene la pena de muerte únicamente para delitos graves, como los cometidos en épocas de guerra.",
 		"fr": "La peine de mort est appliquée uniquement en cas de crime grave, par exemple en cas de crime commis en temps de guerre.",
@@ -937,7 +937,7 @@
 	},
 	"SOMALIA": {
 		"en": "Somalia including Somaliland",
-		"es": "Somalia, incluida Somalilandia",
+		"es": "Somalia incluida Somalilandia",
 		"fr": "Somalie y compris Somaliland",
 		"ar": "الصومال بما في ذلك أرض الصومال",
 		"zh_Hans": "索马里 包括索马里兰",
@@ -1971,22 +1971,22 @@
 		"zh_TW": "甘比亞"
 	},
   "1,000s": {
-    "en": "1,000s",
-    "es": "1000s-es",
-    "fr": "1000s-fr",
-    "ar": "1000s-ar",
-    "zh_Hans": "1000s-zh_Hans",
-    "zh_Hant": "1000s-zh_Hant",
-    "zh_TW": "1000s-zh_TW"
+    "en": "1000s",
+    "es": "Miles",
+    "fr": "Des milliers",
+    "ar": "آلاف",
+    "zh_Hans": "数以千计",
+    "zh_Hant": "數千以上",
+    "zh_TW": "數千"
   },
   "1000s": {
-    "en": "1,000s",
-    "es": "1000s-es",
-    "fr": "1000s-fr",
-    "ar": "1000s-ar",
-    "zh_Hans": "1000s-zh_Hans",
-    "zh_Hant": "1000s-zh_Hant",
-    "zh_TW": "1000s-zh_TW"
+    "en": "1000s",
+    "es": "Miles",
+    "fr": "Des milliers",
+    "ar": "آلاف",
+    "zh_Hans": "数以千计",
+    "zh_Hant": "數千以上",
+    "zh_TW": "數千"
   },
   "SINCE_SUFFIX": {
     "en": "",
