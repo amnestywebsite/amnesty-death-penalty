@@ -1543,7 +1543,13 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed in Yemen."
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in Yemen.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en Yemen.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées au Yémen.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما اذا كان قد تم فرض أحكام الإعدام في اليمن أم لا",
+			"zh_Hans": " 国际特赦组织无法确认也门有否作出死刑判决。", 
+			"zh_Hant": "國際特赦組織無法確定於也門（台譯葉門）是否作出死刑判決。",
+			"zh_TW": "國際特赦組織無法確認葉門是否下達死刑判決。"
 		}
 	}, {
 		"id": "ZMB",
@@ -3074,7 +3080,13 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed in Yemen."
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in Yemen.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en Yemen.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées au Yémen.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما اذا كان قد تم فرض أحكام الإعدام في اليمن أم لا",
+			"zh_Hans": "国际特赦组织无法确认也门有否作出死刑判决。", 
+			"zh_Hant": "國際特赦組織無法確定於也門（台譯葉門）是否作出死刑判決。",
+			"zh_TW": "國際特赦組織無法確認葉門是否下達死刑判決。"
 		}
 	}, {
 		"id": "ZMB",
@@ -6938,7 +6950,14 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Libya."
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Libya.",
+			"es": "Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en Libia.",
+			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort en Libye.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد استخدام القضاء عقوبة الإعدام في ليبيا",
+			"zh_Hans": "国际特赦组织无法确认利比亚司法体系使用死刑的情况。", 
+			"zh_Hant": "國際特赦組織無法確定於利比亞（台譯阿拉伯利比亞民眾國）是否作出死刑判決及執行死刑。",
+			"zh_TW": "國際特赦組織無法確認利比亞司法系統使用死刑的狀況。"
+
 		}
 	}, {
 		"id": "LIE",
@@ -9053,8 +9072,14 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict."
-		}
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict.", 
+			"es": "Debido al conflicto armado, Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en Siria.",
+			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort en Syrie en raison du conflit armé.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد استخدام القضاء عقوبة الإعدام في سوريا بسبب النزاع المسلح ",
+			"zh_Hans": "由于叙利亚发生武装冲突，国际特赦组织无法确认该国司法体系使用死刑的情况。", 
+			"zh_Hant": "由於敘利亞發生武裝衝突，國際特赦組織無法確定死刑在該國的司法執行情況。",
+			"zh_TW": "由於敘利亞發生武裝衝突，國際特赦組織無法確認該國司法系統使用死刑的狀況。"
+			}
 	}, {
 		"id": "TWN",
 		"name": "TAIWAN",
@@ -10517,7 +10542,13 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict."
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict.",
+			"es": "Debido al conflicto armado, Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en Siria.",
+			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort en Syrie en raison du conflit armé.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد استخدام القضاء عقوبة الإعدام في سوريا بسبب النزاع المسلح ",
+			"zh_Hans": "由于叙利亚发生武装冲突，国际特赦组织无法确认该国司法体系使用死刑的情况。", 
+			"zh_Hant": "由於敘利亞發生武裝衝突，國際特赦組織無法確定死刑在該國的司法執行情況。",
+			"zh_TW": "由於敘利亞發生武裝衝突，國際特赦組織無法確認該國司法系統使用死刑的狀況。"
 		}
 	}, {
 		"id": "TWN",
@@ -11991,7 +12022,13 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict."
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict.", 
+			"es": "Debido al conflicto armado, Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en Siria.",
+			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort en Syrie en raison du conflit armé.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد استخدام القضاء عقوبة الإعدام في سوريا بسبب النزاع المسلح ",
+			"zh_Hans": "由于叙利亚发生武装冲突，国际特赦组织无法确认该国司法体系使用死刑的情况。", 
+			"zh_Hant": "由於敘利亞發生武裝衝突，國際特赦組織無法確定死刑在該國的司法執行情況。",
+			"zh_TW": "由於敘利亞發生武裝衝突，國際特赦組織無法確認該國司法系統使用死刑的狀況。"
 		}
 	}, {
 		"id": "TWN",
@@ -13473,7 +13510,13 @@
 		"death-penalties": "20+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether judicial executions took place in Syria due to the armed conflict."
+			"en": "Amnesty International was unable to confirm whether judicial executions took place in Syria due to the armed conflict.",
+			"es": "Debido al conflicto armado, Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en Siria.",
+			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort en Syrie en raison du conflit armé.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد استخدام القضاء عقوبة الإعدام في سوريا بسبب النزاع المسلح ",
+			"zh_Hans": "由于叙利亚发生武装冲突，国际特赦组织无法确认该国司法体系使用死刑的情况。", 
+			"zh_Hant": "由於敘利亞發生武裝衝突，國際特赦組織無法確定死刑在該國的司法執行情況。",
+			"zh_TW": "由於敘利亞發生武裝衝突，國際特赦組織無法確認該國司法系統使用死刑的狀況。"
 		}
 	}, {
 		"id": "TWN",
@@ -14267,7 +14310,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها. في عام 2015، بدأت منظمة العفو الدولية استخدام الرقم الإجمالي لعمليات الإعدام المعلن عنها بشكل رسمي،  وتلك غير المعلن عنها رسمياً ، ولكن أكدت لنا مصادر موثوقة انها قد نُفّذت ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。. 自2015年起，国际特赦组织开始使用合拼数据，即结合官方公布之处决数据以及非官方公布但我们从可靠消息来源确认之处决数据。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字 . 自2015年起，國際特赦組織開始使用合併數據，即合併官方公布之處決及非官方公布但我們從可靠來源證實的處決數據。",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。. 2015年國際特赦組織開始結合官方發布的處決數據，以及官方未宣布，然而經國際特赦組織透過可靠消息來源確認曾發生處決的數據。"
+			"zh_TW": "+",
+			"zh_TW": "號表示國際特赦組織確信處決數超過1，但無法確認確切數字。. 2015年國際特赦組織開始結合官方發布的處決數據，以及官方未宣布，然而經國際特赦組織透過可靠消息來源確認曾發生處決的數據。"
 		}
 	}, {
 		"id": "IRQ",
@@ -14357,7 +14401,7 @@
 		"id": "LAO",
 		"name": "LAOS",
 		"since": "",
-		"executions": "",
+		"executions": "0",
 		"death-penalties": "3+",
 		"status": "ABOLITIONIST IN PRACTICE"
 	}, {
@@ -14396,7 +14440,13 @@
 		"death-penalties": "1+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether judicial executions took place in Libya."
+			"en": "Amnesty International was unable to confirm whether judicial executions took place in Libya.",
+			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales en Libia.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu en Libye.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد  ما إذا كان قد تم تنفيذ أي عمليات اعدام خارج نطاق القضاء في ليبيا",
+			"zh_Hans": "国际特赦组织无法确认利比亚是否执行了司法处决。", 
+			"zh_Hant": "國際特赦組織無法確定於利比亞（台譯阿拉伯利比亞民眾國）是否執行司法處決。",
+			"zh_TW": "國際特赦組織無法確認利比亞是否發生司法處決。"
 		}
 	}, {
 		"id": "LIE",
@@ -14979,7 +15029,14 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict."
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict.", 
+			"es": "Debido al conflicto armado, Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en Siria.",
+			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort en Syrie en raison du conflit armé.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد استخدام القضاء عقوبة الإعدام في سوريا بسبب النزاع المسلح ",
+			"zh_Hans": "由于叙利亚发生武装冲突，国际特赦组织无法确认该国司法体系使用死刑的情况。", 
+			"zh_Hant": "由於敘利亞發生武裝衝突，國際特赦組織無法確定死刑在該國的司法執行情況。",
+			"zh_TW": "由於敘利亞發生武裝衝突，國際特赦組織無法確認該國司法系統使用死刑的狀況。"
+
 		}
 	}, {
 		"id": "TWN",
@@ -15152,7 +15209,13 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Yemen due to the armed conflict."
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Yemen due to the armed conflict.", 
+			"es": "Debido al conflicto armado, Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en Yemen.",
+			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort au Yémen en raison du conflit armé.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد استخدام القضاء عقوبة الإعدام في اليمن بسبب النزاع المسلح.",
+			"zh_Hans": "由于也门发生武装冲突，国际特赦组织无法确认该国司法体系使用死刑的情况。",
+			"zh_Hant": "由於也門（台譯葉門）發生武裝衝突，國際特赦組織無法確定死刑在該國的司法執行情況。",
+			"zh_TW": "由於葉門發生武裝衝突，國際特赦組織無法確認該國司法系統使用死刑的狀況。"
 		}
 	}, {
 		"id": "ZMB",
