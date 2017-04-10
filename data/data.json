@@ -18,8 +18,14 @@
 		"name": "AFGHANISTAN",
 		"since": "",
 		"executions": "15",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+
+		}
 	}, {
 		"id": "ALB",
 		"name": "ALBANIA",
@@ -53,8 +59,14 @@
 		"name": "ANTIGUA AND BARBUDA",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		}
+		
 	}, {
 		"id": "ARG",
 		"name": "ARGENTINA",
@@ -125,8 +137,14 @@
 		"name": "BARBADOS",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		}
+
 	}, {
 		"id": "BLR",
 		"name": "BELARUS",
@@ -146,8 +164,13 @@
 		"name": "BELIZE",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		}
 	}, {
 		"id": "BRN",
 		"name": "BRUNEI DARUSSALAM",
@@ -181,8 +204,13 @@
 		"name": "BOTSWANA",
 		"since": "",
 		"executions": "1+",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		}
 	}, {
 		"id": "BRA",
 		"name": "BRAZIL",
@@ -209,8 +237,13 @@
 		"name": "CENTRAL AFRICAN REPUBLIC",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
-		"status": "ABOLITIONIST IN PRACTICE"
+		"death-penalties": "-",
+		"status": "ABOLITIONIST IN PRACTICE",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+
 	}, {
 		"id": "BDI",
 		"name": "BURUNDI",
@@ -388,8 +421,14 @@
 		"name": "DOMINICA",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		      }
+
 	}, {
 		"id": "DOM",
 		"name": "DOMINICAN REPUBLIC",
@@ -432,8 +471,14 @@
 		"name": "EQUATORIAL GUINEA",
 		"since": "",
 		"executions": "3",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"death-penalties": "-",
+		"status": "RETENTIONIST", 
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		      }
+		      
 	}, {
 		"id": "GAB",
 		"name": "GABON",
@@ -777,9 +822,14 @@
 		"id": "LSO",
 		"name": "LESOTHO",
 		"since": "",
-		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"executions": "-",
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty.",
+			"es": "Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte.",
+			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort."
+		      }
 	}, {
 		"id": "LBR",
 		"name": "LIBERIA",
@@ -836,8 +886,13 @@
 		"name": "MALAWI",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
-		"status": "ABOLITIONIST IN PRACTICE"
+		"death-penalties": "-",
+		"status": "ABOLITIONIST IN PRACTICE",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		      }
 	}, {
 		"id": "MDV",
 		"name": "MALDIVES",
@@ -1042,7 +1097,12 @@
 		"since": "",
 		"executions": "0",
 		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"status": "RETENTIONIST",
+		"note": {
+		      	"en": "Amnesty International was unable to confirm the judicial use of the death penalty.",
+			"es": "Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte.",
+			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort."
+		      }
 	}, {
 		"id": "PAK",
 		"name": "PAKISTAN",
@@ -1134,8 +1194,14 @@
 		"name": "QATAR",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		      }
+
 	}, {
 		"id": "ROU",
 		"name": "ROMANIA",
@@ -1178,15 +1244,25 @@
 		"name": "SAINT LUCIA",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		      }
 	}, {
 		"id": "VCT",
 		"name": "SAINT VINCENT AND THE GRENADINES",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		      }
 	}, {
 		"id": "WSM",
 		"name": "SAMOA",
@@ -1285,13 +1361,12 @@
 		"name": "SOMALIA",
 		"since": "",
 		"executions": "5+",
-		"death-penalties": "0",
+		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "",
-			"es": "",
-			"fr": "",
-			"ar": ""
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
 		}
 	}, {
 		"id": "ZAF",
@@ -1341,7 +1416,12 @@
 		"since": "",
 		"executions": "0",
 		"death-penalties": "0",
-		"status": "ABOLITIONIST IN PRACTICE"
+		"status": "ABOLITIONIST IN PRACTICE",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		      }
 	}, {
 		"id": "SWE",
 		"name": "SWEDEN",
@@ -1693,8 +1773,13 @@
 		"name": "BARBADOS",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		}
 	}, {
 		"id": "BLR",
 		"name": "BELARUS",
@@ -1805,8 +1890,13 @@
 		"name": "CAMEROON",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
-		"status": "ABOLITIONIST IN PRACTICE"
+		"death-penalties": "-",
+		"status": "ABOLITIONIST IN PRACTICE",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		}
 	}, {
 		"id": "CAN",
 		"name": "CANADA",
@@ -1853,9 +1943,14 @@
 		"id": "COM",
 		"name": "COMOROS",
 		"since": "",
-		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"executions": "-",
+		"death-penalties": "-",
+		"status": "RETENTIONIST", 
+		"note": {
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty.",
+			"es": "Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte.",
+			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort."
+		}
 	}, {
 		"id": "COG",
 		"name": "REPUBLIC OF CONGO",
@@ -2099,8 +2194,13 @@
 		"name": "GUYANA",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		}
 	}, {
 		"id": "HTI",
 		"name": "HAITI",
@@ -2256,9 +2356,14 @@
 		"id": "KWT",
 		"name": "KUWAIT",
 		"since": "",
-		"executions": "0",
+		"executions": "-",
 		"death-penalties": "6+",
-		"status": "RETENTIONIST"
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether judicial executions took place",
+			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu."
+		}
 	}, {
 		"id": "KGZ",
 		"name": "KYRGYZSTAN",
@@ -2450,7 +2555,7 @@
 		"name": "MONGOLIA",
 		"since": "",
 		"executions": "1+",
-		"death-penalties": "0",
+		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
 			"en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
@@ -2459,7 +2564,10 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
 		}
 	}, {
 		"id": "MNE",
@@ -2579,9 +2687,14 @@
 		"id": "OMN",
 		"name": "OMAN",
 		"since": "",
-		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"executions": "",
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty.",
+			"es": "Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte.",
+			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort."
+		}
 	}, {
 		"id": "PAK",
 		"name": "PAKISTAN",
@@ -2673,8 +2786,13 @@
 		"name": "QATAR",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		}
+ 
 	}, {
 		"id": "ROU",
 		"name": "ROMANIA",
@@ -3028,8 +3146,13 @@
 		"name": "UNITED ARAB EMIRATES",
 		"since": "",
 		"executions": "1+",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"notes":{
+		      "en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		      }
 	}, {
 		"id": "USA",
 		"name": "UNITED STATES OF AMERICA",
@@ -3093,8 +3216,13 @@
 		"name": "ZAMBIA",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
-		"status": "ABOLITIONIST IN PRACTICE"
+		"death-penalties": "-",
+		"status": "ABOLITIONIST IN PRACTICE",
+		      "notes":{
+		      "en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		      }
 	}, {
 		"id": "ZWE",
 		"name": "ZIMBABWE",
@@ -3356,8 +3484,14 @@
 		"name": "CENTRAL AFRICAN REPUBLIC",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
-		"status": "ABOLITIONIST IN PRACTICE"
+		"death-penalties": "-",
+		"status": "ABOLITIONIST IN PRACTICE",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		}
+		
 	}, {
 		"id": "TCD",
 		"name": "CHAD",
@@ -3849,8 +3983,13 @@
 		"name": "LEBANON",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		}
 	}, {
 		"id": "LSO",
 		"name": "LESOTHO",
@@ -4828,8 +4967,13 @@
 		"name": "BOTSWANA",
 		"since": "",
 		"executions": "1",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		}
 	}, {
 		"id": "BRA",
 		"name": "BRAZIL",
@@ -5547,8 +5691,13 @@
 		"name": "MONGOLIA",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		}
 	}, {
 		"id": "MNE",
 		"name": "MONTENEGRO",
@@ -7231,8 +7380,13 @@
 		"name": "OMAN",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+ 
 	}, {
 		"id": "PAK",
 		"name": "PAKISTAN",
@@ -8021,7 +8175,7 @@
 		"status": "RETENTIONIST",
 		"note": {
 			"en": "In 2009 Amnesty International stopped publishing our estimated figures on the use of the death penalty in China in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. Our monitoring indicates that China remains the world’s top executioner.",
-			"fr": " En 2009, Amnesty International a cessé de publier des chiffres estimatifs sur l’utilisation de la peine de mort en Chine pour dénoncer le secret qu’entretient le pays à ce propos. La Chine continue de classer ces statistiques secret d’État. Les informations que nous avons recueillies montrent que la Chine demeure le pays où ont lieu le plus grand nombre d’exécutions.",
+			"fr": "En 2009, Amnesty International a cessé de publier des chiffres estimatifs sur l’utilisation de la peine de mort en Chine pour dénoncer le secret qu’entretient le pays à ce propos. La Chine continue de classer ces statistiques secret d’État. Les informations que nous avons recueillies montrent que la Chine demeure le pays où ont lieu le plus grand nombre d’exécutions.",
 			"es": "En 2009, Amnistía Internacional dejó de publicar sus cálculos estimados sobre el uso de la pena de muerte en China a modo de desafío frente al secretismo que aplica el país. China sigue categorizando esas cifras como secreto de Estado. De nuestra actividad de monitoreo se desprende que China sigue siendo el país del mundo donde se llevan a cabo más ejecuciones.",
 			"ar": "عام 2009، توقفت منظمة العفو الدولية عن نشر احصاءاتنا التقديرية بشأن تنفيذ عقوبة الإعدام في الصين، في تحدّ للسرية التي تعتمدها البلاد. لا تزال الصين تعتبر هذه الإحصاءات بمثابة سر حكومي. وبحسب متابعتنا ، لا تزال الصين تحتل الصدارة في عدد احكام الإعدام التي تنفذها.",
 			"zh_Hans": "基于中国在死刑方面秘而不言，国际特赦组织自2009年起即停止公布估算的中国使用死刑数字。中国继续将这类数据列为国家机密。我们的跟踪调查显示中国仍然是世界头号刽子手。",
@@ -8144,9 +8298,14 @@
 		"id": "EGY",
 		"name": "EGYPT",
 		"since": "",
-		"executions": "0",
+		"executions": "-",
 		"death-penalties": "91+",
-		"status": "RETENTIONIST"
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether judicial executions took place",
+			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu.",
+		}
 	}, {
 		"id": "SLV",
 		"name": "EL SALVADOR",
@@ -8531,9 +8690,14 @@
 		"id": "MYS",
 		"name": "MALAYSIA",
 		"since": "",
-		"executions": "0",
+		"executions": "-",
 		"death-penalties": "60+",
-		"status": "RETENTIONIST"
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether judicial executions took place",
+			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu.",
+		}
 	}, {
 		"id": "MDV",
 		"name": "MALDIVES",
@@ -9641,9 +9805,14 @@
 		"id": "EGY",
 		"name": "EGYPT",
 		"since": "",
-		"executions": "0",
+		"executions": "-",
 		"death-penalties": "109+",
-		"status": "RETENTIONIST"
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether judicial executions took place",
+			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu.",
+		}
 	}, {
 		"id": "SLV",
 		"name": "EL SALVADOR",
@@ -11147,8 +11316,13 @@
 		"name": "ETHIOPIA",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		}
 	}, {
 		"id": "FJI",
 		"name": "FIJI",
@@ -11238,8 +11412,13 @@
 		"name": "GUINEA",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		}
 	}, {
 		"id": "GNB",
 		"name": "GUINEA-BISSAU",
@@ -11407,7 +11586,12 @@
 		"since": "",
 		"executions": "0",
 		"death-penalties": "0",
-		"status": "ABOLITIONIST IN PRACTICE"
+		"status": "ABOLITIONIST IN PRACTICE",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		}
 	}, {
 		"id": "LVA",
 		"name": "LATVIA",
@@ -11687,9 +11871,14 @@
 		"id": "OMN",
 		"name": "OMAN",
 		"since": "",
-		"executions": "0",
-		"death-penalties": "0",
-		"status": "RETENTIONIST"
+		"executions": "-",
+		"death-penalties": "-",
+		"status": "RETENTIONIST",
+		"note": {	
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty.",
+			"es": "Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte.",
+			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort."
+		}
 	}, {
 		"id": "PAK",
 		"name": "PAKISTAN",
@@ -12894,9 +13083,14 @@
 		"id": "LAO",
 		"name": "LAOS",
 		"since": "",
-		"executions": "0",
+		"executions": "-",
 		"death-penalties": "20+",
-		"status": "ABOLITIONIST IN PRACTICE"
+		"status": "ABOLITIONIST IN PRACTICE",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether judicial executions took place",
+			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu.",
+		}
 	}, {
 		"id": "LVA",
 		"name": "LATVIA",
