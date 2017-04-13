@@ -21,10 +21,13 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
-
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
 		}
 	}, {
 		"id": "ALB",
@@ -62,11 +65,14 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
 		}
-		
 	}, {
 		"id": "ARG",
 		"name": "ARGENTINA",
@@ -140,9 +146,13 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
 		}
 
 	}, {
@@ -167,9 +177,13 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
 		}
 	}, {
 		"id": "BRN",
@@ -207,9 +221,13 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
 		}
 	}, {
 		"id": "BRA",
@@ -240,9 +258,13 @@
 		"death-penalties": "-",
 		"status": "ABOLITIONIST IN PRACTICE",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
 		}
 	}, {
 		"id": "BDI",
@@ -348,7 +370,12 @@
 		"status": "ABOLITIONIST IN PRACTICE",
 		"note": {
 			"en": "Official information on the use of the death penalty is very difficult to obtain in Eritrea. The majority of detainees do not go through a judicial procedure, and the government generally refuses to provide relevant information In this context, no formal executions or death sentences were recorded",
-			"es": "Resulta muy difícil obtener información oficial sobre el uso de la pena de muerte en Eritrea. La mayoría de los detenidos no son sometidos a un procedimiento judicial, y el gobierno, en general, se niega a proporcionar información relevante. En este contexto, no se tuvo noticia de condenas a muerte ni ejecuciones formales."
+			"es": "Resulta muy difícil obtener información oficial sobre el uso de la pena de muerte en Eritrea. La mayoría de los detenidos no son sometidos a un procedimiento judicial, y el gobierno, en general, se niega a proporcionar información relevante. En este contexto, no se tuvo noticia de condenas a muerte ni ejecuciones formales.",
+			"fr": "Il est très difficile d’obtenir des informations officielles sur l’application de la peine de mort en Érythrée. La majorité des détenus ne bénéficient pas d’une procédure judiciaire, et le gouvernement refuse généralement de fournir toute information les concernant. Dans ce contexte, aucune nouvelle condamnation à mort ni aucune exécution judiciaire n’a été recensée.",
+			"ar": "يصعب الحصول على معلومات رسمية بشأن استخدام عقوبة الإعدام في اريتريا. ولا يخضع غالبية المحتجزين للإجراءات القضائية، وترفض الحكومة عموماً تقديم أي معلومات ذات صلة في هذا الشأن، ولم تُسجل أي عمليات إعدام رسمية أو أحكام بالاعدام.",
+			"zh_TW": "死刑相關的官方資訊在厄立垂亞十分難以取得。大部分遭拘留者無法進入司法程序，一般來說，政府拒絕提供相關資料。因而在此脈絡下，未有正式處決或死刑的紀錄。",
+			"zh_Hans": "有关死刑适用的官方信息在厄立特里亚难以获取。大多数在押者没有经历过司法程序，而且政府一般拒绝提供相关信息，因此，在此背景下没有任何正式处决或死刑判决记录。",
+			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。"
 		}
 
 	}, {
@@ -429,11 +456,14 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
-		      }
-
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"
+		}
 	}, {
 		"id": "DOM",
 		"name": "DOMINICAN REPUBLIC",
@@ -479,10 +509,14 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST", 
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
-		      }
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"
+		}
 		      
 	}, {
 		"id": "GAB",
@@ -831,10 +865,14 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm the judicial use of the death penalty.",
-			"es": "Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte.",
-			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort."
-		      }
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in this country.",
+			"es": "Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم استخدام عقوبة الإعدام في هذا البلد ",
+			"zh_TW": "國際特赦組織無法確認該國司法系統是否使用死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国司法体系使用死刑的情况。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否執行死刑和作出死刑判決。" 
+		}
 	}, {
 		"id": "LBR",
 		"name": "LIBERIA",
@@ -894,10 +932,14 @@
 		"death-penalties": "-",
 		"status": "ABOLITIONIST IN PRACTICE",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
-		      }
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
+		}
 	}, {
 		"id": "MDV",
 		"name": "MALDIVES",
@@ -1104,10 +1146,14 @@
 		"death-penalties": "0",
 		"status": "RETENTIONIST",
 		"note": {
-		      	"en": "Amnesty International was unable to confirm the judicial use of the death penalty.",
-			"es": "Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte.",
-			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort."
-		      }
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in this country.",
+			"es": "Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم استخدام عقوبة الإعدام في هذا البلد ",
+			"zh_TW": "國際特赦組織無法確認該國司法系統是否使用死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国司法体系使用死刑的情况。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否執行死刑和作出死刑判決。"
+		}
 	}, {
 		"id": "PAK",
 		"name": "PAKISTAN",
@@ -1202,10 +1248,14 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
-		      }
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
+		}
 
 	}, {
 		"id": "ROU",
@@ -1252,10 +1302,14 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
-		      }
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
+		}
 	}, {
 		"id": "VCT",
 		"name": "SAINT VINCENT AND THE GRENADINES",
@@ -1264,10 +1318,14 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
-		      }
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
+		}
 	}, {
 		"id": "WSM",
 		"name": "SAMOA",
@@ -1369,10 +1427,13 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
-		}
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	}
 	}, {
 		"id": "ZAF",
 		"name": "SOUTH AFRICA",
@@ -1423,10 +1484,14 @@
 		"death-penalties": "0",
 		"status": "ABOLITIONIST IN PRACTICE",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
-		      }
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"
+		}
 	}, {
 		"id": "SWE",
 		"name": "SWEDEN",
@@ -1781,9 +1846,13 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"
 		}
 	}, {
 		"id": "BLR",
@@ -1898,9 +1967,13 @@
 		"death-penalties": "-",
 		"status": "ABOLITIONIST IN PRACTICE",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"
 		}
 	}, {
 		"id": "CAN",
@@ -1952,9 +2025,13 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST", 
 		"note": {
-			"en": "Amnesty International was unable to confirm the judicial use of the death penalty.",
-			"es": "Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte.",
-			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort."
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in this country.",
+			"es": "Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم استخدام عقوبة الإعدام في هذا البلد ",
+			"zh_TW": "國際特赦組織無法確認該國司法系統是否使用死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国司法体系使用死刑的情况。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否執行死刑和作出死刑判決。"
 		}
 	}, {
 		"id": "COG",
@@ -2084,7 +2161,12 @@
 		"status": "ABOLITIONIST IN PRACTICE",
 		"note": {
 			"en": "Official information on the use of the death penalty is very difficult to obtain in Eritrea. The majority of detainees do not go through a judicial procedure, and the government generally refuses to provide relevant information In this context, no formal executions or death sentences were recorded",
-			"es": "Resulta muy difícil obtener información oficial sobre el uso de la pena de muerte en Eritrea. La mayoría de los detenidos no son sometidos a un procedimiento judicial, y el gobierno, en general, se niega a proporcionar información relevante. En este contexto, no se tuvo noticia de condenas a muerte ni ejecuciones formales."
+			"es": "Resulta muy difícil obtener información oficial sobre el uso de la pena de muerte en Eritrea. La mayoría de los detenidos no son sometidos a un procedimiento judicial, y el gobierno, en general, se niega a proporcionar información relevante. En este contexto, no se tuvo noticia de condenas a muerte ni ejecuciones formales.",
+			"fr": "Il est très difficile d’obtenir des informations officielles sur l’application de la peine de mort en Érythrée. La majorité des détenus ne bénéficient pas d’une procédure judiciaire, et le gouvernement refuse généralement de fournir toute information les concernant. Dans ce contexte, aucune nouvelle condamnation à mort ni aucune exécution judiciaire n’a été recensée.",
+			"ar": "يصعب الحصول على معلومات رسمية بشأن استخدام عقوبة الإعدام في اريتريا. ولا يخضع غالبية المحتجزين للإجراءات القضائية، وترفض الحكومة عموماً تقديم أي معلومات ذات صلة في هذا الشأن، ولم تُسجل أي عمليات إعدام رسمية أو أحكام بالاعدام.",
+			"zh_TW": "死刑相關的官方資訊在厄立垂亞十分難以取得。大部分遭拘留者無法進入司法程序，一般來說，政府拒絕提供相關資料。因而在此脈絡下，未有正式處決或死刑的紀錄。",
+			"zh_Hans": "有关死刑适用的官方信息在厄立特里亚难以获取。大多数在押者没有经历过司法程序，而且政府一般拒绝提供相关信息，因此，在此背景下没有任何正式处决或死刑判决记录。",
+			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。"
 		}
 	}, {
 		"id": "EST",
@@ -2206,9 +2288,13 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"
 		}
 	}, {
 		"id": "HTI",
@@ -2369,10 +2455,13 @@
 		"death-penalties": "6+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether judicial executions took place",
-			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu."
-		}
+			"en": "Amnesty International was unable to confirm whether judicial executions took place in this country",
+			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم تنفيذ عمليات إعدام قضائية في هذا البلد.",
+			"zh_TW": "國際特赦組織無法確認該國是否發生司法處決。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有发生司法处决。",
+			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。"}
 	}, {
 		"id": "KGZ",
 		"name": "KYRGYZSTAN",
@@ -2697,9 +2786,13 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm the judicial use of the death penalty.",
-			"es": "Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte.",
-			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort."
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in this country.",
+			"es": "Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم استخدام عقوبة الإعدام في هذا البلد ",
+			"zh_TW": "國際特赦組織無法確認該國司法系統是否使用死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国司法体系使用死刑的情况。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否執行死刑和作出死刑判決。"
 		}
 	}, {
 		"id": "PAK",
@@ -2794,10 +2887,14 @@
 		"executions": "0",
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
-		"note":{
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+		"note": {
+			"en": "Amnesty International was unable to confirm whether judicial executions took place in this country",
+			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم تنفيذ عمليات إعدام قضائية في هذا البلد.",
+			"zh_TW": "國際特赦組織無法確認該國是否發生司法處決。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有发生司法处决。",
+			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。"
 		}
  
 	}, {
@@ -3155,11 +3252,15 @@
 		"executions": "1+",
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
-		"notes":{
-		      "en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
-		      }
+		"note": {
+			"en": "Amnesty International was unable to confirm whether judicial executions took place in this country",
+			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم تنفيذ عمليات إعدام قضائية في هذا البلد.",
+			"zh_TW": "國際特赦組織無法確認該國是否發生司法處決。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有发生司法处决。",
+			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。" 
+		}
 	}, {
 		"id": "USA",
 		"name": "UNITED STATES OF AMERICA",
@@ -3225,11 +3326,15 @@
 		"executions": "0",
 		"death-penalties": "-",
 		"status": "ABOLITIONIST IN PRACTICE",
-		      "notes":{
-		      "en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
-		      }
+		"note": {
+			"en": "Amnesty International was unable to confirm whether judicial executions took place in this country",
+			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم تنفيذ عمليات إعدام قضائية في هذا البلد.",
+			"zh_TW": "國際特赦組織無法確認該國是否發生司法處決。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有发生司法处决。",
+			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。"
+		}
 	}, {
 		"id": "ZWE",
 		"name": "ZIMBABWE",
@@ -3494,11 +3599,14 @@
 		"death-penalties": "-",
 		"status": "ABOLITIONIST IN PRACTICE",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
-		}
-		
+			"en": "Amnesty International was unable to confirm whether judicial executions took place in this country",
+			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم تنفيذ عمليات إعدام قضائية في هذا البلد.",
+			"zh_TW": "國際特赦組織無法確認該國是否發生司法處決。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有发生司法处决。",
+			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。"
+		}		
 	}, {
 		"id": "TCD",
 		"name": "CHAD",
@@ -3689,7 +3797,12 @@
 		"status": "ABOLITIONIST IN PRACTICE",
 		"note": {
 			"en": "Official information on the use of the death penalty is very difficult to obtain in Eritrea. The majority of detainees do not go through a judicial procedure, and the government generally refuses to provide relevant information In this context, no formal executions or death sentences were recorded",
-			"es": "Resulta muy difícil obtener información oficial sobre el uso de la pena de muerte en Eritrea. La mayoría de los detenidos no son sometidos a un procedimiento judicial, y el gobierno, en general, se niega a proporcionar información relevante. En este contexto, no se tuvo noticia de condenas a muerte ni ejecuciones formales."
+			"es": "Resulta muy difícil obtener información oficial sobre el uso de la pena de muerte en Eritrea. La mayoría de los detenidos no son sometidos a un procedimiento judicial, y el gobierno, en general, se niega a proporcionar información relevante. En este contexto, no se tuvo noticia de condenas a muerte ni ejecuciones formales.",
+			"fr": "Il est très difficile d’obtenir des informations officielles sur l’application de la peine de mort en Érythrée. La majorité des détenus ne bénéficient pas d’une procédure judiciaire, et le gouvernement refuse généralement de fournir toute information les concernant. Dans ce contexte, aucune nouvelle condamnation à mort ni aucune exécution judiciaire n’a été recensée.",
+			"ar": "يصعب الحصول على معلومات رسمية بشأن استخدام عقوبة الإعدام في اريتريا. ولا يخضع غالبية المحتجزين للإجراءات القضائية، وترفض الحكومة عموماً تقديم أي معلومات ذات صلة في هذا الشأن، ولم تُسجل أي عمليات إعدام رسمية أو أحكام بالاعدام.",
+			"zh_TW": "死刑相關的官方資訊在厄立垂亞十分難以取得。大部分遭拘留者無法進入司法程序，一般來說，政府拒絕提供相關資料。因而在此脈絡下，未有正式處決或死刑的紀錄。",
+			"zh_Hans": "有关死刑适用的官方信息在厄立特里亚难以获取。大多数在押者没有经历过司法程序，而且政府一般拒绝提供相关信息，因此，在此背景下没有任何正式处决或死刑判决记录。",
+			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。"
 		}
 
 	}, {
@@ -3998,9 +4111,13 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"
 		}
 	}, {
 		"id": "LSO",
@@ -4982,9 +5099,13 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"
 		}
 	}, {
 		"id": "BRA",
@@ -5255,7 +5376,12 @@
 		"status": "ABOLITIONIST IN PRACTICE",
 		"note": {
 			"en": "Official information on the use of the death penalty is very difficult to obtain in Eritrea. The majority of detainees do not go through a judicial procedure, and the government generally refuses to provide relevant information In this context, no formal executions or death sentences were recorded",
-			"es": "Resulta muy difícil obtener información oficial sobre el uso de la pena de muerte en Eritrea. La mayoría de los detenidos no son sometidos a un procedimiento judicial, y el gobierno, en general, se niega a proporcionar información relevante. En este contexto, no se tuvo noticia de condenas a muerte ni ejecuciones formales."
+			"es": "Resulta muy difícil obtener información oficial sobre el uso de la pena de muerte en Eritrea. La mayoría de los detenidos no son sometidos a un procedimiento judicial, y el gobierno, en general, se niega a proporcionar información relevante. En este contexto, no se tuvo noticia de condenas a muerte ni ejecuciones formales.",
+			"fr": "Il est très difficile d’obtenir des informations officielles sur l’application de la peine de mort en Érythrée. La majorité des détenus ne bénéficient pas d’une procédure judiciaire, et le gouvernement refuse généralement de fournir toute information les concernant. Dans ce contexte, aucune nouvelle condamnation à mort ni aucune exécution judiciaire n’a été recensée.",
+			"ar": "يصعب الحصول على معلومات رسمية بشأن استخدام عقوبة الإعدام في اريتريا. ولا يخضع غالبية المحتجزين للإجراءات القضائية، وترفض الحكومة عموماً تقديم أي معلومات ذات صلة في هذا الشأن، ولم تُسجل أي عمليات إعدام رسمية أو أحكام بالاعدام.",
+			"zh_TW": "死刑相關的官方資訊在厄立垂亞十分難以取得。大部分遭拘留者無法進入司法程序，一般來說，政府拒絕提供相關資料。因而在此脈絡下，未有正式處決或死刑的紀錄。",
+			"zh_Hans": "有关死刑适用的官方信息在厄立特里亚难以获取。大多数在押者没有经历过司法程序，而且政府一般拒绝提供相关信息，因此，在此背景下没有任何正式处决或死刑判决记录。",
+			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。"
 		}
 
 	}, {
@@ -5711,9 +5837,13 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
 		}
 	}, {
 		"id": "MNE",
@@ -6809,7 +6939,12 @@
 		"status": "ABOLITIONIST IN PRACTICE",
 		"note": {
 			"en": "Official information on the use of the death penalty is very difficult to obtain in Eritrea. The majority of detainees do not go through a judicial procedure, and the government generally refuses to provide relevant information In this context, no formal executions or death sentences were recorded",
-			"es": "Resulta muy difícil obtener información oficial sobre el uso de la pena de muerte en Eritrea. La mayoría de los detenidos no son sometidos a un procedimiento judicial, y el gobierno, en general, se niega a proporcionar información relevante. En este contexto, no se tuvo noticia de condenas a muerte ni ejecuciones formales."
+			"es": "Resulta muy difícil obtener información oficial sobre el uso de la pena de muerte en Eritrea. La mayoría de los detenidos no son sometidos a un procedimiento judicial, y el gobierno, en general, se niega a proporcionar información relevante. En este contexto, no se tuvo noticia de condenas a muerte ni ejecuciones formales.",
+			"fr": "Il est très difficile d’obtenir des informations officielles sur l’application de la peine de mort en Érythrée. La majorité des détenus ne bénéficient pas d’une procédure judiciaire, et le gouvernement refuse généralement de fournir toute information les concernant. Dans ce contexte, aucune nouvelle condamnation à mort ni aucune exécution judiciaire n’a été recensée.",
+			"ar": "يصعب الحصول على معلومات رسمية بشأن استخدام عقوبة الإعدام في اريتريا. ولا يخضع غالبية المحتجزين للإجراءات القضائية، وترفض الحكومة عموماً تقديم أي معلومات ذات صلة في هذا الشأن، ولم تُسجل أي عمليات إعدام رسمية أو أحكام بالاعدام.",
+			"zh_TW": "死刑相關的官方資訊在厄立垂亞十分難以取得。大部分遭拘留者無法進入司法程序，一般來說，政府拒絕提供相關資料。因而在此脈絡下，未有正式處決或死刑的紀錄。",
+			"zh_Hans": "有关死刑适用的官方信息在厄立特里亚难以获取。大多数在押者没有经历过司法程序，而且政府一般拒绝提供相关信息，因此，在此背景下没有任何正式处决或死刑判决记录。",
+			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。"
 		}
 
 	}, {
@@ -7405,10 +7540,14 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
-		}
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
+}
 	}, {
 		"id": "PAK",
 		"name": "PAKISTAN",
@@ -8324,9 +8463,13 @@
 		"death-penalties": "91+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether judicial executions took place",
-			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu."
+			"en": "Amnesty International was unable to confirm whether judicial executions took place in this country",
+			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم تنفيذ عمليات إعدام قضائية في هذا البلد.",
+			"zh_TW": "國際特赦組織無法確認該國是否發生司法處決。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有发生司法处决。",
+			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。"
 		}
 	}, {
 		"id": "SLV",
@@ -8351,7 +8494,12 @@
 		"status": "ABOLITIONIST IN PRACTICE",
 		"note": {
 			"en": "Official information on the use of the death penalty is very difficult to obtain in Eritrea. The majority of detainees do not go through a judicial procedure, and the government generally refuses to provide relevant information In this context, no formal executions or death sentences were recorded",
-			"es": "Resulta muy difícil obtener información oficial sobre el uso de la pena de muerte en Eritrea. La mayoría de los detenidos no son sometidos a un procedimiento judicial, y el gobierno, en general, se niega a proporcionar información relevante. En este contexto, no se tuvo noticia de condenas a muerte ni ejecuciones formales."
+			"es": "Resulta muy difícil obtener información oficial sobre el uso de la pena de muerte en Eritrea. La mayoría de los detenidos no son sometidos a un procedimiento judicial, y el gobierno, en general, se niega a proporcionar información relevante. En este contexto, no se tuvo noticia de condenas a muerte ni ejecuciones formales.",
+			"fr": "Il est très difficile d’obtenir des informations officielles sur l’application de la peine de mort en Érythrée. La majorité des détenus ne bénéficient pas d’une procédure judiciaire, et le gouvernement refuse généralement de fournir toute information les concernant. Dans ce contexte, aucune nouvelle condamnation à mort ni aucune exécution judiciaire n’a été recensée.",
+			"ar": "يصعب الحصول على معلومات رسمية بشأن استخدام عقوبة الإعدام في اريتريا. ولا يخضع غالبية المحتجزين للإجراءات القضائية، وترفض الحكومة عموماً تقديم أي معلومات ذات صلة في هذا الشأن، ولم تُسجل أي عمليات إعدام رسمية أو أحكام بالاعدام.",
+			"zh_TW": "死刑相關的官方資訊在厄立垂亞十分難以取得。大部分遭拘留者無法進入司法程序，一般來說，政府拒絕提供相關資料。因而在此脈絡下，未有正式處決或死刑的紀錄。",
+			"zh_Hans": "有关死刑适用的官方信息在厄立特里亚难以获取。大多数在押者没有经历过司法程序，而且政府一般拒绝提供相关信息，因此，在此背景下没有任何正式处决或死刑判决记录。",
+			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。"
 		}
 
 	}, {
@@ -8721,9 +8869,13 @@
 		"death-penalties": "60+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether judicial executions took place",
-			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu."
+			"en": "Amnesty International was unable to confirm whether judicial executions took place in this country",
+			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم تنفيذ عمليات إعدام قضائية في هذا البلد.",
+			"zh_TW": "國際特赦組織無法確認該國是否發生司法處決。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有发生司法处决。",
+			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。"
 		}
 	}, {
 		"id": "MDV",
@@ -9836,9 +9988,13 @@
 		"death-penalties": "109+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether judicial executions took place",
-			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu."
+			"en": "Amnesty International was unable to confirm whether judicial executions took place in this country",
+			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم تنفيذ عمليات إعدام قضائية في هذا البلد.",
+			"zh_TW": "國際特赦組織無法確認該國是否發生司法處決。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有发生司法处决。",
+			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。"
 		}
 	}, {
 		"id": "SLV",
@@ -9863,7 +10019,12 @@
 		"status": "ABOLITIONIST IN PRACTICE",
 		"note": {
 			"en": "Official information on the use of the death penalty is very difficult to obtain in Eritrea. The majority of detainees do not go through a judicial procedure, and the government generally refuses to provide relevant information In this context, no formal executions or death sentences were recorded",
-			"es": "Resulta muy difícil obtener información oficial sobre el uso de la pena de muerte en Eritrea. La mayoría de los detenidos no son sometidos a un procedimiento judicial, y el gobierno, en general, se niega a proporcionar información relevante. En este contexto, no se tuvo noticia de condenas a muerte ni ejecuciones formales."
+			"es": "Resulta muy difícil obtener información oficial sobre el uso de la pena de muerte en Eritrea. La mayoría de los detenidos no son sometidos a un procedimiento judicial, y el gobierno, en general, se niega a proporcionar información relevante. En este contexto, no se tuvo noticia de condenas a muerte ni ejecuciones formales.",
+			"fr": "Il est très difficile d’obtenir des informations officielles sur l’application de la peine de mort en Érythrée. La majorité des détenus ne bénéficient pas d’une procédure judiciaire, et le gouvernement refuse généralement de fournir toute information les concernant. Dans ce contexte, aucune nouvelle condamnation à mort ni aucune exécution judiciaire n’a été recensée.",
+			"ar": "يصعب الحصول على معلومات رسمية بشأن استخدام عقوبة الإعدام في اريتريا. ولا يخضع غالبية المحتجزين للإجراءات القضائية، وترفض الحكومة عموماً تقديم أي معلومات ذات صلة في هذا الشأن، ولم تُسجل أي عمليات إعدام رسمية أو أحكام بالاعدام.",
+			"zh_TW": "死刑相關的官方資訊在厄立垂亞十分難以取得。大部分遭拘留者無法進入司法程序，一般來說，政府拒絕提供相關資料。因而在此脈絡下，未有正式處決或死刑的紀錄。",
+			"zh_Hans": "有关死刑适用的官方信息在厄立特里亚难以获取。大多数在押者没有经历过司法程序，而且政府一般拒绝提供相关信息，因此，在此背景下没有任何正式处决或死刑判决记录。",
+			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。"
 		}
 
 	}, {
@@ -11338,9 +11499,13 @@
 		"status": "ABOLITIONIST IN PRACTICE",
 		"note": {
 			"en": "Official information on the use of the death penalty is very difficult to obtain in Eritrea. The majority of detainees do not go through a judicial procedure, and the government generally refuses to provide relevant information In this context, no formal executions or death sentences were recorded",
-			"es": "Resulta muy difícil obtener información oficial sobre el uso de la pena de muerte en Eritrea. La mayoría de los detenidos no son sometidos a un procedimiento judicial, y el gobierno, en general, se niega a proporcionar información relevante. En este contexto, no se tuvo noticia de condenas a muerte ni ejecuciones formales."
+			"es": "Resulta muy difícil obtener información oficial sobre el uso de la pena de muerte en Eritrea. La mayoría de los detenidos no son sometidos a un procedimiento judicial, y el gobierno, en general, se niega a proporcionar información relevante. En este contexto, no se tuvo noticia de condenas a muerte ni ejecuciones formales.",
+			"fr": "Il est très difficile d’obtenir des informations officielles sur l’application de la peine de mort en Érythrée. La majorité des détenus ne bénéficient pas d’une procédure judiciaire, et le gouvernement refuse généralement de fournir toute information les concernant. Dans ce contexte, aucune nouvelle condamnation à mort ni aucune exécution judiciaire n’a été recensée.",
+			"ar": "يصعب الحصول على معلومات رسمية بشأن استخدام عقوبة الإعدام في اريتريا. ولا يخضع غالبية المحتجزين للإجراءات القضائية، وترفض الحكومة عموماً تقديم أي معلومات ذات صلة في هذا الشأن، ولم تُسجل أي عمليات إعدام رسمية أو أحكام بالاعدام.",
+			"zh_TW": "死刑相關的官方資訊在厄立垂亞十分難以取得。大部分遭拘留者無法進入司法程序，一般來說，政府拒絕提供相關資料。因而在此脈絡下，未有正式處決或死刑的紀錄。",
+			"zh_Hans": "有关死刑适用的官方信息在厄立特里亚难以获取。大多数在押者没有经历过司法程序，而且政府一般拒绝提供相关信息，因此，在此背景下没有任何正式处决或死刑判决记录。",
+			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。"
 		}
-
 	}, {
 		"id": "EST",
 		"name": "ESTONIA",
@@ -11356,9 +11521,13 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
 		}
 	}, {
 		"id": "FJI",
@@ -11452,9 +11621,13 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"
 		}
 	}, {
 		"id": "GNB",
@@ -11622,12 +11795,16 @@
 		"name": "LAOS",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
+		"death-penalties": "-",
 		"status": "ABOLITIONIST IN PRACTICE",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether death sentences were imposed.",
-			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées."
+			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
+			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
+			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"
 		}
 	}, {
 		"id": "LVA",
@@ -11911,10 +12088,14 @@
 		"executions": "-",
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
-		"note": {	
-			"en": "Amnesty International was unable to confirm the judicial use of the death penalty.",
-			"es": "Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte.",
-			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort."
+		"note": {
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in this country.",
+			"es": "Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en este país.",
+			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم استخدام عقوبة الإعدام في هذا البلد ",
+			"zh_TW": "國際特赦組織無法確認該國司法系統是否使用死刑。",
+			"zh_Hans": "国际特赦组织无法确认该国司法体系使用死刑的情况。",
+			"zh_Hant": "國際特赦組織未能確定此國曾否執行死刑和作出死刑判決。"
 		}
 	}, {
 		"id": "PAK",
@@ -12843,8 +13024,14 @@
 		"status": "ABOLITIONIST IN PRACTICE",
 		"note": {
 			"en": "Official information on the use of the death penalty is very difficult to obtain in Eritrea. The majority of detainees do not go through a judicial procedure, and the government generally refuses to provide relevant information In this context, no formal executions or death sentences were recorded",
-			"es": "Resulta muy difícil obtener información oficial sobre el uso de la pena de muerte en Eritrea. La mayoría de los detenidos no son sometidos a un procedimiento judicial, y el gobierno, en general, se niega a proporcionar información relevante. En este contexto, no se tuvo noticia de condenas a muerte ni ejecuciones formales."
-		}
+			"es": "Resulta muy difícil obtener información oficial sobre el uso de la pena de muerte en Eritrea. La mayoría de los detenidos no son sometidos a un procedimiento judicial, y el gobierno, en general, se niega a proporcionar información relevante. En este contexto, no se tuvo noticia de condenas a muerte ni ejecuciones formales.",
+			"fr": "Il est très difficile d’obtenir des informations officielles sur l’application de la peine de mort en Érythrée. La majorité des détenus ne bénéficient pas d’une procédure judiciaire, et le gouvernement refuse généralement de fournir toute information les concernant. Dans ce contexte, aucune nouvelle condamnation à mort ni aucune exécution judiciaire n’a été recensée.",
+			"ar": "يصعب الحصول على معلومات رسمية بشأن استخدام عقوبة الإعدام في اريتريا. ولا يخضع غالبية المحتجزين للإجراءات القضائية، وترفض الحكومة عموماً تقديم أي معلومات ذات صلة في هذا الشأن، ولم تُسجل أي عمليات إعدام رسمية أو أحكام بالاعدام.",
+			"zh_TW": "死刑相關的官方資訊在厄立垂亞十分難以取得。大部分遭拘留者無法進入司法程序，一般來說，政府拒絕提供相關資料。因而在此脈絡下，未有正式處決或死刑的紀錄。",
+			"zh_Hans": "有关死刑适用的官方信息在厄立特里亚难以获取。大多数在押者没有经历过司法程序，而且政府一般拒绝提供相关信息，因此，在此背景下没有任何正式处决或死刑判决记录。",
+			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。"
+
+}
 	}, {
 		"id": "EST",
 		"name": "ESTONIA",
@@ -13128,9 +13315,13 @@
 		"death-penalties": "20+",
 		"status": "ABOLITIONIST IN PRACTICE",
 		"note": {
-			"en": "Amnesty International was unable to confirm whether judicial executions took place",
-			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales.",
-			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu."
+			"en": "Amnesty International was unable to confirm whether judicial executions took place in this country",
+			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales en este país.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu dans ce pays.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم تنفيذ عمليات إعدام قضائية في هذا البلد.",
+			"zh_TW": "國際特赦組織無法確認該國是否發生司法處決。",
+			"zh_Hans": "国际特赦组织无法确认该国是否有发生司法处决。",
+			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。"
 		}
 	}, {
 		"id": "LVA",
@@ -14358,7 +14549,12 @@
 		"status": "ABOLITIONIST IN PRACTICE",
 		"note": {
 			"en": "Official information on the use of the death penalty is very difficult to obtain in Eritrea. The majority of detainees do not go through a judicial procedure, and the government generally refuses to provide relevant information In this context, no formal executions or death sentences were recorded",
-			"es": "Resulta muy difícil obtener información oficial sobre el uso de la pena de muerte en Eritrea. La mayoría de los detenidos no son sometidos a un procedimiento judicial, y el gobierno, en general, se niega a proporcionar información relevante. En este contexto, no se tuvo noticia de condenas a muerte ni ejecuciones formales."
+			"es": "Resulta muy difícil obtener información oficial sobre el uso de la pena de muerte en Eritrea. La mayoría de los detenidos no son sometidos a un procedimiento judicial, y el gobierno, en general, se niega a proporcionar información relevante. En este contexto, no se tuvo noticia de condenas a muerte ni ejecuciones formales.",
+			"fr": "Il est très difficile d’obtenir des informations officielles sur l’application de la peine de mort en Érythrée. La majorité des détenus ne bénéficient pas d’une procédure judiciaire, et le gouvernement refuse généralement de fournir toute information les concernant. Dans ce contexte, aucune nouvelle condamnation à mort ni aucune exécution judiciaire n’a été recensée.",
+			"ar": "يصعب الحصول على معلومات رسمية بشأن استخدام عقوبة الإعدام في اريتريا. ولا يخضع غالبية المحتجزين للإجراءات القضائية، وترفض الحكومة عموماً تقديم أي معلومات ذات صلة في هذا الشأن، ولم تُسجل أي عمليات إعدام رسمية أو أحكام بالاعدام.",
+			"zh_TW": "死刑相關的官方資訊在厄立垂亞十分難以取得。大部分遭拘留者無法進入司法程序，一般來說，政府拒絕提供相關資料。因而在此脈絡下，未有正式處決或死刑的紀錄。",
+			"zh_Hans": "有关死刑适用的官方信息在厄立特里亚难以获取。大多数在押者没有经历过司法程序，而且政府一般拒绝提供相关信息，因此，在此背景下没有任何正式处决或死刑判决记录。",
+			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。"
 		}
 	}, {
 		"id": "EST",
@@ -15208,8 +15404,6 @@
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
 			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
 		}
-
-
 	}, {
 		"id": "ESP",
 		"name": "SPAIN",
