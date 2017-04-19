@@ -1142,8 +1142,8 @@
 		"id": "OMN",
 		"name": "OMAN",
 		"since": "",
-		"executions": "0",
-		"death-penalties": "0",
+		"executions": "-",
+		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
 			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in this country.",
@@ -1481,7 +1481,7 @@
 		"name": "SWAZILAND",
 		"since": "",
 		"executions": "0",
-		"death-penalties": "0",
+		"death-penalties": "-",
 		"status": "ABOLITIONIST IN PRACTICE",
 		"note": {
 			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
@@ -2156,8 +2156,8 @@
 		"id": "ERI",
 		"name": "ERITREA",
 		"since": "",
-		"executions": "0",
-		"death-penalties": "0",
+		"executions": "-",
+		"death-penalties": "-",
 		"status": "ABOLITIONIST IN PRACTICE",
 		"note": {
 			"en": "Official information on the use of the death penalty is very difficult to obtain in Eritrea. The majority of detainees do not go through a judicial procedure, and the government generally refuses to provide relevant information In this context, no formal executions or death sentences were recorded",
@@ -2782,7 +2782,7 @@
 		"id": "OMN",
 		"name": "OMAN",
 		"since": "",
-		"executions": "",
+		"executions": "-",
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
@@ -3792,8 +3792,8 @@
 		"id": "ERI",
 		"name": "ERITREA",
 		"since": "",
-		"executions": "0",
-		"death-penalties": "0",
+		"executions": "-",
+		"death-penalties": "-",
 		"status": "ABOLITIONIST IN PRACTICE",
 		"note": {
 			"en": "Official information on the use of the death penalty is very difficult to obtain in Eritrea. The majority of detainees do not go through a judicial procedure, and the government generally refuses to provide relevant information In this context, no formal executions or death sentences were recorded",
@@ -5371,8 +5371,8 @@
 		"id": "ERI",
 		"name": "ERITREA",
 		"since": "",
-		"executions": "0",
-		"death-penalties": "0",
+		"executions": "-",
+		"death-penalties": "-",
 		"status": "ABOLITIONIST IN PRACTICE",
 		"note": {
 			"en": "Official information on the use of the death penalty is very difficult to obtain in Eritrea. The majority of detainees do not go through a judicial procedure, and the government generally refuses to provide relevant information In this context, no formal executions or death sentences were recorded",
@@ -7847,7 +7847,7 @@
 		"id": "SWZ",
 		"name": "SWAZILAND",
 		"since": "",
-		"executions": "0",
+		"executions": "",
 		"death-penalties": "1",
 		"status": "ABOLITIONIST IN PRACTICE"
 	}, {
@@ -11494,8 +11494,8 @@
 		"id": "ERI",
 		"name": "ERITREA",
 		"since": "",
-		"executions": "0",
-		"death-penalties": "0",
+		"executions": "-",
+		"death-penalties": "-",
 		"status": "ABOLITIONIST IN PRACTICE",
 		"note": {
 			"en": "Official information on the use of the death penalty is very difficult to obtain in Eritrea. The majority of detainees do not go through a judicial procedure, and the government generally refuses to provide relevant information In this context, no formal executions or death sentences were recorded",
@@ -12404,7 +12404,7 @@
 		"id": "SWZ",
 		"name": "SWAZILAND",
 		"since": "",
-		"executions": "0",
+		"executions": "-",
 		"death-penalties": "0",
 		"status": "ABOLITIONIST IN PRACTICE"
 	}, {
