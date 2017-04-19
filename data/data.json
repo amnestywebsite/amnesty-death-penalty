@@ -12406,7 +12406,15 @@
 		"since": "",
 		"executions": "-",
 		"death-penalties": "0",
-		"status": "ABOLITIONIST IN PRACTICE"
+		"status": "ABOLITIONIST IN PRACTICE",
+		"note": {
+			"en": "Amnesty International was unable to confirm whether judicial executions took place in Libya.",
+			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales en Libia.",
+			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu en Libye.",
+			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد  ما إذا كان قد تم تنفيذ أي عمليات اعدام خارج نطاق القضاء في ليبيا",
+			"zh_Hans": "国际特赦组织无法确认利比亚是否执行了司法处决。", 
+			"zh_Hant": "國際特赦組織無法確定於利比亞（台譯阿拉伯利比亞民眾國）是否執行司法處決。",
+			"zh_TW": "國際特赦組織無法確認利比亞是否發生司法處決。"
 	}, {
 		"id": "SWE",
 		"name": "SWEDEN",
