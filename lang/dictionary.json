@@ -1,2222 +1,2222 @@
 {
-   "ABOLITIONIST":{
-      "en":"Abolitionist for all crimes",
-      "es":"ABOLICIONISTA PARA TODOS LOS DELITOS",
-      "fr":"ABOLITIONNISTE POUR TOUS LES CRIMES",
-      "ar":"ألغت عقوبة الإعدام",
-      "zh_Hans":"完全废除死刑",
-      "zh_Hant":"完全廢除死刑",
-      "zh_TW":"所有罪行均無死刑懲罰",
-      "pt":"Abolitionist for all crimes_pt"
-   },
-   "RETENTIONIST":{
-      "en":"Retentionist",
-      "es":"RETENCIONISTA",
-      "fr":"NON ABOLITIONNISTE",
-      "ar":"مطبقة لعقوبة الإعدام",
-      "zh_Hans":"保留死刑",
-      "zh_Hant":"保留死刑",
-      "zh_TW":"維持死刑",
-      "pt":"Retentionist_pt"
-   },
-   "ABOLITIONIST IN PRACTICE":{
-      "en":"Abolitionist in practice",
-      "es":"ABOLICIONISTA EN LA PRÁCTICA",
-      "fr":"ABOLITIONNISTE EN PRATIQUE",
-      "ar":"غير مطبقة في الواقع الفعلي",
-      "zh_Hans":"实际上废除死刑",
-      "zh_Hant":"實質上廢除死刑",
-      "zh_TW":"實際上廢除死刑",
-      "pt":"Abolitionist in practice_pt"
-   },
-   "ABOLITIONIST FOR ORDINARY CRIMES":{
-      "en":"Abolitionist for ordinary crimes",
-      "es":"ABOLICIONISTA SÓLO PARA DELITOS COMUNES",
-      "fr":"ABOLITIONNISTE POUR LES CRIMES DE DROIT COMMUN",
-      "ar":"ملغاة بالنسبة للجرائم العادية",
-      "zh_Hans":"废除普通犯罪的死刑",
-      "zh_Hant":"廢除普通犯罪死刑",
-      "zh_TW":"一般罪行無死刑",
-      "pt":"Abolitionist for ordinary crimes_pt"
-   },
-   "ABOLITIONIST DEFINITION":{
-      "en":"Use of the death penalty is not allowed by law",
-      "es":"La legislación no permite el uso de la pena de muerte.",
-      "fr":"Le recours à la peine de mort n’est pas autorisé par la législation.",
-      "ar":"تطبيق حكومة الإعدام غير مسموح به قانونياً",
-      "zh_Hans":"法律不允许使用死刑",
-      "zh_Hant":"當地法律不容判處死刑",
-      "zh_TW":"法律不允許適用死刑",
-      "pt":"Use of the death penalty is not allowed by law_pt"
-   },
-   "RETENTIONIST DEFINITION":{
-      "en":"Retains the death penalty in law",
-      "es":"Retiene la pena de muerte en la legislación.",
-      "fr":"La peine de mort est inscrite dans la législation du pays ou territoire.",
-      "ar":"بلدان أبقت على عقوبة الإعدام في القانون",
-      "zh_Hans":"在法律上保留死刑",
-      "zh_Hant":"於法律中保留死刑",
-      "zh_TW":"法律中保留死刑",
-      "pt":"Retains the death penalty in law_pt"
-   },
-   "ABOLITIONIST IN PRACTICE DEFINITION":{
-      "en":"Retains the death penalty in law, but hasn’t executed for at least 10 years",
-      "es":" Retiene la pena de muerte en la legislación, pero lleva al menos 10 años sin llevar a cabo ejecuciones.",
-      "fr":"La peine de mort est inscrite dans la législation du pays ou territoire, mais les autorités n’ont procédé à aucune exécution depuis au moins 10 ans.",
-      "ar":"بلدان أبقت على عقوبة الإعدام في القانون ولكن لم تنفذها منذ 10 سنوات على الأقل",
-      "zh_Hans":"在法律上保留死刑，但已有至少10年没有执行处决",
-      "zh_Hant":"於法律中保留死刑，但於過去10年沒有使用",
-      "zh_TW":"法律中保留死刑，但10年以上未執行死刑",
-      "pt":"Retains the death penalty in law, but hasn’t executed for at least 10 years_pt"
-   },
-   "ABOLITIONIST FOR ORDINARY CRIMES DEFINITION":{
-      "en":"Retains the death penalty only for serious crimes, such as those committed during times of war",
-      "es":"Retiene la pena de muerte únicamente para delitos graves, como los cometidos en épocas de guerra.",
-      "fr":"La peine de mort est appliquée uniquement en cas de crime grave, par exemple en cas de crime commis en temps de guerre.",
-      "ar":"أبقت على عقوبة الإعدام بالنسبة للجرائم الخطيرة فقط، كتلك التي ا رتكبت في وقت الحرب",
-      "zh_Hans":"仅对特殊犯罪保留死刑，例如在战时犯下的罪行.",
-      "zh_Hant":"於特定情況如戰爭中犯下罪行，可判處死刑",
-      "zh_TW":"法律規定只有特別罪行適用死刑，譬如戰爭期間犯罪者",
-      "pt":"Retains the death penalty only for serious crimes, such as those committed during times of war_pt"
-   },
-   "EXECUTIONS":{
-      "en":"Executions",
-      "es":"Ejecuciones",
-      "fr":"Exécutions",
-      "ar":"الإعدامات",
-      "zh_Hans":"处决",
-      "zh_Hant":"處決",
-      "zh_TW":"處決",
-      "pt":"Executions_pt"
-   },
-   "DEATH SENTENCES":{
-      "en":"Death sentences",
-      "es":"Condenas a muerte",
-      "fr":"Condamnations à mort",
-      "ar":"أحكام الإعدام",
-      "zh_Hans":"死刑判决",
-      "zh_Hant":"死刑",
-      "zh_TW":"死刑判決",
-      "pt":"Death sentences_pt"
-   },
-   "SINCE":{
-      "en":"Since",
-      "es":"Desde",
-      "fr":"Depuis",
-      "ar":"منذ",
-      "zh_Hans":"自",
-      "zh_Hant":"自",
-      "zh_TW":"自",
-      "pt":"Since_pt"
-   },
-   "SEARCH COUNTRY":{
-      "en":"Search country",
-      "es":"Buscar país",
-      "fr":"Rechercher un pays",
-      "ar":"ابحث عن البلد",
-      "zh_Hans":"搜索国家",
-      "zh_Hant":"搜尋國家",
-      "zh_TW":"查詢國家",
-      "pt":"Search country_pt"
-   },
-   "PLAY":{
-      "en":"Play",
-      "es":"Reprod.",
-      "fr":"Lecture",
-      "ar":"تشغيل",
-      "zh_Hans":"播放",
-      "zh_Hant":"播放",
-      "zh_TW":"播放",
-      "pt":"Play_pt"
-   },
-   "PAUSE":{
-      "en":"Pause",
-      "es":"Pausa",
-      "fr":"Pause",
-      "ar":"إيقاف",
-      "zh_Hans":"暂停",
-      "zh_Hant":"暫停",
-      "zh_TW":"暫停",
-      "pt":"Pause_pt"
-   },
-   "ZOOM IN":{
-      "en":"Zoom in",
-      "es":"Acercar",
-      "fr":"Zoomer",
-      "ar":"تكبير الصورة",
-      "zh_Hans":"放大",
-      "zh_Hant":"放大",
-      "zh_TW":"放大",
-      "pt":"Zoom in_pt"
-   },
-   "ZOOM OUT":{
-      "en":"Zoom out",
-      "es":"Alejar",
-      "fr":"Dézoomer",
-      "ar":"تصغير الصورة",
-      "zh_Hans":"缩小",
-      "zh_Hant":"縮小",
-      "zh_TW":"縮小",
-      "pt":"Zoom out_pt"
-   },
-   "COUNTRIES":{
-      "en":"countries",
-      "es":"Países",
-      "fr":"Pays",
-      "ar":"البلدان",
-      "zh_Hans":"国家",
-      "zh_Hant":"國家",
-      "zh_TW":"國家",
-      "pt":"countries_pt"
-   },
-   "ALBANIA":{
-      "en":"Albania",
-      "es":"Albania",
-      "fr":"Albanie",
-      "ar":"ألبانيا",
-      "zh_Hans":"阿尔巴尼亚",
-      "zh_Hant":"阿爾巴尼亞",
-      "zh_TW":"阿爾巴尼亞",
-      "pt":"Albania_pt"
-   },
-   "ANDORRA":{
-      "en":"Andorra",
-      "es":"Andorra",
-      "fr":"Andorre",
-      "ar":"أندورا",
-      "zh_Hans":"安道尔",
-      "zh_Hant":"安道爾",
-      "zh_TW":"安道爾",
-      "pt":"Andorra_pt"
-   },
-   "ANGOLA":{
-      "en":"Angola",
-      "es":"Angola",
-      "fr":"Angola",
-      "ar":"أنغولا",
-      "zh_Hans":"安哥拉",
-      "zh_Hant":"安哥拉",
-      "zh_TW":"安哥拉",
-      "pt":"Angola_pt"
-   },
-   "ARGENTINA":{
-      "en":"Argentina",
-      "es":"Argentina",
-      "fr":"Argentine",
-      "ar":"الأرجنتين",
-      "zh_Hans":"阿根廷",
-      "zh_Hant":"阿根廷",
-      "zh_TW":"阿根廷",
-      "pt":"Argentina_pt"
-   },
-   "ARMENIA":{
-      "en":"Armenia",
-      "es":"Armenia",
-      "fr":"Arménie",
-      "ar":"أرمينيا",
-      "zh_Hans":"阿美尼亚",
-      "zh_Hant":"亞美尼亞",
-      "zh_TW":"亞美尼亞",
-      "pt":"Armenia_pt"
-   },
-   "AUSTRALIA":{
-      "en":"Australia",
-      "es":"Australia",
-      "fr":"Australie",
-      "ar":"أستراليا",
-      "zh_Hans":"澳大利亚",
-      "zh_Hant":"澳大利亞",
-      "zh_TW":"澳洲",
-      "pt":"Australia_pt"
-   },
-   "AUSTRIA":{
-      "en":"Austria",
-      "es":"Austria",
-      "fr":"Autriche",
-      "ar":"النمسا",
-      "zh_Hans":"奥地利",
-      "zh_Hant":"奧地利",
-      "zh_TW":"奧地利",
-      "pt":"Austria_pt"
-   },
-   "AZERBAIJAN":{
-      "en":"Azerbaijan",
-      "es":"Azerbaiyán",
-      "fr":"Azerbaïdjan",
-      "ar":"أذربيجان",
-      "zh_Hans":"阿塞拜疆",
-      "zh_Hant":"阿塞拜疆",
-      "zh_TW":"亞塞拜然",
-      "pt":"Azerbaijan_pt"
-   },
-   "BELGIUM":{
-      "en":"Belgium",
-      "es":"Bélgica",
-      "fr":"Belgique",
-      "ar":"بلجيكا",
-      "zh_Hans":"比利时",
-      "zh_Hant":"比利時",
-      "zh_TW":"比利時",
-      "pt":"Belgium_pt"
-   },
-   "BHUTAN":{
-      "en":"Bhutan",
-      "es":"Bután",
-      "fr":"Bhoutan",
-      "ar":"بوتان",
-      "zh_Hans":"不丹",
-      "zh_Hant":"不丹",
-      "zh_TW":"不丹",
-      "pt":"Bhutan_pt"
-   },
-   "BOLIVIA":{
-      "en":"Bolivia",
-      "es":"Bolivia",
-      "fr":"Bolivie",
-      "ar":"بوليفيا",
-      "zh_Hans":"玻利维亚",
-      "zh_Hant":"玻利維亞",
-      "zh_TW":"玻利維亞",
-      "pt":"Bolivia_pt"
-   },
-   "BOSNIA AND HERZEGOVINA":{
-      "en":"Bosnia and Herzegovina",
-      "es":"Bosnia y Herzegovina",
-      "fr":"Bosnie-Herzégovine",
-      "ar":"البوسنة والهرسك",
-      "zh_Hans":"波斯尼亚和黑塞哥维那",
-      "zh_Hant":"波斯尼亞和黑塞哥維那",
-      "zh_TW":"波士尼亞與赫塞哥維納",
-      "pt":"Bosnia and Herzegovina_pt"
-   },
-   "BULGARIA":{
-      "en":"Bulgaria",
-      "es":"Bulgaria",
-      "fr":"Bulgarie",
-      "ar":"بلغاريا",
-      "zh_Hans":"保加利亚",
-      "zh_Hant":"保加利亞",
-      "zh_TW":"保加利亞",
-      "pt":"Bulgaria_pt"
-   },
-   "BURUNDI":{
-      "en":"Burundi",
-      "es":"Burundi",
-      "fr":"Burundi",
-      "ar":"بوروندي",
-      "zh_Hans":"布隆迪",
-      "zh_Hant":"布隆迪",
-      "zh_TW":"蒲隆地",
-      "pt":"Burundi_pt"
-   },
-   "CAMBODIA":{
-      "en":"Cambodia",
-      "es":"Camboya",
-      "fr":"Cambodge",
-      "ar":"كمبوديا",
-      "zh_Hans":"柬埔寨",
-      "zh_Hant":"柬埔寨",
-      "zh_TW":"柬埔寨",
-      "pt":"Cambodia_pt"
-   },
-   "CANADA":{
-      "en":"Canada",
-      "es":"Canadá",
-      "fr":"Canada",
-      "ar":"كندا",
-      "zh_Hans":"加拿大",
-      "zh_Hant":"加拿大",
-      "zh_TW":"加拿大",
-      "pt":"Canada_pt"
-   },
-   "CAPE VERDE":{
-      "en":"Cape Verde",
-      "es":"Cabo Verde",
-      "fr":"Cap-Vert",
-      "ar":"الرأس الأخضر",
-      "zh_Hans":"佛得角",
-      "zh_Hant":"佛得角",
-      "zh_TW":"維德角",
-      "pt":"Cape Verde_pt"
-   },
-   "COLOMBIA":{
-      "en":"Colombia",
-      "es":"Colombia",
-      "fr":"Colombie",
-      "ar":"كولومبيا",
-      "zh_Hans":"哥伦比亚",
-      "zh_Hant":"哥倫比亞",
-      "zh_TW":"哥倫比亞",
-      "pt":"Colombia_pt"
-   },
-   "REPUBLIC OF CONGO":{
-      "en":"Republic of Congo",
-      "es":"República del Congo",
-      "fr":"Congo",
-      "ar":"الكونغو",
-      "zh_Hans":"刚果共和国",
-      "zh_Hant":"剛果共和國",
-      "zh_TW":"剛果共和國",
-      "pt":"Republic of Congo_pt"
-   },
-   "COOK ISLANDS":{
-      "en":"Cook Islands",
-      "es":"Islas Cook",
-      "fr":"Îles Cook",
-      "ar":"جزر كوك",
-      "zh_Hans":"库克群岛",
-      "zh_Hant":"庫克群島",
-      "zh_TW":"庫克群島",
-      "pt":"Cook Islands_pt"
-   },
-   "DOMINICAN REPUBLIC":{
-      "en":"Dominican Republic",
-      "es":"República Dominicana",
-      "fr":"République dominicaine",
-      "ar":"الجمهورية الدومينيكية",
-      "zh_Hans":"多米尼加共和国",
-      "zh_Hant":"多明尼加共和國",
-      "zh_TW":"多明尼加共和國",
-      "pt":"Dominican Republic_pt"
-   },
-   "COSTA RICA":{
-      "en":"Costa Rica",
-      "es":"Costa Rica",
-      "fr":"Costa Rica",
-      "ar":"كوستاريكا",
-      "zh_Hans":"哥斯达黎加",
-      "zh_Hant":"哥斯達黎加",
-      "zh_TW":"哥斯大黎加",
-      "pt":"Costa Rica_pt"
-   },
-   "COTE D'IVOIRE":{
-      "en":"Côte D'Ivoire",
-      "es":"Costa de Marfil",
-      "fr":"Côte d’Ivoire",
-      "ar":"ساحل العاج",
-      "zh_Hans":"科特迪瓦",
-      "zh_Hant":"科特迪瓦",
-      "zh_TW":"象牙海岸",
-      "pt":"Côte D'Ivoire_pt"
-   },
-   "CROATIA":{
-      "en":"Croatia",
-      "es":"Croacia",
-      "fr":"Croatie",
-      "ar":"كرواتيا",
-      "zh_Hans":"克罗地亚",
-      "zh_Hant":"克羅地亞",
-      "zh_TW":"克羅埃西亞",
-      "pt":"Croatia_pt"
-   },
-   "CYPRUS":{
-      "en":"Cyprus",
-      "es":"Chipre",
-      "fr":"Chypre",
-      "ar":"قبرص",
-      "zh_Hans":"塞浦路斯",
-      "zh_Hant":"塞浦路斯",
-      "zh_TW":"賽普勒斯",
-      "pt":"Cyprus_pt"
-   },
-   "CZECH REPUBLIC":{
-      "en":"Czech Republic",
-      "es":"República Checa",
-      "fr":"République tchèque",
-      "ar":"الجمهورية التشيكية",
-      "zh_Hans":"捷克共和国",
-      "zh_Hant":"捷克共和國",
-      "zh_TW":"捷克共和國",
-      "pt":"Czech Republic_pt"
-   },
-   "DENMARK":{
-      "en":"Denmark",
-      "es":"Dinamarca",
-      "fr":"Danemark",
-      "ar":"الدنمارك",
-      "zh_Hans":"丹麦",
-      "zh_Hant":"丹麥",
-      "zh_TW":"丹麥",
-      "pt":"Denmark_pt"
-   },
-   "DJIBOUTI":{
-      "en":"Djibouti",
-      "es":"Yibuti",
-      "fr":"Djibouti",
-      "ar":"جيبوتي",
-      "zh_Hans":"吉布提",
-      "zh_Hant":"吉布提",
-      "zh_TW":"吉布地",
-      "pt":"Djibouti_pt"
-   },
-   "DOMINICA":{
-      "en":"Dominica",
-      "es":"Dominica",
-      "fr":"Dominique",
-      "ar":"دومينكا",
-      "zh_Hans":"多米尼加",
-      "zh_Hant":"多米尼加",
-      "zh_TW":"多米尼克",
-      "pt":"Dominica_pt"
-   },
-   "ECUADOR":{
-      "en":"Ecuador",
-      "es":"Ecuador",
-      "fr":"Équateur",
-      "ar":"إكوادور",
-      "zh_Hans":"厄瓜多尔",
-      "zh_Hant":"厄瓜多爾",
-      "zh_TW":"厄瓜多",
-      "pt":"Ecuador_pt"
-   },
-   "ESTONIA":{
-      "en":"Estonia",
-      "es":"Estonia",
-      "fr":"Estonie",
-      "ar":"إستونيا",
-      "zh_Hans":"爱沙尼亚",
-      "zh_Hant":"愛沙尼亞",
-      "zh_TW":"愛沙尼亞",
-      "pt":"Estonia_pt"
-   },
-   "FINLAND":{
-      "en":"Finland",
-      "es":"Finlandia",
-      "fr":"Finlande",
-      "ar":"فنلندا",
-      "zh_Hans":"芬兰",
-      "zh_Hant":"芬蘭",
-      "zh_TW":"芬蘭",
-      "pt":"Finland_pt"
-   },
-   "FIJI":{
-      "en":"Fiji",
-      "es":"Fiyi",
-      "fr":"Fidji",
-      "ar":"فيجي",
-      "zh_Hans":"斐济",
-      "zh_Hant":"斐濟",
-      "zh_TW":"斐濟",
-      "pt":"Fiji_pt"
-   },
-   "FRANCE":{
-      "en":"France",
-      "es":"Francia",
-      "fr":"France",
-      "ar":"فرنسا",
-      "zh_Hans":"法国",
-      "zh_Hant":"法國",
-      "zh_TW":"法國",
-      "pt":"France_pt"
-   },
-   "GABON":{
-      "en":"Gabon",
-      "es":"Gabón",
-      "fr":"Gabon",
-      "ar":"الغابون",
-      "zh_Hans":"加蓬",
-      "zh_Hant":"加蓬",
-      "zh_TW":"加彭",
-      "pt":"Gabon_pt"
-   },
-   "GEORGIA":{
-      "en":"Georgia",
-      "es":"Georgia",
-      "fr":"Géorgie",
-      "ar":"جورجيا",
-      "zh_Hans":"格鲁吉亚",
-      "zh_Hant":"格魯吉亞",
-      "zh_TW":"喬治亞",
-      "pt":"Georgia_pt"
-   },
-   "GERMANY":{
-      "en":"Germany",
-      "es":"Alemania",
-      "fr":"Allemagne",
-      "ar":"ألمانيا",
-      "zh_Hans":"德国",
-      "zh_Hant":"德國",
-      "zh_TW":"德國",
-      "pt":"Germany_pt"
-   },
-   "GREECE":{
-      "en":"Greece",
-      "es":"Grecia",
-      "fr":"Grèce",
-      "ar":"اليونان",
-      "zh_Hans":"希腊",
-      "zh_Hant":"希臘",
-      "zh_TW":"希臘",
-      "pt":"Greece_pt"
-   },
-   "GREENLAND / DENMARK":{
-      "en":"Greenland / Denmark",
-      "es":"Groenlandia/Dinamarca",
-      "fr":"Groenland/Danemark",
-      "ar":"جرينلاند / دنمارك",
-      "zh_Hans":"格陵兰/丹麦",
-      "zh_Hant":"格陵蘭/丹麥",
-      "zh_TW":"格陵蘭／丹麥",
-      "pt":"Greenland / Denmark_pt"
-   },
-   "GUINEA-BISSAU":{
-      "en":"Guinea-Bissau",
-      "es":"Guinea-Bissau",
-      "fr":"Guinée-Bissau",
-      "ar":"غينيا بيساو",
-      "zh_Hans":"几内亚比绍",
-      "zh_Hant":"幾內亞比紹",
-      "zh_TW":"幾內亞比索",
-      "pt":"Guinea-Bissau_pt"
-   },
-   "HAITI":{
-      "en":"Haiti",
-      "es":"Haití",
-      "fr":"Haïti",
-      "ar":"هايتي",
-      "zh_Hans":"海地",
-      "zh_Hant":"海地",
-      "zh_TW":"海地",
-      "pt":"Haiti_pt"
-   },
-   "HOLY SEE":{
-      "en":"Holy See",
-      "es":"Santa Sede",
-      "fr":"Saint-Siège",
-      "ar":"الكرسي الرسولي",
-      "zh_Hans":"梵蒂冈",
-      "zh_Hant":"梵蒂岡",
-      "zh_TW":"梵諦岡",
-      "pt":"Holy See_pt"
-   },
-   "HONDURAS":{
-      "en":"Honduras",
-      "es":"Honduras",
-      "fr":"Honduras",
-      "ar":"هندوراس",
-      "zh_Hans":"洪都拉斯",
-      "zh_Hant":"洪都拉斯",
-      "zh_TW":"宏都拉斯",
-      "pt":"Honduras_pt"
-   },
-   "HUNGARY":{
-      "en":"Hungary",
-      "es":"Hungría",
-      "fr":"Hongrie",
-      "ar":"المجر",
-      "zh_Hans":"匈牙利",
-      "zh_Hant":"匈牙利",
-      "zh_TW":"匈牙利",
-      "pt":"Hungary_pt"
-   },
-   "ICELAND":{
-      "en":"Iceland",
-      "es":"Islandia",
-      "fr":"Islande",
-      "ar":"آيسلندا",
-      "zh_Hans":"冰岛",
-      "zh_Hant":"冰島",
-      "zh_TW":"冰島",
-      "pt":"Iceland_pt"
-   },
-   "IRELAND":{
-      "en":"Ireland",
-      "es":"Irlanda",
-      "fr":"Irlande",
-      "ar":"أيرلندا",
-      "zh_Hans":"爱尔兰",
-      "zh_Hant":"愛爾蘭",
-      "zh_TW":"愛爾蘭",
-      "pt":"Ireland_pt"
-   },
-   "ITALY":{
-      "en":"Italy",
-      "es":"Italia",
-      "fr":"Italie",
-      "ar":"إيطاليا",
-      "zh_Hans":"意大利",
-      "zh_Hant":"意大利",
-      "zh_TW":"義大利",
-      "pt":"Italy_pt"
-   },
-   "KYRGYZSTAN":{
-      "en":"Kyrgyzstan",
-      "es":"Kirguistán",
-      "fr":"Kirghizistan",
-      "ar":"قيرغيستان",
-      "zh_Hans":"吉尓吉斯坦",
-      "zh_Hant":"吉爾吉斯",
-      "zh_TW":"吉爾吉斯",
-      "pt":"Kyrgyzstan_pt"
-   },
-   "KIRIBATI":{
-      "en":"Kiribati",
-      "es":"Kiribati",
-      "fr":"Kiribati",
-      "ar":"الكيريباتي",
-      "zh_Hans":"基里巴斯",
-      "zh_Hant":"基里巴斯",
-      "zh_TW":"吉里巴斯",
-      "pt":"Kiribati_pt"
-   },
-   "LATVIA":{
-      "en":"Latvia",
-      "es":"Letonia",
-      "fr":"Lettonie",
-      "ar":"لاتفيا",
-      "zh_Hans":"拉脱维亚",
-      "zh_Hant":"拉脫維亞",
-      "zh_TW":"拉脫維亞",
-      "pt":"Latvia_pt"
-   },
-   "LIECHTENSTEIN":{
-      "en":"Liechtenstein",
-      "es":"Liechtenstein",
-      "fr":"Liechtenstein",
-      "ar":"ليختنشتاين",
-      "zh_Hans":"列支敦士登",
-      "zh_Hant":"列支敦士登",
-      "zh_TW":"列支敦士登",
-      "pt":"Liechtenstein_pt"
-   },
-   "LITHUANIA":{
-      "en":"Lithuania",
-      "es":"Lituania",
-      "fr":"Lituanie",
-      "ar":"ليتوانيا ",
-      "zh_Hans":"立陶宛",
-      "zh_Hant":"立陶宛",
-      "zh_TW":"立陶宛",
-      "pt":"Lithuania_pt"
-   },
-   "LUXEMBOURG":{
-      "en":"Luxembourg",
-      "es":"Luxemburgo",
-      "fr":"Luxembourg",
-      "ar":"لكسمبرغ",
-      "zh_Hans":"卢森堡",
-      "zh_Hant":"盧森堡",
-      "zh_TW":"盧森堡",
-      "pt":"Luxembourg_pt"
-   },
-   "MACEDONIA":{
-      "en":"Macedonia",
-      "es":"Macedonia",
-      "fr":"Macédoine",
-      "ar":"مقدونيا",
-      "zh_Hans":"马其顿",
-      "zh_Hant":"馬其頓",
-      "zh_TW":"馬其頓",
-      "pt":"Macedonia_pt"
-   },
-   "MADAGASCAR":{
-      "en":"Madagascar",
-      "es":"Madagascar",
-      "fr":"Madagascar",
-      "ar":"رقشغدم",
-      "zh_Hans":"马达加斯加",
-      "zh_Hant":"馬達加斯加",
-      "zh_TW":"馬達加斯加",
-      "pt":"Madagascar_pt"
-   },
-   "MALTA":{
-      "en":"Malta",
-      "es":"Malta",
-      "fr":"Malte",
-      "ar":"مالطا",
-      "zh_Hans":"马耳他",
-      "zh_Hant":"馬耳他",
-      "zh_TW":"馬爾他",
-      "pt":"Malta_pt"
-   },
-   "MARSHALL ISLANDS":{
-      "en":"Marshall Islands",
-      "es":"Islas Marshall",
-      "fr":"Îles Marshall",
-      "ar":"جزر مارشال",
-      "zh_Hans":"马绍尔群岛",
-      "zh_Hant":"馬歇爾群島",
-      "zh_TW":"馬紹爾群島",
-      "pt":"Marshall Islands_pt"
-   },
-   "MAURITIUS":{
-      "en":"Mauritius",
-      "es":"Mauricio",
-      "fr":"Maurice",
-      "ar":"موريشيوس",
-      "zh_Hans":"毛里求斯",
-      "zh_Hant":"毛里求斯",
-      "zh_TW":"模里西斯",
-      "pt":"Mauritius_pt"
-   },
-   "MEXICO":{
-      "en":"Mexico",
-      "es":"México",
-      "fr":"Mexique",
-      "ar":"المكسيك",
-      "zh_Hans":"墨西哥",
-      "zh_Hant":"墨西哥",
-      "zh_TW":"墨西哥",
-      "pt":"Mexico_pt"
-   },
-   "MICRONESIA":{
-      "en":"Micronesia",
-      "es":"Micronesia",
-      "fr":"Micronésie",
-      "ar":"ماكرونيزيا",
-      "zh_Hans":"密克罗尼西亚",
-      "zh_Hant":"密克羅尼西亞",
-      "zh_TW":"密克羅尼西亞",
-      "pt":"Micronesia_pt"
-   },
-   "MOLDOVA":{
-      "en":"Moldova",
-      "es":"Moldavia",
-      "fr":"Moldavie",
-      "ar":"مولدوفا",
-      "zh_Hans":"摩尔多瓦",
-      "zh_Hant":"摩爾多瓦",
-      "zh_TW":"摩爾多瓦",
-      "pt":"Moldova_pt"
-   },
-   "MONACO":{
-      "en":"Monaco",
-      "es":"Mónaco",
-      "fr":"Monaco",
-      "ar":"موناكو",
-      "zh_Hans":"摩纳哥",
-      "zh_Hant":"摩納哥",
-      "zh_TW":"摩納哥",
-      "pt":"Monaco_pt"
-   },
-   "MONTENEGRO":{
-      "en":"Montenegro",
-      "es":"Montenegro",
-      "fr":"Monténégro",
-      "ar":"الجبل الأسود",
-      "zh_Hans":"黑山共和国",
-      "zh_Hant":"黑山",
-      "zh_TW":"蒙特內哥羅",
-      "pt":"Montenegro_pt"
-   },
-   "MOZAMBIQUE":{
-      "en":"Mozambique",
-      "es":"Mozambique",
-      "fr":"Mozambique",
-      "ar":"موزمبيق",
-      "zh_Hans":"莫桑比克",
-      "zh_Hant":"莫桑比克",
-      "zh_TW":"莫三比克",
-      "pt":"Mozambique_pt"
-   },
-   "NAMIBIA":{
-      "en":"Namibia",
-      "es":"Namibia",
-      "fr":"Namibie",
-      "ar":"ناميبيا",
-      "zh_Hans":"纳米比亚",
-      "zh_Hant":"納米比亞",
-      "zh_TW":"納米比亞",
-      "pt":"Namibia_pt"
-   },
-   "NEPAL":{
-      "en":"Nepal",
-      "es":"Nepal",
-      "fr":"Népal",
-      "ar":"نيبال",
-      "zh_Hans":"尼泊尔",
-      "zh_Hant":"尼泊爾",
-      "zh_TW":"尼泊爾",
-      "pt":"Nepal_pt"
-   },
-   "NETHERLANDS":{
-      "en":"Netherlands",
-      "es":"Países Bajos",
-      "fr":"Pays-Bas",
-      "ar":"هولندا",
-      "zh_Hans":"荷兰",
-      "zh_Hant":"荷蘭",
-      "zh_TW":"荷蘭",
-      "pt":"Netherlands_pt"
-   },
-   "NEW ZEALAND":{
-      "en":"New Zealand",
-      "es":"Nueva Zelanda",
-      "fr":"Nouvelle-Zélande",
-      "ar":"نيوزيلندا",
-      "zh_Hans":"新西兰",
-      "zh_Hant":"紐西蘭",
-      "zh_TW":"紐西蘭",
-      "pt":"New Zealand_pt"
-   },
-   "NICARAGUA":{
-      "en":"Nicaragua",
-      "es":"Nicaragua",
-      "fr":"Nicaragua",
-      "ar":"نيكارغوا",
-      "zh_Hans":"尼加拉瓜",
-      "zh_Hant":"尼加拉瓜",
-      "zh_TW":"尼加拉瓜",
-      "pt":"Nicaragua_pt"
-   },
-   "NIUE":{
-      "en":"Niue",
-      "es":"Níue",
-      "fr":"Niue",
-      "ar":"نييوي",
-      "zh_Hans":"纽埃",
-      "zh_Hant":"紐埃",
-      "zh_TW":"紐埃",
-      "pt":"Niue_pt"
-   },
-   "NORWAY":{
-      "en":"Norway",
-      "es":"Noruega",
-      "fr":"Norvège",
-      "ar":"النرويج",
-      "zh_Hans":"挪威",
-      "zh_Hant":"挪威",
-      "zh_TW":"挪威",
-      "pt":"Norway_pt"
-   },
-   "PALAU":{
-      "en":"Palau",
-      "es":"Palau",
-      "fr":"Palaos",
-      "ar":"بالاو",
-      "zh_Hans":"帕劳",
-      "zh_Hant":"帛琉",
-      "zh_TW":"帛琉",
-      "pt":"Palau_pt"
-   },
-   "PANAMA":{
-      "en":"Panama",
-      "es":"Panamá",
-      "fr":"Panama",
-      "ar":"بنما",
-      "zh_Hans":"巴拿马",
-      "zh_Hant":"巴拿馬",
-      "zh_TW":"巴拿馬",
-      "pt":"Panama_pt"
-   },
-   "PARAGUAY":{
-      "en":"Paraguay",
-      "es":"Paraguay",
-      "fr":"Paraguay",
-      "ar":"باراغواي",
-      "zh_Hans":"巴拉圭",
-      "zh_Hant":"巴拉圭",
-      "zh_TW":"巴拉圭",
-      "pt":"Paraguay_pt"
-   },
-   "PHILIPPINES":{
-      "en":"Philippines",
-      "es":"Filipinas",
-      "fr":"Philippines",
-      "ar":"الفلبين",
-      "zh_Hans":"菲律宾",
-      "zh_Hant":"菲律賓",
-      "zh_TW":"菲律賓",
-      "pt":"Philippines_pt"
-   },
-   "POLAND":{
-      "en":"Poland",
-      "es":"Polonia",
-      "fr":"Pologne",
-      "ar":"بولندا",
-      "zh_Hans":"波兰",
-      "zh_Hant":"波蘭",
-      "zh_TW":"波蘭",
-      "pt":"Poland_pt"
-   },
-   "PORTUGAL":{
-      "en":"Portugal",
-      "es":"Portugal",
-      "fr":"Portugal",
-      "ar":"البرتغال",
-      "zh_Hans":"葡萄牙",
-      "zh_Hant":"葡萄牙",
-      "zh_TW":"葡萄牙",
-      "pt":"Portugal_pt"
-   },
-   "ROMANIA":{
-      "en":"Romania",
-      "es":"Rumania",
-      "fr":"Roumanie",
-      "ar":"رومانيا",
-      "zh_Hans":"罗马尼亚",
-      "zh_Hant":"羅馬尼亞",
-      "zh_TW":"羅馬尼亞",
-      "pt":"Romania_pt"
-   },
-   "RWANDA":{
-      "en":"Rwanda",
-      "es":"Ruanda",
-      "fr":"Rwanda",
-      "ar":"رواندا",
-      "zh_Hans":"卢旺达",
-      "zh_Hant":"盧旺達",
-      "zh_TW":"盧安達",
-      "pt":"Rwanda_pt"
-   },
-   "SAN MARINO":{
-      "en":"San Marino",
-      "es":"San Marino",
-      "fr":"Saint-Marin",
-      "ar":"سان مارينو",
-      "zh_Hans":"圣马力诺",
-      "zh_Hant":"聖馬力諾",
-      "zh_TW":"聖馬利諾",
-      "pt":"San Marino_pt"
-   },
-   "SAO TOME AND PRINCIPE":{
-      "en":"Sao Tome and Principe",
-      "es":"Santo Tomé y Príncipe",
-      "fr":"Sao Tomé-et-Principe",
-      "ar":"ساو تومي وبرنيسبي",
-      "zh_Hans":"圣多美和普林西比",
-      "zh_Hant":"聖多美和普林西比",
-      "zh_TW":"聖多美普林西比",
-      "pt":"Sao Tome and Principe_pt"
-   },
-   "SENEGAL":{
-      "en":"Senegal",
-      "es":"Senegal",
-      "fr":"Sénégal",
-      "ar":"السنغال",
-      "zh_Hans":"塞内加尔",
-      "zh_Hant":"塞內加爾",
-      "zh_TW":"塞內加爾",
-      "pt":"Senegal_pt"
-   },
-   "SERBIA INCLUDING KOSOVO":{
-      "en":"Serbia including Kosovo",
-      "es":"Serbia incluido Kosovo",
-      "fr":"Serbie, y compris Kosovo",
-      "ar":"صربيا بما في ذلك كوسوفو",
-      "zh_Hans":"塞尔维亚 包括科索沃",
-      "zh_Hant":"塞爾維亞 包括科索沃",
-      "zh_TW":"塞爾維亞含科索沃",
-      "pt":"Serbia including Kosovo_pt"
-   },
-   "SEYCHELLES":{
-      "en":"Seychelles",
-      "es":"Seychelles",
-      "fr":"Seychelles",
-      "ar":"سيشل",
-      "zh_Hans":"塞舌尔",
-      "zh_Hant":"塞舌爾",
-      "zh_TW":"塞席爾",
-      "pt":"Seychelles_pt"
-   },
-   "SLOVAKIA":{
-      "en":"Slovakia",
-      "es":"Eslovaquia",
-      "fr":"Slovaquie",
-      "ar":"سلوفاكيا",
-      "zh_Hans":"斯洛伐克",
-      "zh_Hant":"斯洛伐克",
-      "zh_TW":"斯洛伐克",
-      "pt":"Slovakia_pt"
-   },
-   "SLOVENIA":{
-      "en":"Slovenia",
-      "es":"Eslovenia",
-      "fr":"Slovénie",
-      "ar":"سلوفينيا",
-      "zh_Hans":"斯洛文尼亚",
-      "zh_Hant":"斯洛文尼亞",
-      "zh_TW":"斯洛維尼亞",
-      "pt":"Slovenia_pt"
-   },
-   "SOLOMON ISLANDS":{
-      "en":"Solomon Islands",
-      "es":"Islas Salomón",
-      "fr":"Salomon",
-      "ar":"جزر سليمان",
-      "zh_Hans":"所罗门群岛",
-      "zh_Hant":"所羅門群島",
-      "zh_TW":"所羅門群島",
-      "pt":"Solomon Islands_pt"
-   },
-   "SOMALIA":{
-      "en":"Somalia including Somaliland",
-      "es":"Somalia incluida Somalilandia",
-      "fr":"Somalie y compris Somaliland",
-      "ar":"الصومال بما في ذلك أرض الصومال",
-      "zh_Hans":"索马里 包括索马里兰",
-      "zh_Hant":"索馬里 包括索馬里蘭",
-      "zh_TW":"索馬利亞 含索馬利蘭",
-      "pt":"Somalia including Somaliland_pt"
-   },
-   "SOUTH AFRICA":{
-      "en":"South Africa",
-      "es":"Sudáfrica",
-      "fr":"Afrique du Sud",
-      "ar":"جنوب إفريقيا",
-      "zh_Hans":"南非",
-      "zh_Hant":"南非",
-      "zh_TW":"南非",
-      "pt":"South Africa_pt"
-   },
-   "SPAIN":{
-      "en":"Spain",
-      "es":"España",
-      "fr":"Espagne",
-      "ar":"أسبانيا",
-      "zh_Hans":"西班牙",
-      "zh_Hant":"西班牙",
-      "zh_TW":"西班牙",
-      "pt":"Spain_pt"
-   },
-   "SURINAME":{
-      "en":"Suriname",
-      "es":"Surinam",
-      "fr":"Suriname",
-      "ar":"سورينام",
-      "zh_Hans":"苏里南",
-      "zh_Hant":"蘇里南",
-      "zh_TW":"蘇利南",
-      "pt":"Suriname_pt"
-   },
-   "SWEDEN":{
-      "en":"Sweden",
-      "es":"Suecia",
-      "fr":"Suède",
-      "ar":"السويد",
-      "zh_Hans":"瑞典",
-      "zh_Hant":"瑞典",
-      "zh_TW":"瑞典",
-      "pt":"Sweden_pt"
-   },
-   "SWITZERLAND":{
-      "en":"Switzerland",
-      "es":"Suiza",
-      "fr":"Suisse",
-      "ar":"سويسرا",
-      "zh_Hans":"瑞士",
-      "zh_Hant":"瑞士",
-      "zh_TW":"瑞士",
-      "pt":"Switzerland_pt"
-   },
-   "TOGO":{
-      "en":"Togo",
-      "es":"Togo",
-      "fr":"Togo",
-      "ar":"توغو",
-      "zh_Hans":"多哥",
-      "zh_Hant":"多哥",
-      "zh_TW":"多哥",
-      "pt":"Togo_pt"
-   },
-   "TIMOR-LESTE":{
-      "en":"Timor-Leste",
-      "es":"Timor Oriental",
-      "fr":"Timor-Leste",
-      "ar":"تيمور الشرقية",
-      "zh_Hans":"东帝汶",
-      "zh_Hant":"東帝汶",
-      "zh_TW":"東帝汶",
-      "pt":"Timor-Leste_pt"
-   },
-   "TURKEY":{
-      "en":"Turkey",
-      "es":"Turquía",
-      "fr":"Turquie",
-      "ar":"تركيا",
-      "zh_Hans":"土耳其",
-      "zh_Hant":"土耳其",
-      "zh_TW":"土耳其",
-      "pt":"Turkey_pt"
-   },
-   "TURKMENISTAN":{
-      "en":"Turkmenistan",
-      "es":"Turkmenistán",
-      "fr":"Turkménistan",
-      "ar":"تركمنستان",
-      "zh_Hans":"土库曼斯坦",
-      "zh_Hant":"土庫曼斯坦",
-      "zh_TW":"土庫曼",
-      "pt":"Turkmenistan_pt"
-   },
-   "TUVALU":{
-      "en":"Tuvalu",
-      "es":"Tuvalu",
-      "fr":"Tuvalu",
-      "ar":"توفالو",
-      "zh_Hans":"图瓦卢",
-      "zh_Hant":"圖瓦盧",
-      "zh_TW":"吐瓦魯",
-      "pt":"Tuvalu_pt"
-   },
-   "UKRAINE":{
-      "en":"Ukraine",
-      "es":"Ucrania",
-      "fr":"Ukraine",
-      "ar":"أوكرانيا",
-      "zh_Hans":"乌克兰",
-      "zh_Hant":"烏克蘭",
-      "zh_TW":"烏克蘭",
-      "pt":"Ukraine_pt"
-   },
-   "UNITED KINGDOM":{
-      "en":"United Kingdom",
-      "es":"Reino Unido",
-      "fr":"Royaume-Uni",
-      "ar":"المملكة المتحدة",
-      "zh_Hans":"英国",
-      "zh_Hant":"英國",
-      "zh_TW":"英國",
-      "pt":"United Kingdom_pt"
-   },
-   "URUGUAY":{
-      "en":"Uruguay",
-      "es":"Uruguay",
-      "fr":"Uruguay",
-      "ar":"أورغواي",
-      "zh_Hans":"乌拉圭",
-      "zh_Hant":"烏拉圭",
-      "zh_TW":"烏拉圭",
-      "pt":"Uruguay_pt"
-   },
-   "UZBEKISTAN":{
-      "en":"Uzbekistan",
-      "es":"Uzbekistán",
-      "fr":"Ouzbékistan",
-      "ar":"أوزبكستان",
-      "zh_Hans":"乌兹别克斯坦",
-      "zh_Hant":"烏茲別克",
-      "zh_TW":"烏茲別克",
-      "pt":"Uzbekistan_pt"
-   },
-   "VANUATU":{
-      "en":"Vanuatu",
-      "es":"Vanuatu",
-      "fr":"Vanuatu",
-      "ar":"فانواتو",
-      "zh_Hans":"瓦努阿图",
-      "zh_Hant":"瓦努阿圖",
-      "zh_TW":"萬那杜",
-      "pt":"Vanuatu_pt"
-   },
-   "VENEZUELA":{
-      "en":"Venezuela",
-      "es":"Venezuela",
-      "fr":"Venezuela",
-      "ar":"فنزويلا",
-      "zh_Hans":"委内瑞拉",
-      "zh_Hant":"委內瑞拉",
-      "zh_TW":"委內瑞拉",
-      "pt":"Venezuela_pt"
-   },
-   "HONG KONG":{
-      "en":"Hong Kong",
-      "es":"Hong Kong",
-      "fr":"Hong Kong",
-      "ar":"هونغ كونغ",
-      "zh_Hans":"香港",
-      "zh_Hant":"香港",
-      "zh_TW":"香港",
-      "pt":"Hong Kong_pt"
-   },
-   "ISRAEL":{
-      "en":"Israel",
-      "es":"Israel",
-      "fr":"Israël",
-      "ar":"إسرائيل",
-      "zh_Hans":"以色列",
-      "zh_Hant":"以色列",
-      "zh_TW":"以色列",
-      "pt":"Israel_pt"
-   },
-   "PERU":{
-      "en":"Peru",
-      "es":"Perú",
-      "fr":"Pérou",
-      "ar":"بيرو",
-      "zh_Hans":"秘鲁",
-      "zh_Hant":"秘魯",
-      "zh_TW":"秘魯",
-      "pt":"Peru_pt"
-   },
-   "KAZAKHSTAN":{
-      "en":"Kazakhstan",
-      "es":"Kazajistán",
-      "fr":"Kazakhstan",
-      "ar":"كازاخستان",
-      "zh_Hans":"哈萨克斯坦",
-      "zh_Hant":"哈薩克",
-      "zh_TW":"哈薩克",
-      "pt":"Kazakhstan_pt"
-   },
-   "CHILE":{
-      "en":"Chile",
-      "es":"Chile",
-      "fr":"Chili",
-      "ar":"تشيلي",
-      "zh_Hans":"智利",
-      "zh_Hant":"智利",
-      "zh_TW":"智利",
-      "pt":"Chile_pt"
-   },
-   "EL SALVADOR":{
-      "en":"El Salvador",
-      "es":"El Salvador",
-      "fr":"Salvador",
-      "ar":"السلفادور",
-      "zh_Hans":"萨尔瓦多",
-      "zh_Hant":"薩爾瓦多",
-      "zh_TW":"薩爾瓦多",
-      "pt":"El Salvador_pt"
-   },
-   "BRAZIL":{
-      "en":"Brazil",
-      "es":"Brasil",
-      "fr":"Brésil",
-      "ar":"البرازيل",
-      "zh_Hans":"巴西",
-      "zh_Hant":"巴西",
-      "zh_TW":"巴西",
-      "pt":"Brazil_pt"
-   },
-   "BENIN":{
-      "en":"Benin",
-      "es":"Benín",
-      "fr":"Bénin",
-      "ar":"بنين",
-      "zh_Hans":"贝宁",
-      "zh_Hant":"貝寧",
-      "zh_TW":"貝南",
-      "pt":"Benin_pt"
-   },
-   "BURKINA FASO":{
-      "en":"Burkina Faso",
-      "es":"Burkina Faso",
-      "fr":"Burkina Faso",
-      "ar":"بوركينا فاسو",
-      "zh_Hans":"布基纳法索",
-      "zh_Hant":"布基納法索",
-      "zh_TW":"布吉納法索",
-      "pt":"Burkina Faso_pt"
-   },
-   "BRUNEI DARUSSALAM":{
-      "en":"Brunei Darussalam",
-      "es":"Brunéi Darussalam",
-      "fr":"Brunéi Darussalam",
-      "ar":"بروناي دار السلام",
-      "zh_Hans":"文莱",
-      "zh_Hant":"汶萊",
-      "zh_TW":"汶萊",
-      "pt":"Brunei Darussalam_pt"
-   },
-   "CENTRAL AFRICAN REPUBLIC":{
-      "en":"Central African Republic",
-      "es":"República Centroafricana",
-      "fr":"République centrafricaine",
-      "ar":"جمهورية أقريقيا الوسطى",
-      "zh_Hans":"中非共和国",
-      "zh_Hant":"中非共和國",
-      "zh_TW":"中非共和國",
-      "pt":"Central African Republic_pt"
-   },
-   "CAMEROON":{
-      "en":"Cameroon",
-      "es":"Camerún",
-      "fr":"Cameroun",
-      "ar":"الكاميرون",
-      "zh_Hans":"喀麦隆",
-      "zh_Hant":"喀麥隆",
-      "zh_TW":"喀麥隆",
-      "pt":"Cameroon_pt"
-   },
-   "ALGERIA":{
-      "en":"Algeria",
-      "es":"Argelia",
-      "fr":"Algérie",
-      "ar":"الجزائر",
-      "zh_Hans":"阿尔及利亚",
-      "zh_Hant":"阿爾及利亞",
-      "zh_TW":"阿爾及利亞",
-      "pt":"Algeria_pt"
-   },
-   "ERITREA":{
-      "en":"Eritrea",
-      "es":"Eritrea",
-      "fr":"Érythrée",
-      "ar":"إريتريا",
-      "zh_Hans":"厄立特里亚",
-      "zh_Hant":"厄立特里亞",
-      "zh_TW":"厄利垂亞",
-      "pt":"Eritrea_pt"
-   },
-   "MOROCCO / WESTERN SAHARA":{
-      "en":"Morocco (including Western Sahara)",
-      "es":"Marruecos y el Sáhara Occidental",
-      "fr":"Maroc et Sahara occidental",
-      "ar":"المغرب والصحراء الغربية",
-      "zh_Hans":"摩洛哥 包括西撒哈拉",
-      "zh_Hant":"摩洛哥 包括西撒哈拉",
-      "zh_TW":"摩洛哥 含西薩哈拉",
-      "pt":"Morocco (including Western Sahara)_pt"
-   },
-   "GHANA":{
-      "en":"Ghana",
-      "es":"Ghana",
-      "fr":"Ghana",
-      "ar":"غانا",
-      "zh_Hans":"加纳",
-      "zh_Hant":"加納",
-      "zh_TW":"迦納",
-      "pt":"Ghana_pt"
-   },
-   "GRENADA":{
-      "en":"Grenada",
-      "es":"Granada",
-      "fr":"Grenade",
-      "ar":"غرينادا",
-      "zh_Hans":"格林纳达",
-      "zh_Hant":"格林納達",
-      "zh_TW":"格瑞那達",
-      "pt":"Grenada_pt"
-   },
-   "KENYA":{
-      "en":"Kenya",
-      "es":"Kenia",
-      "fr":"Kenya",
-      "ar":"كينيا",
-      "zh_Hans":"肯尼亚",
-      "zh_Hant":"肯尼亞",
-      "zh_TW":"肯亞",
-      "pt":"Kenya_pt"
-   },
-   "SOUTH KOREA":{
-      "en":"Republic of Korea",
-      "es":"Corea del Sur",
-      "fr":"Corée du Sud",
-      "ar":"كوريا الجنوبية",
-      "zh_Hans":"大韩民国",
-      "zh_Hant":"大韓民國",
-      "zh_TW":"大韓民國",
-      "pt":"Republic of Korea_pt"
-   },
-   "LAOS":{
-      "en":"Laos",
-      "es":"Laos",
-      "fr":"Laos",
-      "ar":"لاوس",
-      "zh_Hans":"老挝",
-      "zh_Hant":"老撾",
-      "zh_TW":"寮國",
-      "pt":"Laos_pt"
-   },
-   "LIBERIA":{
-      "en":"Liberia",
-      "es":"Liberia",
-      "fr":"Liberia",
-      "ar":"ليبيريا",
-      "zh_Hans":"利比里亚",
-      "zh_Hant":"利比里亞",
-      "zh_TW":"賴比瑞亞",
-      "pt":"Liberia_pt"
-   },
-   "SRI LANKA":{
-      "en":"Sri Lanka",
-      "es":"Sri Lanka",
-      "fr":"Sri Lanka",
-      "ar":"سري لنكا",
-      "zh_Hans":"斯里兰卡",
-      "zh_Hant":"斯里蘭卡",
-      "zh_TW":"斯里蘭卡",
-      "pt":"Sri Lanka_pt"
-   },
-   "MOROCCO":{
-      "en":"Morocco",
-      "es":"Marruecos",
-      "fr":"Maroc",
-      "ar":"المغرب",
-      "zh_Hans":"摩洛哥",
-      "zh_Hant":"摩洛哥",
-      "zh_TW":"摩洛哥",
-      "pt":"Morocco_pt"
-   },
-   "MALDIVES":{
-      "en":"Maldives",
-      "es":"Maldivas",
-      "fr":"Maldives",
-      "ar":"مالديف",
-      "zh_Hans":"马尔代夫 ",
-      "zh_Hant":"馬爾代夫",
-      "zh_TW":"馬爾地夫",
-      "pt":"Maldives_pt"
-   },
-   "MALI":{
-      "en":"Mali",
-      "es":"Malí",
-      "fr":"Mali",
-      "ar":"مالي",
-      "zh_Hans":"马里",
-      "zh_Hant":"馬里",
-      "zh_TW":"馬利",
-      "pt":"Mali_pt"
-   },
-   "MYANMAR":{
-      "en":"Myanmar",
-      "es":"Myanmar",
-      "fr":"Myanmar",
-      "ar":"ميانمار",
-      "zh_Hans":"缅甸",
-      "zh_Hant":"緬甸",
-      "zh_TW":"緬甸",
-      "pt":"Myanmar_pt"
-   },
-   "MONGOLIA":{
-      "en":"Mongolia",
-      "es":"Mongolia",
-      "fr":"Mongolie",
-      "ar":"منغوليا",
-      "zh_Hans":"蒙古",
-      "zh_Hant":"蒙古",
-      "zh_TW":"蒙古",
-      "pt":"Mongolia_pt"
-   },
-   "MAURITANIA":{
-      "en":"Mauritania",
-      "es":"Mauritania",
-      "fr":"Mauritanie",
-      "ar":"موريتانيا",
-      "zh_Hans":"毛利塔尼亚",
-      "zh_Hant":"毛里塔尼亞",
-      "zh_TW":"茅利塔尼亞",
-      "pt":"Mauritania_pt"
-   },
-   "MALAWI":{
-      "en":"Malawi",
-      "es":"Malawi",
-      "fr":"Malawi",
-      "ar":"ملاوي",
-      "zh_Hans":"马拉维",
-      "zh_Hant":"馬拉維",
-      "zh_TW":"馬拉威",
-      "pt":"Malawi_pt"
-   },
-   "NIGER":{
-      "en":"Niger",
-      "es":"Níger",
-      "fr":"Niger",
-      "ar":"النيجر",
-      "zh_Hans":"尼日尔",
-      "zh_Hant":"尼日爾",
-      "zh_TW":"尼日",
-      "pt":"Niger_pt"
-   },
-   "NAURU":{
-      "en":"Nauru",
-      "es":"Nauru",
-      "fr":"Nauru",
-      "ar":"ناورو",
-      "zh_Hans":"瑙鲁",
-      "zh_Hant":"瑙魯",
-      "zh_TW":"諾魯",
-      "pt":"Nauru_pt"
-   },
-   "PAPUA NEW GUINEA":{
-      "en":"Papua New Guinea",
-      "es":"Papúa Nueva Guinea",
-      "fr":"Papouasie-Nouvelle-Guinée",
-      "ar":"بابو غينيا الجديدة",
-      "zh_Hans":"巴布亚新几内亚",
-      "zh_Hant":"巴布亞新幾內亞",
-      "zh_TW":"巴布亞紐幾內亞",
-      "pt":"Papua New Guinea_pt"
-   },
-   "RUSSIAN FEDERATION":{
-      "en":"Russian Federation",
-      "es":"Federación Rusa",
-      "fr":"Russie",
-      "ar":"روسيا الاتحادية",
-      "zh_Hans":"俄罗斯联邦",
-      "zh_Hant":"俄羅斯聯邦",
-      "zh_TW":"俄羅斯",
-      "pt":"Russian Federation_pt"
-   },
-   "SIERRA LEONE":{
-      "en":"Sierra Leone",
-      "es":"Sierra Leona",
-      "fr":"Sierra Leone",
-      "ar":"سيراليون",
-      "zh_Hans":"塞拉利昂",
-      "zh_Hant":"塞拉利昂",
-      "zh_TW":"獅子山共和國",
-      "pt":"Sierra Leone_pt"
-   },
-   "SWAZILAND":{
-      "en":"Swaziland",
-      "es":"Suazilandia",
-      "fr":"Swaziland",
-      "ar":"سوازيلند",
-      "zh_Hans":"斯威士兰",
-      "zh_Hant":"斯威士蘭",
-      "zh_TW":"史瓦濟蘭",
-      "pt":"Swaziland_pt"
-   },
-   "TAJIKISTAN":{
-      "en":"Tajikistan",
-      "es":"Tayikistán",
-      "fr":"Tadjikistan",
-      "ar":"طاجيكستان",
-      "zh_Hans":"塔吉克斯坦",
-      "zh_Hant":"塔吉克斯坦",
-      "zh_TW":"塔吉克",
-      "pt":"Tajikistan_pt"
-   },
-   "TONGA":{
-      "en":"Tonga",
-      "es":"Tonga",
-      "fr":"Tonga",
-      "ar":"تونغو",
-      "zh_Hans":"汤加",
-      "zh_Hant":"湯加",
-      "zh_TW":"東加",
-      "pt":"Tonga_pt"
-   },
-   "TUNISIA":{
-      "en":"Tunisia",
-      "es":"Túnez",
-      "fr":"Tunisie",
-      "ar":"تونس",
-      "zh_Hans":"突尼斯",
-      "zh_Hant":"突尼斯",
-      "zh_TW":"突尼西亞",
-      "pt":"Tunisia_pt"
-   },
-   "TANZANIA":{
-      "en":"Tanzania",
-      "es":"Tanzania",
-      "fr":"Tanzanie",
-      "ar":"تنزانيا",
-      "zh_Hans":"坦桑尼亚",
-      "zh_Hant":"坦桑尼亞",
-      "zh_TW":"坦尚尼亞",
-      "pt":"Tanzania_pt"
-   },
-   "ZAMBIA":{
-      "en":"Zambia",
-      "es":"Zambia",
-      "fr":"Zambie",
-      "ar":"زامبيا",
-      "zh_Hans":"赞比亚",
-      "zh_Hant":"贊比亞",
-      "zh_TW":"贊比亞",
-      "pt":"Zambia_pt"
-   },
-   "AFGHANISTAN":{
-      "en":"Afghanistan",
-      "es":"Afganistán",
-      "fr":"Afghanistan",
-      "ar":"أفغانستان",
-      "zh_Hans":"阿富汗",
-      "zh_Hant":"阿富汗",
-      "zh_TW":"阿富汗",
-      "pt":"Afghanistan_pt"
-   },
-   "UNITED ARAB EMIRATES":{
-      "en":"United Arab Emirates",
-      "es":"Emiratos Árabes Unidos",
-      "fr":"Émirats arabes unis",
-      "ar":"الإمارات العربية المتحدة",
-      "zh_Hans":"阿拉伯联合酋长国",
-      "zh_Hant":"阿拉伯聯合酋長國",
-      "zh_TW":"阿拉伯聯合大公國",
-      "pt":"United Arab Emirates_pt"
-   },
-   "ANTIGUA AND BARBUDA":{
-      "en":"Antigua and Barbuda",
-      "es":"Antigua y Barbuda",
-      "fr":"Antigua-et-Barbuda",
-      "ar":"أنتيغوا وباربودا",
-      "zh_Hans":"安提瓜和巴布达",
-      "zh_Hant":"安提瓜和巴布達",
-      "zh_TW":"安地卡及巴布達",
-      "pt":"Antigua and Barbuda_pt"
-   },
-   "BANGLADESH":{
-      "en":"Bangladesh",
-      "es":"Bangladesh",
-      "fr":"Bangladesh",
-      "ar":"بنغلاديش",
-      "zh_Hans":"孟加拉",
-      "zh_Hant":"孟加拉國",
-      "zh_TW":"孟加拉",
-      "pt":"Bangladesh_pt"
-   },
-   "BAHRAIN":{
-      "en":"Bahrain",
-      "es":"Bahréin",
-      "fr":"Bahreïn",
-      "ar":"البحرين",
-      "zh_Hans":"巴林",
-      "zh_Hant":"巴林",
-      "zh_TW":"巴林",
-      "pt":"Bahrain_pt"
-   },
-   "BAHAMAS":{
-      "en":"Bahamas",
-      "es":"Bahamas",
-      "fr":"Bahamas",
-      "ar":"جزر البهاما",
-      "zh_Hans":"巴哈马",
-      "zh_Hant":"巴哈馬",
-      "zh_TW":"巴哈馬",
-      "pt":"Bahamas_pt"
-   },
-   "BELARUS":{
-      "en":"Belarus",
-      "es":"Bielorrusia",
-      "fr":"Bélarus",
-      "ar":"بيلاروس",
-      "zh_Hans":"白俄罗斯",
-      "zh_Hant":"白俄羅斯",
-      "zh_TW":"白俄羅斯",
-      "pt":"Belarus_pt"
-   },
-   "BELIZE":{
-      "en":"Belize",
-      "es":"Belice",
-      "fr":"Belize",
-      "ar":"بليز",
-      "zh_Hans":"伯利兹",
-      "zh_Hant":"伯利茲",
-      "zh_TW":"貝里斯",
-      "pt":"Belize_pt"
-   },
-   "BARBADOS":{
-      "en":"Barbados",
-      "es":"Barbados",
-      "fr":"Barbade",
-      "ar":"بربادوس",
-      "zh_Hans":"巴巴多斯",
-      "zh_Hant":"巴巴多斯",
-      "zh_TW":"巴貝多",
-      "pt":"Barbados_pt"
-   },
-   "BOTSWANA":{
-      "en":"Botswana",
-      "es":"Botsuana",
-      "fr":"Botswana",
-      "ar":"بوتسوانا",
-      "zh_Hans":"博茨瓦纳",
-      "zh_Hant":"博茨瓦納",
-      "zh_TW":"波札那",
-      "pt":"Botswana_pt"
-   },
-   "DEMOCRATIC REPUBLIC OF CONGO":{
-      "en":"Democratic Republic of Congo",
-      "es":"República Democrática del Congo",
-      "fr":"République démocratique du Congo",
-      "ar":"جمهورية الكونغو الديمقراطية",
-      "zh_Hans":"刚果民主共和国",
-      "zh_Hant":"剛果民主共和國",
-      "zh_TW":"剛果民主共和國",
-      "pt":"Democratic Republic of Congo_pt"
-   },
-   "COMOROS":{
-      "en":"Comoros",
-      "es":"Comoras",
-      "fr":"Comores",
-      "ar":"جزر القمر",
-      "zh_Hans":"科摩罗",
-      "zh_Hant":"科摩羅",
-      "zh_TW":"葛摩聯盟",
-      "pt":"Comoros_pt"
-   },
-   "CUBA":{
-      "en":"Cuba",
-      "es":"Cuba",
-      "fr":"Cuba",
-      "ar":"كوبا",
-      "zh_Hans":"古巴",
-      "zh_Hant":"古巴",
-      "zh_TW":"古巴",
-      "pt":"Cuba_pt"
-   },
-   "EGYPT":{
-      "en":"Egypt",
-      "es":"Egipto",
-      "fr":"Égypte",
-      "ar":"مصر",
-      "zh_Hans":"埃及",
-      "zh_Hant":"埃及",
-      "zh_TW":"埃及",
-      "pt":"Egypt_pt"
-   },
-   "ETHIOPIA":{
-      "en":"Ethiopia",
-      "es":"Etiopía",
-      "fr":"Éthiopie",
-      "ar":"إثيوبيا",
-      "zh_Hans":"埃塞俄比亚",
-      "zh_Hant":"埃塞俄比亞",
-      "zh_TW":"衣索比亞",
-      "pt":"Ethiopia_pt"
-   },
-   "GUINEA":{
-      "en":"Guinea",
-      "es":"Guinea",
-      "fr":"Guinée",
-      "ar":"غينيا",
-      "zh_Hans":"几内亚",
-      "zh_Hant":"幾內亞",
-      "zh_TW":"幾內亞",
-      "pt":"Guinea_pt"
-   },
-   "EQUATORIAL GUINEA":{
-      "en":"Equatorial Guinea",
-      "es":"Guinea Ecuatorial",
-      "fr":"Guinée équatoriale",
-      "ar":"غينيا الاستوائية",
-      "zh_Hans":"赤道几内亚",
-      "zh_Hant":"赤道幾內亞",
-      "zh_TW":"赤道幾內亞",
-      "pt":"Equatorial Guinea_pt"
-   },
-   "GUATEMALA":{
-      "en":"Guatemala",
-      "es":"Guatemala",
-      "fr":"Guatemala",
-      "ar":"غواتيمالا",
-      "zh_Hans":"危地马拉",
-      "zh_Hant":"危地馬拉",
-      "zh_TW":"瓜地馬拉",
-      "pt":"Guatemala_pt"
-   },
-   "GUYANA":{
-      "en":"Guyana",
-      "es":"Guyana",
-      "fr":"Guyana",
-      "ar":"غيانا",
-      "zh_Hans":"圭亚那",
-      "zh_Hant":"圭亞那",
-      "zh_TW":"圭亞那",
-      "pt":"Guyana_pt"
-   },
-   "INDONESIA":{
-      "en":"Indonesia",
-      "es":"Indonesia",
-      "fr":"Indonésie",
-      "ar":"إندونيسيا",
-      "zh_Hans":"印度尼西亚",
-      "zh_Hant":"印尼",
-      "zh_TW":"印尼",
-      "pt":"Indonesia_pt"
-   },
-   "INDIA":{
-      "en":"India",
-      "es":"India",
-      "fr":"Inde",
-      "ar":"الهند",
-      "zh_Hans":"印度",
-      "zh_Hant":"印度",
-      "zh_TW":"印度",
-      "pt":"India_pt"
-   },
-   "IRAN":{
-      "en":"Iran",
-      "es":"Irán",
-      "fr":"Iran",
-      "ar":"إيران",
-      "zh_Hans":"伊朗",
-      "zh_Hant":"伊朗",
-      "zh_TW":"伊朗",
-      "pt":"Iran_pt"
-   },
-   "IRAQ":{
-      "en":"Iraq",
-      "es":"Irak",
-      "fr":"Irak",
-      "ar":"العراق",
-      "zh_Hans":"伊拉克",
-      "zh_Hant":"伊拉克",
-      "zh_TW":"伊拉克",
-      "pt":"Iraq_pt"
-   },
-   "JAMAICA":{
-      "en":"Jamaica",
-      "es":"Jamaica",
-      "fr":"Jamaïque",
-      "ar":"جامايكا",
-      "zh_Hans":"牙买加",
-      "zh_Hant":"牙買加",
-      "zh_TW":"牙買加",
-      "pt":"Jamaica_pt"
-   },
-   "JORDAN":{
-      "en":"Jordan",
-      "es":"Jordania",
-      "fr":"Jordanie",
-      "ar":"الأردن",
-      "zh_Hans":"约旦",
-      "zh_Hant":"約旦",
-      "zh_TW":"約旦",
-      "pt":"Jordan_pt"
-   },
-   "JAPAN":{
-      "en":"Japan",
-      "es":"Japón",
-      "fr":"Japon",
-      "ar":"اليابان",
-      "zh_Hans":"日本",
-      "zh_Hant":"日本",
-      "zh_TW":"日本",
-      "pt":"Japan_pt"
-   },
-   "SAINT KITTS AND NEVIS":{
-      "en":"Saint Kitts and Nevis",
-      "es":"San Cristóbal y Nieves",
-      "fr":"Saint-Kitts-et-Nevis",
-      "ar":"سانت كيتس ونيفيس",
-      "zh_Hans":"圣基茨和尼维斯",
-      "zh_Hant":"聖基茨和尼維斯",
-      "zh_TW":"聖克里斯多福及尼維斯",
-      "pt":"Saint Kitts and Nevis_pt"
-   },
-   "KUWAIT":{
-      "en":"Kuwait",
-      "es":"Kuwait",
-      "fr":"Koweït",
-      "ar":"الكويت",
-      "zh_Hans":"科威特",
-      "zh_Hant":"科威特",
-      "zh_TW":"科威特",
-      "pt":"Kuwait_pt"
-   },
-   "LEBANON":{
-      "en":"Lebanon",
-      "es":"Líbano",
-      "fr":"Liban",
-      "ar":"لبنان",
-      "zh_Hans":"黎巴嫩",
-      "zh_Hant":"黎巴嫩",
-      "zh_TW":"黎巴嫩",
-      "pt":"Lebanon_pt"
-   },
-   "LIBYA":{
-      "en":"Libya",
-      "es":"Libia",
-      "fr":"Libye",
-      "ar":"ليبيا",
-      "zh_Hans":"利比亚",
-      "zh_Hant":"利比亞",
-      "zh_TW":"利比亞",
-      "pt":"Libya_pt"
-   },
-   "SAINT LUCIA":{
-      "en":"Saint Lucia",
-      "es":"Santa Lucía",
-      "fr":"Sainte-Lucie",
-      "ar":"سانت لوشيا",
-      "zh_Hans":"圣卢西亚",
-      "zh_Hant":"聖盧西亞",
-      "zh_TW":"聖露西亞",
-      "pt":"Saint Lucia_pt"
-   },
-   "LESOTHO":{
-      "en":"Lesotho",
-      "es":"Lesoto",
-      "fr":"Lesotho",
-      "ar":"ليسوتو",
-      "zh_Hans":"莱索托",
-      "zh_Hant":"萊索托",
-      "zh_TW":"賴索托",
-      "pt":"Lesotho_pt"
-   },
-   "MALAYSIA":{
-      "en":"Malaysia",
-      "es":"Malasia",
-      "fr":"Malaisie",
-      "ar":"ماليزيا",
-      "zh_Hans":"马来西亚",
-      "zh_Hant":"馬來西亞",
-      "zh_TW":"馬來西亞",
-      "pt":"Malaysia_pt"
-   },
-   "NIGERIA":{
-      "en":"Nigeria",
-      "es":"Nigeria",
-      "fr":"Nigeria",
-      "ar":"نيجيريا",
-      "zh_Hans":"尼日利亚",
-      "zh_Hant":"尼日利亞",
-      "zh_TW":"奈及利亞",
-      "pt":"Nigeria_pt"
-   },
-   "PAKISTAN":{
-      "en":"Pakistan",
-      "es":"Pakistán",
-      "fr":"Pakistan",
-      "ar":"باكستان",
-      "zh_Hans":"巴基斯坦",
-      "zh_Hant":"巴基斯坦",
-      "zh_TW":"巴基斯坦",
-      "pt":"Pakistan_pt"
-   },
-   "PUERTO RICO / USA":{
-      "en":"Puerto Rico / USA",
-      "es":"Puerto Rico/EE. UU.",
-      "fr":"Porto Rico/États-Unis",
-      "ar":"بورتوريكو/الولايات المتحدة الأمريكية",
-      "zh_Hans":"波多黎各/美国",
-      "zh_Hant":"波多黎各/ 美國",
-      "zh_TW":"波多黎各／美國",
-      "pt":"Puerto Rico / USA_pt"
-   },
-   "NORTH KOREA":{
-      "en":"Dem. People's Rep. of Korea",
-      "es":"Corea del Norte",
-      "fr":"Corée du Nord",
-      "ar":"كوريا الشمالية",
-      "zh_Hans":"朝鲜民主主义人民共和国",
-      "zh_Hant":"朝鮮民主主義人民共和國/北韓",
-      "zh_TW":"朝鮮人民共和國",
-      "pt":"Dem. People's Rep. of Korea_pt"
-   },
-   "PALESTINIAN AUTHORITY":{
-      "en":"Palestinian Authority",
-      "es":"Autoridad Palestina",
-      "fr":"Autorité palestinienne",
-      "ar":"السلطة الفلسطينية",
-      "zh_Hans":"巴勒斯坦权力机构",
-      "zh_Hant":"巴勒斯坦民族權力機構",
-      "zh_TW":"巴勒斯坦自治政府",
-      "pt":"Palestinian Authority_pt"
-   },
-   "STATE OF PALESTINE":{
-      "en":"State of Palestine",
-      "es":"Estado de Palestina",
-      "fr":"État de Palestine",
-      "ar":"دولة فلسطين",
-      "zh_Hans":"巴勒斯坦国",
-      "zh_Hant":"巴勒斯坦國",
-      "zh_TW":"巴勒斯坦",
-      "pt":"State of Palestine_pt"
-   },
-   "QATAR":{
-      "en":"Qatar",
-      "es":"Qatar",
-      "fr":"Qatar",
-      "ar":"قطر",
-      "zh_Hans":"卡塔尔",
-      "zh_Hant":"卡塔爾",
-      "zh_TW":"卡達",
-      "pt":"Qatar_pt"
-   },
-   "OMAN":{
-      "en":"Oman",
-      "es":"Omán",
-      "fr":"Oman",
-      "ar":"عُمان",
-      "zh_Hans":"阿曼",
-      "zh_Hant":"阿曼",
-      "zh_TW":"阿曼",
-      "pt":"Oman_pt"
-   },
-   "SAUDI ARABIA":{
-      "en":"Saudi Arabia",
-      "es":"Arabia Saudí",
-      "fr":"Arabie saoudite",
-      "ar":"السعودية",
-      "zh_Hans":"沙特阿拉伯",
-      "zh_Hant":"沙特阿拉伯",
-      "zh_TW":"沙烏地阿拉伯",
-      "pt":"Saudi Arabia_pt"
-   },
-   "SUDAN":{
-      "en":"Sudan",
-      "es":"Sudán",
-      "fr":"Soudan",
-      "ar":"السوادن",
-      "zh_Hans":"苏丹",
-      "zh_Hant":"蘇丹",
-      "zh_TW":"蘇丹",
-      "pt":"Sudan_pt"
-   },
-   "SINGAPORE":{
-      "en":"Singapore",
-      "es":"Singapur",
-      "fr":"Singapour",
-      "ar":"سنغافورة",
-      "zh_Hans":"新加坡",
-      "zh_Hant":"新加坡",
-      "zh_TW":"新加坡",
-      "pt":"Singapore_pt"
-   },
-   "SOUTH SUDAN":{
-      "en":"South Sudan",
-      "es":"Sudán del Sur",
-      "fr":"Soudan du Sud",
-      "ar":"جنوب السودان",
-      "zh_Hans":"南苏丹",
-      "zh_Hant":"南蘇丹",
-      "zh_TW":"南蘇丹",
-      "pt":"South Sudan_pt"
-   },
-   "SYRIA":{
-      "en":"Syria",
-      "es":"Siria",
-      "fr":"Syrie",
-      "ar":"سوريا",
-      "zh_Hans":"叙利亚",
-      "zh_Hant":"敘利亞",
-      "zh_TW":"敘利亞",
-      "pt":"Syria_pt"
-   },
-   "CHAD":{
-      "en":"Chad",
-      "es":"Chad",
-      "fr":"Tchad",
-      "ar":"تشاد",
-      "zh_Hans":"乍得",
-      "zh_Hant":"乍得",
-      "zh_TW":"查德",
-      "pt":"Chad_pt"
-   },
-   "THAILAND":{
-      "en":"Thailand",
-      "es":"Tailandia",
-      "fr":"Thaïlande",
-      "ar":"تايلند",
-      "zh_Hans":"泰国",
-      "zh_Hant":"泰國",
-      "zh_TW":"泰國",
-      "pt":"Thailand_pt"
-   },
-   "TRINIDAD AND TOBAGO":{
-      "en":"Trinidad and Tobago",
-      "es":"Trinidad y Tobago",
-      "fr":"Trinité-et-Tobago",
-      "ar":"ترينداد وتوباغو",
-      "zh_Hans":"特立尼达和多巴哥",
-      "zh_Hant":"特立尼達和多巴哥",
-      "zh_TW":"千里達及托巴哥",
-      "pt":"Trinidad and Tobago_pt"
-   },
-   "TAIWAN":{
-      "en":"Taiwan",
-      "es":"Taiwán",
-      "fr":"Taiwan",
-      "ar":"تايوان",
-      "zh_Hans":"台湾",
-      "zh_Hant":"台灣",
-      "zh_TW":"台灣",
-      "pt":"Taiwan_pt"
-   },
-   "CHINA":{
-      "en":"China",
-      "es":"China",
-      "fr":"Chine",
-      "ar":"الصين",
-      "zh_Hans":"中国",
-      "zh_Hant":"中國",
-      "zh_TW":"中國",
-      "pt":"China_pt"
-   },
-   "UGANDA":{
-      "en":"Uganda",
-      "es":"Uganda",
-      "fr":"Ouganda",
-      "ar":"أوغندا",
-      "zh_Hans":"乌干达",
-      "zh_Hant":"烏干達",
-      "zh_TW":"烏干達",
-      "pt":"Uganda_pt"
-   },
-   "UNITED STATES OF AMERICA":{
-      "en":"United States of America",
-      "es":"Estados Unidos de América",
-      "fr":"États-Unis",
-      "ar":"الولايات المتحدة الأمريكية",
-      "zh_Hans":"美国",
-      "zh_Hant":"美國",
-      "zh_TW":"美國",
-      "pt":"United States of America_pt"
-   },
-   "SAINT VINCENT AND THE GRENADINES":{
-      "en":"Saint Vincent and the Grenadines",
-      "es":"San Vicente y las Granadinas",
-      "fr":"Saint-Vincent-et-les-Grenadines",
-      "ar":"سانت فنست والغرينادين",
-      "zh_Hans":"圣文森特和格林纳丁斯",
-      "zh_Hant":"聖文森特和格林納丁斯",
-      "zh_TW":"聖文森及格瑞那丁",
-      "pt":"Saint Vincent and the Grenadines_pt"
-   },
-   "VIET NAM":{
-      "en":"Viet Nam",
-      "es":"Vietnam",
-      "fr":"Viêt-Nam",
-      "ar":"فيتنام",
-      "zh_Hans":"越南",
-      "zh_Hant":"越南",
-      "zh_TW":"越南",
-      "pt":"Viet Nam_pt"
-   },
-   "YEMEN":{
-      "en":"Yemen",
-      "es":"Yemen",
-      "fr":"Yémen",
-      "ar":"اليمن",
-      "zh_Hans":"也门",
-      "zh_Hant":"也門",
-      "zh_TW":"葉門",
-      "pt":"Yemen_pt"
-   },
-   "ZIMBABWE":{
-      "en":"Zimbabwe",
-      "es":"Zimbabue",
-      "fr":"Zimbabwe",
-      "ar":"زيمبابوي",
-      "zh_Hans":"津巴布韦",
-      "zh_Hant":"津巴布韋",
-      "zh_TW":"辛巴威",
-      "pt":"Zimbabwe_pt"
-   },
-   "GAMBIA":{
-      "en":"Gambia",
-      "es":"Gambia",
-      "fr":"Gambie",
-      "ar":"غامبيا",
-      "zh_Hans":"冈比亚",
-      "zh_Hant":"岡比亞",
-      "zh_TW":"甘比亞",
-      "pt":"Gambia_pt"
-   },
-   "1,000s":{
-      "en":"1000s",
-      "es":"Miles",
-      "fr":"Des milliers",
-      "ar":"آلاف",
-      "zh_Hans":"数以千计",
-      "zh_Hant":"數千以上",
-      "zh_TW":"數千",
-      "pt":"1000s_pt"
-   },
-   "1000s":{
-      "en":"1000s",
-      "es":"Miles",
-      "fr":"Des milliers",
-      "ar":"آلاف",
-      "zh_Hans":"数以千计",
-      "zh_Hant":"數千以上",
-      "zh_TW":"數千",
-      "pt":"1000s_pt"
-   },
-   "SINCE_SUFFIX":{
-      "en":"",
-      "es":"",
-      "fr":"",
-      "ar":"",
-      "zh_Hans":" 年",
-      "zh_Hant":" 年",
-      "zh_TW":" 年",
-      "pt":"_pt"
-   }
+	"ABOLITIONIST": {
+		"en": "Abolitionist for all crimes",
+		"es": "ABOLICIONISTA PARA TODOS LOS DELITOS",
+		"fr": "ABOLITIONNISTE POUR TOUS LES CRIMES",
+		"ar": "ألغت عقوبة الإعدام",
+		"zh_Hans": "完全废除死刑",
+		"zh_Hant": "完全廢除死刑",
+		"zh_TW": "所有罪行均無死刑懲罰",
+		"pt": "Abolicionista para todos os crimes"
+	},
+	"RETENTIONIST": {
+		"en": "Retentionist",
+		"es": "RETENCIONISTA",
+		"fr": "NON ABOLITIONNISTE",
+		"ar": "مطبقة لعقوبة الإعدام",
+		"zh_Hans": "保留死刑",
+		"zh_Hant": "保留死刑",
+		"zh_TW": "維持死刑",
+		"pt": "Retencionista"
+	},
+	"ABOLITIONIST IN PRACTICE": {
+		"en": "Abolitionist in practice",
+		"es": "ABOLICIONISTA EN LA PRÁCTICA",
+		"fr": "ABOLITIONNISTE EN PRATIQUE",
+		"ar": "غير مطبقة في الواقع الفعلي",
+		"zh_Hans": "实际上废除死刑",
+		"zh_Hant": "實質上廢除死刑",
+		"zh_TW": "實際上廢除死刑",
+		"pt": "Abolicionista na prática"
+	},
+	"ABOLITIONIST FOR ORDINARY CRIMES": {
+		"en": "Abolitionist for ordinary crimes",
+		"es": "ABOLICIONISTA SÓLO PARA DELITOS COMUNES",
+		"fr": "ABOLITIONNISTE POUR LES CRIMES DE DROIT COMMUN",
+		"ar": "ملغاة بالنسبة للجرائم العادية",
+		"zh_Hans": "废除普通犯罪的死刑",
+		"zh_Hant": "廢除普通犯罪死刑",
+		"zh_TW": "一般罪行無死刑",
+		"pt": "Abolicionista para crimes comuns"
+	},
+	"ABOLITIONIST DEFINITION": {
+		"en": "Use of the death penalty is not allowed by law",
+		"es": "La legislación no permite el uso de la pena de muerte.",
+		"fr": "Le recours à la peine de mort n’est pas autorisé par la législation.",
+		"ar": "تطبيق حكومة الإعدام غير مسموح به قانونياً",
+		"zh_Hans": "法律不允许使用死刑",
+		"zh_Hant": "當地法律不容判處死刑",
+		"zh_TW": "法律不允許適用死刑",
+		"pt": "A legislação não autoriza a pena de morte"
+	},
+	"RETENTIONIST DEFINITION": {
+		"en": "Retains the death penalty in law",
+		"es": "Retiene la pena de muerte en la legislación.",
+		"fr": "La peine de mort est inscrite dans la législation du pays ou territoire.",
+		"ar": "بلدان أبقت على عقوبة الإعدام في القانون",
+		"zh_Hans": "在法律上保留死刑",
+		"zh_Hant": "於法律中保留死刑",
+		"zh_TW": "法律中保留死刑",
+		"pt": "A pena de morte está inscrita na legislação do país ou território"
+	},
+	"ABOLITIONIST IN PRACTICE DEFINITION":{
+		"en": "Retains the death penalty in law, but hasn’t executed for at least 10 years",
+		"es": " Retiene la pena de muerte en la legislación, pero lleva al menos 10 años sin llevar a cabo ejecuciones.",
+		"fr": "La peine de mort est inscrite dans la législation du pays ou territoire, mais les autorités n’ont procédé à aucune exécution depuis au moins 10 ans.",
+		"ar": "بلدان أبقت على عقوبة الإعدام في القانون ولكن لم تنفذها منذ 10 سنوات على الأقل",
+		"zh_Hans": "在法律上保留死刑，但已有至少10年没有执行处决",
+		"zh_Hant": "於法律中保留死刑，但於過去10年沒有使用",
+		"zh_TW": "法律中保留死刑，但10年以上未執行死刑",
+		"pt": "Mantém a pena de morte na lei, mas não executou pelo menos durante os últimos 10 anos"
+	},
+	"ABOLITIONIST FOR ORDINARY CRIMES DEFINITION": {
+		"en": "Retains the death penalty only for serious crimes, such as those committed during times of war",
+		"es": "Retiene la pena de muerte únicamente para delitos graves, como los cometidos en épocas de guerra.",
+		"fr": "La peine de mort est appliquée uniquement en cas de crime grave, par exemple en cas de crime commis en temps de guerre.",
+		"ar": "أبقت على عقوبة الإعدام بالنسبة للجرائم الخطيرة فقط، كتلك التي ا رتكبت في وقت الحرب",
+		"zh_Hans": "仅对特殊犯罪保留死刑，例如在战时犯下的罪行.",
+		"zh_Hant": "於特定情況如戰爭中犯下罪行，可判處死刑",
+		"zh_TW": "法律規定只有特別罪行適用死刑，譬如戰爭期間犯罪者",
+		"pt": "A pena de morte é aplicada apenas em casos de crimes graves, por exemplo em casos de crimes cometidos em tempos de guerra"
+	},
+	"EXECUTIONS": {
+		"en": "Executions",
+		"es": "Ejecuciones",
+		"fr": "Exécutions",
+		"ar": "الإعدامات",
+		"zh_Hans": "处决",
+		"zh_Hant": "處決",
+		"zh_TW": "處決",
+		"pt": "Execuções"
+	},
+	"DEATH SENTENCES": {
+		"en": "Death sentences",
+		"es": "Condenas a muerte",
+		"fr": "Condamnations à mort",
+		"ar": "أحكام الإعدام",
+		"zh_Hans": "死刑判决",
+		"zh_Hant": "死刑",
+		"zh_TW": "死刑判決",
+		"pt": "Sentenças de morte"
+	},
+	"SINCE": {
+		"en": "Since",
+		"es": "Desde",
+		"fr": "Depuis",
+		"ar": "منذ",
+		"zh_Hans": "自",
+		"zh_Hant": "自",
+		"zh_TW": "自",
+		"pt": "Desde"
+	},
+	"SEARCH COUNTRY": {
+		"en": "Search country",
+		"es": "Buscar país",
+		"fr": "Rechercher un pays",
+		"ar": "ابحث عن البلد",
+		"zh_Hans": "搜索国家",
+		"zh_Hant": "搜尋國家",
+		"zh_TW": "查詢國家",
+		"pt": "Procurar um país"
+	},
+	"PLAY": {
+		"en": "Play",
+		"es": "Reprod.",
+		"fr": "Lecture",
+		"ar": "تشغيل",
+		"zh_Hans": "播放",
+		"zh_Hant": "播放",
+		"zh_TW": "播放",
+		"pt": "Play"
+	},
+	"PAUSE": {
+		"en": "Pause",
+		"es": "Pausa",
+		"fr": "Pause",
+		"ar": "إيقاف",
+		"zh_Hans": "暂停",
+		"zh_Hant": "暫停",
+		"zh_TW": "暫停",
+		"pt": "Pausa"
+	},
+	"ZOOM IN": {
+		"en": "Zoom in",
+		"es": "Acercar",
+		"fr": "Zoomer",
+		"ar": "تكبير الصورة",
+		"zh_Hans": "放大",
+		"zh_Hant": "放大",
+		"zh_TW": "放大",
+		"pt": "Zoom in"
+	},
+	"ZOOM OUT": {
+		"en": "Zoom out",
+		"es": "Alejar",
+		"fr": "Dézoomer",
+		"ar": "تصغير الصورة",
+		"zh_Hans": "缩小",
+		"zh_Hant": "縮小",
+		"zh_TW": "縮小",
+		"pt": "Zoom out"
+	},
+	"COUNTRIES": {
+		"en": "countries",
+		"es": "Países",
+		"fr": "Pays",
+		"ar": "البلدان",
+		"zh_Hans": "国家",
+		"zh_Hant": "國家",
+		"zh_TW": "國家",
+		"pt": "Países"
+	},
+	"ALBANIA": {
+		"en": "Albania",
+		"es": "Albania",
+		"fr": "Albanie",
+		"ar": "ألبانيا",
+		"zh_Hans": "阿尔巴尼亚",
+		"zh_Hant": "阿爾巴尼亞",
+		"zh_TW": "阿爾巴尼亞",
+		"pt": "Albânia"
+	},
+	"ANDORRA": {
+		"en": "Andorra",
+		"es": "Andorra",
+		"fr": "Andorre",
+		"ar": "أندورا",
+		"zh_Hans": "安道尔",
+		"zh_Hant": "安道爾",
+		"zh_TW": "安道爾",
+		"pt": "Andorra"
+	},
+	"ANGOLA": {
+		"en": "Angola",
+		"es": "Angola",
+		"fr": "Angola",
+		"ar": "أنغولا",
+		"zh_Hans": "安哥拉",
+		"zh_Hant": "安哥拉",
+		"zh_TW": "安哥拉",
+		"pt": "Angola"
+	},
+	"ARGENTINA": {
+		"en": "Argentina",
+		"es": "Argentina",
+		"fr": "Argentine",
+		"ar": "الأرجنتين",
+		"zh_Hans": "阿根廷",
+		"zh_Hant": "阿根廷",
+		"zh_TW": "阿根廷",
+		"pt": "Argentina"
+	},
+	"ARMENIA": {
+		"en": "Armenia",
+		"es": "Armenia",
+		"fr": "Arménie",
+		"ar": "أرمينيا",
+		"zh_Hans": "阿美尼亚",
+		"zh_Hant": "亞美尼亞",
+		"zh_TW": "亞美尼亞",
+		"pt": "Arménia"
+	},
+	"AUSTRALIA": {
+		"en": "Australia",
+		"es": "Australia",
+		"fr": "Australie",
+		"ar": "أستراليا",
+		"zh_Hans": "澳大利亚",
+		"zh_Hant": "澳大利亞",
+		"zh_TW": "澳洲",
+		"pt": "Austrália"
+	},
+	"AUSTRIA": {
+		"en": "Austria",
+		"es": "Austria",
+		"fr": "Autriche",
+		"ar": "النمسا",
+		"zh_Hans": "奥地利",
+		"zh_Hant": "奧地利",
+		"zh_TW": "奧地利",
+		"pt": "Áustria"
+	},
+	"AZERBAIJAN": {
+		"en": "Azerbaijan",
+		"es": "Azerbaiyán",
+		"fr": "Azerbaïdjan",
+		"ar": "أذربيجان",
+		"zh_Hans": "阿塞拜疆",
+		"zh_Hant": "阿塞拜疆",
+		"zh_TW": "亞塞拜然",
+		"pt": "Azerbeijão"
+	},
+	"BELGIUM": {
+		"en": "Belgium",
+		"es": "Bélgica",
+		"fr": "Belgique",
+		"ar": "بلجيكا",
+		"zh_Hans": "比利时",
+		"zh_Hant": "比利時",
+		"zh_TW": "比利時",
+		"pt": "Bélgica"
+	},
+	"BHUTAN": {
+		"en": "Bhutan",
+		"es": "Bután",
+		"fr": "Bhoutan",
+		"ar": "بوتان",
+		"zh_Hans": "不丹",
+		"zh_Hant": "不丹",
+		"zh_TW": "不丹",
+		"pt": "Butão"
+	},
+	"BOLIVIA": {
+		"en": "Bolivia",
+		"es": "Bolivia",
+		"fr": "Bolivie",
+		"ar": "بوليفيا",
+		"zh_Hans": "玻利维亚",
+		"zh_Hant": "玻利維亞",
+		"zh_TW": "玻利維亞",
+		"pt": "Bolívia"
+	},
+	"BOSNIA AND HERZEGOVINA": {
+		"en": "Bosnia and Herzegovina",
+		"es": "Bosnia y Herzegovina",
+		"fr": "Bosnie-Herzégovine",
+		"ar": "البوسنة والهرسك",
+		"zh_Hans": "波斯尼亚和黑塞哥维那",
+		"zh_Hant": "波斯尼亞和黑塞哥維那",
+		"zh_TW": "波士尼亞與赫塞哥維納",
+		"pt": "Bósnia e Herzegovina"
+	},
+	"BULGARIA": {
+		"en": "Bulgaria",
+		"es": "Bulgaria",
+		"fr": "Bulgarie",
+		"ar": "بلغاريا",
+		"zh_Hans": "保加利亚",
+		"zh_Hant": "保加利亞",
+		"zh_TW": "保加利亞",
+		"pt": "Bulgária"
+	},
+	"BURUNDI": {
+		"en": "Burundi",
+		"es": "Burundi",
+		"fr": "Burundi",
+		"ar": "بوروندي",
+		"zh_Hans": "布隆迪",
+		"zh_Hant": "布隆迪",
+		"zh_TW": "蒲隆地",
+		"pt": "Burundi"
+	},
+	"CAMBODIA": {
+		"en": "Cambodia",
+		"es": "Camboya",
+		"fr": "Cambodge",
+		"ar": "كمبوديا",
+		"zh_Hans": "柬埔寨",
+		"zh_Hant": "柬埔寨",
+		"zh_TW": "柬埔寨",
+		"pt": "Cambodja"
+	},
+	"CANADA": {
+		"en": "Canada",
+		"es": "Canadá",
+		"fr": "Canada",
+		"ar": "كندا",
+		"zh_Hans": "加拿大",
+		"zh_Hant": "加拿大",
+		"zh_TW": "加拿大",
+		"pt": "Canadá"
+	},
+	"CAPE VERDE": {
+		"en": "Cape Verde",
+		"es": "Cabo Verde",
+		"fr": "Cap-Vert",
+		"ar": "الرأس الأخضر",
+		"zh_Hans": "佛得角",
+		"zh_Hant": "佛得角",
+		"zh_TW": "維德角",
+		"pt": "Cabo Verde"
+	},
+	"COLOMBIA": {
+		"en": "Colombia",
+		"es": "Colombia",
+		"fr": "Colombie",
+		"ar": "كولومبيا",
+		"zh_Hans": "哥伦比亚",
+		"zh_Hant": "哥倫比亞",
+		"zh_TW": "哥倫比亞",
+		"pt": "Colômbia"
+	},
+	"REPUBLIC OF CONGO": {
+		"en": "Republic of Congo",
+		"es": "República del Congo",
+		"fr": "Congo",
+		"ar": "الكونغو",
+		"zh_Hans": "刚果共和国",
+		"zh_Hant": "剛果共和國",
+		"zh_TW": "剛果共和國",
+		"pt": "República Democrática do Congo"
+	},
+	"COOK ISLANDS": {
+		"en": "Cook Islands",
+		"es": "Islas Cook",
+		"fr": "Îles Cook",
+		"ar": "جزر كوك",
+		"zh_Hans": "库克群岛",
+		"zh_Hant": "庫克群島",
+		"zh_TW": "庫克群島",
+		"pt": "Ilhas Cook"
+	},
+	"DOMINICAN REPUBLIC": {
+		"en": "Dominican Republic",
+		"es": "República Dominicana",
+		"fr": "République dominicaine",
+		"ar": "الجمهورية الدومينيكية",
+		"zh_Hans": "多米尼加共和国",
+		"zh_Hant": "多明尼加共和國",
+		"zh_TW": "多明尼加共和國",
+		"pt": "República Dominicana"
+	},
+	"COSTA RICA": {
+		"en": "Costa Rica",
+		"es": "Costa Rica",
+		"fr": "Costa Rica",
+		"ar": "كوستاريكا",
+		"zh_Hans": "哥斯达黎加",
+		"zh_Hant": "哥斯達黎加",
+		"zh_TW": "哥斯大黎加",
+		"pt": "Costa Rica"
+	},
+	"COTE D'IVOIRE": {
+		"en": "Côte D'Ivoire",
+		"es": "Costa de Marfil",
+		"fr": "Côte d’Ivoire",
+		"ar": "ساحل العاج",
+		"zh_Hans": "科特迪瓦",
+		"zh_Hant": "科特迪瓦",
+		"zh_TW": "象牙海岸",
+		"pt": "Costa do Marfim"
+	},
+	"CROATIA": {
+		"en": "Croatia",
+		"es": "Croacia",
+		"fr": "Croatie",
+		"ar": "كرواتيا",
+		"zh_Hans": "克罗地亚",
+		"zh_Hant": "克羅地亞",
+		"zh_TW": "克羅埃西亞",
+		"pt": "Croácia"
+	},
+	"CYPRUS": {
+		"en": "Cyprus",
+		"es": "Chipre",
+		"fr": "Chypre",
+		"ar": "قبرص",
+		"zh_Hans": "塞浦路斯",
+		"zh_Hant": "塞浦路斯",
+		"zh_TW": "賽普勒斯",
+		"pt": "Cyprus"
+	},
+	"CZECH REPUBLIC": {
+		"en": "Czech Republic",
+		"es": "República Checa",
+		"fr": "République tchèque",
+		"ar": "الجمهورية التشيكية",
+		"zh_Hans": "捷克共和国",
+		"zh_Hant": "捷克共和國",
+		"zh_TW": "捷克共和國",
+		"pt": "República Checa"
+	},
+	"DENMARK": {
+		"en": "Denmark",
+		"es": "Dinamarca",
+		"fr": "Danemark",
+		"ar": "الدنمارك",
+		"zh_Hans": "丹麦",
+		"zh_Hant": "丹麥",
+		"zh_TW": "丹麥",
+		"pt": "Dinamarca"
+	},
+	"DJIBOUTI": {
+		"en": "Djibouti",
+		"es": "Yibuti",
+		"fr": "Djibouti",
+		"ar": "جيبوتي",
+		"zh_Hans": "吉布提",
+		"zh_Hant": "吉布提",
+		"zh_TW": "吉布地",
+		"pt": "Djibuti"
+	},
+	"DOMINICA": {
+		"en": "Dominica",
+		"es": "Dominica",
+		"fr": "Dominique",
+		"ar": "دومينكا",
+		"zh_Hans": "多米尼加",
+		"zh_Hant": "多米尼加",
+		"zh_TW": "多米尼克",
+		"pt": "Dominica"
+	},
+	"ECUADOR": {
+		"en": "Ecuador",
+		"es": "Ecuador",
+		"fr": "Équateur",
+		"ar": "إكوادور",
+		"zh_Hans": "厄瓜多尔",
+		"zh_Hant": "厄瓜多爾",
+		"zh_TW": "厄瓜多",
+		"pt": "Equador"
+	},
+	"ESTONIA": {
+		"en": "Estonia",
+		"es": "Estonia",
+		"fr": "Estonie",
+		"ar": "إستونيا",
+		"zh_Hans": "爱沙尼亚",
+		"zh_Hant": "愛沙尼亞",
+		"zh_TW": "愛沙尼亞",
+		"pt": "Estónia"
+	},
+	"FINLAND": {
+		"en": "Finland",
+		"es": "Finlandia",
+		"fr": "Finlande",
+		"ar": "فنلندا",
+		"zh_Hans": "芬兰",
+		"zh_Hant": "芬蘭",
+		"zh_TW": "芬蘭",
+		"pt": "Finlândia"
+	},
+	"FIJI": {
+		"en": "Fiji",
+		"es": "Fiyi",
+		"fr": "Fidji",
+		"ar": "فيجي",
+		"zh_Hans": "斐济",
+		"zh_Hant": "斐濟",
+		"zh_TW": "斐濟",
+		"pt": "Fiji"
+	},
+	"FRANCE": {
+      		"en": "France",
+		"es": "Francia",
+		"fr": "France",
+		"ar": "فرنسا",
+		"zh_Hans": "法国",
+		"zh_Hant": "法國",
+		"zh_TW": "法國",
+		"pt": "França"
+	},
+	"GABON": {
+		"en": "Gabon",
+		"es": "Gabón",
+		"fr": "Gabon",
+		"ar": "الغابون",
+		"zh_Hans": "加蓬",
+		"zh_Hant": "加蓬",
+		"zh_TW": "加彭",
+		"pt": "Gabão"
+	},
+	"GEORGIA": {
+		"en": "Georgia",
+		"es": "Georgia",
+		"fr": "Géorgie",
+		"ar": "جورجيا",
+		"zh_Hans": "格鲁吉亚",
+		"zh_Hant": "格魯吉亞",
+		"zh_TW": "喬治亞",
+		"pt": "Geórgia"
+	},
+	"GERMANY": {
+		"en": "Germany",
+		"es": "Alemania",
+		"fr": "Allemagne",
+		"ar": "ألمانيا",
+		"zh_Hans": "德国",
+		"zh_Hant": "德國",
+		"zh_TW": "德國",
+		"pt": "Alemanha"
+	},
+	"GREECE": {
+		"en": "Greece",
+		"es": "Grecia",
+		"fr": "Grèce",
+		"ar": "اليونان",
+		"zh_Hans": "希腊",
+		"zh_Hant": "希臘",
+		"zh_TW": "希臘",
+		"pt": "Grécia"
+	},
+	"GREENLAND / DENMARK": {
+		"en": "Greenland / Denmark",
+		"es": "Groenlandia/Dinamarca",
+		"fr": "Groenland/Danemark",
+		"ar": "جرينلاند / دنمارك",
+		"zh_Hans": "格陵兰/丹麦",
+		"zh_Hant": "格陵蘭/丹麥",
+		"zh_TW": "格陵蘭／丹麥",
+		"pt": "Gronelândia / Dinamarca"
+	},
+	"GUINEA-BISSAU": {
+		"en": "Guinea-Bissau",
+		"es": "Guinea-Bissau",
+		"fr": "Guinée-Bissau",
+		"ar": "غينيا بيساو",
+		"zh_Hans": "几内亚比绍",
+		"zh_Hant": "幾內亞比紹",
+		"zh_TW": "幾內亞比索",
+		"pt": "Guiné-Bissau"
+	},
+	"HAITI": {
+		"en": "Haiti",
+		"es": "Haití",
+		"fr": "Haïti",
+		"ar": "هايتي",
+		"zh_Hans": "海地",
+		"zh_Hant": "海地",
+		"zh_TW": "海地",
+		"pt": "Haiti"
+	},
+	"HOLY SEE": {
+		"en": "Holy See",
+		"es": "Santa Sede",
+		"fr": "Saint-Siège",
+		"ar": "الكرسي الرسولي",
+		"zh_Hans": "梵蒂冈",
+		"zh_Hant": "梵蒂岡",
+		"zh_TW": "梵諦岡",
+		"pt": "Santa Sé"
+	},
+	"HONDURAS": {
+		"en": "Honduras",
+		"es": "Honduras",
+		"fr": "Honduras",
+		"ar": "هندوراس",
+		"zh_Hans": "洪都拉斯",
+		"zh_Hant": "洪都拉斯",
+		"zh_TW": "宏都拉斯",
+		"pt": "Honduras"
+	},
+	"HUNGARY": {
+		"en": "Hungary",
+		"es": "Hungría",
+		"fr": "Hongrie",
+		"ar": "المجر",
+		"zh_Hans": "匈牙利",
+		"zh_Hant": "匈牙利",
+		"zh_TW": "匈牙利",
+		"pt": "Hungria"
+	},
+	"ICELAND":{
+		"en": "Iceland",
+		"es": "Islandia",
+		"fr": "Islande",
+		"ar": "آيسلندا",
+		"zh_Hans": "冰岛",
+		"zh_Hant": "冰島",
+		"zh_TW": "冰島",
+		"pt": "Islândia"
+	},
+	"IRELAND": {
+		"en": "Ireland",
+		"es": "Irlanda",
+		"fr": "Irlande",
+		"ar": "أيرلندا",
+		"zh_Hans": "爱尔兰",
+		"zh_Hant": "愛爾蘭",
+		"zh_TW": "愛爾蘭",
+		"pt": "Irlanda"
+	},
+	"ITALY": {
+		"en": "Italy",
+		"es": "Italia",
+		"fr": "Italie",
+		"ar": "إيطاليا",
+		"zh_Hans": "意大利",
+		"zh_Hant": "意大利",
+		"zh_TW": "義大利",
+		"pt": "Itália"
+	},
+	"KYRGYZSTAN": {
+		"en": "Kyrgyzstan",
+		"es": "Kirguistán",
+		"fr": "Kirghizistan",
+		"ar": "قيرغيستان",
+		"zh_Hans": "吉尓吉斯坦",
+		"zh_Hant": "吉爾吉斯",
+		"zh_TW": "吉爾吉斯",
+		"pt": "Quirguizistão"
+	},
+	"KIRIBATI": {
+		"en": "Kiribati",
+		"es": "Kiribati",
+		"fr": "Kiribati",
+		"ar": "الكيريباتي",
+		"zh_Hans": "基里巴斯",
+		"zh_Hant": "基里巴斯",
+		"zh_TW": "吉里巴斯",
+		"pt": "Quiribáti"
+	},
+	"LATVIA": {
+		"en": "Latvia",
+		"es": "Letonia",
+		"fr": "Lettonie",
+		"ar": "لاتفيا",
+		"zh_Hans": "拉脱维亚",
+		"zh_Hant": "拉脫維亞",
+		"zh_TW": "拉脫維亞",
+		"pt": "Latvia"
+	},
+	"LIECHTENSTEIN": {
+		"en": "Liechtenstein",
+		"es": "Liechtenstein",
+		"fr": "Liechtenstein",
+		"ar": "ليختنشتاين",
+		"zh_Hans": "列支敦士登",
+		"zh_Hant": "列支敦士登",
+		"zh_TW": "列支敦士登",
+		"pt": "Liechtenstein"
+	},
+	"LITHUANIA": {
+		"en": "Lithuania",
+		"es": "Lituania",
+		"fr": "Lituanie",
+		"ar": "ليتوانيا ",
+		"zh_Hans": "立陶宛",
+		"zh_Hant": "立陶宛",
+		"zh_TW": "立陶宛",
+		"pt": "Lituânia"
+	},
+	"LUXEMBOURG": {
+		"en": "Luxembourg",
+		"es": "Luxemburgo",
+		"fr": "Luxembourg",
+		"ar": "لكسمبرغ",
+		"zh_Hans": "卢森堡",
+		"zh_Hant": "盧森堡",
+		"zh_TW": "盧森堡",
+		"pt": "Luxemburgo"
+	},
+	"MACEDONIA": {
+		"en": "Macedonia",
+		"es": "Macedonia",
+		"fr": "Macédoine",
+		"ar": "مقدونيا",
+		"zh_Hans": "马其顿",
+		"zh_Hant": "馬其頓",
+		"zh_TW": "馬其頓",
+		"pt": "Macedônia"
+	},
+	"MADAGASCAR": {
+		"en": "Madagascar",
+		"es": "Madagascar",
+		"fr": "Madagascar",
+		"ar": "رقشغدم",
+		"zh_Hans": "马达加斯加",
+		"zh_Hant": "馬達加斯加",
+		"zh_TW": "馬達加斯加",
+		"pt": "Madagáscar"
+	},
+	"MALTA": {
+		"en": "Malta",
+		"es": "Malta",
+		"fr": "Malte",
+		"ar": "مالطا",
+		"zh_Hans": "马耳他",
+		"zh_Hant": "馬耳他",
+		"zh_TW": "馬爾他",
+		"pt": "Malta"
+	},
+	"MARSHALL ISLANDS": {
+		"en": "Marshall Islands",
+		"es": "Islas Marshall",
+		"fr": "Îles Marshall",
+		"ar": "جزر مارشال",
+		"zh_Hans": "马绍尔群岛",
+		"zh_Hant": "馬歇爾群島",
+		"zh_TW": "馬紹爾群島",
+		"pt": "Ilhas Marshall"
+	},
+	"MAURITIUS": {
+		"en": "Mauritius",
+		"es": "Mauricio",
+		"fr": "Maurice",
+		"ar": "موريشيوس",
+		"zh_Hans": "毛里求斯",
+		"zh_Hant": "毛里求斯",
+		"zh_TW": "模里西斯",
+		"pt": "Maurícia"
+	},
+	"MEXICO": {
+		"en": "Mexico",
+		"es": "México",
+		"fr": "Mexique",
+		"ar": "المكسيك",
+		"zh_Hans": "墨西哥",
+		"zh_Hant": "墨西哥",
+		"zh_TW": "墨西哥",
+		"pt": "México"
+	},
+	"MICRONESIA": {
+		"en": "Micronesia",
+		"es": "Micronesia",
+		"fr": "Micronésie",
+		"ar": "ماكرونيزيا",
+		"zh_Hans": "密克罗尼西亚",
+		"zh_Hant": "密克羅尼西亞",
+		"zh_TW": "密克羅尼西亞",
+		"pt": "Micronésia"
+	},
+	"MOLDOVA": {
+		"en": "Moldova",
+		"es": "Moldavia",
+		"fr": "Moldavie",
+		"ar": "مولدوفا",
+		"zh_Hans": "摩尔多瓦",
+		"zh_Hant": "摩爾多瓦",
+		"zh_TW": "摩爾多瓦",
+		"pt": "Moldávia"
+	},
+	"MONACO":{
+		"en": "Monaco",
+		"es": "Mónaco",
+		"fr": "Monaco",
+		"ar": "موناكو",
+		"zh_Hans": "摩纳哥",
+		"zh_Hant": "摩納哥",
+		"zh_TW": "摩納哥",
+		"pt": "Mónaco"
+	},
+	"MONTENEGRO": {
+		"en": "Montenegro",
+		"es": "Montenegro",
+		"fr": "Monténégro",
+		"ar": "الجبل الأسود",
+		"zh_Hans": "黑山共和国",
+		"zh_Hant": "黑山",
+		"zh_TW": "蒙特內哥羅",
+		"pt": "Montenegro"
+	},
+	"MOZAMBIQUE": {
+		"en": "Mozambique",
+		"es": "Mozambique",
+		"fr": "Mozambique",
+		"ar": "موزمبيق",
+		"zh_Hans": "莫桑比克",
+		"zh_Hant": "莫桑比克",
+		"zh_TW": "莫三比克",
+		"pt": "Moçambique"
+	},
+	"NAMIBIA": {
+		"en": "Namibia",
+		"es": "Namibia",
+		"fr": "Namibie",
+		"ar": "ناميبيا",
+		"zh_Hans": "纳米比亚",
+		"zh_Hant": "納米比亞",
+		"zh_TW": "納米比亞",
+		"pt": "Namíbia"
+	},
+	"NEPAL": {
+		"en": "Nepal",
+		"es": "Nepal",
+		"fr": "Népal",
+		"ar": "نيبال",
+		"zh_Hans": "尼泊尔",
+		"zh_Hant": "尼泊爾",
+		"zh_TW": "尼泊爾",
+		"pt": "Nepal"
+	},
+	"NETHERLANDS": {
+		"en": "Netherlands",
+		"es": "Países Bajos",
+		"fr": "Pays-Bas",
+		"ar": "هولندا",
+		"zh_Hans": "荷兰",
+		"zh_Hant": "荷蘭",
+		"zh_TW": "荷蘭",
+		"pt": "Holanda"
+	},
+	"NEW ZEALAND": {
+		"en": "New Zealand",
+		"es": "Nueva Zelanda",
+		"fr": "Nouvelle-Zélande",
+		"ar": "نيوزيلندا",
+		"zh_Hans": "新西兰",
+		"zh_Hant": "紐西蘭",
+		"zh_TW": "紐西蘭",
+		"pt": "Nova Zelândia"
+	},
+	"NICARAGUA": {
+		"en": "Nicaragua",
+		"es": "Nicaragua",
+		"fr": "Nicaragua",
+		"ar": "نيكارغوا",
+		"zh_Hans": "尼加拉瓜",
+		"zh_Hant": "尼加拉瓜",
+		"zh_TW": "尼加拉瓜",
+		"pt": "Nicarágua"
+	},
+	"NIUE": {
+		"en": "Niue",
+		"es": "Níue",
+		"fr": "Niue",
+		"ar": "نييوي",
+		"zh_Hans": "纽埃",
+		"zh_Hant": "紐埃",
+		"zh_TW": "紐埃",
+		"pt": "Niue"
+	},
+	"NORWAY": {
+		"en": "Norway",
+		"es": "Noruega",
+		"fr": "Norvège",
+		"ar": "النرويج",
+		"zh_Hans": "挪威",
+		"zh_Hant": "挪威",
+		"zh_TW": "挪威",
+		"pt": "Noruegua"
+	},
+	"PALAU": {
+		"en": "Palau",
+		"es": "Palau",
+		"fr": "Palaos",
+		"ar": "بالاو",
+		"zh_Hans": "帕劳",
+		"zh_Hant": "帛琉",
+		"zh_TW": "帛琉",
+		"pt": "Palau"
+	},
+	"PANAMA": {
+		"en": "Panama",
+		"es": "Panamá",
+		"fr": "Panama",
+		"ar": "بنما",
+		"zh_Hans": "巴拿马",
+		"zh_Hant": "巴拿馬",
+		"zh_TW": "巴拿馬",
+		"pt": "Panamá"
+	},
+	"PARAGUAY": {
+		"en": "Paraguay",
+		"es": "Paraguay",
+		"fr": "Paraguay",
+		"ar": "باراغواي",
+		"zh_Hans": "巴拉圭",
+		"zh_Hant": "巴拉圭",
+		"zh_TW": "巴拉圭",
+		"pt": "Paraguai"
+	},
+	"PHILIPPINES": {
+		"en": "Philippines",
+		"es": "Filipinas",
+		"fr": "Philippines",
+		"ar": "الفلبين",
+		"zh_Hans": "菲律宾",
+		"zh_Hant": "菲律賓",
+		"zh_TW": "菲律賓",
+		"pt": "Filipinas"
+	},
+	"POLAND": {
+		"en": "Poland",
+		"es": "Polonia",
+		"fr": "Pologne",
+		"ar": "بولندا",
+		"zh_Hans": "波兰",
+		"zh_Hant": "波蘭",
+		"zh_TW": "波蘭",
+		"pt": "Polónia"
+	},
+	"PORTUGAL": {
+		"en": "Portugal",
+		"es": "Portugal",
+		"fr": "Portugal",
+		"ar": "البرتغال",
+		"zh_Hans": "葡萄牙",
+		"zh_Hant": "葡萄牙",
+		"zh_TW": "葡萄牙",
+		"pt": "Portugal"
+	},
+	"ROMANIA": {
+		"en": "Romania",
+		"es": "Rumania",
+		"fr": "Roumanie",
+		"ar": "رومانيا",
+		"zh_Hans": "罗马尼亚",
+		"zh_Hant": "羅馬尼亞",
+		"zh_TW": "羅馬尼亞",
+		"pt": "România"
+	},
+	"RWANDA": {
+		"en": "Rwanda",
+		"es": "Ruanda",
+		"fr": "Rwanda",
+		"ar": "رواندا",
+		"zh_Hans": "卢旺达",
+		"zh_Hant": "盧旺達",
+		"zh_TW": "盧安達",
+		"pt": "Rwanda"
+	},
+	"SAN MARINO": {
+		"en": "San Marino",
+		"es": "San Marino",
+		"fr": "Saint-Marin",
+		"ar": "سان مارينو",
+		"zh_Hans": "圣马力诺",
+		"zh_Hant": "聖馬力諾",
+		"zh_TW": "聖馬利諾",
+		"pt": "San Marino"
+	},
+	"SAO TOME AND PRINCIPE": {
+		"en": "Sao Tome and Principe",
+		"es": "Santo Tomé y Príncipe",
+		"fr": "Sao Tomé-et-Principe",
+		"ar": "ساو تومي وبرنيسبي",
+		"zh_Hans": "圣多美和普林西比",
+		"zh_Hant": "聖多美和普林西比",
+		"zh_TW": "聖多美普林西比",
+		"pt": "São Tomé e Príncipe"
+	},
+	"SENEGAL": {
+		"en": "Senegal",
+		"es": "Senegal",
+		"fr": "Sénégal",
+		"ar": "السنغال",
+		"zh_Hans": "塞内加尔",
+		"zh_Hant": "塞內加爾",
+		"zh_TW": "塞內加爾",
+		"pt": "Senegal"
+	},
+	"SERBIA INCLUDING KOSOVO": {
+		"en": "Serbia including Kosovo",
+		"es": "Serbia incluido Kosovo",
+		"fr": "Serbie, y compris Kosovo",
+		"ar": "صربيا بما في ذلك كوسوفو",
+		"zh_Hans": "塞尔维亚 包括科索沃",
+		"zh_Hant": "塞爾維亞 包括科索沃",
+		"zh_TW": "塞爾維亞含科索沃",
+		"pt": "Sévia incluíndo Kosovo"
+	},
+	"SEYCHELLES": {
+		"en": "Seychelles",
+		"es": "Seychelles",
+		"fr": "Seychelles",
+		"ar": "سيشل",
+		"zh_Hans": "塞舌尔",
+		"zh_Hant": "塞舌爾",
+		"zh_TW": "塞席爾",
+		"pt": "Seychelles"
+	},
+	"SLOVAKIA": {
+		"en": "Slovakia",
+		"es": "Eslovaquia",
+		"fr": "Slovaquie",
+		"ar": "سلوفاكيا",
+		"zh_Hans": "斯洛伐克",
+		"zh_Hant": "斯洛伐克",
+		"zh_TW": "斯洛伐克",
+		"pt": "Eslováquia"
+	},
+	"SLOVENIA": {
+		"en": "Slovenia",
+		"es": "Eslovenia",
+		"fr": "Slovénie",
+		"ar": "سلوفينيا",
+		"zh_Hans": "斯洛文尼亚",
+		"zh_Hant": "斯洛文尼亞",
+		"zh_TW": "斯洛維尼亞",
+		"pt": "Eslovénia"
+	},
+	"SOLOMON ISLANDS": {
+		"en": "Solomon Islands",
+		"es": "Islas Salomón",
+		"fr": "Salomon",
+		"ar": "جزر سليمان",
+		"zh_Hans": "所罗门群岛",
+		"zh_Hant": "所羅門群島",
+		"zh_TW": "所羅門群島",
+		"pt": "Ilhas Salomão"
+	},
+	"SOMALIA": {
+		"en": "Somalia including Somaliland",
+		"es": "Somalia incluida Somalilandia",
+		"fr": "Somalie y compris Somaliland",
+		"ar": "الصومال بما في ذلك أرض الصومال",
+		"zh_Hans": "索马里 包括索马里兰",
+		"zh_Hant": "索馬里 包括索馬里蘭",
+		"zh_TW": "索馬利亞 含索馬利蘭",
+		"pt": "Somália, incluíndo Somalilândia"
+	},
+	"SOUTH AFRICA": {
+		"en": "South Africa",
+		"es": "Sudáfrica",
+		"fr": "Afrique du Sud",
+		"ar": "جنوب إفريقيا",
+		"zh_Hans": "南非",
+		"zh_Hant": "南非",
+		"zh_TW": "南非",
+		"pt": "África do Sul"
+	},
+	"SPAIN": {
+		"en": "Spain",
+		"es": "España",
+		"fr": "Espagne",
+		"ar": "أسبانيا",
+		"zh_Hans": "西班牙",
+		"zh_Hant": "西班牙",
+		"zh_TW": "西班牙",
+		"pt": "Espanha"
+	},
+	"SURINAME": {
+		"en": "Suriname",
+		"es": "Surinam",
+		"fr": "Suriname",
+		"ar": "سورينام",
+		"zh_Hans": "苏里南",
+		"zh_Hant": "蘇里南",
+		"zh_TW": "蘇利南",
+		"pt": "Suriname"
+	},
+	"SWEDEN": {
+		"en": "Sweden",
+		"es": "Suecia",
+		"fr": "Suède",
+		"ar": "السويد",
+		"zh_Hans": "瑞典",
+		"zh_Hant": "瑞典",
+		"zh_TW": "瑞典",
+		"pt": "Suécia"
+	},
+	"SWITZERLAND": {
+		"en": "Switzerland",
+		"es": "Suiza",
+		"fr": "Suisse",
+		"ar": "سويسرا",
+		"zh_Hans": "瑞士",
+		"zh_Hant": "瑞士",
+		"zh_TW": "瑞士",
+		"pt": "Suiça"
+	},
+	"TOGO": {
+		"en": "Togo",
+		"es": "Togo",
+		"fr": "Togo",
+		"ar": "توغو",
+		"zh_Hans": "多哥",
+		"zh_Hant": "多哥",
+		"zh_TW": "多哥",
+		"pt": "Togo"
+	},
+	"TIMOR-LESTE": {
+		"en": "Timor-Leste",
+		"es": "Timor Oriental",
+		"fr": "Timor-Leste",
+		"ar": "تيمور الشرقية",
+		"zh_Hans": "东帝汶",
+		"zh_Hant": "東帝汶",
+		"zh_TW": "東帝汶",
+		"pt": "Timor-Leste"
+	},
+	"TURKEY": {
+		"en": "Turkey",
+		"es": "Turquía",
+		"fr": "Turquie",
+		"ar": "تركيا",
+		"zh_Hans": "土耳其",
+		"zh_Hant": "土耳其",
+		"zh_TW": "土耳其",
+		"pt": "Turquia"
+	},
+	"TURKMENISTAN": {
+		"en": "Turkmenistan",
+		"es": "Turkmenistán",
+		"fr": "Turkménistan",
+		"ar": "تركمنستان",
+		"zh_Hans": "土库曼斯坦",
+		"zh_Hant": "土庫曼斯坦",
+		"zh_TW": "土庫曼",
+		"pt": "Turquemenistão"
+	},
+	"TUVALU": {
+		"en": "Tuvalu",
+		"es": "Tuvalu",
+		"fr": "Tuvalu",
+		"ar": "توفالو",
+		"zh_Hans": "图瓦卢",
+		"zh_Hant": "圖瓦盧",
+		"zh_TW": "吐瓦魯",
+		"pt": "Tuvalu"
+	},
+	"UKRAINE": {
+		"en": "Ukraine",
+		"es": "Ucrania",
+		"fr": "Ukraine",
+		"ar": "أوكرانيا",
+		"zh_Hans": "乌克兰",
+		"zh_Hant": "烏克蘭",
+		"zh_TW": "烏克蘭",
+		"pt": "Ucrânia"
+	},
+	"UNITED KINGDOM": {
+		"en": "United Kingdom",
+		"es": "Reino Unido",
+		"fr": "Royaume-Uni",
+		"ar": "المملكة المتحدة",
+		"zh_Hans": "英国",
+		"zh_Hant": "英國",
+		"zh_TW": "英國",
+		"pt": "Reino Unido"
+	},
+	"URUGUAY": {
+		"en": "Uruguay",
+		"es": "Uruguay",
+		"fr": "Uruguay",
+		"ar": "أورغواي",
+		"zh_Hans": "乌拉圭",
+		"zh_Hant": "烏拉圭",
+		"zh_TW": "烏拉圭",
+		"pt": "Uruguai"
+	},
+	"UZBEKISTAN": {
+		"en": "Uzbekistan",
+		"es": "Uzbekistán",
+		"fr": "Ouzbékistan",
+		"ar": "أوزبكستان",
+		"zh_Hans": "乌兹别克斯坦",
+		"zh_Hant": "烏茲別克",
+		"zh_TW": "烏茲別克",
+		"pt": "Uzbequistão"
+	},
+	"VANUATU": {
+		"en": "Vanuatu",
+		"es": "Vanuatu",
+		"fr": "Vanuatu",
+		"ar": "فانواتو",
+		"zh_Hans": "瓦努阿图",
+		"zh_Hant": "瓦努阿圖",
+		"zh_TW": "萬那杜",
+		"pt": "Vanuatu"
+	},
+	"VENEZUELA": {
+		"en": "Venezuela",
+		"es": "Venezuela",
+		"fr": "Venezuela",
+		"ar": "فنزويلا",
+		"zh_Hans": "委内瑞拉",
+		"zh_Hant": "委內瑞拉",
+		"zh_TW": "委內瑞拉",
+		"pt": "Venezuela"
+	},
+	"HONG KONG": {
+		"en": "Hong Kong",
+		"es": "Hong Kong",
+		"fr": "Hong Kong",
+		"ar": "هونغ كونغ",
+		"zh_Hans": "香港",
+		"zh_Hant": "香港",
+		"zh_TW": "香港",
+		"pt": "Hong Kong"
+	},
+	"ISRAEL": {
+		"en": "Israel",
+		"es": "Israel",
+		"fr": "Israël",
+		"ar": "إسرائيل",
+		"zh_Hans": "以色列",
+		"zh_Hant": "以色列",
+		"zh_TW": "以色列",
+		"pt": "Israel"
+	},
+	"PERU": {
+		"en": "Peru",
+		"es": "Perú",
+		"fr": "Pérou",
+		"ar": "بيرو",
+		"zh_Hans": "秘鲁",
+		"zh_Hant": "秘魯",
+		"zh_TW": "秘魯",
+		"pt": "Perú"
+	},
+	"KAZAKHSTAN": {
+		"en": "Kazakhstan",
+		"es": "Kazajistán",
+		"fr": "Kazakhstan",
+		"ar": "كازاخستان",
+		"zh_Hans": "哈萨克斯坦",
+		"zh_Hant": "哈薩克",
+		"zh_TW": "哈薩克",
+		"pt": "Cazaquistão"
+	},
+	"CHILE": {
+		"en": "Chile",
+		"es": "Chile",
+		"fr": "Chili",
+		"ar": "تشيلي",
+		"zh_Hans": "智利",
+		"zh_Hant": "智利",
+		"zh_TW": "智利",
+		"pt": "Chile"
+	},
+	"EL SALVADOR": {
+		"en": "El Salvador",
+		"es": "El Salvador",
+		"fr": "Salvador",
+		"ar": "السلفادور",
+		"zh_Hans": "萨尔瓦多",
+		"zh_Hant": "薩爾瓦多",
+		"zh_TW": "薩爾瓦多",
+		"pt": "El Salvador"
+	},
+	"BRAZIL": {
+		"en": "Brazil",
+		"es": "Brasil",
+		"fr": "Brésil",
+		"ar": "البرازيل",
+		"zh_Hans": "巴西",
+		"zh_Hant": "巴西",
+		"zh_TW": "巴西",
+		"pt": "Brasil"
+	},
+	"BENIN": {
+		"en": "Benin",
+		"es": "Benín",
+		"fr": "Bénin",
+		"ar": "بنين",
+		"zh_Hans": "贝宁",
+		"zh_Hant": "貝寧",
+		"zh_TW": "貝南",
+		"pt": "Benin"
+	},
+	"BURKINA FASO": {
+		"en": "Burkina Faso",
+		"es": "Burkina Faso",
+		"fr": "Burkina Faso",
+		"ar": "بوركينا فاسو",
+		"zh_Hans": "布基纳法索",
+		"zh_Hant": "布基納法索",
+		"zh_TW": "布吉納法索",
+		"pt": "Burkina Faso"
+	},
+	"BRUNEI DARUSSALAM": {
+		"en": "Brunei Darussalam",
+		"es": "Brunéi Darussalam",
+		"fr": "Brunéi Darussalam",
+		"ar": "بروناي دار السلام",
+		"zh_Hans": "文莱",
+		"zh_Hant": "汶萊",
+		"zh_TW": "汶萊",
+		"pt": "Burnei Darussalam"
+	},
+	"CENTRAL AFRICAN REPUBLIC": {
+		"en": "Central African Republic",
+		"es": "República Centroafricana",
+		"fr": "République centrafricaine",
+		"ar": "جمهورية أقريقيا الوسطى",
+		"zh_Hans": "中非共和国",
+		"zh_Hant": "中非共和國",
+		"zh_TW": "中非共和國",
+		"pt": "República Centro-Africana"
+	},
+	"CAMEROON": {
+		"en": "Cameroon",
+		"es": "Camerún",
+		"fr": "Cameroun",
+		"ar": "الكاميرون",
+		"zh_Hans": "喀麦隆",
+		"zh_Hant": "喀麥隆",
+		"zh_TW": "喀麥隆",
+		"pt": "Camarões"
+	},
+	"ALGERIA": {
+		"en": "Algeria",
+		"es": "Argelia",
+		"fr": "Algérie",
+		"ar": "الجزائر",
+		"zh_Hans": "阿尔及利亚",
+		"zh_Hant": "阿爾及利亞",
+		"zh_TW": "阿爾及利亞",
+		"pt": "Argélia"
+	},
+	"ERITREA": {
+		"en": "Eritrea",
+		"es": "Eritrea",
+		"fr": "Érythrée",
+		"ar": "إريتريا",
+		"zh_Hans": "厄立特里亚",
+		"zh_Hant": "厄立特里亞",
+		"zh_TW": "厄利垂亞",
+		"pt": "Eritreia"
+	},
+	"MOROCCO / WESTERN SAHARA": {
+		"en": "Morocco (including Western Sahara)",
+		"es": "Marruecos y el Sáhara Occidental",
+		"fr": "Maroc et Sahara occidental",
+		"ar": "المغرب والصحراء الغربية",
+		"zh_Hans": "摩洛哥 包括西撒哈拉",
+		"zh_Hant": "摩洛哥 包括西撒哈拉",
+		"zh_TW": "摩洛哥 含西薩哈拉",
+		"pt": "Marrocos e Sahara Ocidental"
+	},
+	"GHANA": {
+		"en": "Ghana",
+		"es": "Ghana",
+		"fr": "Ghana",
+		"ar": "غانا",
+		"zh_Hans": "加纳",
+		"zh_Hant": "加納",
+		"zh_TW": "迦納",
+		"pt": "Ghana"
+	},
+	"GRENADA": {
+		"en": "Grenada",
+		"es": "Granada",
+		"fr": "Grenade",
+		"ar": "غرينادا",
+		"zh_Hans": "格林纳达",
+		"zh_Hant": "格林納達",
+		"zh_TW": "格瑞那達",
+		"pt": "Granada"
+	},
+	"KENYA": {
+		"en": "Kenya",
+		"es": "Kenia",
+		"fr": "Kenya",
+		"ar": "كينيا",
+		"zh_Hans": "肯尼亚",
+		"zh_Hant": "肯尼亞",
+		"zh_TW": "肯亞",
+		"pt": "Quénia"
+	},
+	"SOUTH KOREA": {
+		"en": "Republic of Korea",
+		"es": "Corea del Sur",
+		"fr": "Corée du Sud",
+		"ar": "كوريا الجنوبية",
+		"zh_Hans": "大韩民国",
+		"zh_Hant": "大韓民國",
+		"zh_TW": "大韓民國",
+		"pt": "Coreia do Sul"
+	},
+	"LAOS": {
+		"en": "Laos",
+		"es": "Laos",
+		"fr": "Laos",
+		"ar": "لاوس",
+		"zh_Hans": "老挝",
+		"zh_Hant": "老撾",
+		"zh_TW": "寮國",
+		"pt": "Laos"
+	},
+	"LIBERIA": {
+		"en": "Liberia",
+		"es": "Liberia",
+		"fr": "Liberia",
+		"ar": "ليبيريا",
+		"zh_Hans": "利比里亚",
+		"zh_Hant": "利比里亞",
+		"zh_TW": "賴比瑞亞",
+		"pt": "Libéria"
+	},
+	"SRI LANKA": {
+		"en": "Sri Lanka",
+		"es": "Sri Lanka",
+		"fr": "Sri Lanka",
+		"ar": "سري لنكا",
+		"zh_Hans": "斯里兰卡",
+		"zh_Hant": "斯里蘭卡",
+		"zh_TW": "斯里蘭卡",
+		"pt": "Sri Lanka"
+	},
+	"MOROCCO": {
+		"en": "Morocco",
+		"es": "Marruecos",
+		"fr": "Maroc",
+		"ar": "المغرب",
+		"zh_Hans": "摩洛哥",
+		"zh_Hant": "摩洛哥",
+		"zh_TW": "摩洛哥",
+		"pt": "Marrocos"
+	},
+	"MALDIVES": {
+		"en": "Maldives",
+		"es": "Maldivas",
+		"fr": "Maldives",
+		"ar": "مالديف",
+		"zh_Hans": "马尔代夫 ",
+		"zh_Hant": "馬爾代夫",
+		"zh_TW": "馬爾地夫",
+		"pt": "Maldivas"
+	},
+	"MALI": {
+		"en": "Mali",
+		"es": "Malí",
+		"fr": "Mali",
+		"ar": "مالي",
+		"zh_Hans": "马里",
+		"zh_Hant": "馬里",
+		"zh_TW": "馬利",
+		"pt": "Mali"
+	},
+	"MYANMAR": {
+		"en": "Myanmar",
+		"es": "Myanmar",
+		"fr": "Myanmar",
+		"ar": "ميانمار",
+		"zh_Hans": "缅甸",
+		"zh_Hant": "緬甸",
+		"zh_TW": "緬甸",
+		"pt": "Myanmar"
+	},
+	"MONGOLIA": {
+		"en": "Mongolia",
+		"es": "Mongolia",
+		"fr": "Mongolie",
+		"ar": "منغوليا",
+		"zh_Hans": "蒙古",
+		"zh_Hant": "蒙古",
+		"zh_TW": "蒙古",
+		"pt": "Mongólia"
+	},
+	"MAURITANIA": {
+		"en": "Mauritania",
+		"es": "Mauritania",
+		"fr": "Mauritanie",
+		"ar": "موريتانيا",
+		"zh_Hans": "毛利塔尼亚",
+		"zh_Hant": "毛里塔尼亞",
+		"zh_TW": "茅利塔尼亞",
+		"pt": "Mauritânia"
+	},
+	"MALAWI": {
+		"en": "Malawi",
+		"es": "Malawi",
+		"fr": "Malawi",
+		"ar": "ملاوي",
+		"zh_Hans": "马拉维",
+		"zh_Hant": "馬拉維",
+		"zh_TW": "馬拉威",
+		"pt": "Malawi"
+	},
+	"NIGER": {
+		"en": "Niger",
+		"es": "Níger",
+		"fr": "Niger",
+		"ar": "النيجر",
+		"zh_Hans": "尼日尔",
+		"zh_Hant": "尼日爾",
+		"zh_TW": "尼日",
+		"pt": "Nigéria"
+	},
+	"NAURU": {
+		"en": "Nauru",
+		"es": "Nauru",
+		"fr": "Nauru",
+		"ar": "ناورو",
+		"zh_Hans": "瑙鲁",
+		"zh_Hant": "瑙魯",
+		"zh_TW": "諾魯",
+		"pt": "Nauru"
+	},
+	"PAPUA NEW GUINEA": {
+		"en": "Papua New Guinea",
+		"es": "Papúa Nueva Guinea",
+		"fr": "Papouasie-Nouvelle-Guinée",
+		"ar": "بابو غينيا الجديدة",
+		"zh_Hans": "巴布亚新几内亚",
+		"zh_Hant": "巴布亞新幾內亞",
+		"zh_TW": "巴布亞紐幾內亞",
+		"pt": "Papua-Nova Guiné"
+	},
+	"RUSSIAN FEDERATION": {
+		"en": "Russian Federation",
+		"es": "Federación Rusa",
+		"fr": "Russie",
+		"ar": "روسيا الاتحادية",
+		"zh_Hans": "俄罗斯联邦",
+		"zh_Hant": "俄羅斯聯邦",
+		"zh_TW": "俄羅斯",
+		"pt": "Federação da Rússia"
+	},
+	"SIERRA LEONE": {
+		"en": "Sierra Leone",
+		"es": "Sierra Leona",
+		"fr": "Sierra Leone",
+		"ar": "سيراليون",
+		"zh_Hans": "塞拉利昂",
+		"zh_Hant": "塞拉利昂",
+		"zh_TW": "獅子山共和國",
+		"pt": "Serra Leoa"
+	},
+	"SWAZILAND": {
+		"en": "Swaziland",
+		"es": "Suazilandia",
+		"fr": "Swaziland",
+		"ar": "سوازيلند",
+		"zh_Hans": "斯威士兰",
+		"zh_Hant": "斯威士蘭",
+		"zh_TW": "史瓦濟蘭",
+		"pt": "Suazilândia"
+	},
+	"TAJIKISTAN": {
+		"en": "Tajikistan",
+		"es": "Tayikistán",
+		"fr": "Tadjikistan",
+		"ar": "طاجيكستان",
+		"zh_Hans": "塔吉克斯坦",
+		"zh_Hant": "塔吉克斯坦",
+		"zh_TW": "塔吉克",
+		"pt": "Tajiquistão"
+	},
+	"TONGA": {
+		"en": "Tonga",
+		"es": "Tonga",
+		"fr": "Tonga",
+		"ar": "تونغو",
+		"zh_Hans": "汤加",
+		"zh_Hant": "湯加",
+		"zh_TW": "東加",
+		"pt": "Tonga"
+	},
+	"TUNISIA": {
+		"en": "Tunisia",
+		"es": "Túnez",
+		"fr": "Tunisie",
+		"ar": "تونس",
+		"zh_Hans": "突尼斯",
+		"zh_Hant": "突尼斯",
+		"zh_TW": "突尼西亞",
+		"pt": "Tunísia"
+	},
+	"TANZANIA": {
+		"en": "Tanzania",
+		"es": "Tanzania",
+		"fr": "Tanzanie",
+		"ar": "تنزانيا",
+		"zh_Hans": "坦桑尼亚",
+		"zh_Hant": "坦桑尼亞",
+		"zh_TW": "坦尚尼亞",
+		"pt": "Tanzânia"
+	},
+	"ZAMBIA": {
+		"en": "Zambia",
+		"es": "Zambia",
+		"fr": "Zambie",
+		"ar": "زامبيا",
+		"zh_Hans": "赞比亚",
+		"zh_Hant": "贊比亞",
+		"zh_TW": "贊比亞",
+		"pt": "Zâmbia"
+	},
+	"AFGHANISTAN": {
+		"en": "Afghanistan",
+		"es": "Afganistán",
+		"fr": "Afghanistan",
+		"ar": "أفغانستان",
+		"zh_Hans": "阿富汗",
+		"zh_Hant": "阿富汗",
+		"zh_TW": "阿富汗",
+		"pt": "Afeghanistão"
+	},
+	"UNITED ARAB EMIRATES": {
+		"en": "United Arab Emirates",
+		"es": "Emiratos Árabes Unidos",
+		"fr": "Émirats arabes unis",
+		"ar": "الإمارات العربية المتحدة",
+		"zh_Hans": "阿拉伯联合酋长国",
+		"zh_Hant": "阿拉伯聯合酋長國",
+		"zh_TW": "阿拉伯聯合大公國",
+		"pt": "Emirados Árabes Unídos"
+	},
+	"ANTIGUA AND BARBUDA": {
+		"en": "Antigua and Barbuda",
+		"es": "Antigua y Barbuda",
+		"fr": "Antigua-et-Barbuda",
+		"ar": "أنتيغوا وباربودا",
+		"zh_Hans": "安提瓜和巴布达",
+		"zh_Hant": "安提瓜和巴布達",
+		"zh_TW": "安地卡及巴布達",
+		"pt": "Antígua e Barbuda"
+	},
+	"BANGLADESH": {
+		"en": "Bangladesh",
+		"es": "Bangladesh",
+		"fr": "Bangladesh",
+		"ar": "بنغلاديش",
+		"zh_Hans": "孟加拉",
+		"zh_Hant": "孟加拉國",
+		"zh_TW": "孟加拉",
+		"pt": "Bangladesh"
+	},
+	"BAHRAIN": {
+		"en": "Bahrain",
+		"es": "Bahréin",
+		"fr": "Bahreïn",
+		"ar": "البحرين",
+		"zh_Hans": "巴林",
+		"zh_Hant": "巴林",
+		"zh_TW": "巴林",
+		"pt": "Bahrain"
+	},
+	"BAHAMAS": {
+		"en": "Bahamas",
+		"es": "Bahamas",
+		"fr": "Bahamas",
+		"ar": "جزر البهاما",
+		"zh_Hans": "巴哈马",
+		"zh_Hant": "巴哈馬",
+		"zh_TW": "巴哈馬",
+		"pt": "Bahamas"
+	},
+	"BELARUS": {
+		"en": "Belarus",
+		"es": "Bielorrusia",
+		"fr": "Bélarus",
+		"ar": "بيلاروس",
+		"zh_Hans": "白俄罗斯",
+		"zh_Hant": "白俄羅斯",
+		"zh_TW": "白俄羅斯",
+		"pt": "Bielorrúsia"
+	},
+	"BELIZE": {
+		"en": "Belize",
+		"es": "Belice",
+		"fr": "Belize",
+		"ar": "بليز",
+		"zh_Hans": "伯利兹",
+		"zh_Hant": "伯利茲",
+		"zh_TW": "貝里斯",
+		"pt": "Belize"
+	},
+	"BARBADOS": {
+		"en": "Barbados",
+		"es": "Barbados",
+		"fr": "Barbade",
+		"ar": "بربادوس",
+		"zh_Hans": "巴巴多斯",
+		"zh_Hant": "巴巴多斯",
+		"zh_TW": "巴貝多",
+		"pt": "Barbados"
+	},
+	"BOTSWANA": {
+		"en": "Botswana",
+		"es": "Botsuana",
+		"fr": "Botswana",
+		"ar": "بوتسوانا",
+		"zh_Hans": "博茨瓦纳",
+		"zh_Hant": "博茨瓦納",
+		"zh_TW": "波札那",
+		"pt": "Botsuana"
+	},
+	"DEMOCRATIC REPUBLIC OF CONGO": {
+		"en": "Democratic Republic of Congo",
+		"es": "República Democrática del Congo",
+		"fr": "République démocratique du Congo",
+		"ar": "جمهورية الكونغو الديمقراطية",
+		"zh_Hans": "刚果民主共和国",
+		"zh_Hant": "剛果民主共和國",
+		"zh_TW": "剛果民主共和國",
+		"pt": "República Democrática do Congo"
+	},
+	"COMOROS": {
+		"en": "Comoros",
+		"es": "Comoras",
+		"fr": "Comores",
+		"ar": "جزر القمر",
+		"zh_Hans": "科摩罗",
+		"zh_Hant": "科摩羅",
+		"zh_TW": "葛摩聯盟",
+		"pt": "Comores"
+	},
+	"CUBA": {
+		"en": "Cuba",
+		"es": "Cuba",
+		"fr": "Cuba",
+		"ar": "كوبا",
+		"zh_Hans": "古巴",
+		"zh_Hant": "古巴",
+		"zh_TW": "古巴",
+		"pt": "Cuba"
+	},
+	"EGYPT": {
+		"en": "Egypt",
+		"es": "Egipto",
+		"fr": "Égypte",
+		"ar": "مصر",
+		"zh_Hans": "埃及",
+		"zh_Hant": "埃及",
+		"zh_TW": "埃及",
+		"pt": "Egipto"
+	},
+	"ETHIOPIA": {
+		"en": "Ethiopia",
+		"es": "Etiopía",
+		"fr": "Éthiopie",
+		"ar": "إثيوبيا",
+		"zh_Hans": "埃塞俄比亚",
+		"zh_Hant": "埃塞俄比亞",
+		"zh_TW": "衣索比亞",
+		"pt": "Etiópia"
+	},
+	"GUINEA": {
+		"en": "Guinea",
+		"es": "Guinea",
+		"fr": "Guinée",
+		"ar": "غينيا",
+		"zh_Hans": "几内亚",
+		"zh_Hant": "幾內亞",
+		"zh_TW": "幾內亞",
+		"pt": "Guiné"
+	},
+	"EQUATORIAL GUINEA": {
+		"en": "Equatorial Guinea",
+		"es": "Guinea Ecuatorial",
+		"fr": "Guinée équatoriale",
+		"ar": "غينيا الاستوائية",
+		"zh_Hans": "赤道几内亚",
+		"zh_Hant": "赤道幾內亞",
+		"zh_TW": "赤道幾內亞",
+		"pt": "Guiné Equatorial"
+	},
+	"GUATEMALA": {
+		"en": "Guatemala",
+		"es": "Guatemala",
+		"fr": "Guatemala",
+		"ar": "غواتيمالا",
+		"zh_Hans": "危地马拉",
+		"zh_Hant": "危地馬拉",
+		"zh_TW": "瓜地馬拉",
+		"pt": "Guatemála"
+	},
+	"GUYANA": {
+		"en": "Guyana",
+		"es": "Guyana",
+		"fr": "Guyana",
+		"ar": "غيانا",
+		"zh_Hans": "圭亚那",
+		"zh_Hant": "圭亞那",
+		"zh_TW": "圭亞那",
+		"pt": "Guiana"
+	},
+	"INDONESIA": {
+		"en": "Indonesia",
+		"es": "Indonesia",
+		"fr": "Indonésie",
+		"ar": "إندونيسيا",
+		"zh_Hans": "印度尼西亚",
+		"zh_Hant": "印尼",
+		"zh_TW": "印尼",
+		"pt": "Indonésia"
+	},
+	"INDIA": {
+		"en": "India",
+		"es": "India",
+		"fr": "Inde",
+		"ar": "الهند",
+		"zh_Hans": "印度",
+		"zh_Hant": "印度",
+		"zh_TW": "印度",
+		"pt": "Índia"
+	},
+	"IRAN": {
+		"en": "Iran",
+		"es": "Irán",
+		"fr": "Iran",
+		"ar": "إيران",
+		"zh_Hans": "伊朗",
+		"zh_Hant": "伊朗",
+		"zh_TW": "伊朗",
+		"pt": "Irão"
+	},
+	"IRAQ": {
+		"en": "Iraq",
+		"es": "Irak",
+		"fr": "Irak",
+		"ar": "العراق",
+		"zh_Hans": "伊拉克",
+		"zh_Hant": "伊拉克",
+		"zh_TW": "伊拉克",
+		"pt": "Iraque"
+	},
+	"JAMAICA": {
+		"en": "Jamaica",
+		"es": "Jamaica",
+		"fr": "Jamaïque",
+		"ar": "جامايكا",
+		"zh_Hans": "牙买加",
+		"zh_Hant": "牙買加",
+		"zh_TW": "牙買加",
+		"pt": "Jamaica"
+	},
+	"JORDAN": {
+		"en": "Jordan",
+		"es": "Jordania",
+		"fr": "Jordanie",
+		"ar": "الأردن",
+		"zh_Hans": "约旦",
+		"zh_Hant": "約旦",
+		"zh_TW": "約旦",
+		"pt": "Jordânia"
+	},
+	"JAPAN": {
+		"en": "Japan",
+		"es": "Japón",
+		"fr": "Japon",
+		"ar": "اليابان",
+		"zh_Hans": "日本",
+		"zh_Hant": "日本",
+		"zh_TW": "日本",
+		"pt": "Japão"
+	},
+	"SAINT KITTS AND NEVIS": {
+		"en": "Saint Kitts and Nevis",
+		"es": "San Cristóbal y Nieves",
+		"fr": "Saint-Kitts-et-Nevis",
+		"ar": "سانت كيتس ونيفيس",
+		"zh_Hans": "圣基茨和尼维斯",
+		"zh_Hant": "聖基茨和尼維斯",
+		"zh_TW": "聖克里斯多福及尼維斯",
+		"pt": "São Cristovão e Nevis"
+	},
+	"KUWAIT": {
+		"en": "Kuwait",
+		"es": "Kuwait",
+		"fr": "Koweït",
+		"ar": "الكويت",
+		"zh_Hans": "科威特",
+		"zh_Hant": "科威特",
+		"zh_TW": "科威特",
+		"pt": "Kuwait"
+	},
+	"LEBANON": {
+		"en": "Lebanon",
+		"es": "Líbano",
+		"fr": "Liban",
+		"ar": "لبنان",
+		"zh_Hans": "黎巴嫩",
+		"zh_Hant": "黎巴嫩",
+		"zh_TW": "黎巴嫩",
+		"pt": "Líbano"
+	},
+	"LIBYA": {
+		"en": "Libya",
+		"es": "Libia",
+		"fr": "Libye",
+		"ar": "ليبيا",
+		"zh_Hans": "利比亚",
+		"zh_Hant": "利比亞",
+		"zh_TW": "利比亞",
+		"pt": "Líbia"
+	},
+	"SAINT LUCIA": {
+		"en": "Saint Lucia",
+		"es": "Santa Lucía",
+		"fr": "Sainte-Lucie",
+		"ar": "سانت لوشيا",
+		"zh_Hans": "圣卢西亚",
+		"zh_Hant": "聖盧西亞",
+		"zh_TW": "聖露西亞",
+		"pt": "Santa Lúcia"
+	},
+	"LESOTHO": {
+		"en": "Lesotho",
+		"es": "Lesoto",
+		"fr": "Lesotho",
+		"ar": "ليسوتو",
+		"zh_Hans": "莱索托",
+		"zh_Hant": "萊索托",
+		"zh_TW": "賴索托",
+		"pt": "Lesoto"
+	},
+	"MALAYSIA": {
+		"en": "Malaysia",
+		"es": "Malasia",
+		"fr": "Malaisie",
+		"ar": "ماليزيا",
+		"zh_Hans": "马来西亚",
+		"zh_Hant": "馬來西亞",
+		"zh_TW": "馬來西亞",
+		"pt": "Malásia"
+	},
+	"NIGERIA": {
+		"en": "Nigeria",
+		"es": "Nigeria",
+		"fr": "Nigeria",
+		"ar": "نيجيريا",
+		"zh_Hans": "尼日利亚",
+		"zh_Hant": "尼日利亞",
+		"zh_TW": "奈及利亞",
+		"pt": "Nigéria"
+	},
+	"PAKISTAN": {
+		"en": "Pakistan",
+		"es": "Pakistán",
+		"fr": "Pakistan",
+		"ar": "باكستان",
+		"zh_Hans": "巴基斯坦",
+		"zh_Hant": "巴基斯坦",
+		"zh_TW": "巴基斯坦",
+		"pt": "Paquistão"
+	},
+	"PUERTO RICO / USA": {
+		"en": "Puerto Rico / USA",
+		"es": "Puerto Rico/EE. UU.",
+		"fr": "Porto Rico/États-Unis",
+		"ar": "بورتوريكو/الولايات المتحدة الأمريكية",
+		"zh_Hans": "波多黎各/美国",
+		"zh_Hant": "波多黎各/ 美國",
+		"zh_TW": "波多黎各／美國",
+		"pt": "Porto Rico / EUA"
+	},
+	"NORTH KOREA": {
+		"en": "Dem. People's Rep. of Korea",
+		"es": "Corea del Norte",
+		"fr": "Corée du Nord",
+		"ar": "كوريا الشمالية",
+		"zh_Hans": "朝鲜民主主义人民共和国",
+		"zh_Hant": "朝鮮民主主義人民共和國/北韓",
+		"zh_TW": "朝鮮人民共和國",
+		"pt": "Coreia do Norte"
+	},
+	"PALESTINIAN AUTHORITY": {
+		"en": "Palestinian Authority",
+		"es": "Autoridad Palestina",
+		"fr": "Autorité palestinienne",
+		"ar": "السلطة الفلسطينية",
+		"zh_Hans": "巴勒斯坦权力机构",
+		"zh_Hant": "巴勒斯坦民族權力機構",
+		"zh_TW": "巴勒斯坦自治政府",
+		"pt": "Autoridade Palestiniana"
+	},
+	"STATE OF PALESTINE": {
+		"en": "State of Palestine",
+		"es": "Estado de Palestina",
+		"fr": "État de Palestine",
+		"ar": "دولة فلسطين",
+		"zh_Hans": "巴勒斯坦国",
+		"zh_Hant": "巴勒斯坦國",
+		"zh_TW": "巴勒斯坦",
+		"pt": "Estado da Palestina"
+	},
+	"QATAR": {
+		"en": "Qatar",
+		"es": "Qatar",
+		"fr": "Qatar",
+		"ar": "قطر",
+		"zh_Hans": "卡塔尔",
+		"zh_Hant": "卡塔爾",
+		"zh_TW": "卡達",
+		"pt": "Qatar"
+	},
+	"OMAN": {
+		"en": "Oman",
+		"es": "Omán",
+		"fr": "Oman",
+		"ar": "عُمان",
+		"zh_Hans": "阿曼",
+		"zh_Hant": "阿曼",
+		"zh_TW": "阿曼",
+		"pt": "Omã"
+	},
+	"SAUDI ARABIA": {
+		"en": "Saudi Arabia",
+		"es": "Arabia Saudí",
+		"fr": "Arabie saoudite",
+		"ar": "السعودية",
+		"zh_Hans": "沙特阿拉伯",
+		"zh_Hant": "沙特阿拉伯",
+		"zh_TW": "沙烏地阿拉伯",
+		"pt": "Arábia Saudita"
+	},
+	"SUDAN": {
+		"en": "Sudan",
+		"es": "Sudán",
+		"fr": "Soudan",
+		"ar": "السوادن",
+		"zh_Hans": "苏丹",
+		"zh_Hant": "蘇丹",
+		"zh_TW": "蘇丹",
+		"pt": "Sudão"
+	},
+	"SINGAPORE": {
+		"en": "Singapore",
+		"es": "Singapur",
+		"fr": "Singapour",
+		"ar": "سنغافورة",
+		"zh_Hans": "新加坡",
+		"zh_Hant": "新加坡",
+		"zh_TW": "新加坡",
+		"pt": "Singapura"
+	},
+	"SOUTH SUDAN": {
+		"en": "South Sudan",
+		"es": "Sudán del Sur",
+		"fr": "Soudan du Sud",
+		"ar": "جنوب السودان",
+		"zh_Hans": "南苏丹",
+		"zh_Hant": "南蘇丹",
+		"zh_TW": "南蘇丹",
+		"pt": "Sudão do Sul"
+	},
+	"SYRIA": {
+		"en": "Syria",
+		"es": "Siria",
+		"fr": "Syrie",
+		"ar": "سوريا",
+		"zh_Hans": "叙利亚",
+		"zh_Hant": "敘利亞",
+		"zh_TW": "敘利亞",
+		"pt": "Síria"
+	},
+	"CHAD": {
+		"en": "Chad",
+		"es": "Chad",
+		"fr": "Tchad",
+		"ar": "تشاد",
+		"zh_Hans": "乍得",
+		"zh_Hant": "乍得",
+		"zh_TW": "查德",
+		"pt": "Chade"
+	},
+	"THAILAND": {
+		"en": "Thailand",
+		"es": "Tailandia",
+		"fr": "Thaïlande",
+		"ar": "تايلند",
+		"zh_Hans": "泰国",
+		"zh_Hant": "泰國",
+		"zh_TW": "泰國",
+		"pt": "Tailândia"
+	},
+	"TRINIDAD AND TOBAGO": {
+		"en": "Trinidad and Tobago",
+		"es": "Trinidad y Tobago",
+		"fr": "Trinité-et-Tobago",
+		"ar": "ترينداد وتوباغو",
+		"zh_Hans": "特立尼达和多巴哥",
+		"zh_Hant": "特立尼達和多巴哥",
+		"zh_TW": "千里達及托巴哥",
+		"pt": "Trindade e Tobago"
+	},
+	"TAIWAN": {
+		"en": "Taiwan",
+		"es": "Taiwán",
+		"fr": "Taiwan",
+		"ar": "تايوان",
+		"zh_Hans": "台湾",
+		"zh_Hant": "台灣",
+		"zh_TW": "台灣",
+		"pt": "Taiwan"
+	},
+	"CHINA": {
+		"en": "China",
+		"es": "China",
+		"fr": "Chine",
+		"ar": "الصين",
+		"zh_Hans": "中国",
+		"zh_Hant": "中國",
+		"zh_TW": "中國",
+		"pt": "China"
+	},
+	"UGANDA": {
+		"en": "Uganda",
+		"es": "Uganda",
+		"fr": "Ouganda",
+		"ar": "أوغندا",
+		"zh_Hans": "乌干达",
+		"zh_Hant": "烏干達",
+		"zh_TW": "烏干達",
+		"pt": "Uganda"
+	},
+	"UNITED STATES OF AMERICA": {
+		"en": "United States of America",
+		"es": "Estados Unidos de América",
+		"fr": "États-Unis",
+		"ar": "الولايات المتحدة الأمريكية",
+		"zh_Hans": "美国",
+		"zh_Hant": "美國",
+		"zh_TW": "美國",
+		"pt": "Estados Unidos da América"
+	},
+	"SAINT VINCENT AND THE GRENADINES": {
+		"en": "Saint Vincent and the Grenadines",
+		"es": "San Vicente y las Granadinas",
+		"fr": "Saint-Vincent-et-les-Grenadines",
+		"ar": "سانت فنست والغرينادين",
+		"zh_Hans": "圣文森特和格林纳丁斯",
+		"zh_Hant": "聖文森特和格林納丁斯",
+		"zh_TW": "聖文森及格瑞那丁",
+		"pt": "São Vicente e Granadinas"
+	},
+	"VIET NAM": {
+		"en": "Viet Nam",
+		"es": "Vietnam",
+		"fr": "Viêt-Nam",
+		"ar": "فيتنام",
+		"zh_Hans": "越南",
+		"zh_Hant": "越南",
+		"zh_TW": "越南",
+		"pt": "Vietnam"
+	},
+	"YEMEN": {
+		"en": "Yemen",
+		"es": "Yemen",
+		"fr": "Yémen",
+		"ar": "اليمن",
+		"zh_Hans": "也门",
+		"zh_Hant": "也門",
+		"zh_TW": "葉門",
+		"pt": "Yémen"
+	},
+	"ZIMBABWE": {
+		"en": "Zimbabwe",
+		"es": "Zimbabue",
+		"fr": "Zimbabwe",
+		"ar": "زيمبابوي",
+		"zh_Hans": "津巴布韦",
+		"zh_Hant": "津巴布韋",
+		"zh_TW": "辛巴威",
+		"pt": "Zimbabwe"
+	},
+	"GAMBIA": {
+		"en": "Gambia",
+		"es": "Gambia",
+		"fr": "Gambie",
+		"ar": "غامبيا",
+		"zh_Hans": "冈比亚",
+		"zh_Hant": "岡比亞",
+		"zh_TW": "甘比亞",
+		"pt": "Gâmbia"
+	},
+  "1,000s": {
+    "en": "1000s",
+    "es": "Miles",
+    "fr": "Des milliers",
+    "ar": "آلاف",
+    "zh_Hans": "数以千计",
+    "zh_Hant": "數千以上",
+    "zh_TW": "數千",
+		"pt": "Milhares"
+  },
+  "1000s": {
+    "en": "1000s",
+    "es": "Miles",
+    "fr": "Des milliers",
+    "ar": "آلاف",
+    "zh_Hans": "数以千计",
+    "zh_Hant": "數千以上",
+    "zh_TW": "數千",
+		"pt": "Milhares"
+  },
+  "SINCE_SUFFIX": {
+    "en": "",
+    "es": "",
+    "fr": "",
+    "ar": "",
+    "zh_Hans": " 年",
+    "zh_Hant": " 年",
+    "zh_TW": " 年",
+		"pt": ""
+  }
 }
