@@ -27,7 +27,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 	}, {
 		"id": "ALB",
@@ -71,7 +72,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 	}, {
 		"id": "ARG",
@@ -122,7 +124,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "BHR",
@@ -152,7 +155,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 
 	}, {
@@ -183,7 +187,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 	}, {
 		"id": "BRN",
@@ -227,7 +232,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 	}, {
 		"id": "BRA",
@@ -264,7 +270,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 	}, {
 		"id": "BDI",
@@ -280,7 +287,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "CPV",
@@ -331,7 +339,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "CHL",
@@ -375,7 +384,8 @@
 			"ar": "يصعب الحصول على معلومات رسمية بشأن استخدام عقوبة الإعدام في اريتريا. ولا يخضع غالبية المحتجزين للإجراءات القضائية، وترفض الحكومة عموماً تقديم أي معلومات ذات صلة في هذا الشأن، ولم تُسجل أي عمليات إعدام رسمية أو أحكام بالاعدام.",
 			"zh_TW": "死刑相關的官方資訊在厄立垂亞十分難以取得。大部分遭拘留者無法進入司法程序，一般來說，政府拒絕提供相關資料。因而在此脈絡下，未有正式處決或死刑的紀錄。",
 			"zh_Hans": "有关死刑适用的官方信息在厄立特里亚难以获取。大多数在押者没有经历过司法程序，而且政府一般拒绝提供相关信息，因此，在此背景下没有任何正式处决或死刑判决记录。",
-			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。"
+			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。",
+			"pt": "É muito difícil obter informações oficiais sobre o uso da pena de morte na Eritreia. A maioria dos detidos não passa por um procedimento judicial, e o governo geralmente recusa-se a fornecer informações relevantes. Neste contexto, não foram registadas execuções formais ou sentenças de morte"
 		}
 
 	}, {
@@ -462,7 +472,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 	}, {
 		"id": "DOM",
@@ -492,7 +503,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "SLV",
@@ -507,7 +519,7 @@
 		"since": "",
 		"executions": "3",
 		"death-penalties": "-",
-		"status": "RETENTIONIST", 
+		"status": "RETENTIONIST",
 		"note": {
 			"en": "Amnesty International was unable to confirm whether death sentences were imposed in this country.",
 			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en este país.",
@@ -515,9 +527,10 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
-		      
+
 	}, {
 		"id": "GAB",
 		"name": "GABON",
@@ -546,7 +559,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "FJI",
@@ -632,7 +646,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "GTM",
@@ -669,7 +684,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "HTI",
@@ -741,7 +757,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "IRQ",
@@ -785,7 +802,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "JPN",
@@ -871,7 +889,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم استخدام عقوبة الإعدام في هذا البلد ",
 			"zh_TW": "國際特赦組織無法確認該國司法系統是否使用死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国司法体系使用死刑的情况。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否執行死刑和作出死刑判決。" 
+			"zh_Hant": "國際特赦組織未能確定此國曾否執行死刑和作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 	}, {
 		"id": "LBR",
@@ -894,7 +913,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "LIE",
@@ -938,7 +958,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 	}, {
 		"id": "MDV",
@@ -1129,7 +1150,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "NOR",
@@ -1152,7 +1174,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم استخدام عقوبة الإعدام في هذا البلد ",
 			"zh_TW": "國際特赦組織無法確認該國司法系統是否使用死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国司法体系使用死刑的情况。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否執行死刑和作出死刑判決。"
+			"zh_Hant": "國際特赦組織未能確定此國曾否執行死刑和作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 	}, {
 		"id": "PAK",
@@ -1238,7 +1261,8 @@
 			"ar": "عقوبة الإعدام نافذة بموجب القانون الفدرالي الأميركي",
 			"zh_Hans": "死刑在美国联邦法律之下适用",
 			"zh_Hant": "死刑為美國聯邦法律所許可",
-			"zh_TW": "美國聯邦法律之下適用死刑。"
+			"zh_TW": "美國聯邦法律之下適用死刑。",
+			"pt": "A pena de morte é aplicada em virtude da legislação federal dos EUA."
 		}
 	}, {
 		"id": "QAT",
@@ -1254,7 +1278,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 
 	}, {
@@ -1292,7 +1317,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "LCA",
@@ -1308,7 +1334,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 	}, {
 		"id": "VCT",
@@ -1324,7 +1351,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 	}, {
 		"id": "WSM",
@@ -1361,7 +1389,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "SEN",
@@ -1433,7 +1462,9 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	}
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
+		}
 	}, {
 		"id": "ZAF",
 		"name": "SOUTH AFRICA",
@@ -1490,7 +1521,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 	}, {
 		"id": "SWE",
@@ -1541,7 +1573,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "THA",
@@ -1585,7 +1618,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "TUN",
@@ -1697,9 +1731,10 @@
 			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en Yemen.",
 			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées au Yémen.",
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما اذا كان قد تم فرض أحكام الإعدام في اليمن أم لا",
-			"zh_Hans": " 国际特赦组织无法确认也门有否作出死刑判决。", 
+			"zh_Hans": " 国际特赦组织无法确认也门有否作出死刑判决。",
 			"zh_Hant": "國際特赦組織無法確定於也門（台譯葉門）是否作出死刑判決。",
-			"zh_TW": "國際特赦組織無法確認葉門是否下達死刑判決。"
+			"zh_TW": "國際特赦組織無法確認葉門是否下達死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte no Yémen."
 		}
 	}, {
 		"id": "ZMB",
@@ -1729,7 +1764,8 @@
 			"ar": "وكان جنوب السودان جزءا من جمهورية السودان قبل عام 2011",
 			"zh_Hans": "南苏丹在2011年前是苏丹共和国的一部分",
 			"zh_Hant": "於2011年之前，南蘇丹是蘇丹共和國的一部分",
-			"zh_TW": "南蘇丹在2011年以前是蘇丹共和國的一部分。"
+			"zh_TW": "南蘇丹在2011年以前是蘇丹共和國的一部分。",
+			"pt": "O Sudão do Sul era parte da Republica do Sudão até 2011"
 		}
 	}]
 }, {
@@ -1852,7 +1888,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 	}, {
 		"id": "BLR",
@@ -1973,7 +2010,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 	}, {
 		"id": "CAN",
@@ -2023,7 +2061,7 @@
 		"since": "",
 		"executions": "-",
 		"death-penalties": "-",
-		"status": "RETENTIONIST", 
+		"status": "RETENTIONIST",
 		"note": {
 			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in this country.",
 			"es": "Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en este país.",
@@ -2031,7 +2069,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم استخدام عقوبة الإعدام في هذا البلد ",
 			"zh_TW": "國際特赦組織無法確認該國司法系統是否使用死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国司法体系使用死刑的情况。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否執行死刑和作出死刑判決。"
+			"zh_Hant": "國際特赦組織未能確定此國曾否執行死刑和作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 	}, {
 		"id": "COG",
@@ -2166,7 +2205,8 @@
 			"ar": "يصعب الحصول على معلومات رسمية بشأن استخدام عقوبة الإعدام في اريتريا. ولا يخضع غالبية المحتجزين للإجراءات القضائية، وترفض الحكومة عموماً تقديم أي معلومات ذات صلة في هذا الشأن، ولم تُسجل أي عمليات إعدام رسمية أو أحكام بالاعدام.",
 			"zh_TW": "死刑相關的官方資訊在厄立垂亞十分難以取得。大部分遭拘留者無法進入司法程序，一般來說，政府拒絕提供相關資料。因而在此脈絡下，未有正式處決或死刑的紀錄。",
 			"zh_Hans": "有关死刑适用的官方信息在厄立特里亚难以获取。大多数在押者没有经历过司法程序，而且政府一般拒绝提供相关信息，因此，在此背景下没有任何正式处决或死刑判决记录。",
-			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。"
+			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。",
+			"pt": "É muito difícil obter informações oficiais sobre o uso da pena de morte na Eritreia. A maioria dos detidos não passa por um procedimento judicial, e o governo geralmente recusa-se a fornecer informações relevantes. Neste contexto, não foram registadas execuções formais ou sentenças de morte"
 		}
 	}, {
 		"id": "EST",
@@ -2294,7 +2334,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 	}, {
 		"id": "HTI",
@@ -2366,7 +2407,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "IRQ",
@@ -2438,7 +2480,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "KIR",
@@ -2461,7 +2504,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم تنفيذ عمليات إعدام قضائية في هذا البلد.",
 			"zh_TW": "國際特赦組織無法確認該國是否發生司法處決。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有发生司法处决。",
-			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。"}
+			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。"},
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 	}, {
 		"id": "KGZ",
 		"name": "KYRGYZSTAN",
@@ -2518,7 +2562,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "LIE",
@@ -2562,7 +2607,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "MWI",
@@ -2662,7 +2708,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos.<br/> A Amnistia Internacional não pôde confirmar se existiram imposições das sentenças de morte."
 		}
 	}, {
 		"id": "MNE",
@@ -2769,7 +2816,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "NOR",
@@ -2792,7 +2840,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم استخدام عقوبة الإعدام في هذا البلد ",
 			"zh_TW": "國際特赦組織無法確認該國司法系統是否使用死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国司法体系使用死刑的情况。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否執行死刑和作出死刑判決。"
+			"zh_Hant": "國際特赦組織未能確定此國曾否執行死刑和作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar a utilização judicial da pena de morte neste país."
 		}
 	}, {
 		"id": "PAK",
@@ -2878,7 +2927,8 @@
 			"ar": "عقوبة الإعدام نافذة بموجب القانون الفدرالي الأميركي",
 			"zh_Hans": "死刑在美国联邦法律之下适用",
 			"zh_Hant": "死刑為美國聯邦法律所許可",
-			"zh_TW": "美國聯邦法律之下適用死刑。"
+			"zh_TW": "美國聯邦法律之下適用死刑。",
+			"pt": "A pena de morte é aplicada em virtude da legislação federal dos EUA."
 		}
 	}, {
 		"id": "QAT",
@@ -2894,9 +2944,10 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم تنفيذ عمليات إعدام قضائية في هذا البلد.",
 			"zh_TW": "國際特赦組織無法確認該國是否發生司法處決。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有发生司法处决。",
-			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。"
+			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。",
+			"pt": "A Amnistia Internacional não pôde confirmar a utilização judicial da pena de morte neste país."
 		}
- 
+
 	}, {
 		"id": "ROU",
 		"name": "ROMANIA",
@@ -2974,7 +3025,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "SEN",
@@ -3043,7 +3095,8 @@
 			"en": "",
 			"es": "",
 			"fr": "",
-			"ar": ""
+			"ar": "",
+			"pt": ""
 		}
 	}, {
 		"id": "ZAF",
@@ -3073,7 +3126,8 @@
 			"ar": "وكان جنوب السودان جزءا من جمهورية السودان قبل عام 2011",
 			"zh_Hans": "南苏丹在2011年前是苏丹共和国的一部分",
 			"zh_Hant": "於2011年之前，南蘇丹是蘇丹共和國的一部分",
-			"zh_TW": "南蘇丹在2011年以前是蘇丹共和國的一部分。"
+			"zh_TW": "南蘇丹在2011年以前是蘇丹共和國的一部分。",
+			"pt": "O Sudão do Sul era parte da Republica do Sudão até 2011"
 		}
 	}, {
 		"id": "ESP",
@@ -3159,7 +3213,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "THA",
@@ -3259,7 +3314,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم تنفيذ عمليات إعدام قضائية في هذا البلد.",
 			"zh_TW": "國際特赦組織無法確認該國是否發生司法處決。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有发生司法处决。",
-			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。" 
+			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiu uso judicial da pena de morte neste país."
 		}
 	}, {
 		"id": "USA",
@@ -3315,9 +3371,10 @@
 			"es": "Amnistía Internacional no pudo confirmar si se impusieron condena a muerte en Yemen.",
 			"fr": "Amnesty International n’a pas été en mesure de confirmer que des condamnations à mort avaient été prononcées au Yémen.",
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما اذا كان قد تم فرض أحكام الإعدام في اليمن أم لا",
-			"zh_Hans": "国际特赦组织无法确认也门有否作出死刑判决。", 
+			"zh_Hans": "国际特赦组织无法确认也门有否作出死刑判决。",
 			"zh_Hant": "國際特赦組織無法確定於也門（台譯葉門）是否作出死刑判決。",
-			"zh_TW": "國際特赦組織無法確認葉門是否下達死刑判決。"
+			"zh_TW": "國際特赦組織無法確認葉門是否下達死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte no Yémen."
 		}
 	}, {
 		"id": "ZMB",
@@ -3333,7 +3390,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم تنفيذ عمليات إعدام قضائية في هذا البلد.",
 			"zh_TW": "國際特赦組織無法確認該國是否發生司法處決。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有发生司法处决。",
-			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。"
+			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiu uso judicial da pena de morte neste país."
 		}
 	}, {
 		"id": "ZWE",
@@ -3372,7 +3430,8 @@
 			"ar": "وكان جنوب السودان جزءا من جمهورية السودان قبل عام 2011",
 			"zh_Hans": "南苏丹在2011年前是苏丹共和国的一部分",
 			"zh_Hant": "於2011年之前，南蘇丹是蘇丹共和國的一部分",
-			"zh_TW": "南蘇丹在2011年以前是蘇丹共和國的一部分。"
+			"zh_TW": "南蘇丹在2011年以前是蘇丹共和國的一部分。",
+			"pt": "O Sudão do Sul era parte da República do Sudão até 2011."
 		}
 	}, {
 		"id": "ALB",
@@ -3605,8 +3664,9 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم تنفيذ عمليات إعدام قضائية في هذا البلد.",
 			"zh_TW": "國際特赦組織無法確認該國是否發生司法處決。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有发生司法处决。",
-			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。"
-		}		
+			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiu uso judicial da pena de morte neste país."
+		}
 	}, {
 		"id": "TCD",
 		"name": "CHAD",
@@ -3621,7 +3681,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "CHL",
@@ -3644,7 +3705,8 @@
 			"ar": "عام 2009، توقفت منظمة العفو الدولية عن نشر احصاءاتنا التقديرية بشأن تنفيذ عقوبة الإعدام في الصين، في تحدّ للسرية التي تعتمدها البلاد. لا تزال الصين تعتبر هذه الإحصاءات بمثابة سر حكومي. وبحسب متابعتنا ، لا تزال الصين تحتل الصدارة في عدد احكام الإعدام التي تنفذها.",
 			"zh_Hans": "基于中国在死刑方面秘而不言，国际特赦组织自2009年起即停止公布估算的中国使用死刑数字。中国继续将这类数据列为国家机密。我们的跟踪调查显示中国仍然是世界头号刽子手。",
 			"zh_Hant": "2009年，國際特赦組織停止發佈中國死刑及處決估計數字，因為該國對相關資料作出保密。中國繼續將相關數字列為國家機密。我們的監察發現，中國仍是世界上處決最多人的國家。",
-			"zh_TW": "因為中國的保密狀態，2009年國際特赦組織停止發佈預估的中國執行死刑次數。中國繼續將此類數據列為國家機密。我們的監測指出，中國仍為世界上處刑最頻繁的國家。"
+			"zh_TW": "因為中國的保密狀態，2009年國際特赦組織停止發佈預估的中國執行死刑次數。中國繼續將此類數據列為國家機密。我們的監測指出，中國仍為世界上處刑最頻繁的國家。",
+			"pt": "Em 2009, a Amnistia Internacional deixou de publicar números estimados sobre o uso da pena de morte na China, dado os desafios face ao secretismo do país. A China continua a classificar tais números como um segredo de estado. A nossa atividade de monitorização indica que a China continua a ser o país do mundo com maior número de execuções."
 		}
 	}, {
 		"id": "COL",
@@ -3730,7 +3792,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "DNK",
@@ -3802,7 +3865,8 @@
 			"ar": "يصعب الحصول على معلومات رسمية بشأن استخدام عقوبة الإعدام في اريتريا. ولا يخضع غالبية المحتجزين للإجراءات القضائية، وترفض الحكومة عموماً تقديم أي معلومات ذات صلة في هذا الشأن، ولم تُسجل أي عمليات إعدام رسمية أو أحكام بالاعدام.",
 			"zh_TW": "死刑相關的官方資訊在厄立垂亞十分難以取得。大部分遭拘留者無法進入司法程序，一般來說，政府拒絕提供相關資料。因而在此脈絡下，未有正式處決或死刑的紀錄。",
 			"zh_Hans": "有关死刑适用的官方信息在厄立特里亚难以获取。大多数在押者没有经历过司法程序，而且政府一般拒绝提供相关信息，因此，在此背景下没有任何正式处决或死刑判决记录。",
-			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。"
+			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。",
+			"pt": "É muito difícil obter informações oficiais sobre o uso da pena de morte na Eritreia. A maioria dos detidos não passa por um procedimento judicial, e o governo geralmente recusa-se a fornecer informações relevantes. Neste contexto, não foram registadas execuções formais ou sentenças de morte"
 		}
 
 	}, {
@@ -3994,7 +4058,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "IRQ",
@@ -4066,7 +4131,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "KIR",
@@ -4117,7 +4183,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 	}, {
 		"id": "LSO",
@@ -4147,7 +4214,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "LIE",
@@ -4205,7 +4273,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "MDV",
@@ -4389,7 +4458,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "NOR",
@@ -4489,7 +4559,8 @@
 			"ar": "عقوبة الإعدام نافذة بموجب القانون الفدرالي الأميركي",
 			"zh_Hans": "死刑在美国联邦法律之下适用",
 			"zh_Hant": "死刑為美國聯邦法律所許可",
-			"zh_TW": "美國聯邦法律之下適用死刑。"
+			"zh_TW": "美國聯邦法律之下適用死刑。",
+			"pt": "A pena de morte é aplicada em virtude da legislação federal dos EUA."
 		}
 	}, {
 		"id": "QAT",
@@ -4638,7 +4709,8 @@
 			"ar": "أحكام الإعدام: 6 في بونتلاند و6 من قبل الحكومة الاتحادية الانتقالية ",
 			"zh_Hans": "死刑判决：邦特兰6起；过渡联邦政府6起",
 			"zh_Hant": "死刑判決：邦特蘭6宗;聯邦過渡政府6宗",
-			"zh_TW": "死刑：6件發生在邦特蘭；6件由過渡聯邦政府執行"
+			"zh_TW": "死刑：6件發生在邦特蘭；6件由過渡聯邦政府執行",
+			"pt": "Sentenças de morte: 6 na Puntlândia; 6 pelo governo federal de transição"
 		}
 	}, {
 		"id": "ZAF",
@@ -4738,7 +4810,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "THA",
@@ -4754,7 +4827,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "TLS",
@@ -4826,7 +4900,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "GBR",
@@ -4942,7 +5017,8 @@
 			"ar": "وكان جنوب السودان جزءا من جمهورية السودان قبل عام 2011",
 			"zh_Hans": "南苏丹在2011年前是苏丹共和国的一部分",
 			"zh_Hant": "於2011年之前，南蘇丹是蘇丹共和國的一部分",
-			"zh_TW": "南蘇丹在2011年以前是蘇丹共和國的一部分。"
+			"zh_TW": "南蘇丹在2011年以前是蘇丹共和國的一部分。",
+			"pt": "O Sudão do Sul era parte da Republica do Sudão até 2011"
 		}
 	}, {
 		"id": "ALB",
@@ -5105,7 +5181,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 	}, {
 		"id": "BRA",
@@ -5128,7 +5205,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "BGR",
@@ -5172,7 +5250,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "CAN",
@@ -5223,7 +5302,8 @@
 			"ar": "عام 2009، توقفت منظمة العفو الدولية عن نشر احصاءاتنا التقديرية بشأن تنفيذ عقوبة الإعدام في الصين، في تحدّ للسرية التي تعتمدها البلاد. لا تزال الصين تعتبر هذه الإحصاءات بمثابة سر حكومي. وبحسب متابعتنا ، لا تزال الصين تحتل الصدارة في عدد احكام الإعدام التي تنفذها.",
 			"zh_Hans": "基于中国在死刑方面秘而不言，国际特赦组织自2009年起即停止公布估算的中国使用死刑数字。中国继续将这类数据列为国家机密。我们的跟踪调查显示中国仍然是世界头号刽子手。",
 			"zh_Hant": "2009年，國際特赦組織停止發佈中國死刑及處決估計數字，因為該國對相關資料作出保密。中國繼續將相關數字列為國家機密。我們的監察發現，中國仍是世界上處決最多人的國家。",
-			"zh_TW": "因為中國的保密狀態，2009年國際特赦組織停止發佈預估的中國執行死刑次數。中國繼續將此類數據列為國家機密。我們的監測指出，中國仍為世界上處刑最頻繁的國家。"
+			"zh_TW": "因為中國的保密狀態，2009年國際特赦組織停止發佈預估的中國執行死刑次數。中國繼續將此類數據列為國家機密。我們的監測指出，中國仍為世界上處刑最頻繁的國家。",
+			"pt": "Em 2009, a Amnistia Internacional deixou de publicar números estimados sobre o uso da pena de morte na China, dado os desafios face ao secretismo do país. A China continua a classificar tais números como um segredo de estado. A nossa atividade de monitorização indica que a China continua a ser o país do mundo com maior número de execuções."
 		}
 	}, {
 		"id": "COL",
@@ -5309,7 +5389,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "DNK",
@@ -5381,7 +5462,8 @@
 			"ar": "يصعب الحصول على معلومات رسمية بشأن استخدام عقوبة الإعدام في اريتريا. ولا يخضع غالبية المحتجزين للإجراءات القضائية، وترفض الحكومة عموماً تقديم أي معلومات ذات صلة في هذا الشأن، ولم تُسجل أي عمليات إعدام رسمية أو أحكام بالاعدام.",
 			"zh_TW": "死刑相關的官方資訊在厄立垂亞十分難以取得。大部分遭拘留者無法進入司法程序，一般來說，政府拒絕提供相關資料。因而在此脈絡下，未有正式處決或死刑的紀錄。",
 			"zh_Hans": "有关死刑适用的官方信息在厄立特里亚难以获取。大多数在押者没有经历过司法程序，而且政府一般拒绝提供相关信息，因此，在此背景下没有任何正式处决或死刑判决记录。",
-			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。"
+			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。",
+			"pt": "É muito difícil obter informações oficiais sobre o uso da pena de morte na Eritreia. A maioria dos detidos não passa por um procedimento judicial, e o governo geralmente recusa-se a fornecer informações relevantes. Neste contexto, não foram registadas execuções formais ou sentenças de morte"
 		}
 
 	}, {
@@ -5573,7 +5655,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "IRQ",
@@ -5708,7 +5791,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "LIE",
@@ -5843,7 +5927,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 	}, {
 		"id": "MNE",
@@ -5950,7 +6035,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "NOR",
@@ -5994,7 +6080,8 @@
 			"ar": "أحكام الإعدام وتنفيذها من قبل سلطة حماس في غزة",
 			"zh_Hans": "加沙哈马斯当局下达的死刑判决与执行的处决",
 			"zh_Hant": "在加沙的哈馬斯政權判決和執行死刑",
-			"zh_TW": "哈馬斯當局政權於加薩執行的死刑及處決"
+			"zh_TW": "哈馬斯當局政權於加薩執行的死刑及處決",
+			"pt": "Penas de morte e execuções pelas autoridades do Hamas em Gaza"
 		}
 	}, {
 		"id": "PAN",
@@ -6059,7 +6146,8 @@
 			"ar": "عقوبة الإعدام نافذة بموجب القانون الفدرالي الأميركي",
 			"zh_Hans": "死刑在美国联邦法律之下适用",
 			"zh_Hant": "死刑為美國聯邦法律所許可",
-			"zh_TW": "美國聯邦法律之下適用死刑。"
+			"zh_TW": "美國聯邦法律之下適用死刑。",
+			"pt": "A pena de morte é aplicada em virtude da legislação federal dos EUA."
 		}
 	}, {
 		"id": "QAT",
@@ -6180,7 +6268,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
 			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "SVK",
@@ -6216,7 +6305,8 @@
 			"fr": "Condamnations à mort : 2 au Somaliland ; 6 au Puntland. Exécutions : 7 au Puntland ; 1 par le gouvernement fédéral de transition",
 			"ar": "أحكام الإعدام: 2 في أرض الصومال، 6 في بونتلاندعمليات الاعدام: 7 في بونتلاند. 1 قبل الحكومة الاتحادية الانتقالية",
 			"zh_Hans": "死刑判决：索马里兰2起；邦特兰6起 处决: 邦特兰7起；过渡联邦政府1起",
-			"zh_Hant": "死刑：索馬里蘭2宗;邦特蘭6宗. 處決：邦特蘭7宗; 聯邦過渡政府1宗"
+			"zh_Hant": "死刑：索馬里蘭2宗;邦特蘭6宗. 處決：邦特蘭7宗; 聯邦過渡政府1宗",
+			"pt": "Sentenças de morte: 2 na Somalilândia; 6 em Puntland. Execuções: 7 em Puntland; 1 pelo Governo Federal de Transição"
 		}
 	}, {
 		"id": "ZAF",
@@ -6253,7 +6343,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "SDN",
@@ -6360,7 +6451,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "TUN",
@@ -6467,7 +6559,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "YEM",
@@ -6513,7 +6606,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "ALB",
@@ -6725,7 +6819,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "CAN",
@@ -6762,7 +6857,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "CHL",
@@ -6785,7 +6881,8 @@
 			"ar": "عام 2009، توقفت منظمة العفو الدولية عن نشر احصاءاتنا التقديرية بشأن تنفيذ عقوبة الإعدام في الصين، في تحدّ للسرية التي تعتمدها البلاد. لا تزال الصين تعتبر هذه الإحصاءات بمثابة سر حكومي. وبحسب متابعتنا ، لا تزال الصين تحتل الصدارة في عدد احكام الإعدام التي تنفذها.",
 			"zh_Hans": "基于中国在死刑方面秘而不言，国际特赦组织自2009年起即停止公布估算的中国使用死刑数字。中国继续将这类数据列为国家机密。我们的跟踪调查显示中国仍然是世界头号刽子手。",
 			"zh_Hant": "中國繼續將相關數字列為國家機密。我們的監察發現，中國仍是世界上處決最多人的國家。",
-			"zh_TW": "因為中國的保密狀態，2009年國際特赦組織停止發佈預估的中國執行死刑次數。中國繼續將此類數據列為國家機密。我們的監測指出，中國仍為世界上處刑最頻繁的國家。"
+			"zh_TW": "因為中國的保密狀態，2009年國際特赦組織停止發佈預估的中國執行死刑次數。中國繼續將此類數據列為國家機密。我們的監測指出，中國仍為世界上處刑最頻繁的國家。",
+			"pt": "Em 2009, a Amnistia Internacional deixou de publicar números estimados sobre o uso da pena de morte na China, dado os desafios face ao secretismo do país. A China continua a classificar tais números como um segredo de estado. A nossa atividade de monitorização indica que a China continua a ser o país do mundo com maior número de execuções."
 
 		}
 	}, {
@@ -6872,7 +6969,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "DNK",
@@ -6944,7 +7042,8 @@
 			"ar": "يصعب الحصول على معلومات رسمية بشأن استخدام عقوبة الإعدام في اريتريا. ولا يخضع غالبية المحتجزين للإجراءات القضائية، وترفض الحكومة عموماً تقديم أي معلومات ذات صلة في هذا الشأن، ولم تُسجل أي عمليات إعدام رسمية أو أحكام بالاعدام.",
 			"zh_TW": "死刑相關的官方資訊在厄立垂亞十分難以取得。大部分遭拘留者無法進入司法程序，一般來說，政府拒絕提供相關資料。因而在此脈絡下，未有正式處決或死刑的紀錄。",
 			"zh_Hans": "有关死刑适用的官方信息在厄立特里亚难以获取。大多数在押者没有经历过司法程序，而且政府一般拒绝提供相关信息，因此，在此背景下没有任何正式处决或死刑判决记录。",
-			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。"
+			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。",
+			"pt": "É muito difícil obter informações oficiais sobre o uso da pena de morte na Eritreia. A maioria dos detidos não passa por um procedimento judicial, e o governo geralmente recusa-se a fornecer informações relevantes. Neste contexto, não foram registadas execuções formais ou sentenças de morte"
 		}
 
 	}, {
@@ -7260,9 +7359,10 @@
 			"es": "Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en Libia.",
 			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort en Libye.",
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد استخدام القضاء عقوبة الإعدام في ليبيا",
-			"zh_Hans": "国际特赦组织无法确认利比亚司法体系使用死刑的情况。", 
+			"zh_Hans": "国际特赦组织无法确认利比亚司法体系使用死刑的情况。",
 			"zh_Hant": "國際特赦組織無法確定於利比亞（台譯阿拉伯利比亞民眾國）是否作出死刑判決及執行死刑。",
-			"zh_TW": "國際特赦組織無法確認利比亞司法系統使用死刑的狀況。"
+			"zh_TW": "國際特赦組織無法確認利比亞司法系統使用死刑的狀況。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiu uso judicial da pena de morte na Líbia."
 
 		}
 	}, {
@@ -7307,7 +7407,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "MWI",
@@ -7330,7 +7431,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "MDV",
@@ -7416,7 +7518,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "MNE",
@@ -7523,7 +7626,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "NOR",
@@ -7546,7 +7650,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 }
 	}, {
 		"id": "PAK",
@@ -7576,7 +7681,8 @@
 			"ar": "أحكام الإعدام:  4 من قبل سلطة حماس في غزة؛ (1) من قبل السلطة الفلسطينية في الضفة الغربية ;عمليات الاعدام: 3 من قبل سلطة حماس في غزة ",
 			"zh_Hans": "死刑判决：加沙哈马斯当局4起；西岸巴勒斯坦权力机构1起; 处决: 加沙哈马斯当局3起",
 			"zh_Hant": "死刑：加沙的哈馬斯當局4宗; 約旦河西岸的巴勒斯坦當局1宗; 處決：加沙的哈馬斯當局3宗",
-			"zh_TW": "死刑：4件由哈馬斯當局於加薩執行；1件由巴勒斯坦當局於約旦河西岸執行; 處決：3件由哈馬斯當局於加薩執行"
+			"zh_TW": "死刑：4件由哈馬斯當局於加薩執行；1件由巴勒斯坦當局於約旦河西岸執行; 處決：3件由哈馬斯當局於加薩執行",
+			"pt": "Penas de morte: 4 pelas autoridades do Hamas em Gaza; 1 pela autoridade Palestiniana na Cisjordânia; Execuções: 3 pelas autoridades do Hamas em Gaza"
 
 		}
 	}, {
@@ -7642,7 +7748,8 @@
 			"ar": "عقوبة الإعدام نافذة بموجب القانون الفدرالي الأميركي",
 			"zh_Hans": "死刑在美国联邦法律之下适用",
 			"zh_Hant": "死刑為美國聯邦法律所許可",
-			"zh_TW": "美國聯邦法律之下適用死刑。"
+			"zh_TW": "美國聯邦法律之下適用死刑。",
+			"pt": "A pena de morte é aplicada em virtude da legislação federal dos EUA."
 		}
 	}, {
 		"id": "QAT",
@@ -7791,8 +7898,8 @@
 			"ar": "أحكام الإعدام:+32  من قبل الحكومة الاتحادية الانتقالية؛  4  في بونتلاند، 1 في غامالدوغ;  عمليات الاعدام: 6 من قبل الحكومة الاتحادية الانتقالية. 3 في بونتلاند. 1 في غامالدوغ ",
 			"zh_Hans": "死刑判决：过渡联邦政府32+起；邦特兰4起；贾穆杜格1起; 处决: 过渡联邦政府6起；邦特兰3起；贾穆杜格1起",
 			"zh_Hant": "死刑：聯邦過渡政府32+宗; 邦特蘭4宗; 加勒穆杜格1宗; 處決：聯邦過渡政府6宗; 邦特蘭3宗; 加勒穆杜格1宗",
-			"zh_TW": "死刑：32+件由過渡聯邦政府執行；4件於邦特蘭；1件於賈穆度格; 處決：6件由過渡聯邦政府執行；3件於邦特蘭；1件於賈穆度格"
-
+			"zh_TW": "死刑：32+件由過渡聯邦政府執行；4件於邦特蘭；1件於賈穆度格; 處決：6件由過渡聯邦政府執行；3件於邦特蘭；1件於賈穆度格",
+			"pt": "Penas de morte: 32+ pelo Governo Federal de Transição; 4 na Puntlândia; 1 em Galmudug. Execuções: 6 pelo Governo Federal de Transição; 3 na Puntlândia; 1 em Galmudug"
 		}
 	}, {
 		"id": "ZAF",
@@ -7878,7 +7985,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "TWN",
@@ -7908,7 +8016,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "THA",
@@ -8087,7 +8196,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "ALB",
@@ -8341,7 +8451,8 @@
 			"ar": "عام 2009، توقفت منظمة العفو الدولية عن نشر احصاءاتنا التقديرية بشأن تنفيذ عقوبة الإعدام في الصين، في تحدّ للسرية التي تعتمدها البلاد. لا تزال الصين تعتبر هذه الإحصاءات بمثابة سر حكومي. وبحسب متابعتنا ، لا تزال الصين تحتل الصدارة في عدد احكام الإعدام التي تنفذها.",
 			"zh_Hans": "基于中国在死刑方面秘而不言，国际特赦组织自2009年起即停止公布估算的中国使用死刑数字。中国继续将这类数据列为国家机密。我们的跟踪调查显示中国仍然是世界头号刽子手。",
 			"zh_Hant": "中國繼續將相關數字列為國家機密。我們的監察發現，中國仍是世界上處決最多人的國家。",
-			"zh_TW": "因為中國的保密狀態，2009年國際特赦組織停止發佈預估的中國執行死刑次數。中國繼續將此類數據列為國家機密。我們的監測指出，中國仍為世界上處刑最頻繁的國家。"
+			"zh_TW": "因為中國的保密狀態，2009年國際特赦組織停止發佈預估的中國執行死刑次數。中國繼續將此類數據列為國家機密。我們的監測指出，中國仍為世界上處刑最頻繁的國家。",
+			"pt": "Em 2009, a Amnistia Internacional deixou de publicar números estimados sobre o uso da pena de morte na China, dado os desafios face ao secretismo do país. A China continua a classificar tais números como um segredo de estado. A nossa atividade de monitorização indica que a China continua a ser o país do mundo com maior número de execuções."
 		}
 	}, {
 		"id": "COL",
@@ -8469,7 +8580,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم تنفيذ عمليات إعدام قضائية في هذا البلد.",
 			"zh_TW": "國際特赦組織無法確認該國是否發生司法處決。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有发生司法处决。",
-			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。"
+			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiu uso judicial da pena de morte neste país."
 		}
 	}, {
 		"id": "SLV",
@@ -8499,7 +8611,8 @@
 			"ar": "يصعب الحصول على معلومات رسمية بشأن استخدام عقوبة الإعدام في اريتريا. ولا يخضع غالبية المحتجزين للإجراءات القضائية، وترفض الحكومة عموماً تقديم أي معلومات ذات صلة في هذا الشأن، ولم تُسجل أي عمليات إعدام رسمية أو أحكام بالاعدام.",
 			"zh_TW": "死刑相關的官方資訊在厄立垂亞十分難以取得。大部分遭拘留者無法進入司法程序，一般來說，政府拒絕提供相關資料。因而在此脈絡下，未有正式處決或死刑的紀錄。",
 			"zh_Hans": "有关死刑适用的官方信息在厄立特里亚难以获取。大多数在押者没有经历过司法程序，而且政府一般拒绝提供相关信息，因此，在此背景下没有任何正式处决或死刑判决记录。",
-			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。"
+			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。",
+			"pt": "É muito difícil obter informações oficiais sobre o uso da pena de morte na Eritreia. A maioria dos detidos não passa por um procedimento judicial, e o governo geralmente recusa-se a fornecer informações relevantes. Neste contexto, não foram registadas execuções formais ou sentenças de morte"
 		}
 
 	}, {
@@ -8782,7 +8895,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "LVA",
@@ -8875,7 +8989,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم تنفيذ عمليات إعدام قضائية في هذا البلد.",
 			"zh_TW": "國際特赦組織無法確認該國是否發生司法處決。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有发生司法处决。",
-			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。"
+			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiu uso judicial da pena de morte neste país."
 		}
 	}, {
 		"id": "MDV",
@@ -8961,7 +9076,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "MNE",
@@ -9068,7 +9184,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "NOR",
@@ -9112,7 +9229,8 @@
 			"ar": "أحكام الإعدام: 5+ من قبل سلطة حماس في غزة، 1 قبل السلطة الفلسطينية في الضفة الغربية ;عمليات الاعدام: 6 من قبل سلطة حماس في غزة ",
 			"zh_Hans": "死刑判决：加沙哈马斯当局5+起；西岸巴勒斯坦权力机构1起; 处决: 加沙哈马斯当局6起",
 			"zh_Hant": "死刑：加沙的哈馬斯當局5+宗; 約旦河西岸的巴勒斯坦當局1宗; 處決：加沙的哈馬斯當局6宗",
-			"zh_TW": "死刑：5+件由哈馬斯當局於加薩執行；1件由巴勒斯坦當局於約旦河西岸執行; 處決：6件由哈馬斯當局於加薩執行"
+			"zh_TW": "死刑：5+件由哈馬斯當局於加薩執行；1件由巴勒斯坦當局於約旦河西岸執行; 處決：6件由哈馬斯當局於加薩執行",
+			"pt": "Penas de morte: 5+ pelas autoridades do Hamas em Gaza; 1 pela autoridade Palestiniana na Cisjordânia; Execuções: 6 pelas autoridades do Hamas em Gaza"
 		}
 	}, {
 		"id": "PAN",
@@ -9177,7 +9295,8 @@
 			"ar": "عقوبة الإعدام نافذة بموجب القانون الفدرالي الأميركي",
 			"zh_Hans": "死刑在美国联邦法律之下适用",
 			"zh_Hant": "死刑為美國聯邦法律所許可",
-			"zh_TW": "美國聯邦法律之下適用死刑。"
+			"zh_TW": "美國聯邦法律之下適用死刑。",
+			"pt": "A pena de morte é aplicada em virtude da legislação federal dos EUA."
 		}
 	}, {
 		"id": "QAT",
@@ -9326,7 +9445,8 @@
 			"ar": "أحكام الإعدام: 51 من قبل الحكومة الاتحادية الانتقالية ؛ 7 في بونتلاند؛ 18 في  أرض الصومال ;عمليات الاعدام: 5+ من قبل الحكومة الاتحادية الانتقالية. 1+ في بونتلاند",
 			"zh_Hans": "死刑判决：过渡联邦政府51起；邦特兰7起；索马里兰1起; 处决: 过渡联邦政府5+起；邦特兰1+起",
 			"zh_Hant": "死刑：聯邦過渡政府51宗，邦特蘭7宗; 索馬里蘭18宗; 處決：聯邦過渡政府5+宗; 邦特蘭1+宗",
-			"zh_TW": "死刑：51件由過渡聯邦政府執行；7件於邦特蘭；18件於索馬利蘭; 處決：5+ 件由過渡聯邦政府執行；1+件於邦特蘭"
+			"zh_TW": "死刑：51件由過渡聯邦政府執行；7件於邦特蘭；18件於索馬利蘭; 處決：5+ 件由過渡聯邦政府執行；1+件於邦特蘭",
+			"pt": "Penas de morte: 51 pelo Governo Federal de Transição; 7 na Puntlândia; 18 na SomaliLândia. Execuções: 5+ pelo Governo Federal de Transição; 1+ na Putlândia"
 		}
 	}, {
 		"id": "ZAF",
@@ -9356,7 +9476,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "ESP",
@@ -9415,13 +9536,14 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict.", 
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict.",
 			"es": "Debido al conflicto armado, Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en Siria.",
 			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort en Syrie en raison du conflit armé.",
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد استخدام القضاء عقوبة الإعدام في سوريا بسبب النزاع المسلح ",
-			"zh_Hans": "由于叙利亚发生武装冲突，国际特赦组织无法确认该国司法体系使用死刑的情况。", 
+			"zh_Hans": "由于叙利亚发生武装冲突，国际特赦组织无法确认该国司法体系使用死刑的情况。",
 			"zh_Hant": "由於敘利亞發生武裝衝突，國際特赦組織無法確定死刑在該國的司法執行情況。",
-			"zh_TW": "由於敘利亞發生武裝衝突，國際特赦組織無法確認該國司法系統使用死刑的狀況。"
+			"zh_TW": "由於敘利亞發生武裝衝突，國際特赦組織無法確認該國司法系統使用死刑的狀況。",
+			"pt": "Devido ao conflito armado na Síria, a Amnistia Internacional não pôde confirmar o uso judicial da pena de morte no país."
 			}
 	}, {
 		"id": "TWN",
@@ -9866,7 +9988,8 @@
 			"ar": "عام 2009، توقفت منظمة العفو الدولية عن نشر احصاءاتنا التقديرية بشأن تنفيذ عقوبة الإعدام في الصين، في تحدّ للسرية التي تعتمدها البلاد. لا تزال الصين تعتبر هذه الإحصاءات بمثابة سر حكومي. وبحسب متابعتنا ، لا تزال الصين تحتل الصدارة في عدد احكام الإعدام التي تنفذها.",
 			"zh_Hans": "基于中国在死刑方面秘而不言，国际特赦组织自2009年起即停止公布估算的中国使用死刑数字。中国继续将这类数据列为国家机密。我们的跟踪调查显示中国仍然是世界头号刽子手。",
 			"zh_Hant": "中國繼續將相關數字列為國家機密。我們的監察發現，中國仍是世界上處決最多人的國家。",
-			"zh_TW": "因為中國的保密狀態，2009年國際特赦組織停止發佈預估的中國執行死刑次數。中國繼續將此類數據列為國家機密。我們的監測指出，中國仍為世界上處刑最頻繁的國家。"
+			"zh_TW": "因為中國的保密狀態，2009年國際特赦組織停止發佈預估的中國執行死刑次數。中國繼續將此類數據列為國家機密。我們的監測指出，中國仍為世界上處刑最頻繁的國家。",
+			"pt": "Em 2009, a Amnistia Internacional deixou de publicar números estimados sobre o uso da pena de morte na China, dado os desafios face ao secretismo do país. A China continua a classificar tais números como um segredo de estado. A nossa atividade de monitorização indica que a China continua a ser o país do mundo com maior número de execuções."
 		}
 	}, {
 		"id": "COL",
@@ -9994,7 +10117,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم تنفيذ عمليات إعدام قضائية في هذا البلد.",
 			"zh_TW": "國際特赦組織無法確認該國是否發生司法處決。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有发生司法处决。",
-			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。"
+			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiu uso judicial da pena de morte neste país."
 		}
 	}, {
 		"id": "SLV",
@@ -10024,7 +10148,8 @@
 			"ar": "يصعب الحصول على معلومات رسمية بشأن استخدام عقوبة الإعدام في اريتريا. ولا يخضع غالبية المحتجزين للإجراءات القضائية، وترفض الحكومة عموماً تقديم أي معلومات ذات صلة في هذا الشأن، ولم تُسجل أي عمليات إعدام رسمية أو أحكام بالاعدام.",
 			"zh_TW": "死刑相關的官方資訊在厄立垂亞十分難以取得。大部分遭拘留者無法進入司法程序，一般來說，政府拒絕提供相關資料。因而在此脈絡下，未有正式處決或死刑的紀錄。",
 			"zh_Hans": "有关死刑适用的官方信息在厄立特里亚难以获取。大多数在押者没有经历过司法程序，而且政府一般拒绝提供相关信息，因此，在此背景下没有任何正式处决或死刑判决记录。",
-			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。"
+			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。",
+			"pt": "É muito difícil obter informações oficiais sobre o uso da pena de morte na Eritreia. A maioria dos detidos não passa por um procedimento judicial, e o governo geralmente recusa-se a fornecer informações relevantes. Neste contexto, não foram registadas execuções formais ou sentenças de morte"
 		}
 
 	}, {
@@ -10566,7 +10691,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "NOR",
@@ -10610,7 +10736,8 @@
 			"ar": "أحكام الإعدام: 13+  من قبل سلطة حماس في غزة، 1+ من السلطة الفلسطينية في الضفة الغربية ;عمليات الاعدام: 3+ من قبل سلطة حماس في غزة",
 			"zh_Hans": "死刑判决：加沙哈马斯当局13+起；西岸巴勒斯坦权力机构1+起; 处决: 加沙哈马斯当局3+起",
 			"zh_Hant": "死刑：加沙的哈馬斯當局13+宗; 約旦河西岸的巴勒斯坦當局1+宗; 處決：加沙的哈馬斯當局3+宗",
-			"zh_TW": "死刑：13+件由哈馬斯當局於加薩執行；1+件由巴勒斯坦當局於約旦河西岸執行; 處決：3+件由哈馬斯當局於加薩執行"
+			"zh_TW": "死刑：13+件由哈馬斯當局於加薩執行；1+件由巴勒斯坦當局於約旦河西岸執行; 處決：3+件由哈馬斯當局於加薩執行",
+			"pt": "Sentenças de morte: 13+ pelas autoridades do Hamas em Gaza; 1+ pelas Autoridades Palestinianas na Cisjordânia; Execuções: 3+ pelas autoridades do Hamas em Gaza"
 		}
 	}, {
 		"id": "PAN",
@@ -10675,7 +10802,8 @@
 			"ar": "عقوبة الإعدام نافذة بموجب القانون الفدرالي الأميركي",
 			"zh_Hans": "死刑在美国联邦法律之下适用",
 			"zh_Hant": "死刑為美國聯邦法律所許可",
-			"zh_TW": "美國聯邦法律之下適用死刑。"
+			"zh_TW": "美國聯邦法律之下適用死刑。",
+			"pt": "A pena de morte é aplicada em virtude da legislação federal dos EUA."
 		}
 	}, {
 		"id": "QAT",
@@ -10824,7 +10952,8 @@
 			"ar": "أحكام الإعدام: 8+ من قبل الحكومة الاتحادية، 81+ في بونتلاند 28+ في أرض الصومال ;الإعدام: 15+ من قبل الحكومة الاتحادية. 19+ في بونتلاند",
 			"zh_Hans": "死刑判决：联邦政府8+起；邦特兰81+起；索马里兰28+起; 处决: 联邦政府15+起；邦特兰19+起",
 			"zh_Hant": "死刑：聯邦政府8+宗，邦特蘭81+宗; 索馬里蘭28+宗; 處決：聯邦政府15+宗; 邦特蘭19+宗",
-			"zh_TW": "死刑：8+件由過渡聯邦政府執行；81+件於邦特蘭；28+件於索馬利蘭; 處決：15+件由過渡聯邦政府執行；19+件於邦特蘭"
+			"zh_TW": "死刑：8+件由過渡聯邦政府執行；81+件於邦特蘭；28+件於索馬利蘭; 處決：15+件由過渡聯邦政府執行；19+件於邦特蘭",
+			"pt": "Penas de morte: 8+ pelo Governo Federal de Transição; 81+ na Puntlândia; 28+ na SomaliLândia. Execuções: 15+ pelo Governo Federal; 19+ na Puntlândia"
 		}
 	}, {
 		"id": "ZAF",
@@ -10908,9 +11037,10 @@
 			"es": "Debido al conflicto armado, Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en Siria.",
 			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort en Syrie en raison du conflit armé.",
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد استخدام القضاء عقوبة الإعدام في سوريا بسبب النزاع المسلح ",
-			"zh_Hans": "由于叙利亚发生武装冲突，国际特赦组织无法确认该国司法体系使用死刑的情况。", 
+			"zh_Hans": "由于叙利亚发生武装冲突，国际特赦组织无法确认该国司法体系使用死刑的情况。",
 			"zh_Hant": "由於敘利亞發生武裝衝突，國際特赦組織無法確定死刑在該國的司法執行情況。",
-			"zh_TW": "由於敘利亞發生武裝衝突，國際特赦組織無法確認該國司法系統使用死刑的狀況。"
+			"zh_TW": "由於敘利亞發生武裝衝突，國際特赦組織無法確認該國司法系統使用死刑的狀況。",
+			"pt": "Devido ao conflito armado na Síria, a Amnistia Internacional não pôde confirmar o uso judicial da pena de morte no país."
 		}
 	}, {
 		"id": "TWN",
@@ -11355,7 +11485,8 @@
 			"ar": "عام 2009، توقفت منظمة العفو الدولية عن نشر احصاءاتنا التقديرية بشأن تنفيذ عقوبة الإعدام في الصين، في تحدّ للسرية التي تعتمدها البلاد. لا تزال الصين تعتبر هذه الإحصاءات بمثابة سر حكومي. وبحسب متابعتنا ، لا تزال الصين تحتل الصدارة في عدد احكام الإعدام التي تنفذها.",
 			"zh_Hans": "基于中国在死刑方面秘而不言，国际特赦组织自2009年起即停止公布估算的中国使用死刑数字。中国继续将这类数据列为国家机密。我们的跟踪调查显示中国仍然是世界头号刽子手。",
 			"zh_Hant": "中國繼續將相關數字列為國家機密。我們的監察發現，中國仍是世界上處決最多人的國家。",
-			"zh_TW": "因為中國的保密狀態，2009年國際特赦組織停止發佈預估的中國執行死刑次數。中國繼續將此類數據列為國家機密。我們的監測指出，中國仍為世界上處刑最頻繁的國家。"
+			"zh_TW": "因為中國的保密狀態，2009年國際特赦組織停止發佈預估的中國執行死刑次數。中國繼續將此類數據列為國家機密。我們的監測指出，中國仍為世界上處刑最頻繁的國家。",
+			"pt": "Em 2009, a Amnistia Internacional deixou de publicar números estimados sobre o uso da pena de morte na China, dado os desafios face ao secretismo do país. A China continua a classificar tais números como um segredo de estado. A nossa atividade de monitorização indica que a China continua a ser o país do mundo com maior número de execuções."
 		}
 	}, {
 		"id": "COL",
@@ -11504,7 +11635,8 @@
 			"ar": "يصعب الحصول على معلومات رسمية بشأن استخدام عقوبة الإعدام في اريتريا. ولا يخضع غالبية المحتجزين للإجراءات القضائية، وترفض الحكومة عموماً تقديم أي معلومات ذات صلة في هذا الشأن، ولم تُسجل أي عمليات إعدام رسمية أو أحكام بالاعدام.",
 			"zh_TW": "死刑相關的官方資訊在厄立垂亞十分難以取得。大部分遭拘留者無法進入司法程序，一般來說，政府拒絕提供相關資料。因而在此脈絡下，未有正式處決或死刑的紀錄。",
 			"zh_Hans": "有关死刑适用的官方信息在厄立特里亚难以获取。大多数在押者没有经历过司法程序，而且政府一般拒绝提供相关信息，因此，在此背景下没有任何正式处决或死刑判决记录。",
-			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。"
+			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。",
+			"pt": "É muito difícil obter informações oficiais sobre o uso da pena de morte na Eritreia. A maioria dos detidos não passa por um procedimento judicial, e o governo geralmente recusa-se a fornecer informações relevantes. Neste contexto, não foram registadas execuções formais ou sentenças de morte"
 		}
 	}, {
 		"id": "EST",
@@ -11527,7 +11659,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"	
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 	}, {
 		"id": "FJI",
@@ -11627,7 +11760,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 	}, {
 		"id": "GNB",
@@ -11804,7 +11938,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم فرض أحكام إعدام في هذا البلد",
 			"zh_TW": "國際特赦組織無法確認該國是否判處死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。"
+			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 		}
 	}, {
 		"id": "LVA",
@@ -12072,7 +12207,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "NOR",
@@ -12095,7 +12231,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم استخدام عقوبة الإعدام في هذا البلد ",
 			"zh_TW": "國際特赦組織無法確認該國司法系統是否使用死刑。",
 			"zh_Hans": "国际特赦组织无法确认该国司法体系使用死刑的情况。",
-			"zh_Hant": "國際特赦組織未能確定此國曾否執行死刑和作出死刑判決。"
+			"zh_Hant": "國際特赦組織未能確定此國曾否執行死刑和作出死刑判決。",
+			"pt": "A Amnistia Internacional não pôde confirmar o uso judicial da pena de morte neste país."
 		}
 	}, {
 		"id": "PAK",
@@ -12125,7 +12262,8 @@
 			"ar": "أحكام الإعدام: 4+ من قبل سلطة حماس في غزة ;الإعدام: 2+  من قبل سلطة حماس في غزة ",
 			"zh_Hans": "死刑判决：加沙哈马斯当局4+起; 处决: 加沙哈马斯当局2+起",
 			"zh_Hant": "死刑：加沙的哈馬斯當局4+宗; 處決：加沙的哈馬斯當局2+宗",
-			"zh_TW": "死刑：4+件由哈馬斯當局於加薩執行; 處決：2+件由哈馬斯當局於加薩執行"
+			"zh_TW": "死刑：4+件由哈馬斯當局於加薩執行; 處決：2+件由哈馬斯當局於加薩執行",
+			"pt": "Sentenças de morte: 4+ pelas autoridades do Hamas em Gaza. Execuções: 2+ pelas autoridades do Hamas em Gaza"
 		}
 	}, {
 		"id": "PAN",
@@ -12190,7 +12328,8 @@
 			"ar": "عقوبة الإعدام نافذة بموجب القانون الفدرالي الأميركي",
 			"zh_Hans": "死刑在美国联邦法律之下适用",
 			"zh_Hant": "死刑為美國聯邦法律所許可",
-			"zh_TW": "美國聯邦法律之下適用死刑。"
+			"zh_TW": "美國聯邦法律之下適用死刑。",
+			"pt": "A pena de morte é aplicada em virtude da legislação federal dos EUA."
 		}
 	}, {
 		"id": "QAT",
@@ -12339,7 +12478,8 @@
 			"ar": "أحكام الإعدام: 31+ من قبل الحكومة الاتحادية  الصومالية، 11+ في بونتلاند، 10+ في أرض الصومال ;عمليات الاعدام: 13+ من قبل الحكومة الاتحادية الصومالية. 1 في منطقة جوبالاند ",
 			"zh_Hans": "死刑判决：索马里联邦政府31+起；邦特兰11+起；索马里兰10+起; 处决: 索马里联邦政府13+起；朱巴兰地区1起",
 			"zh_Hant": "死刑：索馬里聯邦政府31+宗，邦特蘭11+宗; 索馬里蘭10+宗; 處決：索馬里聯邦政府13+宗; 朱巴蘭地區1宗",
-			"zh_TW": "死刑：31+件由索馬利聯邦政府執行；11+件於邦特蘭；10+件於索馬利蘭; 處決：13+件由索馬利聯邦政府執行；1件於朱巴蘭地區"
+			"zh_TW": "死刑：31+件由索馬利聯邦政府執行；11+件於邦特蘭；10+件於索馬利蘭; 處決：13+件由索馬利聯邦政府執行；1件於朱巴蘭地區",
+			"pt": "Penas de morte: 31+ pelo Governo Federal somalí; 1+ na Puntlândia; 11+ na SomaliLândia. Execuções: 15+ pelo Governo Federal somalí; 1 na região da Jubalândia"
 
 		}
 	}, {
@@ -12370,7 +12510,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "ESP",
@@ -12412,9 +12553,10 @@
 			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales en Libia.",
 			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu en Libye.",
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد  ما إذا كان قد تم تنفيذ أي عمليات اعدام خارج نطاق القضاء في ليبيا",
-			"zh_Hans": "国际特赦组织无法确认利比亚是否执行了司法处决。", 
+			"zh_Hans": "国际特赦组织无法确认利比亚是否执行了司法处决。",
 			"zh_Hant": "國際特赦組織無法確定於利比亞（台譯阿拉伯利比亞民眾國）是否執行司法處決。",
-			"zh_TW": "國際特赦組織無法確認利比亞是否發生司法處決。"
+			"zh_TW": "國際特赦組織無法確認利比亞是否發生司法處決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiu uso judicial da pena de morte na Líbia."
 		}
 	}, {
 		"id": "SWE",
@@ -12438,13 +12580,14 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict.", 
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict.",
 			"es": "Debido al conflicto armado, Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en Siria.",
 			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort en Syrie en raison du conflit armé.",
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد استخدام القضاء عقوبة الإعدام في سوريا بسبب النزاع المسلح ",
-			"zh_Hans": "由于叙利亚发生武装冲突，国际特赦组织无法确认该国司法体系使用死刑的情况。", 
+			"zh_Hans": "由于叙利亚发生武装冲突，国际特赦组织无法确认该国司法体系使用死刑的情况。",
 			"zh_Hant": "由於敘利亞發生武裝衝突，國際特赦組織無法確定死刑在該國的司法執行情況。",
-			"zh_TW": "由於敘利亞發生武裝衝突，國際特赦組織無法確認該國司法系統使用死刑的狀況。"
+			"zh_TW": "由於敘利亞發生武裝衝突，國際特赦組織無法確認該國司法系統使用死刑的狀況。",
+			"pt": "Devido ao conflito armado na Síria, a Amnistia Internacional não pôde confirmar o uso judicial da pena de morte no país."
 		}
 	}, {
 		"id": "TWN",
@@ -12889,7 +13032,8 @@
 			"ar": "عام 2009، توقفت منظمة العفو الدولية عن نشر احصاءاتنا التقديرية بشأن تنفيذ عقوبة الإعدام في الصين، في تحدّ للسرية التي تعتمدها البلاد. لا تزال الصين تعتبر هذه الإحصاءات بمثابة سر حكومي. وبحسب متابعتنا ، لا تزال الصين تحتل الصدارة في عدد احكام الإعدام التي تنفذها.",
 			"zh_Hans": "基于中国在死刑方面秘而不言，国际特赦组织自2009年起即停止公布估算的中国使用死刑数字。中国继续将这类数据列为国家机密。我们的跟踪调查显示中国仍然是世界头号刽子手。",
 			"zh_Hant": "中國繼續將相關數字列為國家機密。我們的監察發現，中國仍是世界上處決最多人的國家。",
-			"zh_TW": "因為中國的保密狀態，2009年國際特赦組織停止發佈預估的中國執行死刑次數。中國繼續將此類數據列為國家機密。我們的監測指出，中國仍為世界上處刑最頻繁的國家。"
+			"zh_TW": "因為中國的保密狀態，2009年國際特赦組織停止發佈預估的中國執行死刑次數。中國繼續將此類數據列為國家機密。我們的監測指出，中國仍為世界上處刑最頻繁的國家。",
+			"pt": "Em 2009, a Amnistia Internacional deixou de publicar números estimados sobre o uso da pena de morte na China, dado os desafios face ao secretismo do país. A China continua a classificar tais números como um segredo de estado. A nossa atividade de monitorização indica que a China continua a ser o país do mundo com maior número de execuções."
 		}
 	}, {
 		"id": "COL",
@@ -13038,7 +13182,8 @@
 			"ar": "يصعب الحصول على معلومات رسمية بشأن استخدام عقوبة الإعدام في اريتريا. ولا يخضع غالبية المحتجزين للإجراءات القضائية، وترفض الحكومة عموماً تقديم أي معلومات ذات صلة في هذا الشأن، ولم تُسجل أي عمليات إعدام رسمية أو أحكام بالاعدام.",
 			"zh_TW": "死刑相關的官方資訊在厄立垂亞十分難以取得。大部分遭拘留者無法進入司法程序，一般來說，政府拒絕提供相關資料。因而在此脈絡下，未有正式處決或死刑的紀錄。",
 			"zh_Hans": "有关死刑适用的官方信息在厄立特里亚难以获取。大多数在押者没有经历过司法程序，而且政府一般拒绝提供相关信息，因此，在此背景下没有任何正式处决或死刑判决记录。",
-			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。"
+			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。",
+			"pt": "É muito difícil obter informações oficiais sobre o uso da pena de morte na Eritreia. A maioria dos detidos não passa por um procedimento judicial, e o governo geralmente recusa-se a fornecer informações relevantes. Neste contexto, não foram registadas execuções formais ou sentenças de morte"
 
 }
 	}, {
@@ -13230,7 +13375,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها. في عام 2015، بدأت منظمة العفو الدولية استخدام الرقم الإجمالي لعمليات الإعدام المعلن عنها بشكل رسمي،  وتلك غير المعلن عنها رسمياً ، ولكن أكدت لنا مصادر موثوقة انها قد نُفّذت ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。. 自2015年起，国际特赦组织开始使用合拼数据，即结合官方公布之处决数据以及非官方公布但我们从可靠消息来源确认之处决数据。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字 . 自2015年起，國際特赦組織開始使用合併數據，即合併官方公布之處決及非官方公布但我們從可靠來源證實的處決數據。",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。. 2015年國際特赦組織開始結合官方發布的處決數據，以及官方未宣布，然而經國際特赦組織透過可靠消息來源確認曾發生處決的數據。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。. 2015年國際特赦組織開始結合官方發布的處決數據，以及官方未宣布，然而經國際特赦組織透過可靠消息來源確認曾發生處決的數據。",
+			"pt": "Em 2015, a Amnistia Internacional começou a usar o número combinado de execuções oficialmente anunciadas e as execuções não anunciadas oficialmente mas que confirmamos que ocorreram através de fontes credíveis e fidedignas. O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "IRQ",
@@ -13330,7 +13476,8 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم تنفيذ عمليات إعدام قضائية في هذا البلد.",
 			"zh_TW": "國際特赦組織無法確認該國是否發生司法處決。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有发生司法处决。",
-			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。"
+			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiu uso judicial da pena de morte na Síria devido ao conflito armado."
 		}
 	}, {
 		"id": "LVA",
@@ -13423,7 +13570,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "MDV",
@@ -13607,7 +13755,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "NOR",
@@ -13651,7 +13800,8 @@
 			"ar": "أحكام الإعدام: 10+ من قبل سلطة حماس في غزة. 2+ من قبل السلطة الفلسطينية في الضفة الغربية",
 			"zh_Hans": "死刑判决：加沙哈马斯当局10+起；西岸巴勒斯坦权力机构2+起",
 			"zh_Hant": "死刑：加沙的哈馬斯當局1++宗; 約旦河西岸的巴勒斯坦當局2+宗",
-			"zh_TW": "死刑：10+件由哈馬斯當局於加薩執行；2+件由巴勒斯坦當局於約旦河西岸執行"
+			"zh_TW": "死刑：10+件由哈馬斯當局於加薩執行；2+件由巴勒斯坦當局於約旦河西岸執行",
+			"pt": "Penas de morte: 10+ pelas autoridades do Hamas em Gaza. 1 pela autoridade Palestiniana na Cisjordânia; Execuções: 3 pelas autoridades do Hamas em Gaza"
 		}
 	}, {
 		"id": "PAN",
@@ -13716,7 +13866,8 @@
 			"ar": "عقوبة الإعدام نافذة بموجب القانون الفدرالي الأميركي",
 			"zh_Hans": "死刑在美国联邦法律之下适用",
 			"zh_Hant": "死刑為美國聯邦法律所許可",
-			"zh_TW": "美國聯邦法律之下適用死刑。"
+			"zh_TW": "美國聯邦法律之下適用死刑。",
+			"pt": "A pena de morte é aplicada em virtude da legislação federal dos EUA."
 		}
 	}, {
 		"id": "QAT",
@@ -13865,7 +14016,8 @@
 			"ar": "أحكام الإعدام: 4+ من قبل الحكومة الاتحادية من أرض الصومال؛ 1+ في أرض الصومال ;عمليات الاعدام: 17+ من قبل الحكومة الاتحادية  الصومالية. أرض الصومال 6+ و جوبالاند 2+ ",
 			"zh_Hans": "死刑判决：索马里联邦政府4+起；索马里兰1+起; 处决: 索马里联邦政府17+起；朱巴兰地区2+起",
 			"zh_Hant": "死刑：索馬里聯邦政府4+宗; 索馬里蘭1+宗; 處決：索馬里聯邦政府17+宗 索馬里蘭6+宗; 朱巴蘭地區2+宗",
-			"zh_TW": "死刑：4+件由索馬利亞聯邦政府執行；1+件於索馬利蘭; 處決：17+件由索馬利亞聯邦政府執行；6+於索馬利蘭；2+於朱巴蘭"
+			"zh_TW": "死刑：4+件由索馬利亞聯邦政府執行；1+件於索馬利蘭; 處決：17+件由索馬利亞聯邦政府執行；6+於索馬利蘭；2+於朱巴蘭",
+			"pt": "Penas de morte: 4+ pelo Governo Federal somalí; 1+ na Somalilândia. Execuções: 17+ pelo Governo Federal somalí; 6+ na Somalilândia. 2+ na Jubalândia"
 		}
 	}, {
 		"id": "ZAF",
@@ -13949,9 +14101,10 @@
 			"es": "Debido al conflicto armado, Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en Siria.",
 			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort en Syrie en raison du conflit armé.",
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد استخدام القضاء عقوبة الإعدام في سوريا بسبب النزاع المسلح ",
-			"zh_Hans": "由于叙利亚发生武装冲突，国际特赦组织无法确认该国司法体系使用死刑的情况。", 
+			"zh_Hans": "由于叙利亚发生武装冲突，国际特赦组织无法确认该国司法体系使用死刑的情况。",
 			"zh_Hant": "由於敘利亞發生武裝衝突，國際特赦組織無法確定死刑在該國的司法執行情況。",
-			"zh_TW": "由於敘利亞發生武裝衝突，國際特赦組織無法確認該國司法系統使用死刑的狀況。"
+			"zh_TW": "由於敘利亞發生武裝衝突，國際特赦組織無法確認該國司法系統使用死刑的狀況。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiu uso judicial da pena de morte na Síria devido ao conflito armado."
 		}
 	}, {
 		"id": "TWN",
@@ -14114,7 +14267,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "YEM",
@@ -14130,7 +14284,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "ZMB",
@@ -14414,7 +14569,8 @@
 			"ar": "عام 2009، توقفت منظمة العفو الدولية عن نشر احصاءاتنا التقديرية بشأن تنفيذ عقوبة الإعدام في الصين، في تحدّ للسرية التي تعتمدها البلاد. لا تزال الصين تعتبر هذه الإحصاءات بمثابة سر حكومي. وبحسب متابعتنا ، لا تزال الصين تحتل الصدارة في عدد احكام الإعدام التي تنفذها.",
 			"zh_Hans": "基于中国在死刑方面秘而不言，国际特赦组织自2009年起即停止公布估算的中国使用死刑数字。中国继续将这类数据列为国家机密。我们的跟踪调查显示中国仍然是世界头号刽子手。",
 			"zh_Hant": "中國繼續將相關數字列為國家機密。我們的監察發現，中國仍是世界上處決最多人的國家。",
-			"zh_TW": "因為中國的保密狀態，2009年國際特赦組織停止發佈預估的中國執行死刑次數。中國繼續將此類數據列為國家機密。我們的監測指出，中國仍為世界上處刑最頻繁的國家。"
+			"zh_TW": "因為中國的保密狀態，2009年國際特赦組織停止發佈預估的中國執行死刑次數。中國繼續將此類數據列為國家機密。我們的監測指出，中國仍為世界上處刑最頻繁的國家。",
+			"pt": "Em 2009, a Amnistia Internacional deixou de publicar números estimados sobre o uso da pena de morte na China, dado os desafios face ao secretismo do país. A China continua a classificar tais números como um segredo de estado. A nossa atividade de monitorização indica que a China continua a ser o país do mundo com maior número de execuções."
 		}
 	}, {
 		"id": "COL",
@@ -14563,7 +14719,8 @@
 			"ar": "يصعب الحصول على معلومات رسمية بشأن استخدام عقوبة الإعدام في اريتريا. ولا يخضع غالبية المحتجزين للإجراءات القضائية، وترفض الحكومة عموماً تقديم أي معلومات ذات صلة في هذا الشأن، ولم تُسجل أي عمليات إعدام رسمية أو أحكام بالاعدام.",
 			"zh_TW": "死刑相關的官方資訊在厄立垂亞十分難以取得。大部分遭拘留者無法進入司法程序，一般來說，政府拒絕提供相關資料。因而在此脈絡下，未有正式處決或死刑的紀錄。",
 			"zh_Hans": "有关死刑适用的官方信息在厄立特里亚难以获取。大多数在押者没有经历过司法程序，而且政府一般拒绝提供相关信息，因此，在此背景下没有任何正式处决或死刑判决记录。",
-			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。"
+			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。",
+			"pt": "É muito difícil obter informações oficiais sobre o uso da pena de morte na Eritreia. A maioria dos detidos não passa por um procedimento judicial, e o governo geralmente recusa-se a fornecer informações relevantes. Neste contexto, não foram registadas execuções formais ou sentenças de morte"
 		}
 	}, {
 		"id": "EST",
@@ -14754,7 +14911,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها. في عام  <br/>, 2015 بدأت منظمة العفو الدولية استخدام الرقم الإجمالي لعمليات الإعدام المعلن عنها بشكل رسمي،  وتلك غير المعلن عنها رسمياً ، ولكن أكدت لنا مصادر موثوقة انها قد نُفّذت ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。. <br/> 自2015年起，国际特赦组织开始使用合拼数据，即结合官方公布之处决数据以及非官方公布但我们从可靠消息来源确认之处决数据。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字 .  <br/> 自2015年起，國際特赦組織開始使用合併數據，即合併官方公布之處決及非官方公布但我們從可靠來源證實的處決數據。",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。.  <br/> 2015年國際特赦組織開始結合官方發布的處決數據，以及官方未宣布，然而經國際特赦組織透過可靠消息來源確認曾發生處決的數據。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。.  <br/> 2015年國際特赦組織開始結合官方發布的處決數據，以及官方未宣布，然而經國際特赦組織透過可靠消息來源確認曾發生處決的數據。",
+			"pt": "Em 2015, a Amnistia Internacional começou a usar o número combinado de execuções que foram oficialmente anunciadas e as execuções não foram oficialmente anunciadas, mas que confirmamos que ocorreram a partir de fontes credíveis. <br/>O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "IRQ",
@@ -14887,9 +15045,10 @@
 			"es": "Amnistía Internacional no pudo confirmar si se llevaron a cabo ejecuciones judiciales en Libia.",
 			"fr": "Amnesty International n’a pas été en mesure de confirmer que des exécutions judiciaires avaient eu lieu en Libye.",
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد  ما إذا كان قد تم تنفيذ أي عمليات اعدام خارج نطاق القضاء في ليبيا",
-			"zh_Hans": "国际特赦组织无法确认利比亚是否执行了司法处决。", 
+			"zh_Hans": "国际特赦组织无法确认利比亚是否执行了司法处决。",
 			"zh_Hant": "國際特赦組織無法確定於利比亞（台譯阿拉伯利比亞民眾國）是否執行司法處決。",
-			"zh_TW": "國際特赦組織無法確認利比亞是否發生司法處決。"
+			"zh_TW": "國際特赦組織無法確認利比亞是否發生司法處決。",
+			"pt": "A Amnistia Internacional não pôde confirmar se existiu uso judicial da pena de morte na Líbia."
 		}
 	}, {
 		"id": "LIE",
@@ -15122,7 +15281,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "NOR",
@@ -15166,7 +15326,8 @@
 			"ar": "أأحكام الإعدام وتنفيذها من قبل سلطة حماس في غزة",
 			"zh_Hans": "加沙哈马斯当局下达的死刑判决与执行的处决",
 			"zh_Hant": "在加沙的哈馬斯政權判決和執行死刑",
-			"zh_TW": "哈馬斯當局政權於加薩執行的死刑及處決"
+			"zh_TW": "哈馬斯當局政權於加薩執行的死刑及處決",
+			"pt": "Penas de morte e execuções pelas autoridades do Hamas em Gaza"
 		}
 	}, {
 		"id": "PAN",
@@ -15231,7 +15392,8 @@
 			"ar": "عقوبة الإعدام نافذة بموجب القانون الفدرالي الأميركي",
 			"zh_Hans": "死刑在美国联邦法律之下适用",
 			"zh_Hant": "死刑為美國聯邦法律所許可",
-			"zh_TW": "美國聯邦法律之下適用死刑。"
+			"zh_TW": "美國聯邦法律之下適用死刑。",
+			"pt": "A pena de morte é aplicada em virtude da legislação federal dos EUA."
 		}
 
 	}, {
@@ -15381,7 +15543,8 @@
 			"ar": "أحكام الإعدام: 45 في بونتلاند؛ 8 في أرض الصومال؛ 7 من آحكام الإعدام في الصومال نفذتها الحكومة الاتحادية: 1 في بونتلاند؛ 6 في الصومال؛ 7 من قبل الحكومة الصومالية الاتحادية ",
 			"zh_Hans": "死刑判决: 邦特兰45起 ; 索马里兰8起 ; 索马里联邦政府7起； : 处决: 邦特兰1起 ; 索马里兰6起 ; 索马里联邦政府7起",
 			"zh_Hant": "死刑: 邦特蘭45宗; 索馬里蘭8宗; 索馬里聯邦政府7宗 : 處決：邦特蘭1宗; 索馬里蘭6宗; 索馬里聯邦政府7宗",
-			"zh_TW": "死刑: 45件於邦特蘭 ; 8件於索馬利蘭 ; 7件由索馬利聯邦政府執行 : 處決:1件於邦特蘭 ; 6件於索馬利蘭 ; 7件由索馬利聯邦政府執行"
+			"zh_TW": "死刑: 45件於邦特蘭 ; 8件於索馬利蘭 ; 7件由索馬利聯邦政府執行 : 處決:1件於邦特蘭 ; 6件於索馬利蘭 ; 7件由索馬利聯邦政府執行",
+			"pt": "Penas de morte: 7 pelo Governo Federal somalí; 45 na Puntlândia; 8 na SomaliLândia. Execuções: 7 pelo Governo Federal somalí; 1 na Putlândia; 6 na Somalilândia"
 		}
 	}, {
 		"id": "ZAF",
@@ -15411,7 +15574,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "ESP",
@@ -15470,13 +15634,14 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict.", 
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict.",
 			"es": "Debido al conflicto armado, Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en Siria.",
 			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort en Syrie en raison du conflit armé.",
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد استخدام القضاء عقوبة الإعدام في سوريا بسبب النزاع المسلح ",
-			"zh_Hans": "由于叙利亚发生武装冲突，国际特赦组织无法确认该国司法体系使用死刑的情况。", 
+			"zh_Hans": "由于叙利亚发生武装冲突，国际特赦组织无法确认该国司法体系使用死刑的情况。",
 			"zh_Hant": "由於敘利亞發生武裝衝突，國際特赦組織無法確定死刑在該國的司法執行情況。",
-			"zh_TW": "由於敘利亞發生武裝衝突，國際特赦組織無法確認該國司法系統使用死刑的狀況。"
+			"zh_TW": "由於敘利亞發生武裝衝突，國際特赦組織無法確認該國司法系統使用死刑的狀況。",
+			"pt": "Devido ao conflito armado na Síria, a Amnistia Internacional não pôde confirmar o uso judicial da pena de morte no país."
 
 		}
 	}, {
@@ -15640,7 +15805,8 @@
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
 			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。"
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
 		}
 	}, {
 		"id": "YEM",
@@ -15650,13 +15816,14 @@
 		"death-penalties": "-",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Yemen due to the armed conflict.", 
+			"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Yemen due to the armed conflict.",
 			"es": "Debido al conflicto armado, Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en Yemen.",
 			"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort au Yémen en raison du conflit armé.",
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد استخدام القضاء عقوبة الإعدام في اليمن بسبب النزاع المسلح.",
 			"zh_Hans": "由于也门发生武装冲突，国际特赦组织无法确认该国司法体系使用死刑的情况。",
 			"zh_Hant": "由於也門（台譯葉門）發生武裝衝突，國際特赦組織無法確定死刑在該國的司法執行情況。",
-			"zh_TW": "由於葉門發生武裝衝突，國際特赦組織無法確認該國司法系統使用死刑的狀況。"
+			"zh_TW": "由於葉門發生武裝衝突，國際特赦組織無法確認該國司法系統使用死刑的狀況。",
+			"pt": "Devido ao conflito armado no Yémen, não foi possível à Amnistia Internacional confirmar o uso judicial da pena de morte no país. "
 		}
 	}, {
 		"id": "ZMB",
