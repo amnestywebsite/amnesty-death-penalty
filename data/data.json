@@ -18698,15 +18698,16 @@
 				"es": "",
 				"fr": "",
 				"ar": ""
-			}]
-}, {
+			}
+		},
+		{
 			"year": "2018",
-			"total-executions": "000",
+			"total-executions": "690+",
 			"total-death-sentences": "000",
-			"ABOLITIONIST": "00",
-			"ABOLITIONIST FOR ORDINARY CRIMES": "00",
-			"ABOLITIONIST IN PRACTICE": "00",
-			"RETENTIONIST": "00",
+			"ABOLITIONIST": "106",
+			"ABOLITIONIST FOR ORDINARY CRIMES": "8",
+			"ABOLITIONIST IN PRACTICE": "26",
+			"RETENTIONIST": "56",
 			"countries": [{
 					"id": "AFG",
 					"name": "AFGHANISTAN",
