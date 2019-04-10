@@ -22645,8 +22645,8 @@
             "id":"SYR",
             "name":"SYRIA",
             "since":"",
-            "executions":"unknown",
-            "death-penalties":"unknown",
+            "executions":"-",
+            "death-penalties":"-",
             "status":"RETENTIONIST",
             "note":{  
                "en":"Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict"
