@@ -18712,6 +18712,7 @@
 					"executions": 3,
 					"death-penalties": "+",
 					"status": "RETENTIONIST",
+			"note": {
 					"en": "+ means Amnesty International is confident that there was more than one death sentence but we could not establish a figure.",
 					"es": "",
 					"fr": "",
@@ -19202,6 +19203,7 @@
 					"executions": "1,000s",
 					"death-penalties": "1,000s",
 					"status": "RETENTIONIST",
+					"note": {
 					"en": "In 2009 Amnesty International stopped publishing our estimated figures on the use of the death penalty in China, in a challenge to the country's secrecy. China continues to classify such figures as a state secret. Our monitoring indicates that China remains the world's top executioner.",
 					"es": "",
 					"fr": "",
@@ -19846,6 +19848,7 @@
 					"executions": "253+",
 					"death-penalties": "+",
 					"status": "RETENTIONIST",
+					"note": {
 					"en": "In 2015 Amnesty International began using the combined figure of officially announced executions and those executions not officially announced but which we confirmed, from credible sources, took place. \n+ means Amnesty International is confident that there was more than one death sentence but we could not establish a figure.",
 					"es": "",
 					"fr": "",
@@ -20546,6 +20549,7 @@
 					"executions": "+",
 					"death-penalties": "+",
 					"status": "RETENTIONIST",
+					"note": {
 					"en": "+ means Amnesty International is confident that there was more than one execution and death sentence but we could not establish a figure.",
 					"es": "",
 					"fr": "",
@@ -20616,6 +20620,7 @@
 					"executions": 0,
 					"death-penalties": 13,
 					"status": "RETENTIONIST",
+					"note": {
 					"en": "Death Sentences by Hamas authorities in Gaza",
 					"es": "",
 					"fr": "",
@@ -20728,6 +20733,7 @@
 					"executions": 25,
 					"death-penalties": 45,
 					"status": "RETENTIONIST",
+					"note": {
 					"en": "Death penalty abolished in the Constitution but remains applicable under US federal law.",
 					"es": "",
 					"fr": "",
@@ -21008,6 +21014,7 @@
 					"executions": 13,
 					"death-penalties": "15+",
 					"status": "RETENTIONIST",
+					"note": {
 					"en": "Death Sentences: 7 by Federal Government of Somalia, 7 in Puntland, 1 in Jubaland.  Executions: 10 in Jubaland, 3 by Federal Government of Somalia.",
 					"es": "",
 					"fr": "",
@@ -21162,6 +21169,7 @@
 					"executions": "unknown",
 					"death-penalties": "unknown",
 					"status": "RETENTIONIST",
+					"note": {
 					"en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict",
 					"es": "",
 					"fr": "",
