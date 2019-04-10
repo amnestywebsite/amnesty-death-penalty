@@ -16800,16 +16800,16 @@
             "executions":"567+",
             "death-penalties":"+",
             "status":"RETENTIONIST",
-            "note":{  
-               "en":"+ means Amnesty International is confident that there was more than one death sentence but we could not establish a figure.",
-               "fr":"Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une condamnation à mort a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise.",
-               "es":"El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una condena a muerte, pero no pudo determinar la cifra.",
-               "ar":"إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها. في عام  <br/>, 2015 بدأت منظمة العفو الدولية استخدام الرقم الإجمالي لعمليات الإعدام المعلن عنها بشكل رسمي،  وتلك غير المعلن عنها رسمياً ، ولكن أكدت لنا مصادر موثوقة انها قد نُفّذت ",
-               "zh_Hans":" +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。. <br/> 自2015年起，国际特赦组织开始使用合拼数据，即结合官方公布之处决数据以及非官方公布但我们从可靠消息来源确认之处决数据。",
-               "zh_Hant":"=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字 .  <br/> 自2015年起，國際特赦組織開始使用合併數據，即合併官方公布之處決及非官方公布但我們從可靠來源證實的處決數據。",
-               "zh_TW":"+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。.  <br/> 2015年國際特赦組織開始結合官方發布的處決數據，以及官方未宣布，然而經國際特赦組織透過可靠消息來源確認曾發生處決的數據。",
-               "pt":"Em 2015, a Amnistia Internacional começou a usar o número combinado de execuções que foram oficialmente anunciadas e as execuções não foram oficialmente anunciadas, mas que confirmamos que ocorreram a partir de fontes credíveis. <br/>O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
-            }
+            "note":{
+			"en": "In 2015 Amnesty International began using the combined figure of officially announced executions and those executions not officially announced but which we confirmed, from credible sources, took place.  <br/> + means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
+			"fr": "En 2015, Amnesty International a commencé à utiliser le chiffre combiné des exécutions officiellement reconnues et des exécutions qui n’ont pas été annoncées officiellement, mais que l’organisation a pu confirmer auprès de sources crédibles. Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise",
+			"es": "En julio de 2015, Amnistía Internacional comenzó a utilizar la cifra conjunta de ejecuciones reconocidas oficialmente y ejecuciones no reconocidas oficialmente, pero que confirmamos a través de fuentes fidedignas. El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
+			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها. في عام 2015، بدأت منظمة العفو الدولية استخدام الرقم الإجمالي لعمليات الإعدام المعلن عنها بشكل رسمي،  وتلك غير المعلن عنها رسمياً ، ولكن أكدت لنا مصادر موثوقة انها قد نُفّذت ",
+			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。. 自2015年起，国际特赦组织开始使用合拼数据，即结合官方公布之处决数据以及非官方公布但我们从可靠消息来源确认之处决数据。",
+			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字 . 自2015年起，國際特赦組織開始使用合併數據，即合併官方公布之處決及非官方公布但我們從可靠來源證實的處決數據。",
+			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。. 2015年國際特赦組織開始結合官方發布的處決數據，以及官方未宣布，然而經國際特赦組織透過可靠消息來源確認曾發生處決的數據。",
+			"pt": "Em 2015, a Amnistia Internacional começou a usar o número combinado de execuções oficialmente anunciadas e as execuções não anunciadas oficialmente mas que confirmamos que ocorreram através de fontes credíveis e fidedignas. O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
+		}
          },
          {  
             "id":"IRQ",
