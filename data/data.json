@@ -22220,7 +22220,11 @@
             "death-penalties":"13",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"Death Sentences by Hamas authorities in Gaza"
+               "en":"Death Sentences by Hamas authorities in Gaza",
+		"es":"Condenas a muerte por las autoridades de Hamás en Gaza.",
+		"fr":"Condamnations à mort prononcées par les autorités du Hamas à Gaza",
+		"ar":"عمليات اعدام على أيدي سلطات حماس في غزة",
+		"zh_Hant":"加沙哈馬斯政權所作的死刑判決"    
             }
          },
          {  
@@ -22308,7 +22312,11 @@
             "death-penalties":"45",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"Death penalty abolished in the Constitution but remains applicable under US federal law."
+               "en":"Death penalty abolished in the Constitution but remains applicable under US federal law.",
+		"es":"La pena de muerte está abolida en la Constitución, pero se sigue aplicando en virtud de la legislación federal estadounidense.",
+		"fr":"La peine de mort est abolie dans la Constitution mais elle reste applicable au titre de la législation fédérale américaine.",
+		"ar":"ألغيت عقوبة الإعدام في الدستور لكنها لا تزال مطبقة بموجب القانون الفيدرالي الأمريكي",
+		"zh_Hant":"死刑在憲法已被廢除，但在美國聯邦法之下仍然適用。"    
             }
          },
          {  
@@ -22528,7 +22536,11 @@
             "death-penalties":"15+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"Death Sentences: 7 by Federal Government of Somalia, 7 in Puntland, 1 in Jubaland.  Executions: 10 in Jubaland, 3 by Federal Government of Somalia. "
+               "en":"Death Sentences: 7 by Federal Government of Somalia, 7 in Puntland, 1 in Jubaland.  Executions: 10 in Jubaland, 3 by Federal Government of Somalia. ",
+		"es":"Condenas a muerte: 7 por el Gobierno Federal de Somalia; 7 en Puntlandia; 1 en Jubalandia. Ejecuciones: 10 en Jubalandia; 3 por el Gobierno Federal de Somalia.",
+		"fr":"Condamnations à mort : 7 par le gouvernement fédéral de Somalie, 7 au Puntland, 1 au Jubaland.  Exécutions : 10 au Jubaland, 3 par le gouvernement fédéral de Somalie.",
+		"ar":"أحكام الإعدام: 7 من قبل حكومة الصومال الاتحادية، 7 في بونتلاند، 1 في جوبالاند. عمليات الاعدام: 10 في جوبالاند، 3 من قبل حكومة الصومال الاتحادية",
+		"zh_Hant":"死刑判決：索馬里聯邦政府7宗，邦特蘭7宗，朱巴蘭1宗。處決：朱巴蘭10宗，索馬里聯邦政府3宗。"    
             }
          },
          {  
@@ -22649,7 +22661,11 @@
             "death-penalties":"-",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict"
+               "en":"Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict",
+		"es":"Debido al conflicto armado, Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en Siria.",
+		"fr":"Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort en Syrie en raison du conflit armé en cours dans ce pays.",
+		"ar":"لم تتمكّن منظمة العفو الدولية من تأكيد الاسخدام القضائي لعقوبة الإعدام في سوريا بسبب النزاع المسلّح"    
+		"zh_Hant":"由於武裝衝突，國際特赦組織無法確認敘利亞是否有執行任何司法處決或作出任何死刑判決。"    
             }
          },
          {  
