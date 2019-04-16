@@ -20737,7 +20737,14 @@
             "since":"2007",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"DZA",
@@ -20745,7 +20752,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"1+",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"AND",
@@ -20753,7 +20767,14 @@
             "since":"1990",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"  
+            "status":"ABOLITIONIST"  ,
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"AGO",
@@ -20761,7 +20782,14 @@
             "since":"1992",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"ATG",
@@ -20769,7 +20797,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"ARG",
@@ -20777,7 +20812,14 @@
             "since":"2008",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"ARM",
@@ -20785,7 +20827,14 @@
             "since":"2003",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"AUS",
@@ -20793,7 +20842,14 @@
             "since":"1985",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"AUT",
@@ -20801,7 +20857,14 @@
             "since":"1968",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"AZE",
@@ -20809,7 +20872,14 @@
             "since":"1998",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"BHS",
@@ -20817,7 +20887,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"BHR",
@@ -20825,7 +20902,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"12",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"BGD",
@@ -20833,7 +20917,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"229+",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"BRB",
@@ -20841,7 +20932,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"BLR",
@@ -20849,7 +20947,14 @@
             "since":"",
             "executions":"4+",
             "death-penalties":"2+",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"BEL",
@@ -20857,7 +20962,14 @@
             "since":"1996",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"BLZ",
@@ -20865,7 +20977,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"BEN",
@@ -20873,7 +20992,14 @@
             "since":"2016",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"BTN",
@@ -20881,7 +21007,14 @@
             "since":"2004",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"BOL",
@@ -20889,7 +21022,14 @@
             "since":"2009",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"BIH",
@@ -20897,7 +21037,14 @@
             "since":"2001",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"BWA",
@@ -20905,7 +21052,14 @@
             "since":"",
             "executions":"2",
             "death-penalties":"5",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"BRA",
@@ -20913,7 +21067,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST FOR ORDINARY CRIMES"
+            "status":"ABOLITIONIST FOR ORDINARY CRIMES",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"BRN",
@@ -20921,7 +21082,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"BGR",
@@ -20929,7 +21097,14 @@
             "since":"1998",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"BFA",
@@ -20937,7 +21112,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST FOR ORDINARY CRIMES"
+            "status":"ABOLITIONIST FOR ORDINARY CRIMES",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"BDI",
@@ -20945,7 +21127,14 @@
             "since":"2009",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"KHM",
@@ -20953,7 +21142,14 @@
             "since":"1989",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"CMR",
@@ -20961,7 +21157,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"CAN",
@@ -20969,7 +21172,14 @@
             "since":"1998",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"CPV",
@@ -20977,7 +21187,14 @@
             "since":"1981",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"CAF",
@@ -20985,7 +21202,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"TCD",
@@ -20993,7 +21217,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"4+",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"CHL",
@@ -21001,7 +21232,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST FOR ORDINARY CRIMES"
+            "status":"ABOLITIONIST FOR ORDINARY CRIMES",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"CHN",
@@ -21024,7 +21262,14 @@
             "since":"1910",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"COM",
@@ -21032,7 +21277,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"COG",
@@ -21040,7 +21292,14 @@
             "since":"2015",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"COK",
@@ -21048,7 +21307,14 @@
             "since":"2007",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"CRI",
@@ -21056,7 +21322,14 @@
             "since":"1877",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"CIV",
@@ -21064,7 +21337,14 @@
             "since":"2000",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"HRV",
@@ -21072,7 +21352,14 @@
             "since":"1990",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"CUB",
@@ -21080,7 +21367,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"CYP",
@@ -21088,7 +21382,14 @@
             "since":"2002",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"CZE",
@@ -21096,7 +21397,14 @@
             "since":"1990",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"COD",
@@ -21104,7 +21412,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"41",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
             
          },
          {  
@@ -21113,7 +21428,14 @@
             "since":"1978",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"DJI",
@@ -21121,7 +21443,14 @@
             "since":"1995",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"DOM",
@@ -21129,7 +21458,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"DOM",
@@ -21137,7 +21473,14 @@
             "since":"1966",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"ECU",
@@ -21145,7 +21488,14 @@
             "since":"1906",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"EGY",
@@ -21153,7 +21503,14 @@
             "since":"",
             "executions":"43+",
             "death-penalties":"717+",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"SLV",
@@ -21161,7 +21518,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST FOR ORDINARY CRIMES"
+            "status":"ABOLITIONIST FOR ORDINARY CRIMES",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"GNQ",
@@ -21169,7 +21533,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"ERI",
@@ -21177,7 +21548,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"EST",
@@ -21185,7 +21563,14 @@
             "since":"1998",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"ETH",
@@ -21193,7 +21578,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"FJI",
@@ -21201,7 +21593,14 @@
             "since":"2015",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"FIN",
@@ -21209,7 +21608,14 @@
             "since":"1972",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"FRA",
@@ -21217,7 +21623,14 @@
             "since":"1981",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"GAB",
@@ -21225,7 +21638,14 @@
             "since":"2010",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"GMB",
@@ -21233,7 +21653,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"1",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"GEO",
@@ -21241,7 +21668,14 @@
             "since":"1997",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"DEU",
@@ -21249,7 +21683,14 @@
             "since":"1987",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"GHA",
@@ -21257,7 +21698,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"12",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"GRC",
@@ -21265,7 +21713,14 @@
             "since":"2004",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"GRL",
@@ -21273,7 +21728,14 @@
             "since":"1978",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"GRD",
@@ -21281,7 +21743,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"GTM",
@@ -21289,7 +21758,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST FOR ORDINARY CRIMES"
+            "status":"ABOLITIONIST FOR ORDINARY CRIMES",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"GIN",
@@ -21297,7 +21773,14 @@
             "since":"2017",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"GNB",
@@ -21305,7 +21788,14 @@
             "since":"1993",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
             
          },
          {  
@@ -21314,7 +21804,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"2",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"HTI",
@@ -21322,7 +21819,14 @@
             "since":"1987",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"VAT",
@@ -21330,7 +21834,14 @@
             "since":"1969",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"HND",
@@ -21338,7 +21849,14 @@
             "since":"1956",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"HKG",
@@ -21346,7 +21864,14 @@
             "since":"1993",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"HUN",
@@ -21354,7 +21879,14 @@
             "since":"1990",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"ISL",
@@ -21362,7 +21894,14 @@
             "since":"1928",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"IND",
@@ -21370,7 +21909,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"162",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"IDN",
@@ -21378,7 +21924,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"48+",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"IRN",
@@ -21401,7 +21954,14 @@
             "since":"",
             "executions":"52+",
             "death-penalties":"271+",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"IRL",
@@ -21409,7 +21969,14 @@
             "since":"1990",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"ISR",
@@ -21417,7 +21984,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST FOR ORDINARY CRIMES"
+            "status":"ABOLITIONIST FOR ORDINARY CRIMES",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"ITA",
@@ -21425,7 +21999,14 @@
             "since":"1994",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"JAM",
@@ -21433,7 +22014,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"JPN",
@@ -21441,7 +22029,14 @@
             "since":"",
             "executions":"15",
             "death-penalties":"4",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"JOR",
@@ -21449,7 +22044,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"16+",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"KAZ",
@@ -21457,7 +22059,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST FOR ORDINARY CRIMES"
+            "status":"ABOLITIONIST FOR ORDINARY CRIMES",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"KEN",
@@ -21465,7 +22074,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"12+",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"KIR",
@@ -21473,7 +22089,14 @@
             "since":"NA",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"KWT",
@@ -21481,7 +22104,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"34",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"KGZ",
@@ -21489,7 +22119,14 @@
             "since":"2007",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"LAO",
@@ -21497,7 +22134,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"LVA",
@@ -21505,7 +22149,14 @@
             "since":"2012",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"LBN",
@@ -21513,7 +22164,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"5+",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"LSO",
@@ -21521,7 +22179,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"LBR",
@@ -21529,7 +22194,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"LBY",
@@ -21537,7 +22209,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"45+",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"LIE",
@@ -21545,7 +22224,14 @@
             "since":"1987",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"LTU",
@@ -21553,7 +22239,14 @@
             "since":"1998",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"LUX",
@@ -21561,7 +22254,14 @@
             "since":"1979",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"MKD",
@@ -21569,7 +22269,14 @@
             "since":"1991",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"MDG",
@@ -21577,7 +22284,14 @@
             "since":"2015",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"MWI",
@@ -21585,7 +22299,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"MYS",
@@ -21593,7 +22314,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"190",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"MDV",
@@ -21601,7 +22329,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"MLI",
@@ -21609,7 +22344,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"18",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"MLT",
@@ -21617,7 +22359,14 @@
             "since":"2000",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"MHL",
@@ -21625,7 +22374,14 @@
             "since":"NA",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"MRT",
@@ -21633,7 +22389,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"3",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"MUS",
@@ -21641,7 +22404,14 @@
             "since":"1995",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"MEX",
@@ -21649,7 +22419,14 @@
             "since":"2005",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"FSM",
@@ -21657,7 +22434,14 @@
             "since":"NA",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"MDA",
@@ -21665,7 +22449,14 @@
             "since":"1995",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"MCO",
@@ -21673,7 +22464,14 @@
             "since":"1962",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"MNG",
@@ -21681,7 +22479,14 @@
             "since":"2017",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"MNE",
@@ -21689,7 +22494,14 @@
             "since":"2002",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"MAR",
@@ -21697,7 +22509,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"10",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"MOZ",
@@ -21705,7 +22524,14 @@
             "since":"1990",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"MMR",
@@ -21713,7 +22539,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"9+",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"NAM",
@@ -21721,7 +22554,14 @@
             "since":"1990",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"NRU",
@@ -21729,7 +22569,14 @@
             "since":"2016",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"NPL",
@@ -21737,7 +22584,14 @@
             "since":"1997",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"NLD",
@@ -21745,7 +22599,14 @@
             "since":"1982",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"NZL",
@@ -21753,7 +22614,14 @@
             "since":"1989",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"NIC",
@@ -21761,7 +22629,14 @@
             "since":"1979",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"NER",
@@ -21769,7 +22644,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"NGA",
@@ -21777,7 +22659,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"46+",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"NIU",
@@ -21785,7 +22674,14 @@
             "since":"1974",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"PRK",
@@ -21808,7 +22704,14 @@
             "since":"1979",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"OMN",
@@ -21816,7 +22719,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"4+",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"PAK",
@@ -21824,7 +22734,14 @@
             "since":"",
             "executions":"14+",
             "death-penalties":"250+",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"PLW",
@@ -21832,7 +22749,14 @@
             "since":"1994",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"PSE",
@@ -21855,7 +22779,14 @@
             "since":"1922",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"PNG",
@@ -21863,7 +22794,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"9",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"PRY",
@@ -21871,7 +22809,14 @@
             "since":"1992",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"PER",
@@ -21879,7 +22824,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST FOR ORDINARY CRIMES"
+            "status":"ABOLITIONIST FOR ORDINARY CRIMES",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"PHL",
@@ -21887,7 +22839,14 @@
             "since":"2006",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"POL",
@@ -21895,7 +22854,14 @@
             "since":"1997",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"PRT",
@@ -21903,7 +22869,14 @@
             "since":"1976",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"PRI",
@@ -21926,7 +22899,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"1+",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"ROU",
@@ -21934,7 +22914,14 @@
             "since":"1989",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"RUS",
@@ -21942,7 +22929,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"RWA",
@@ -21950,7 +22944,14 @@
             "since":"2007",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"KNA",
@@ -21958,7 +22959,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"LCA",
@@ -21966,7 +22974,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"VCT",
@@ -21974,7 +22989,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"WSM",
@@ -21982,7 +23004,14 @@
             "since":"2004",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"SMR",
@@ -21990,7 +23019,14 @@
             "since":"1865",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"STP",
@@ -21998,7 +23034,14 @@
             "since":"1990",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"SAU",
@@ -22006,7 +23049,14 @@
             "since":"",
             "executions":"149",
             "death-penalties":"4+",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"SEN",
@@ -22014,7 +23064,14 @@
             "since":"2004",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"SRB",
@@ -22024,7 +23081,11 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":""
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
             }
          },
          {  
@@ -22033,7 +23094,14 @@
             "since":"1993",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"SLE",
@@ -22041,7 +23109,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"4",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"SGP",
@@ -22049,7 +23124,14 @@
             "since":"",
             "executions":"13",
             "death-penalties":"17",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"SVK",
@@ -22057,7 +23139,14 @@
             "since":"1990",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"SVN",
@@ -22065,7 +23154,14 @@
             "since":"1989",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"SLB",
@@ -22073,7 +23169,14 @@
             "since":"NA",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"SOM",
@@ -22096,7 +23199,14 @@
             "since":"1997",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"KOR",
@@ -22104,7 +23214,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"1",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"SSD",
@@ -22112,7 +23229,14 @@
             "since":"",
             "executions":"7+",
             "death-penalties":"8+",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"ESP",
@@ -22120,7 +23244,14 @@
             "since":"1995",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"LKA",
@@ -22128,7 +23259,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"17+",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"SDN",
@@ -22136,7 +23274,14 @@
             "since":"",
             "executions":"2",
             "death-penalties":"8",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"SUR",
@@ -22144,7 +23289,14 @@
             "since":"2015",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"SWZ",
@@ -22152,7 +23304,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"SWE",
@@ -22160,7 +23319,14 @@
             "since":"1972",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"CHE",
@@ -22168,7 +23334,14 @@
             "since":"1992",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"SYR",
@@ -22191,7 +23364,14 @@
             "since":"",
             "executions":"1",
             "death-penalties":"3",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"TJK",
@@ -22201,7 +23381,11 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":""
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
             }
          },
          {  
@@ -22210,7 +23394,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"4+",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"THA",
@@ -22218,7 +23409,14 @@
             "since":"",
             "executions":"1",
             "death-penalties":"33+",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"TLS",
@@ -22226,7 +23424,14 @@
             "since":"1999",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"TGO",
@@ -22234,7 +23439,14 @@
             "since":"2009",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"TON",
@@ -22242,7 +23454,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"TTO",
@@ -22250,7 +23469,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"TUN",
@@ -22258,7 +23484,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"12+",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"TUR",
@@ -22266,7 +23499,14 @@
             "since":"2004",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"TKM",
@@ -22274,7 +23514,14 @@
             "since":"1999",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"TUV",
@@ -22282,7 +23529,14 @@
             "since":"NA",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"UGA",
@@ -22290,7 +23544,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"5",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"UKR",
@@ -22298,7 +23559,14 @@
             "since":"1999",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"ARE",
@@ -22306,7 +23574,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"10+",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"GBR",
@@ -22314,7 +23589,14 @@
             "since":"1998",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"USA",
@@ -22322,7 +23604,14 @@
             "since":"",
             "executions":"25",
             "death-penalties":"45",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"URY",
@@ -22330,7 +23619,14 @@
             "since":"1907",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"UZB",
@@ -22338,7 +23634,14 @@
             "since":"2008",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"VUT",
@@ -22346,7 +23649,14 @@
             "since":"NA",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"VEN",
@@ -22354,7 +23664,14 @@
             "since":"1863",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
             
          },
          {  
@@ -22363,7 +23680,14 @@
             "since":"",
             "executions":"85+",
             "death-penalties":"122+",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
             
          },
          {  
@@ -22372,7 +23696,14 @@
             "since":"",
             "executions":"4+",
             "death-penalties":"13+",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
             
          },
          {  
@@ -22381,7 +23712,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"21+",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"ABOLITIONIST IN PRACTICE",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
          },
          {  
             "id":"ZWE",
@@ -22389,7 +23727,14 @@
             "since":"",
             "executions":"0",
             "death-penalties":"5+",
-            "status":"RETENTIONIST"
+            "status":"RETENTIONIST",
+            "note":{  
+               "en":"",
+               "es":"",
+               "fr":"",
+               "ar":"",
+		"zh_Hant":""    
+            }
             
          }
       ]
