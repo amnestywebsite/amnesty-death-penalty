@@ -21202,7 +21202,7 @@
             "executions":"2+",
             "death-penalties":"5+",
             "status":"RETENTIONIST"
-            }
+            
          },
          {  
             "id":"ZMB",
@@ -21211,7 +21211,7 @@
             "executions":"0",
             "death-penalties":"94",
             "status":"ABOLITIONIST IN PRACTICE"
-            }
+            
          },
          {  
             "id":"ZWE",
@@ -23613,7 +23613,7 @@
     "executions": 0,
     "death-penalties": 0,
     "status": "ABOLITIONIST FOR ORDINARY CRIMES"
-            }
+            
   },
   {
     "id": "ITA",
