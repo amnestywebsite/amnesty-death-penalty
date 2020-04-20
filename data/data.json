@@ -20724,11 +20724,7 @@
             "death-penalties":"+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":" + means Amnesty International is confident that there was more than one death sentence but we could not establish a figure.",
-		"es":"El signo + significa que Amnistía Internacional tiene la certeza de que hubo más de una condena a muerte, pero no pudo determinar la cifra.",
-		"fr":"Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une condamnation à mort a été prononcée dans le pays cité, mais qu’il n’a pas été possible de réaliser une estimation plus précise.",
-		"ar":"إشارة + تعني أن منظمة العفو الدولية متأكدة من تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها. ",
-		"zh_Hant":" 「＋」號表示國際特赦組織肯定當地有一宗以上的死刑判決，但我們未能確定準確數字。"
+               "en":" + means Amnesty International is confident that there was more than one death sentence but we could not establish a figure."
             }
          },
          {  
@@ -20739,11 +20735,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -20754,11 +20746,7 @@
             "death-penalties":"1+",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -20767,13 +20755,9 @@
             "since":"1990",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST"  ,
+            "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -20784,11 +20768,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -20799,11 +20779,7 @@
             "death-penalties":"0",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -20814,11 +20790,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -20829,11 +20801,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -20844,11 +20812,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -20859,11 +20823,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -20874,11 +20834,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -20889,11 +20845,7 @@
             "death-penalties":"0",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -20904,11 +20856,7 @@
             "death-penalties":"12",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -20919,11 +20867,7 @@
             "death-penalties":"229+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -20934,11 +20878,7 @@
             "death-penalties":"0",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -20949,11 +20889,7 @@
             "death-penalties":"2+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -20964,11 +20900,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -20979,11 +20911,7 @@
             "death-penalties":"0",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -20994,11 +20922,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21009,11 +20933,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21024,11 +20944,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21039,11 +20955,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21054,11 +20966,7 @@
             "death-penalties":"5",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21069,11 +20977,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21084,11 +20988,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21099,11 +20999,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21114,11 +21010,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21129,11 +21021,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21144,11 +21032,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21159,11 +21043,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21174,11 +21054,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21189,11 +21065,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21204,11 +21076,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21219,11 +21087,7 @@
             "death-penalties":"4+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21234,11 +21098,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21249,11 +21109,7 @@
             "death-penalties":"1,000s",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"In 2009 Amnesty International stopped publishing our estimated figures on the use of the death penalty in China, in a challenge to the country's secrecy. China continues to classify such figures as a state secret. Our monitoring indicates that China remains the world's top executioner.",
-		"es":"En 2009 Amnistía Internacional dejó de publicar sus cálculos estimados sobre el uso de la pena de muerte en China a modo de desafío frente al secretismo que aplica el país. China sigue categorizando esas cifras como secreto de Estado. De nuestra actividad de monitoreo se desprende que China sigue siendo el país del mundo donde se llevan a cabo más ejecuciones.",
-		"fr":"En 2009, Amnesty International a cessé de publier des chiffres estimatifs sur l’utilisation de la peine de mort en Chine pour dénoncer le secret qu’entretient le pays à ce propos. La Chine continue de classer ces statistiques secret d’État. Les informations que nous avons recueillies montrent que la Chine demeure le pays où ont lieu le plus grand nombre d’exécutions.",
-		"ar":"عام 2009، توقفت منظمة العفو الدولية عن نشر احصاءاتنا التقديرية بشأن تنفيذ عقوبة الإعدام في الصين، في تحدّ للسرية التي تعتمدها البلاد. لا تزال الصين تعتبر هذه الإحصاءات بمثابة سر حكومي. وبحسب متابعتنا، لا تزال الصين تحتل الصدارة في عدد احكام الإعدام التي تنفذها.",
-		"zh_Hant":"國際特赦組織自2009年起不再發布中國執行及判決死刑的估算數字，以質疑中國將有關數字保密的做法。中國一直將有關死刑的數據列為國家機密。我們的監察顯示中國仍然是全球處決人數最多的國家。"   
+               "en":"In 2009 Amnesty International stopped publishing our estimated figures on the use of the death penalty in China, in a challenge to the country's secrecy. China continues to classify such figures as a state secret. Our monitoring indicates that China remains the world's top executioner."
             }
          },
          {  
@@ -21264,11 +21120,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21279,11 +21131,7 @@
             "death-penalties":"0",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21294,11 +21142,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21309,11 +21153,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21324,11 +21164,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21339,11 +21175,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21354,11 +21186,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21369,11 +21197,7 @@
             "death-penalties":"0",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21384,11 +21208,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21399,11 +21219,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21414,13 +21230,8 @@
             "death-penalties":"41",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
-            
          },
          {  
             "id":"DNK",
@@ -21430,11 +21241,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21445,11 +21252,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21460,11 +21263,7 @@
             "death-penalties":"0",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21475,11 +21274,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21490,11 +21285,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21505,11 +21296,7 @@
             "death-penalties":"717+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21520,11 +21307,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21535,11 +21318,7 @@
             "death-penalties":"0",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21550,11 +21329,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21565,11 +21340,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21580,11 +21351,7 @@
             "death-penalties":"0",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21595,11 +21362,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21610,11 +21373,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21625,11 +21384,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21640,11 +21395,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21655,11 +21406,7 @@
             "death-penalties":"1",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21670,11 +21417,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21685,11 +21428,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21700,11 +21439,7 @@
             "death-penalties":"12",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21715,11 +21450,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21730,11 +21461,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21745,11 +21472,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21760,11 +21483,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21775,11 +21494,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21790,13 +21505,8 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
-            
          },
          {  
             "id":"GUY",
@@ -21806,11 +21516,7 @@
             "death-penalties":"2",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21821,11 +21527,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21836,11 +21538,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21851,11 +21549,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21866,11 +21560,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21881,11 +21571,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21896,11 +21582,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21911,11 +21593,7 @@
             "death-penalties":"162",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21926,11 +21604,7 @@
             "death-penalties":"48+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21941,11 +21615,7 @@
             "death-penalties":"+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"In 2015 Amnesty International began using the combined figure of officially announced executions and those executions not officially announced but which we confirmed, from credible sources, took place. <br/>+ means Amnesty International is confident that there was more than one death sentence but we could not establish a figure.",
-		"es":"En julio de 2015, Amnistía Internacional comenzó a utilizar la cifra conjunta de ejecuciones reconocidas oficialmente y ejecuciones no reconocidas oficialmente, pero que confirmamos a través de fuentes fidedignas.<br/>El signo + significa que Amnistía Internacional tiene la certeza de que hubo más de una condena a muerte, pero no pudo determinar la cifra.",
-		"fr":"En 2015, Amnesty International a commencé à utiliser un chiffre correspondant à la somme des exécutions annoncées officiellement et de celles qui ne l’ont pas été mais que l’organisation a pu confirmer à partir de sources crédibles. <br/>Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une condamnation à mort a été prononcée dans le pays cité, mais qu’il n’a pas été possible de réaliser une estimation plus précise.",
-		"ar":"في عام 2015، بدأت منظمة العفو الدولية استخدام الرقم الإجمالي لعمليات الإعدام المعلن عنها بشكل رسمي، وتلك غير المعلن عنها رسمياً، ولكن أكدت لنا مصادر موثوقة انها قد نُفّذت",
-		"zh_Hant":"國際特赦組織從2015年開始整合成一個數字，包括官方公佈的處決個案及經可靠消息來源確認的非官方個案。"
+               "en":"In 2015 Amnesty International began using the combined figure of officially announced executions and those executions not officially announced but which we confirmed, from credible sources, took place. <br/>+ means Amnesty International is confident that there was more than one death sentence but we could not establish a figure."
             }
          },
          {  
@@ -21956,11 +21626,7 @@
             "death-penalties":"271+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21971,11 +21637,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -21986,11 +21648,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22001,11 +21659,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22016,11 +21670,7 @@
             "death-penalties":"0",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22031,11 +21681,7 @@
             "death-penalties":"4",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22046,11 +21692,7 @@
             "death-penalties":"16+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22061,11 +21703,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22076,11 +21714,7 @@
             "death-penalties":"12+",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22091,11 +21725,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22106,11 +21736,7 @@
             "death-penalties":"34",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22121,11 +21747,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22136,11 +21758,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22151,11 +21769,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22166,11 +21780,7 @@
             "death-penalties":"5+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22181,11 +21791,7 @@
             "death-penalties":"0",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22196,11 +21802,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22211,11 +21813,7 @@
             "death-penalties":"45+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22226,11 +21824,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22241,11 +21835,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22256,11 +21846,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22271,11 +21857,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22286,11 +21868,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22301,11 +21879,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22316,11 +21890,7 @@
             "death-penalties":"190",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22331,11 +21901,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22346,11 +21912,7 @@
             "death-penalties":"18",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22361,11 +21923,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22376,11 +21934,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22391,11 +21945,7 @@
             "death-penalties":"3",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22406,11 +21956,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22421,11 +21967,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22436,11 +21978,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22451,11 +21989,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22466,11 +22000,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22481,11 +22011,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22496,11 +22022,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22511,11 +22033,7 @@
             "death-penalties":"10",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22526,11 +22044,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22541,11 +22055,7 @@
             "death-penalties":"9+",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22556,11 +22066,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22571,11 +22077,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22586,11 +22088,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22601,11 +22099,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22616,11 +22110,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22631,11 +22121,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22646,11 +22132,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22661,11 +22143,7 @@
             "death-penalties":"46+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22676,11 +22154,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22691,11 +22165,7 @@
             "death-penalties":"+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":" + means Amnesty International is confident that there was more than one execution and death sentence but we could not establish a figure.",
-		"es":"El signo + significa que Amnistía Internacional tiene la certeza de que hubo más de una ejecución y condena a muerte, pero no pudo determinar la cifra.",
-		"fr":"Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu et au moins une condamnation à mort a été prononcée dans le pays cité, mais qu’il n’a pas été possible de réaliser une estimation plus précise.",
-		"ar":"إشارة + تعني أن منظمة العفو الدولية متأكدة من تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
-		"zh_Hans":"「＋」號表示國際特赦組織肯定當地有一宗以上的處決及死刑判決，但我們未能確定準確數字。"    
+               "en":" + means Amnesty International is confident that there was more than one execution and death sentence but we could not establish a figure."
             }
          },
          {  
@@ -22706,11 +22176,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22721,11 +22187,7 @@
             "death-penalties":"4+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22736,11 +22198,7 @@
             "death-penalties":"250+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22751,11 +22209,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22766,11 +22220,7 @@
             "death-penalties":"13",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"Death Sentences by Hamas authorities in Gaza",
-		"es":"Condenas a muerte por las autoridades de Hamás en Gaza.",
-		"fr":"Condamnations à mort prononcées par les autorités du Hamas à Gaza",
-		"ar":"عمليات اعدام على أيدي سلطات حماس في غزة",
-		"zh_Hant":"加沙哈馬斯政權所作的死刑判決"    
+               "en":"Death Sentences by Hamas authorities in Gaza"
             }
          },
          {  
@@ -22781,11 +22231,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22796,11 +22242,7 @@
             "death-penalties":"9",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22811,11 +22253,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22826,11 +22264,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22841,11 +22275,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22856,11 +22286,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22871,11 +22297,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22886,11 +22308,7 @@
             "death-penalties":"45",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"Death penalty abolished in the Constitution but remains applicable under US federal law.",
-		"es":"La pena de muerte está abolida en la Constitución, pero se sigue aplicando en virtud de la legislación federal estadounidense.",
-		"fr":"La peine de mort est abolie dans la Constitution mais elle reste applicable au titre de la législation fédérale américaine.",
-		"ar":"ألغيت عقوبة الإعدام في الدستور لكنها لا تزال مطبقة بموجب القانون الفيدرالي الأمريكي",
-		"zh_Hant":"死刑在憲法已被廢除，但在美國聯邦法之下仍然適用。"    
+               "en":"Death penalty abolished in the Constitution but remains applicable under US federal law."
             }
          },
          {  
@@ -22901,11 +22319,7 @@
             "death-penalties":"1+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22916,11 +22330,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22931,11 +22341,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22946,11 +22352,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22961,11 +22363,7 @@
             "death-penalties":"0",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22976,11 +22374,7 @@
             "death-penalties":"0",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -22991,11 +22385,7 @@
             "death-penalties":"0",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23006,11 +22396,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23021,11 +22407,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23036,11 +22418,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23051,11 +22429,7 @@
             "death-penalties":"4+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23066,11 +22440,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23081,11 +22451,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23096,11 +22462,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23111,11 +22473,7 @@
             "death-penalties":"4",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23126,11 +22484,7 @@
             "death-penalties":"17",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23141,11 +22495,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23156,11 +22506,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23171,11 +22517,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23186,11 +22528,7 @@
             "death-penalties":"15+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"Death Sentences: 7 by Federal Government of Somalia, 7 in Puntland, 1 in Jubaland.  Executions: 10 in Jubaland, 3 by Federal Government of Somalia. ",
-		"es":"Condenas a muerte: 7 por el Gobierno Federal de Somalia; 7 en Puntlandia; 1 en Jubalandia. Ejecuciones: 10 en Jubalandia; 3 por el Gobierno Federal de Somalia.",
-		"fr":"Condamnations à mort : 7 par le gouvernement fédéral de Somalie, 7 au Puntland, 1 au Jubaland.  Exécutions : 10 au Jubaland, 3 par le gouvernement fédéral de Somalie.",
-		"ar":"أحكام الإعدام: 7 من قبل حكومة الصومال الاتحادية، 7 في بونتلاند، 1 في جوبالاند. عمليات الاعدام: 10 في جوبالاند، 3 من قبل حكومة الصومال الاتحادية",
-		"zh_Hant":"死刑判決：索馬里聯邦政府7宗，邦特蘭7宗，朱巴蘭1宗。處決：朱巴蘭10宗，索馬里聯邦政府3宗。"    
+               "en":"Death Sentences: 7 by Federal Government of Somalia, 7 in Puntland, 1 in Jubaland.  Executions: 10 in Jubaland, 3 by Federal Government of Somalia. "
             }
          },
          {  
@@ -23201,11 +22539,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23216,11 +22550,7 @@
             "death-penalties":"1",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23231,11 +22561,7 @@
             "death-penalties":"8+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23246,11 +22572,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23261,11 +22583,7 @@
             "death-penalties":"17+",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23276,11 +22594,7 @@
             "death-penalties":"8",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23291,11 +22605,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23306,11 +22616,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23321,11 +22627,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23336,11 +22638,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23351,11 +22649,7 @@
             "death-penalties":"-",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict",
-		"es":"Debido al conflicto armado, Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en Siria.",
-		"fr":"Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort en Syrie en raison du conflit armé en cours dans ce pays.",
-		"ar":"لم تتمكّن منظمة العفو الدولية من تأكيد الاسخدام القضائي لعقوبة الإعدام في سوريا بسبب النزاع المسلّح",    
-		"zh_Hant":"由於武裝衝突，國際特赦組織無法確認敘利亞是否有執行任何司法處決或作出任何死刑判決。"    
+               "en":"Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict"
             }
          },
          {  
@@ -23366,11 +22660,7 @@
             "death-penalties":"3",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23381,11 +22671,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23396,11 +22682,7 @@
             "death-penalties":"4+",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23411,11 +22693,7 @@
             "death-penalties":"33+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23426,11 +22704,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23441,11 +22715,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23456,11 +22726,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23471,11 +22737,7 @@
             "death-penalties":"0",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23486,11 +22748,7 @@
             "death-penalties":"12+",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23501,11 +22759,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23516,11 +22770,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23531,11 +22781,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23546,11 +22792,7 @@
             "death-penalties":"5",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23561,11 +22803,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23576,11 +22814,7 @@
             "death-penalties":"10+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23591,11 +22825,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23606,11 +22836,7 @@
             "death-penalties":"45",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23621,11 +22847,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23636,11 +22858,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23651,11 +22869,7 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23666,13 +22880,8 @@
             "death-penalties":"0",
             "status":"ABOLITIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
-            
          },
          {  
             "id":"VNM",
@@ -23682,13 +22891,8 @@
             "death-penalties":"122+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
-            
          },
          {  
             "id":"YEM",
@@ -23698,13 +22902,8 @@
             "death-penalties":"13+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
-            
          },
          {  
             "id":"ZMB",
@@ -23714,11 +22913,7 @@
             "death-penalties":"21+",
             "status":"ABOLITIONIST IN PRACTICE",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
          },
          {  
@@ -23729,13 +22924,8 @@
             "death-penalties":"5+",
             "status":"RETENTIONIST",
             "note":{  
-               "en":"",
-               "es":"",
-               "fr":"",
-               "ar":"",
-		"zh_Hant":""    
+               "en":""
             }
-            
          }
       ]
    }
