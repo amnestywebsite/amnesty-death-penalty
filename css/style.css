@@ -609,11 +609,11 @@ small,.milli {
 }
 
 #bar-chart svg .barGroup .ABOLITIONIST_IN_PRACTICE   {
-  fill: #b6b6b6;
+  fill: #7a7d81;
 }
 
 #bar-chart svg .barGroup .ABOLITIONIST_FOR_ORDINARY_CRIMES {
-  fill: #7a7d81;
+  fill: #b6b6b6 ;
 }
 
 #bar-chart svg .barGroup .RETENTIONIST {
