@@ -580,13 +580,13 @@
 		"pt": "Haiti"
 	},
 	"HOLY SEE": {
-		"en": "Holy See",
+		"en": "Vatican City",
 		"es": "Santa Sede",
 		"fr": "Saint-Siège",
 		"ar": "الكرسي الرسولي",
-		"zh_Hans": "梵蒂冈",
-		"zh_Hant": "梵蒂岡",
-		"zh_TW": "梵諦岡",
+		"zh_Hans": "梵蒂冈城",
+		"zh_Hant": "梵蒂岡城",
+		"zh_TW": "梵蒂岡城",
 		"pt": "Santa Sé"
 	},
 	"HONDURAS": {
@@ -700,13 +700,13 @@
 		"pt": "Luxemburgo"
 	},
 	"MACEDONIA": {
-		"en": "Macedonia",
+		"en": "North Macedonia",
 		"es": "Macedonia",
 		"fr": "Macédoine",
 		"ar": "مقدونيا",
-		"zh_Hans": "马其顿",
-		"zh_Hant": "馬其頓",
-		"zh_TW": "馬其頓",
+		"zh_Hans": "北马其顿",
+		"zh_Hant": "北馬其頓",
+		"zh_TW": "北馬其頓",
 		"pt": "Macedônia"
 	},
 	"MADAGASCAR": {
@@ -990,13 +990,13 @@
 		"pt": "Senegal"
 	},
 	"SERBIA INCLUDING KOSOVO": {
-		"en": "Serbia including Kosovo",
+		"en": "Serbia and Kosovo*",
 		"es": "Serbia incluido Kosovo",
 		"fr": "Serbie, y compris Kosovo",
 		"ar": "صربيا بما في ذلك كوسوفو",
-		"zh_Hans": "塞尔维亚 包括科索沃",
-		"zh_Hant": "塞爾維亞 包括科索沃",
-		"zh_TW": "塞爾維亞含科索沃",
+		"zh_Hans": "塞尔维亚与科索沃*",
+		"zh_Hant": "塞爾維亞及科索沃*",
+		"zh_TW": "塞爾維亞與科索沃*",
 		"pt": "Sévia incluíndo Kosovo"
 	},
 	"SEYCHELLES": {
@@ -1040,13 +1040,13 @@
 		"pt": "Ilhas Salomão"
 	},
 	"SOMALIA": {
-		"en": "Somalia including Somaliland",
+		"en": "Somalia",
 		"es": "Somalia incluida Somalilandia",
 		"fr": "Somalie y compris Somaliland",
 		"ar": "الصومال بما في ذلك أرض الصومال",
-		"zh_Hans": "索马里 包括索马里兰",
-		"zh_Hant": "索馬里 包括索馬里蘭",
-		"zh_TW": "索馬利亞 含索馬利蘭",
+		"zh_Hans": "索马里",
+		"zh_Hant": "索馬里",
+		"zh_TW": "索馬利亞",
 		"pt": "Somália, incluíndo Somalilândia"
 	},
 	"SOUTH AFRICA": {
