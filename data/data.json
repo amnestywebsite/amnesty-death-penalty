@@ -25899,7 +25899,11 @@
 				"death-penalties": 0,
 				"status": "ABOLITIONIST",
 				"note": {
-					"en": "NOTE THE CHANGE from Serbia (including Kosovo) to Serbia, add Kosovo (abolitionist since ___) if possible"
+					"en": "This designation (*) is without prejudice to positions on status, and is in line with UN Security Council Resolution 1244 and the International Court of Justice Opinion on the Kosovo declaration of independence.",
+					"zh_Hans": "这个名称 (*) 不影响有关地位的立场 ，并符合联合国安理会第1244号决议和国际法院对科索沃独立宣言的意见。",
+					"zh_Hant": "該名稱 (*) 不影響在地位問題上的立場 ，並與聯合國安理會第1244號決議及國際法院有關科索沃獨立宣言的意見一致。",
+					"zh_TW": "該名稱 (*) 不影響在地位問題上的立場 ，並與聯合國安理會第1244號決議及國際法院有關科索沃獨立宣言的意見一致。"
+
 				}
 			},
 			{
