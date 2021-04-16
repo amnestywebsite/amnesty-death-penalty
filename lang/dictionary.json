@@ -582,7 +582,7 @@
 	"HOLY SEE": {
 		"en": "Vatican City",
 		"es": "Santa Sede",
-		"fr": "Saint-Siège",
+		"fr": "Vatican",
 		"ar": "الكرسي الرسولي",
 		"zh_Hans": "梵蒂冈城",
 		"zh_Hant": "梵蒂岡城",
@@ -702,7 +702,7 @@
 	"MACEDONIA": {
 		"en": "North Macedonia",
 		"es": "Macedonia",
-		"fr": "Macédoine",
+		"fr": "Macédoine du Nord",
 		"ar": "مقدونيا",
 		"zh_Hans": "北马其顿",
 		"zh_Hant": "北馬其頓",
@@ -992,7 +992,7 @@
 	"SERBIA INCLUDING KOSOVO": {
 		"en": "Serbia and Kosovo*",
 		"es": "Serbia incluido Kosovo",
-		"fr": "Serbie, y compris Kosovo",
+		"fr": "Serbie et Kosovo*",
 		"ar": "صربيا بما في ذلك كوسوفو",
 		"zh_Hans": "塞尔维亚与科索沃*",
 		"zh_Hant": "塞爾維亞及科索沃*",
@@ -1042,7 +1042,7 @@
 	"SOMALIA": {
 		"en": "Somalia",
 		"es": "Somalia incluida Somalilandia",
-		"fr": "Somalie y compris Somaliland",
+		"fr": "Somalie",
 		"ar": "الصومال بما في ذلك أرض الصومال",
 		"zh_Hans": "索马里",
 		"zh_Hant": "索馬里",
