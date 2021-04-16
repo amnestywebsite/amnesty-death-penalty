@@ -991,13 +991,13 @@
 	},
 	"SERBIA INCLUDING KOSOVO": {
 		"en": "Serbia and Kosovo*",
-		"es": "Serbia incluido Kosovo",
+		"es": "Serbia y Kosovo*",
 		"fr": "Serbie et Kosovo*",
-		"ar": "صربيا بما في ذلك كوسوفو",
+		"ar": "صربيا وكوسوفو*",
 		"zh_Hans": "塞尔维亚与科索沃*",
 		"zh_Hant": "塞爾維亞及科索沃*",
 		"zh_TW": "塞爾維亞與科索沃*",
-		"pt": "Sévia incluíndo Kosovo"
+		"pt": "Sérvia e Kosovo*"
 	},
 	"SEYCHELLES": {
 		"en": "Seychelles",
