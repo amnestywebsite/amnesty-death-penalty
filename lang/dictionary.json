@@ -581,13 +581,13 @@
 	},
 	"HOLY SEE": {
 		"en": "Vatican City",
-		"es": "Santa Sede",
+		"es": "Ciudad del Vaticano",
 		"fr": "Vatican",
-		"ar": "الكرسي الرسولي",
+		"ar": "مدينة الفاتيكان",
 		"zh_Hans": "梵蒂冈城",
 		"zh_Hant": "梵蒂岡城",
 		"zh_TW": "梵蒂岡城",
-		"pt": "Santa Sé"
+		"pt": "Cidade do Vaticano"
 	},
 	"HONDURAS": {
 		"en": "Honduras",
@@ -701,13 +701,13 @@
 	},
 	"MACEDONIA": {
 		"en": "North Macedonia",
-		"es": "Macedonia",
+		"es": "Macedonia del Norte",
 		"fr": "Macédoine du Nord",
-		"ar": "مقدونيا",
+		"ar": "شمال مقدونيا",
 		"zh_Hans": "北马其顿",
 		"zh_Hant": "北馬其頓",
 		"zh_TW": "北馬其頓",
-		"pt": "Macedônia"
+		"pt": "Macedónia do Norte"
 	},
 	"MADAGASCAR": {
 		"en": "Madagascar",
@@ -1041,13 +1041,13 @@
 	},
 	"SOMALIA": {
 		"en": "Somalia",
-		"es": "Somalia incluida Somalilandia",
+		"es": "Somalia",
 		"fr": "Somalie",
-		"ar": "الصومال بما في ذلك أرض الصومال",
+		"ar": "الصومال",
 		"zh_Hans": "索马里",
 		"zh_Hant": "索馬里",
 		"zh_TW": "索馬利亞",
-		"pt": "Somália, incluíndo Somalilândia"
+		"pt": "Somália"
 	},
 	"SOUTH AFRICA": {
 		"en": "South Africa",
