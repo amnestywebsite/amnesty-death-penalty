@@ -20496,7 +20496,7 @@
 			},
 			{
 				"id": "MAR",
-				"name": "Morocco (including Western Sahara) ",
+				"name": "MOROCCO / WESTERN SAHARA",
 				"since": "",
 				"executions": "0",
 				"death-penalties": "15+",
@@ -22196,7 +22196,7 @@
 			},
 			{
 				"id": "MAR",
-				"name": "Morocco (including Western Sahara) ",
+				"name": "MOROCCO / WESTERN SAHARA",
 				"since": "",
 				"executions": "0",
 				"death-penalties": "10",
@@ -23876,7 +23876,7 @@
 			},
 			{
 				"id": "MAR",
-				"name": "Morocco (including Western Sahara)",
+				"name": "MOROCCO / WESTERN SAHARA",
 				"since": "",
 				"executions": "0",
 				"death-penalties": "7+",
@@ -25562,7 +25562,7 @@
 			},
 			{
 				"id": "MAR",
-				"name": "Morocco (including Western Sahara)",
+				"name": "MOROCCO / WESTERN SAHARA",
 				"since": "",
 				"executions": 0,
 				"death-penalties": "1+",
