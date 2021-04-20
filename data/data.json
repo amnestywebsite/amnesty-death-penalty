@@ -2456,7 +2456,7 @@
 			},
 			{
 				"id": "PSE",
-				"name": "PALESTINIAN AUTHORITY",
+				"name": "STATE OF PALESTINE",
 				"since": "",
 				"executions": "0",
 				"death-penalties": "0",
@@ -4854,7 +4854,7 @@
 			},
 			{
 				"id": "PSE",
-				"name": "PALESTINIAN AUTHORITY",
+				"name": "STATE OF PALESTINE",
 				"since": "",
 				"executions": "0",
 				"death-penalties": "11",
@@ -6687,7 +6687,7 @@
 			},
 			{
 				"id": "PSE",
-				"name": "PALESTINIAN AUTHORITY",
+				"name": "STATE OF PALESTINE",
 				"since": "",
 				"executions": "0",
 				"death-penalties": "17",
@@ -8465,7 +8465,7 @@
 			},
 			{
 				"id": "PSE",
-				"name": "PALESTINIAN AUTHORITY",
+				"name": "STATE OF PALESTINE",
 				"since": "",
 				"executions": "5",
 				"death-penalties": "11+",
@@ -10264,7 +10264,7 @@
 			},
 			{
 				"id": "PSE",
-				"name": "PALESTINIAN AUTHORITY",
+				"name": "STATE OF PALESTINE",
 				"since": "",
 				"executions": "3",
 				"death-penalties": "5+",
@@ -12012,7 +12012,7 @@
 			},
 			{
 				"id": "PSE",
-				"name": "PALESTINIAN AUTHORITY",
+				"name": "STATE OF PALESTINE",
 				"since": "",
 				"executions": "6",
 				"death-penalties": "6+",
@@ -13720,7 +13720,7 @@
 			},
 			{
 				"id": "PSE",
-				"name": "PALESTINIAN AUTHORITY",
+				"name": "STATE OF PALESTINE",
 				"since": "",
 				"executions": "3+",
 				"death-penalties": "14+",
@@ -20642,7 +20642,7 @@
 			},
 			{
 				"id": "PSE",
-				"name": "STATE OF PALESTINE ",
+				"name": "STATE OF PALESTINE",
 				"since": "",
 				"executions": "6",
 				"death-penalties": "16",
@@ -22342,7 +22342,7 @@
 			},
 			{
 				"id": "PSE",
-				"name": "STATE OF PALESTINE ",
+				"name": "STATE OF PALESTINE",
 				"since": "",
 				"executions": "0",
 				"death-penalties": "13",
@@ -25894,7 +25894,7 @@
 			{
 				"id": "SRB",
 				"name": "SERBIA INCLUDING KOSOVO",
-				"since": 2002,
+				"since": "2002/1999 (UNMIK/REG/1999/24)",
 				"executions": 0,
 				"death-penalties": 0,
 				"status": "ABOLITIONIST",
