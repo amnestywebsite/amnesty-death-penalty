@@ -357,7 +357,7 @@
 		"zh_Hans": "刚果共和国",
 		"zh_Hant": "剛果共和國",
 		"zh_TW": "剛果共和國",
-		"pt": "República Democrática do Congo"
+		"pt": "República do Congo"
 	},
 	"COOK ISLANDS": {
 		"en": "Cook Islands",
@@ -580,14 +580,14 @@
 		"pt": "Haiti"
 	},
 	"HOLY SEE": {
-		"en": "Holy See",
-		"es": "Santa Sede",
-		"fr": "Saint-Siège",
-		"ar": "الكرسي الرسولي",
-		"zh_Hans": "梵蒂冈",
-		"zh_Hant": "梵蒂岡",
-		"zh_TW": "梵諦岡",
-		"pt": "Santa Sé"
+		"en": "Vatican City",
+		"es": "Ciudad del Vaticano",
+		"fr": "Vatican",
+		"ar": "الفاتيكان",
+		"zh_Hans": "梵蒂冈城",
+		"zh_Hant": "梵蒂岡城",
+		"zh_TW": "梵蒂岡城",
+		"pt": "Cidade do Vaticano"
 	},
 	"HONDURAS": {
 		"en": "Honduras",
@@ -700,14 +700,14 @@
 		"pt": "Luxemburgo"
 	},
 	"MACEDONIA": {
-		"en": "Macedonia",
-		"es": "Macedonia",
-		"fr": "Macédoine",
-		"ar": "مقدونيا",
-		"zh_Hans": "马其顿",
-		"zh_Hant": "馬其頓",
-		"zh_TW": "馬其頓",
-		"pt": "Macedônia"
+		"en": "North Macedonia",
+		"es": "Macedonia del Norte",
+		"fr": "Macédoine du Nord",
+		"ar": "شمال مقدونيا",
+		"zh_Hans": "北马其顿",
+		"zh_Hant": "北馬其頓",
+		"zh_TW": "北馬其頓",
+		"pt": "Macedónia do Norte"
 	},
 	"MADAGASCAR": {
 		"en": "Madagascar",
@@ -990,14 +990,14 @@
 		"pt": "Senegal"
 	},
 	"SERBIA INCLUDING KOSOVO": {
-		"en": "Serbia including Kosovo",
-		"es": "Serbia incluido Kosovo",
-		"fr": "Serbie, y compris Kosovo",
-		"ar": "صربيا بما في ذلك كوسوفو",
-		"zh_Hans": "塞尔维亚 包括科索沃",
-		"zh_Hant": "塞爾維亞 包括科索沃",
-		"zh_TW": "塞爾維亞含科索沃",
-		"pt": "Sévia incluíndo Kosovo"
+		"en": "Serbia and Kosovo*",
+		"es": "Serbia y Kosovo*",
+		"fr": "Serbie et Kosovo*",
+		"ar": "صربيا وكوسوفو*",
+		"zh_Hans": "塞尔维亚与科索沃*",
+		"zh_Hant": "塞爾維亞及科索沃*",
+		"zh_TW": "塞爾維亞與科索沃*",
+		"pt": "Sérvia e Kosovo*"
 	},
 	"SEYCHELLES": {
 		"en": "Seychelles",
@@ -1040,14 +1040,14 @@
 		"pt": "Ilhas Salomão"
 	},
 	"SOMALIA": {
-		"en": "Somalia including Somaliland",
-		"es": "Somalia incluida Somalilandia",
-		"fr": "Somalie y compris Somaliland",
-		"ar": "الصومال بما في ذلك أرض الصومال",
-		"zh_Hans": "索马里 包括索马里兰",
-		"zh_Hant": "索馬里 包括索馬里蘭",
-		"zh_TW": "索馬利亞 含索馬利蘭",
-		"pt": "Somália, incluíndo Somalilândia"
+		"en": "Somalia",
+		"es": "Somalia",
+		"fr": "Somalie",
+		"ar": "الصومال",
+		"zh_Hans": "索马里",
+		"zh_Hant": "索馬里",
+		"zh_TW": "索馬利亞",
+		"pt": "Somália"
 	},
 	"SOUTH AFRICA": {
 		"en": "South Africa",
@@ -1237,7 +1237,7 @@
 		"zh_Hans": "秘鲁",
 		"zh_Hant": "秘魯",
 		"zh_TW": "秘魯",
-		"pt": "Perú"
+		"pt": "Peru"
 	},
 	"KAZAKHSTAN": {
 		"en": "Kazakhstan",
@@ -1357,7 +1357,7 @@
 		"zh_Hans": "摩洛哥 包括西撒哈拉",
 		"zh_Hant": "摩洛哥 包括西撒哈拉",
 		"zh_TW": "摩洛哥 含西薩哈拉",
-		"pt": "Marrocos e Sahara Ocidental"
+		"pt": "Marrocos e Sara Ocidental"
 	},
 	"GHANA": {
 		"en": "Ghana",
@@ -1367,7 +1367,7 @@
 		"zh_Hans": "加纳",
 		"zh_Hant": "加納",
 		"zh_TW": "迦納",
-		"pt": "Ghana"
+		"pt": "Gana"
 	},
 	"GRENADA": {
 		"en": "Grenada",
@@ -1550,14 +1550,14 @@
 		"pt": "Serra Leoa"
 	},
 	"SWAZILAND": {
-		"en": "Swaziland",
-		"es": "Suazilandia",
-		"fr": "Swaziland",
+		"en": "Eswatini (former Swaziland)",
+		"es": "Eswatini (antes Suazilandia)",
+		"fr": "Eswatini",
 		"ar": "سوازيلند",
 		"zh_Hans": "斯威士兰",
 		"zh_Hant": "斯威士蘭",
 		"zh_TW": "史瓦濟蘭",
-		"pt": "Suazilândia"
+		"pt": "Eswatini"
 	},
 	"TAJIKISTAN": {
 		"en": "Tajikistan",
@@ -1617,7 +1617,7 @@
 		"zh_Hans": "阿富汗",
 		"zh_Hant": "阿富汗",
 		"zh_TW": "阿富汗",
-		"pt": "Afeghanistão"
+		"pt": "Afeganistão"
 	},
 	"UNITED ARAB EMIRATES": {
 		"en": "United Arab Emirates",
@@ -1710,7 +1710,7 @@
 		"pt": "Botsuana"
 	},
 	"DEMOCRATIC REPUBLIC OF CONGO": {
-		"en": "Democratic Republic of Congo",
+		"en": "Democratic Republic of the Congo",
 		"es": "República Democrática del Congo",
 		"fr": "République démocratique du Congo",
 		"ar": "جمهورية الكونغو الديمقراطية",
@@ -2167,7 +2167,7 @@
 		"zh_Hans": "也门",
 		"zh_Hant": "也門",
 		"zh_TW": "葉門",
-		"pt": "Yémen"
+		"pt": "Iémen"
 	},
 	"ZIMBABWE": {
 		"en": "Zimbabwe",
