@@ -26413,12 +26413,12 @@
  
  {
 		"year": "2021",
-		"total-executions": "TBC",
-		"total-death-sentences": "TBC",
-		"ABOLITIONIST": "TBC",
-		"ABOLITIONIST FOR ORDINARY CRIMES": "TBC",
-		"ABOLITIONIST IN PRACTICE": "TBC",
-		"RETENTIONIST": "TBC",
+		"total-executions": "579",
+		"total-death-sentences": "2052",
+		"ABOLITIONIST": "109",
+		"ABOLITIONIST FOR ORDINARY CRIMES": "8",
+		"ABOLITIONIST IN PRACTICE": "28",
+		"RETENTIONIST": "56",
 		"countries": [
 		  {
     "id": "AFG",
