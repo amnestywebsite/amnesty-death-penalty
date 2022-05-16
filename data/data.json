@@ -28949,14 +28949,17 @@
     "executions": 0,
     "death-penalties": 0,
     "status": "ABOLITIONIST",
-    "note/en": "This designation (*) is without prejudice to positions on status, and is in line with UN Security Council Resolution 1244 and the International Court of Justice Opinion on the Kosovo declaration of independence.",
-    "note/fr": "* Cette désignation est sans préjudice des positions sur le statut et est conforme à la résolution 1244 du Conseil de sécurité des Nations unies ainsi qu’à l’avis de la Cour internationale de justice sur la déclaration d’indépendance du Kosovo.",
-    "note/es": "Esta designación (*) —en consonancia con la Resolución 1244 del Consejo de Seguridad de la ONU y el Dictamen de la Corte Internacional de Justicia sobre la declaración de independencia de Kosovo— se entiende sin perjuicio de las distintas posiciones sobre su estatus.",
-    "note/ar": "هذا التصنيف ( * ) لا يخل بالمواقف المتعلقة بالوضع القائم، ويتماشى مع قرار مجلس الأمن التابع للأمم المتحدة رقم 1244، ورأي محكمة العدل الدولية بشأن إعلان استقلال كوسوفو",
-    "note/zh_Hans": "这个名称 (*) 不影响有关地位的立场 ，并符合联合国安理会第1244号决议和国际法院对科索沃独立宣言的意见。",
-    "note/zh_Hant": "該名稱 (*) 不影響在地位問題上的立場 ，並與聯合國安理會第1244號決議及國際法院有關科索沃獨立宣言的意見一致。",
-    "note/zh_TW": "該名稱 (*) 不影響在地位問題上的立場 ，並與聯合國安理會第1244號決議及國際法院有關科索沃獨立宣言的意見一致。",
-    "note/pt": "Esta designação (*) não prejudica as posições sobre a questão do estatuto e está em conformidade com a Resolução 1244 do Conselho de Segurança das Nações Unidas e com o Parecer do Tribunal Internacional de Justiça sobre a declaração de independência do Kosovo."
+    "note": {
+					"en": "This designation (*) is without prejudice to positions on status, and is in line with UN Security Council Resolution 1244 and the International Court of Justice Opinion on the Kosovo declaration of independence.",
+					"es": "Esta designación (*) —en consonancia con la Resolución 1244 del Consejo de Seguridad de la ONU y el Dictamen de la Corte Internacional de Justicia sobre la declaración de independencia de Kosovo— se entiende sin perjuicio de las distintas posiciones sobre su estatus.",
+					"fr": "* Cette désignation est sans préjudice des positions sur le statut et est conforme à la résolution 1244 du Conseil de sécurité des Nations unies ainsi qu’à l’avis de la Cour internationale de justice sur la déclaration d’indépendance du Kosovo.",
+					"ar": "هذا التصنيف ( * ) لا يخل بالمواقف المتعلقة بالوضع القائم، ويتماشى مع قرار مجلس الأمن التابع للأمم المتحدة رقم 1244، ورأي محكمة العدل الدولية بشأن إعلان استقلال كوسوفو",
+					"pt": "Esta designação (*) não prejudica as posições sobre a questão do estatuto e está em conformidade com a Resolução 1244 do Conselho de Segurança das Nações Unidas e com o Parecer do Tribunal Internacional de Justiça sobre a declaração de independência do Kosovo.",			
+					"zh_Hans": "这个名称 (*) 不影响有关地位的立场 ，并符合联合国安理会第1244号决议和国际法院对科索沃独立宣言的意见。",
+					"zh_Hant": "該名稱 (*) 不影響在地位問題上的立場 ，並與聯合國安理會第1244號決議及國際法院有關科索沃獨立宣言的意見一致。",
+					"zh_TW": "該名稱 (*) 不影響在地位問題上的立場 ，並與聯合國安理會第1244號決議及國際法院有關科索沃獨立宣言的意見一致。"
+
+				}
   },
   {
     "id": "SYC",
