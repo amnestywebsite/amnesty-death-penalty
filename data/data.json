@@ -28609,14 +28609,16 @@
     "executions": 0,
     "death-penalties": "21+",
     "status": "RETENTIONIST",
-    "note/en": "Death sentences and executions by Hamas authorities in Gaza",
-    "note/fr": "Condamnations à mort et exécutions par les autorités du Hamas à Gaza",
-    "note/es": "Condenas a muerte y ejecuciones por las autoridades de Hamás en Gaza.",
-    "note/ar": "أأحكام الإعدام وتنفيذها من قبل سلطة حماس في غزة",
-    "note/zh_Hans": "加沙哈马斯当局下达的死刑判决与执行的处决",
-    "note/zh_Hant": "在加沙的哈馬斯政權判決和執行死刑",
-    "note/zh_TW": "哈馬斯當局政權於加薩執行的死刑及處決",
-    "note/pt": "Penas de morte e execuções pelas autoridades do Hamas em Gaza"
+"note": {
+					"en": "Death sentences and executions by Hamas authorities in Gaza",
+					"fr": "Condamnations à mort et exécutions par les autorités du Hamas à Gaza",
+					"es": "Condenas a muerte y ejecuciones por las autoridades de Hamás en Gaza.",
+					"ar": "أأحكام الإعدام وتنفيذها من قبل سلطة حماس في غزة",
+					"zh_Hans": "加沙哈马斯当局下达的死刑判决与执行的处决",
+					"zh_Hant": "在加沙的哈馬斯政權判決和執行死刑",
+					"zh_TW": "哈馬斯當局政權於加薩執行的死刑及處決",
+					"pt": "Penas de morte e execuções pelas autoridades do Hamas em Gaza"
+				}
   },
   {
     "id": "PAN",
