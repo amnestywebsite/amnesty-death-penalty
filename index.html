@@ -1,1 +1,72 @@
 
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Map of death penalties and execution around the world - Amnesty International</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link rel="stylesheet" href="css/chroniton.css">
+  <link rel="stylesheet" href="css/awesomplete.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body class="clearfix">
+
+<section id="loading">
+  <p>Loading...</p>
+</section>
+
+<div class="header-m tc">
+  <button id="timeline-previous" class="timeline-button previous"><span class="visuallyhidden">Previous year</span></button>
+    <h1 id="overview-year-m">2021</h1>
+  <button id="timeline-next" class="timeline-button next"><span class="visuallyhidden">Next year</span></button>
+</div>
+
+<div id="map-wrapper"><div id="map-no-show">
+   <div class="buttons">
+    <button class="zoom-buttons" id="zoom-in" title="Zoom in" data-translate-title="ZOOM IN">+</button>
+    <button class="zoom-buttons" id="zoom-out" title="Zoom out" data-translate-title="ZOOM OUT">-</button>
+  </div>
+</div></div>
+
+<div id="info-box">
+  <div id="search-box"></div>
+  <div id="info-box-inner" class="clearfix">
+    <h1 class="overview-year-ns"><span id="overview-year" class="thick-underline"></span></h1>
+
+    <div class="footer-left-m">
+      <div id="bar-chart-wrapper">
+        <div id="bar-chart"></div>
+      </div>
+    </div>
+
+    <div class="footer-right-m">
+      <div class="total-executions">
+        <div class="total-executions-l">
+          <img class="total-executions-icon" src="images/BlackNoose.svg">
+        </div>
+        <div class="total-executions-r">
+          <h2 class="execution-header-m" id="executions-total"></h2>
+          <h3 class="execution-words-m lh-reset" data-translate="EXECUTIONS"></h3>
+        </div>
+      </div>
+    </div>
+
+    <div id="detail-box"></div>
+  </div>
+
+  <div id="slider">
+    <button id="slider-play-pause" class="play" data-translate="PLAY"></button>
+  </div>
+</div>
+
+<script src="javascripts/vendor.min.js"></script>
+<script src="javascripts/amnesty.js"></script>
+
+</body>
+</html>
