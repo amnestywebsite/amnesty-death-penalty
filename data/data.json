@@ -28739,14 +28739,16 @@
     "executions": 0,
     "death-penalties": 0,
     "status": "RETENTIONIST",
-    "note/en": "Death penalty abolished in the Constitution but remains applicable under US federal law.",
-    "note/fr": "La peine de mort est abolie dans la Constitution mais elle reste applicable au titre de la législation fédérale américaine.",
-    "note/es": "La pena de muerte está abolida en la Constitución, pero se sigue aplicando en virtud de la legislación federal estadounidense.",
-    "note/ar": "ألغيت عقوبة الإعدام في الدستور لكنها لا تزال مطبقة بموجب القانون الفيدرالي الأمريكي",
-    "note/zh_Hans": "宪法内废除了死刑，但在美国联邦法之下仍然使用",
-    "note/zh_Hant": "",
-    "note/zh_TW": "",
-    "note/pt": ""
+  "note": {
+					"en": "Death penalty abolished in the Constitution but remains applicable under US federal law.",
+					"es": "La pena de muerte está abolida en la Constitución, pero se sigue aplicando en virtud de la legislación federal estadounidense.",
+					"fr": "La peine de mort est abolie dans la Constitution mais elle reste applicable au titre de la législation fédérale américaine.",
+					"ar": "ألغيت عقوبة الإعدام في الدستور لكنها لا تزال مطبقة بموجب القانون الفيدرالي الأمريكي",
+					"zh_Hans": "宪法内废除了死刑，但在美国联邦法之下仍然使用",
+					"zh_Hant": "死刑為美國聯邦法律所許可",
+					"zh_TW": "美國聯邦法律之下適用死刑。",
+					"pt": "A pena de morte é aplicada em virtude da legislação federal dos EUA."
+				}
   },
   {
     "id": "QAT",
