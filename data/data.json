@@ -28527,14 +28527,16 @@
     "executions": "+",
     "death-penalties": "+",
     "status": "RETENTIONIST",
-    "note/en": "+ means Amnesty International is confident that there was more than one execution or death sentence but we could not establish a figure.",
-    "note/fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution ou condamnation à mort a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise.",
-    "note/es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución o condena a muerte, pero no pudo determinar la cifra.",
-    "note/ar": "علامة + تعني أن منظمة العفو الدولية تأكدت أن أكثر أكثر من عملية إعدام واحدة قد نُفذت ولكنها لم تتمكن من تحديد العدد.",
-    "note/zh_Hans": "+号表示国际特赦组织相信超过一人被处决,但无法确立确切数字。",
-    "note/zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-    "note/zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
-    "note/pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
+    "note": {
+					"en": "+ means Amnesty International is confident that there was more than one execution or death sentence but we could not establish a figure.",
+					"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution ou condamnation à mort a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise.",
+					"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución o condena a muerte, pero no pudo determinar la cifra.",
+					"ar": "علامة + تعني أن منظمة العفو الدولية تأكدت أن أكثر أكثر من عملية إعدام واحدة قد نُفذت ولكنها لم تتمكن من تحديد العدد.",
+					"zh_Hans": " +号表示国际特赦组织相信超过一人被处决,但无法确立确切数字。",
+					"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
+					"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
+					"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
+				}
   },
   {
     "id": "NOR",
