@@ -29240,6 +29240,7 @@
     "executions": "24+",
     "death-penalties": "+",
     "status": "RETENTIONIST",
+	  note {
    "en": "Amnesty International was unable to confirm the judicial use of the death penalty in Syria due to the armed conflict.",
 					"es": "Debido al conflicto armado, Amnistía Internacional no pudo confirmar el uso judicial de la pena de muerte en Siria.",
 					"fr": "Amnesty International n’a pas été en mesure d’obtenir des informations sur l’utilisation judiciaire de la peine de mort en Syrie en raison du conflit armé.",
