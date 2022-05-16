@@ -26415,7 +26415,7 @@
 		"year": "2021",
 		"total-executions": "579+",
 		"total-death-sentences": "2052",
-		"ABOLITIONIST": "109",
+		"ABOLITIONIST": "108",
 		"ABOLITIONIST FOR ORDINARY CRIMES": "8",
 		"ABOLITIONIST IN PRACTICE": "28",
 		"RETENTIONIST": "56",
@@ -26987,14 +26987,16 @@
     "executions": "1,000s",
     "death-penalties": "1,000s",
     "status": "RETENTIONIST",
-    "note/en": "In 2009 Amnesty International stopped publishing our estimated figures on the use of the death penalty in China in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. Our monitoring indicates that China remains the world’s top executioner.",
-    "note/fr": "En 2009, Amnesty International a cessé de publier des chiffres estimatifs sur l’utilisation de la peine de mort en Chine pour dénoncer le secret qu’entretient le pays à ce propos. La Chine continue de classer ces statistiques secret d’État. Les informations que nous avons recueillies montrent que la Chine demeure le pays où ont lieu le plus grand nombre d’exécutions.",
-    "note/es": "En 2009, Amnistía Internacional dejó de publicar sus cálculos estimados sobre el uso de la pena de muerte en China a modo de desafío frente al secretismo que aplica el país. China sigue categorizando esas cifras como secreto de Estado. De nuestra actividad de monitoreo se desprende que China sigue siendo el país del mundo donde se llevan a cabo más ejecuciones.",
-    "note/ar": "عام 2009، توقفت منظمة العفو الدولية عن نشر احصاءاتنا التقديرية بشأن تنفيذ عقوبة الإعدام في الصين، في تحدّ للسرية التي تعتمدها البلاد. لا تزال الصين تعتبر هذه الإحصاءات بمثابة سر حكومي. وبحسب متابعتنا ، لا تزال الصين تحتل الصدارة في عدد احكام الإعدام التي تنفذها.",
-    "note/zh_Hans": "基于中国在死刑方面秘而不言，国际特赦组织自2009年起即停止公布估算的中国使用死刑数字。中国继续将这类数据列为国家机密。我们的跟踪调查显示中国仍然是世界头号刽子手。",
-    "note/zh_Hant": "中國繼續將相關數字列為國家機密。我們的監察發現，中國仍是世界上處決最多人的國家。",
-    "note/zh_TW": "因為中國的保密狀態，2009年國際特赦組織停止發佈預估的中國執行死刑次數。中國繼續將此類數據列為國家機密。我們的監測指出，中國仍為世界上處刑最頻繁的國家。",
-    "note/pt": "Em 2009, a Amnistia Internacional deixou de publicar números estimados sobre o uso da pena de morte na China, dado os desafios face ao secretismo do país. A China continua a classificar tais números como um segredo de estado. A nossa atividade de monitorização indica que a China continua a ser o país do mundo com maior número de execuções."
+    "note": {
+					"en": "In 2009 Amnesty International stopped publishing our estimated figures on the use of the death penalty in China in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. Our monitoring indicates that China remains the world’s top executioner.",
+					"fr": " En 2009, Amnesty International a cessé de publier des chiffres estimatifs sur l’utilisation de la peine de mort en Chine pour dénoncer le secret qu’entretient le pays à ce propos. La Chine continue de classer ces statistiques secret d’État. Les informations que nous avons recueillies montrent que la Chine demeure le pays où ont lieu le plus grand nombre d’exécutions.",
+					"es": "En 2009, Amnistía Internacional dejó de publicar sus cálculos estimados sobre el uso de la pena de muerte en China a modo de desafío frente al secretismo que aplica el país. China sigue categorizando esas cifras como secreto de Estado. De nuestra actividad de monitoreo se desprende que China sigue siendo el país del mundo donde se llevan a cabo más ejecuciones.",
+					"ar": "عام 2009، توقفت منظمة العفو الدولية عن نشر احصاءاتنا التقديرية بشأن تنفيذ عقوبة الإعدام في الصين، في تحدّ للسرية التي تعتمدها البلاد. لا تزال الصين تعتبر هذه الإحصاءات بمثابة سر حكومي. وبحسب متابعتنا ، لا تزال الصين تحتل الصدارة في عدد احكام الإعدام التي تنفذها.",
+					"zh_Hans": "基于中国在死刑方面秘而不言，国际特赦组织自2009年起即停止公布估算的中国使用死刑数字。中国继续将这类数据列为国家机密。我们的跟踪调查显示中国仍然是世界头号刽子手。",
+					"zh_Hant": "中國繼續將相關數字列為國家機密。我們的監察發現，中國仍是世界上處決最多人的國家。",
+					"zh_TW": "因為中國的保密狀態，2009年國際特赦組織停止發佈預估的中國執行死刑次數。中國繼續將此類數據列為國家機密。我們的監測指出，中國仍為世界上處刑最頻繁的國家。",
+					"pt": "Em 2009, a Amnistia Internacional deixou de publicar números estimados sobre o uso da pena de morte na China, dado os desafios face ao secretismo do país. A China continua a classificar tais números como um segredo de estado. A nossa atividade de monitorização indica que a China continua a ser o país do mundo com maior número de execuções."
+	    }
   },
   {
     "id": "COL",
