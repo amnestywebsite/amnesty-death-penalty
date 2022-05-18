@@ -27341,12 +27341,12 @@
     "executions": 0,
     "death-penalties": "+",
     "status": "RETENTIONIST",
-   "note": {
-					"en": "+ means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
-					"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise",
-					"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
-					"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
-					"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
+ "note": {
+					"en": "+ means Amnesty International is confident that there was more than one death sentence but we could not establish a figure.",
+					"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una condena a muerte, pero no pudo determinar la cifra.",
+					"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une condamnation à mort a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise.",
+					"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
+					"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 					"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
 					"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
 					"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
@@ -28017,12 +28017,12 @@
     "executions": 0,
     "death-penalties": "+",
     "status": "RETENTIONIST",
-  "note": {
-					"en": "+ means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
-					"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise",
-					"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
-					"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
-					"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
+"note": {
+					"en": "+ means Amnesty International is confident that there was more than one death sentence but we could not establish a figure.",
+					"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una condena a muerte, pero no pudo determinar la cifra.",
+					"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une condamnation à mort a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise.",
+					"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
+					"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 					"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
 					"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
 					"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
@@ -28566,14 +28566,8 @@
     "death-penalties": "+",
     "status": "RETENTIONIST",
   "note": {
-					"en": "+ means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
-					"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise",
-					"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
-					"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
-					"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
-					"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
-					"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
-					"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
+					"en": "+ means Amnesty International is confident that there was more than one execution or death sentence but we could not establish a figure.",
+					
 				}
   },
   {
@@ -28763,12 +28757,12 @@
     "executions": 0,
     "death-penalties": "+",
     "status": "RETENTIONIST",
-    "note": {
-					"en": "+ means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
-					"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise",
-					"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
-					"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
-					"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
+"note": {
+					"en": "+ means Amnesty International is confident that there was more than one death sentence but we could not establish a figure.",
+					"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una condena a muerte, pero no pudo determinar la cifra.",
+					"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une condamnation à mort a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise.",
+					"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
+					"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 					"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
 					"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
 					"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
@@ -29248,12 +29242,12 @@
     "executions": "24+",
     "death-penalties": "+",
     "status": "RETENTIONIST",
-   "note": {
-					"en": "+ means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
-					"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise",
-					"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
-					"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
-					"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
+ "note": {
+					"en": "+ means Amnesty International is confident that there was more than one death sentence but we could not establish a figure.",
+					"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una condena a muerte, pero no pudo determinar la cifra.",
+					"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une condamnation à mort a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise.",
+					"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
+					"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 					"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
 					"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
 					"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
@@ -29298,12 +29292,12 @@
     "executions": 0,
     "death-penalties": "+",
     "status": "ABOLITIONIST IN PRACTICE",
- "note": {
-					"en": "+ means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
-					"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise",
-					"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
-					"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
-					"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
+"note": {
+					"en": "+ means Amnesty International is confident that there was more than one death sentence but we could not establish a figure.",
+					"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una condena a muerte, pero no pudo determinar la cifra.",
+					"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une condamnation à mort a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise.",
+					"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
+					"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 					"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
 					"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
 					"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
@@ -29316,12 +29310,12 @@
     "executions": 0,
     "death-penalties": "+",
     "status": "RETENTIONIST",
-  "note": {
-					"en": "+ means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
-					"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise",
-					"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
-					"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
-					"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
+"note": {
+					"en": "+ means Amnesty International is confident that there was more than one death sentence but we could not establish a figure.",
+					"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una condena a muerte, pero no pudo determinar la cifra.",
+					"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une condamnation à mort a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise.",
+					"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
+					"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
 					"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
 					"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
 					"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
