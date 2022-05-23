@@ -28564,7 +28564,8 @@
     "executions": "+",
     "death-penalties": "+",
     "status": "RETENTIONIST",
-  "en": "+ means Amnesty International is confident that there was more than one execution or death sentence but we could not establish a figure.",
+    "note": {
+  					"en": "+ means Amnesty International is confident that there was more than one execution or death sentence but we could not establish a figure.",
 					"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución o condena a muerte, pero no pudo determinar la cifra.",
 					"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution ou condamnation à mort a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise",
 					"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
