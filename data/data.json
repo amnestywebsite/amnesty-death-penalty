@@ -138,7 +138,7 @@
 				"since": "",
 				"executions": "0",
 				"death-penalties": "0",
-				"status": "ABOLITIONIST FOR ORDINARY CRIMES"
+				"status": "ABOLITIONIST FOR ORDINARY CRIMES",
 				"note": {
 					"en": " ",
 					"es": " ",
@@ -390,7 +390,7 @@
 				"since": "",
 				"executions": "0",
 				"death-penalties": "0",
-				"status": "ABOLITIONIST FOR ORDINARY CRIMES"
+				"status": "ABOLITIONIST FOR ORDINARY CRIMES",
 				"note": {
 					"en": " ",
 					"es": " ",
@@ -444,7 +444,7 @@
 				"since": "",
 				"executions": "0",
 				"death-penalties": "0",
-				"status": "ABOLITIONIST FOR ORDINARY CRIMES"
+				"status": "ABOLITIONIST FOR ORDINARY CRIMES",
 				"note": {
 					"en": " ",
 					"es": " ",
@@ -642,7 +642,7 @@
 				"since": "",
 				"executions": "0",
 				"death-penalties": "0",
-				"status": "ABOLITIONIST FOR ORDINARY CRIMES"
+				"status": "ABOLITIONIST FOR ORDINARY CRIMES",
 				"note": {
 					"en": " ",
 					"es": " ",
@@ -984,7 +984,7 @@
 				"since": "",
 				"executions": "0",
 				"death-penalties": "0",
-				"status": "ABOLITIONIST FOR ORDINARY CRIMES"
+				"status": "ABOLITIONIST FOR ORDINARY CRIMES",
 				"note": {
 					"en": " ",
 					"es": " ",
@@ -1074,7 +1074,7 @@
 				"since": "",
 				"executions": "0",
 				"death-penalties": "0",
-				"status": "ABOLITIONIST FOR ORDINARY CRIMES"
+				"status": "ABOLITIONIST FOR ORDINARY CRIMES",
 				"note": {
 					"en": " ",
 					"es": " ",
@@ -1542,7 +1542,7 @@
 				"since": "",
 				"executions": "0",
 				"death-penalties": "0",
-				"status": "ABOLITIONIST FOR ORDINARY CRIMES"
+				"status": "ABOLITIONIST FOR ORDINARY CRIMES",
 				"note": {
 					"en": " ",
 					"es": " ",
@@ -1740,7 +1740,7 @@
 				"since": "",
 				"executions": "0",
 				"death-penalties": "0",
-				"status": "ABOLITIONIST FOR ORDINARY CRIMES"
+				"status": "ABOLITIONIST FOR ORDINARY CRIMES",
 				"note": {
 					"en": " ",
 					"es": " ",
@@ -2532,7 +2532,7 @@
 				"since": "",
 				"executions": "0",
 				"death-penalties": "0",
-				"status": "ABOLITIONIST FOR ORDINARY CRIMES"
+				"status": "ABOLITIONIST FOR ORDINARY CRIMES",
 				"note": {
 					"en": " ",
 					"es": " ",
@@ -26955,7 +26955,6 @@
     "executions": 0,
     "death-penalties": 0,
     "status": "ABOLITIONIST"
-    "note/en": "NOTE THE CHANGE from retentionist to abolitionist",
     
     
     
@@ -26986,7 +26985,7 @@
     "since": "",
     "executions": "1,000s",
     "death-penalties": "1,000s",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
     "note": {
 					"en": "In 2009 Amnesty International stopped publishing our estimated figures on the use of the death penalty in China in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. Our monitoring indicates that China remains the world’s top executioner.",
 					"fr": " En 2009, Amnesty International a cessé de publier des chiffres estimatifs sur l’utilisation de la peine de mort en Chine pour dénoncer le secret qu’entretient le pays à ce propos. La Chine continue de classer ces statistiques secret d’État. Les informations que nous avons recueillies montrent que la Chine demeure le pays où ont lieu le plus grand nombre d’exécutions.",
@@ -27340,7 +27339,7 @@
     "since": "",
     "executions": 0,
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
  "note": {
 					"en": "+ means Amnesty International is confident that there was more than one death sentence but we could not establish a figure.",
 					"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una condena a muerte, pero no pudo determinar la cifra.",
@@ -27726,7 +27725,7 @@
     "since": "",
     "executions": "314+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
 "note": {
 					"en": "In 2015 Amnesty International began using the combined figure of officially announced executions and those executions not officially announced but which we confirmed, from credible sources, took place. <br/> + means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
 					"fr": "En 2015, Amnesty International a commencé à utiliser le chiffre combiné des exécutions officiellement reconnues et des exécutions qui n’ont pas été annoncées officiellement, mais que l’organisation a pu confirmer auprès de sources crédibles. <br/> Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise",
@@ -28016,7 +28015,7 @@
     "since": "",
     "executions": 0,
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
 "note": {
 					"en": "+ means Amnesty International is confident that there was more than one death sentence but we could not establish a figure.",
 					"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una condena a muerte, pero no pudo determinar la cifra.",
@@ -28530,7 +28529,7 @@
     "since": "",
     "executions": "+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
     "note": {
 					"en": "+ means Amnesty International is confident that there was more than one execution or death sentence but we could not establish a figure.",
 					"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution ou condamnation à mort a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise.",
@@ -28564,7 +28563,7 @@
     "since": "",
     "executions": "+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
   "note": {
 					"en": "+ means Amnesty International is confident that there was more than one execution or death sentence but we could not establish a figure."
 					
@@ -28608,7 +28607,7 @@
     "since": "",
     "executions": 0,
     "death-penalties": "21+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
 "note": {
 					"en": "Death sentences by Hamas authorities in Gaza",
 					"fr": "Condamnations à mort prononcées par les autorités du Hamas à Gaza",
@@ -28738,7 +28737,7 @@
     "since": "",
     "executions": 0,
     "death-penalties": 0,
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
   "note": {
 					"en": "Death penalty abolished in the Constitution but remains applicable under US federal law.",
 					"es": "La pena de muerte está abolida en la Constitución, pero se sigue aplicando en virtud de la legislación federal estadounidense.",
@@ -28756,7 +28755,7 @@
     "since": "",
     "executions": 0,
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
 "note": {
 					"en": "+ means Amnesty International is confident that there was more than one death sentence but we could not establish a figure.",
 					"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una condena a muerte, pero no pudo determinar la cifra.",
@@ -28950,7 +28949,7 @@
     "since": "2002/1999 (UNMIK/REG/1999/24)",
     "executions": 0,
     "death-penalties": 0,
-    "status": "ABOLITIONIST"
+    "status": "ABOLITIONIST",
     "note": {
 					"en": "This designation (*) is without prejudice to positions on status, and is in line with UN Security Council Resolution 1244 and the International Court of Justice Opinion on the Kosovo declaration of independence.",
 					"es": "Esta designación (*) —en consonancia con la Resolución 1244 del Consejo de Seguridad de la ONU y el Dictamen de la Corte Internacional de Justicia sobre la declaración de independencia de Kosovo— se entiende sin perjuicio de las distintas posiciones sobre su estatus.",
@@ -29241,7 +29240,7 @@
     "since": "",
     "executions": "24+",
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
  "note": {
 					"en": "+ means Amnesty International is confident that there was more than one death sentence but we could not establish a figure.",
 					"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una condena a muerte, pero no pudo determinar la cifra.",
@@ -29291,7 +29290,7 @@
     "since": "",
     "executions": 0,
     "death-penalties": "+",
-    "status": "ABOLITIONIST IN PRACTICE"
+    "status": "ABOLITIONIST IN PRACTICE",
 "note": {
 					"en": "+ means Amnesty International is confident that there was more than one death sentence but we could not establish a figure.",
 					"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una condena a muerte, pero no pudo determinar la cifra.",
@@ -29309,7 +29308,7 @@
     "since": "",
     "executions": 0,
     "death-penalties": "+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
 "note": {
 					"en": "+ means Amnesty International is confident that there was more than one death sentence but we could not establish a figure.",
 					"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una condena a muerte, pero no pudo determinar la cifra.",
@@ -29599,7 +29598,7 @@
     "since": "",
     "executions": "+",
     "death-penalties": "119+",
-    "status": "RETENTIONIST"
+    "status": "RETENTIONIST",
    "note": {
 					"en": "+ means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
 					"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise",
