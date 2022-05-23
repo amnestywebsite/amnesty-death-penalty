@@ -28573,7 +28573,8 @@
 					"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
 					"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
 					"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
-  },
+    		}
+    },
   {
     "id": "PAK",
     "name": "PAKISTAN",
