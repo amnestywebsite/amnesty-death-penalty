@@ -990,14 +990,14 @@
 		"pt": "Senegal"
 	},
 	"SERBIA INCLUDING KOSOVO": {
-		"en": "Serbia and Kosovo*",
-		"es": "Serbia y Kosovo*",
-		"fr": "Serbie et Kosovo*",
-		"ar": "صربيا وكوسوفو*",
-		"zh_Hans": "塞尔维亚与科索沃*",
-		"zh_Hant": "塞爾維亞及科索沃*",
-		"zh_TW": "塞爾維亞與科索沃*",
-		"pt": "Sérvia e Kosovo*"
+		"en": "Serbia and Kosovo",
+		"es": "Serbia y Kosovo",
+		"fr": "Serbie et Kosovo",
+		"ar": "صربيا وكوسوفو",
+		"zh_Hans": "塞尔维亚与科索沃",
+		"zh_Hant": "塞爾維亞及科索沃",
+		"zh_TW": "塞爾維亞與科索沃",
+		"pt": "Sérvia e Kosovo"
 	},
 	"SEYCHELLES": {
 		"en": "Seychelles",
@@ -1530,8 +1530,8 @@
 		"pt": "Papua-Nova Guiné"
 	},
 	"RUSSIAN FEDERATION": {
-		"en": "Russian Federation",
-		"es": "Federación Rusa",
+		"en": "Russia",
+		"es": "Rusia",
 		"fr": "Russie",
 		"ar": "روسيا الاتحادية",
 		"zh_Hans": "俄罗斯联邦",
