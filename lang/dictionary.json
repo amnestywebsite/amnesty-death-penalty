@@ -1390,7 +1390,7 @@
 		"pt": "Quénia"
 	},
 	"SOUTH KOREA": {
-		"en": "Republic of Korea",
+		"en": "South Korea",
 		"es": "Corea del Sur",
 		"fr": "Corée du Sud",
 		"ar": "كوريا الجنوبية",
@@ -1430,8 +1430,8 @@
 		"pt": "Sri Lanka"
 	},
 	"MOROCCO": {
-		"en": "Morocco",
-		"es": "Marruecos",
+		"en": "Morocco/Western Sahara",
+		"es": "Marruecos y el Sáhara Occidental",
 		"fr": "Maroc",
 		"ar": "المغرب",
 		"zh_Hans": "摩洛哥",
@@ -1550,8 +1550,8 @@
 		"pt": "Serra Leoa"
 	},
 	"SWAZILAND": {
-		"en": "Eswatini (former Swaziland)",
-		"es": "Eswatini (antes Suazilandia)",
+		"en": "Eswatini",
+		"es": "Esuatini",
 		"fr": "Eswatini",
 		"ar": "سوازيلند",
 		"zh_Hans": "斯威士兰",
@@ -1970,7 +1970,7 @@
 		"pt": "Porto Rico / EUA"
 	},
 	"NORTH KOREA": {
-		"en": "Dem. People's Rep. of Korea",
+		"en": "North Korea",
 		"es": "Corea del Norte",
 		"fr": "Corée du Nord",
 		"ar": "كوريا الشمالية",
