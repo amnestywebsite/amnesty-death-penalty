@@ -1353,11 +1353,11 @@
 		"en": "Morocco/Western Sahara",
 		"es": "Marruecos y el Sáhara Occidental",
 		"fr": "Maroc/Sahara occidental",
-		"ar": "المغرب والصحراء الغربية",
-		"zh_Hans": "摩洛哥 包括西撒哈拉",
-		"zh_Hant": "摩洛哥 包括西撒哈拉",
-		"zh_TW": "摩洛哥 含西薩哈拉",
-		"pt": "Marrocos e Sara Ocidental"
+		"ar": "المغرب/الصحراء الغربية",
+		"zh_Hans": "摩洛哥/西撒哈拉",
+		"zh_Hant": "摩洛哥/西撒哈拉",
+		"zh_TW": "摩洛哥/西撒哈拉",
+		"pt": "Marrocos/Sara Ocidental"
 	},
 	"GHANA": {
 		"en": "Ghana",
