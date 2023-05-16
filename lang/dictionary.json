@@ -990,14 +990,14 @@
 		"pt": "Senegal"
 	},
 	"SERBIA INCLUDING KOSOVO": {
-		"en": "Serbia and Kosovo*",
-		"es": "Serbia y Kosovo*",
-		"fr": "Serbie et Kosovo*",
-		"ar": "صربيا وكوسوفو*",
-		"zh_Hans": "塞尔维亚与科索沃*",
-		"zh_Hant": "塞爾維亞及科索沃*",
-		"zh_TW": "塞爾維亞與科索沃*",
-		"pt": "Sérvia e Kosovo*"
+		"en": "Serbia and Kosovo",
+		"es": "Serbia y Kosovo",
+		"fr": "Serbie et Kosovo",
+		"ar": "صربيا وكوسوفو",
+		"zh_Hans": "塞尔维亚与科索沃",
+		"zh_Hant": "塞爾維亞及科索沃",
+		"zh_TW": "塞爾維亞與科索沃",
+		"pt": "Sérvia e Kosovo"
 	},
 	"SEYCHELLES": {
 		"en": "Seychelles",
@@ -1350,14 +1350,14 @@
 		"pt": "Eritreia"
 	},
 	"MOROCCO / WESTERN SAHARA": {
-		"en": "Morocco (including Western Sahara)",
+		"en": "Morocco/Western Sahara",
 		"es": "Marruecos y el Sáhara Occidental",
-		"fr": "Maroc et Sahara occidental",
-		"ar": "المغرب والصحراء الغربية",
-		"zh_Hans": "摩洛哥 包括西撒哈拉",
-		"zh_Hant": "摩洛哥 包括西撒哈拉",
-		"zh_TW": "摩洛哥 含西薩哈拉",
-		"pt": "Marrocos e Sara Ocidental"
+		"fr": "Maroc/Sahara occidental",
+		"ar": "المغرب/الصحراء الغربية",
+		"zh_Hans": "摩洛哥/西撒哈拉",
+		"zh_Hant": "摩洛哥/西撒哈拉",
+		"zh_TW": "摩洛哥/西撒哈拉",
+		"pt": "Marrocos/Sara Ocidental"
 	},
 	"GHANA": {
 		"en": "Ghana",
@@ -1390,13 +1390,13 @@
 		"pt": "Quénia"
 	},
 	"SOUTH KOREA": {
-		"en": "Republic of Korea",
+		"en": "South Korea",
 		"es": "Corea del Sur",
 		"fr": "Corée du Sud",
 		"ar": "كوريا الجنوبية",
-		"zh_Hans": "大韩民国",
-		"zh_Hant": "大韓民國",
-		"zh_TW": "大韓民國",
+		"zh_Hans": "韩国",
+		"zh_Hant": "南韓",
+		"zh_TW": "南韓",
 		"pt": "Coreia do Sul"
 	},
 	"LAOS": {
@@ -1530,14 +1530,14 @@
 		"pt": "Papua-Nova Guiné"
 	},
 	"RUSSIAN FEDERATION": {
-		"en": "Russian Federation",
-		"es": "Federación Rusa",
+		"en": "Russia",
+		"es": "Rusia",
 		"fr": "Russie",
-		"ar": "روسيا الاتحادية",
-		"zh_Hans": "俄罗斯联邦",
-		"zh_Hant": "俄羅斯聯邦",
+		"ar": "روسيا",
+		"zh_Hans": "俄罗斯",
+		"zh_Hant": "俄羅斯",
 		"zh_TW": "俄羅斯",
-		"pt": "Federação da Rússia"
+		"pt": "Rússia"
 	},
 	"SIERRA LEONE": {
 		"en": "Sierra Leone",
@@ -1550,13 +1550,13 @@
 		"pt": "Serra Leoa"
 	},
 	"SWAZILAND": {
-		"en": "Eswatini (former Swaziland)",
-		"es": "Eswatini (antes Suazilandia)",
+		"en": "Eswatini",
+		"es": "Esuatini",
 		"fr": "Eswatini",
-		"ar": "سوازيلند",
-		"zh_Hans": "斯威士兰",
+		"ar": "إسواتيني",
+		"zh_Hans": "斯瓦蒂尼",
 		"zh_Hant": "斯威士蘭",
-		"zh_TW": "史瓦濟蘭",
+		"zh_TW": "史瓦帝尼",
 		"pt": "Eswatini"
 	},
 	"TAJIKISTAN": {
@@ -1970,13 +1970,13 @@
 		"pt": "Porto Rico / EUA"
 	},
 	"NORTH KOREA": {
-		"en": "Dem. People's Rep. of Korea",
+		"en": "North Korea",
 		"es": "Corea del Norte",
 		"fr": "Corée du Nord",
 		"ar": "كوريا الشمالية",
-		"zh_Hans": "朝鲜民主主义人民共和国",
-		"zh_Hant": "朝鮮民主主義人民共和國/北韓",
-		"zh_TW": "朝鮮人民共和國",
+		"zh_Hans": "朝鲜",
+		"zh_Hant": "北韓",
+		"zh_TW": "北韓",
 		"pt": "Coreia do Norte"
 	},
 	"PALESTINIAN AUTHORITY": {
