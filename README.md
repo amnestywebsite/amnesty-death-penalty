@@ -97,23 +97,23 @@ Each year is in a separate sheet. Some things to watch out for:
 ogr2ogr -f GeoJSON -where "name IN ('Golan Heights', 'Western Sahara')" disputed.json ne_50m_admin_0_breakaway_disputed_areas/ne_50m_admin_0_breakaway_disputed_areas.shp
 
 ### Get the two shapefiles into a separate geojson file
-Merge Western Sahara and Morocco together in single polygon
-iso_a3 - ESH
-iso_a3 - MAR
-Include Western Sahara from disputed territory dataset
-name="Western Sahara"
-Dotted line for border
+Merge Western Sahara and Morocco together in single polygon  
+iso_a3 - ESH  
+iso_a3 - MAR  
+Include Western Sahara from disputed territory dataset  
+name="Western Sahara"  
+Dotted line for border  
 
-Merge Somaliland and Somalia together into single polygon
-iso_a3 - -99 at the moment  - SOL
-iso_a3 - SOM
-Dotted line for border
+Merge Somaliland and Somalia together into single polygon  
+iso_a3 - -99 at the moment  - SOL  
+iso_a3 - SOM  
+Dotted line for border  
 
-Merge Kosovo and Serbia together
-iso_a3 - -99 at the moment  - RKS
-iso_a3 - SRB
-Dotted line for border
+Merge Kosovo and Serbia together  
+iso_a3 - -99 at the moment  - RKS  
+iso_a3 - SRB  
+Dotted line for border  
 
-Include Golan Heights from disputed territory
-name="Golan Heights"
+Include Golan Heights from disputed territory  
+name="Golan Heights"  
 Dotted line for border
