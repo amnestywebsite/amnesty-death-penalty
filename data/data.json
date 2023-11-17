@@ -1813,6 +1813,14 @@
             "death-penalties":"100+",
             "status":"RETENTIONIST"
          },
+           {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
+         },
          {
             "id":"SSD",
             "name":"SOUTH SUDAN",
@@ -3621,6 +3629,14 @@
                "pt":"O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
             }
          },
+           {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
+         },
          {
             "id":"ALB",
             "name":"ALBANIA",
@@ -5419,6 +5435,14 @@
             "status":"ABOLITIONIST"
          },
          {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
+         },
+         {
             "id":"DZA",
             "name":"ALGERIA",
             "since":"",
@@ -7150,6 +7174,14 @@
             "status":"RETENTIONIST"
          },
          {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
+         },
+         {
             "id":"ALB",
             "name":"ALBANIA",
             "since":2007,
@@ -8847,6 +8879,14 @@
             "executions":"6",
             "death-penalties":"12+",
             "status":"RETENTIONIST"
+         },
+         {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
          },
          {
             "id":"ALB",
@@ -10598,6 +10638,14 @@
             "status":"RETENTIONIST"
          },
          {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
+         },
+         {
             "id":"ALB",
             "name":"ALBANIA",
             "since":2007,
@@ -12335,6 +12383,14 @@
             "executions":"6",
             "death-penalties":"4+",
             "status":"RETENTIONIST"
+         },
+         {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
          },
          {
             "id":"ALB",
@@ -14076,6 +14132,14 @@
             "status":"RETENTIONIST"
          },
          {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
+         },
+         {
             "id":"ALB",
             "name":"ALBANIA",
             "since":"2007",
@@ -15785,6 +15849,14 @@
             }
          },
          {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
+         },
+         {
             "id":"ALB",
             "name":"ALBANIA",
             "since":"2007",
@@ -17462,6 +17534,14 @@
             "executions":"0",
             "death-penalties":14,
             "status":"RETENTIONIST"
+         },
+         {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
          },
          {
             "id":"ALB",
@@ -19150,6 +19230,14 @@
             "status":"RETENTIONIST"
          },
          {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
+         },
+         {
             "id":"ALB",
             "name":"ALBANIA",
             "since":2007,
@@ -20835,6 +20923,14 @@
             "executions":0,
             "death-penalties":"2+",
             "status":"RETENTIONIST"
+         },
+         {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
          },
          {
             "id":"ALB",
@@ -22594,6 +22690,14 @@
                "zh_TW":"+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
                "pt":"O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
             }
+         },
+         {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
          },
          {
             "id":"ALB",
