@@ -85,8 +85,7 @@ Each year is in a separate sheet. Some things to watch out for:
 6. Export the data from json to csv if someone wants to work in a spreadsheet. This will avoid re-introducing errors that have been fixed.
 
 ## "Rolling" the topojson
-
-1. Downloaded [Natural Earth shapefiles](http://www.naturalearthdata.com/downloads/)
+1. Downloaded [Natural Earth shapefiles](http://www.naturalearthdata.com/downloads/). Look for "Cultural", 1:50m Admin 0 - Countries. 
 2. Transform the shapefiles into geojson removing Antarctica: `ogr2ogr -f GeoJSON -where "SU_A3 <> 'ATA'" world.json ne_50m_admin_0_countries/ne_50m_admin_0_countries.shp`
 3. Transform the geojson into topojson: `topojson --id-property iso_a3 -p name -o world-topo.json world.json`
 4. The object name in the topojson file needs to match the name in our JavaScript file, in this case "countries".
@@ -94,6 +93,9 @@ Each year is in a separate sheet. Some things to watch out for:
 6. The resulting file using mapshaper is a bit larger, 700kb. We could go smaller by doing the same process using the lower resolution (1:110m) or higher by using the higher resolution (1:10m).
 
 ## Fixes disputed territories process
+### Download shape files for disputed territories 
+See https://www.naturalearthdata.com/downloads/50m-cultural-vectors/ - Admin 0 – Breakaway, disputed areas
+
 ### Get the two shapefiles into a separate geojson file
 ogr2ogr -f GeoJSON -where "name IN ('Golan Heights', 'Western Sahara')" disputed.json ne_50m_admin_0_breakaway_disputed_areas/ne_50m_admin_0_breakaway_disputed_areas.shp
 
