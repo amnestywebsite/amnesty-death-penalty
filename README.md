@@ -96,7 +96,7 @@ Each year is in a separate sheet. Some things to watch out for:
 - Make sure that you open the whole zip file from natural earth. This will ensure that you have all the metadata, rather than just the features. 
 - Mapshaper has a GUI that allows you to view the map and complete some edit functions without using the console. However, you will definitely still need to use the console and use some commands.
 - Make sure when you export the file from mapshaper you save it as topojson, and call it world-topo-1-3.json
-- "objects" in the TopoJSON must be called "countries"
+- "objects" in the TopoJSON must be called "countries" (I edited this in the outputed file, which can then be reimported. but there may also be a way to do this in mapshaper)
 
 mapshaper commands:
 1. dissolve - if you need to combine more than one feature (e.g. Denmark and Greenland) you will need this command to dissolve the existing borders.
@@ -114,6 +114,7 @@ Useful links for more info on mapshaper commands
 See https://www.naturalearthdata.com/downloads/50m-cultural-vectors/ - Admin 0 – Breakaway, disputed areas
 
 ### Get the two shapefiles into a separate geojson file
+If using ogr2ogr rather than mapshaper you can use the following command: 
 ogr2ogr -f GeoJSON -where "name IN ('Golan Heights', 'Western Sahara')" disputed.json ne_50m_admin_0_breakaway_disputed_areas/ne_50m_admin_0_breakaway_disputed_areas.shp
 
 ### Get the two shapefiles into a separate geojson file
