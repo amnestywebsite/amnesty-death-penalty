@@ -1405,7 +1405,7 @@
          {
             "id":"SRB",
             "name":"SERBIA",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -1413,7 +1413,7 @@
          {
             "id":"RKS",
             "name":"KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"1999 (UNMIK/REG/1999/24)",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -1816,7 +1816,7 @@
            {
             "id":"RKS",
             "name":"KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"1999 (UNMIK/REG/1999/24)",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -3210,7 +3210,7 @@
          {
             "id":"SRB",
             "name":"SERBIA",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -3632,7 +3632,7 @@
            {
             "id":"RKS",
             "name":"KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"1999 (UNMIK/REG/1999/24)",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -5018,7 +5018,7 @@
          {
             "id":"SRB",
             "name":"SERBIA",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -5437,7 +5437,7 @@
          {
             "id":"RKS",
             "name":"KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"1999 (UNMIK/REG/1999/24)",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -6775,7 +6775,7 @@
          {
             "id":"SRB",
             "name":"SERBIA",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -7176,7 +7176,7 @@
          {
             "id":"RKS",
             "name":"KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"1999 (UNMIK/REG/1999/24)",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -8492,7 +8492,7 @@
          {
             "id":"SRB",
             "name":"SERBIA",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -8883,7 +8883,7 @@
          {
             "id":"RKS",
             "name":"KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"1999 (UNMIK/REG/1999/24)",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -10229,7 +10229,7 @@
          {
             "id":"SRB",
             "name":"SERBIA",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -10640,7 +10640,7 @@
          {
             "id":"RKS",
             "name":"KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"1999 (UNMIK/REG/1999/24)",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -11976,7 +11976,7 @@
          {
             "id":"SRB",
             "name":"SERBIA",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -12387,7 +12387,7 @@
          {
             "id":"RKS",
             "name":"KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"1999 (UNMIK/REG/1999/24)",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -13713,7 +13713,7 @@
          {
             "id":"SRB",
             "name":"SERBIA",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -14134,7 +14134,7 @@
          {
             "id":"RKS",
             "name":"KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"1999 (UNMIK/REG/1999/24)",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -15447,7 +15447,7 @@
          {
             "id":"SRB",
             "name":"SERBIA",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -15851,7 +15851,7 @@
          {
             "id":"RKS",
             "name":"KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"1999 (UNMIK/REG/1999/24)",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -17154,7 +17154,7 @@
          {
             "id":"SRB",
             "name":"SERBIA",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -17538,7 +17538,7 @@
          {
             "id":"RKS",
             "name":"KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"1999 (UNMIK/REG/1999/24)",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -18841,7 +18841,7 @@
          {
             "id":"SRB",
             "name":"SERBIA",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -19232,7 +19232,7 @@
          {
             "id":"RKS",
             "name":"KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"1999 (UNMIK/REG/1999/24)",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -20536,7 +20536,7 @@
          {
             "id":"SRB",
             "name":"SERBIA",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -20927,7 +20927,7 @@
          {
             "id":"RKS",
             "name":"KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"1999 (UNMIK/REG/1999/24)",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -22273,7 +22273,7 @@
          {
             "id":"SRB",
             "name":"SERBIA",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -22694,7 +22694,7 @@
          {
             "id":"RKS",
             "name":"KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"1999 (UNMIK/REG/1999/24)",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -24000,7 +24000,7 @@
          {
             "id":"SRB",
             "name":"SERBIA",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
