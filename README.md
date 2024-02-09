@@ -89,14 +89,21 @@ Each year is in a separate sheet. Some things to watch out for:
 2. Transform the shapefiles into geojson removing Antarctica: `ogr2ogr -f GeoJSON -where "SU_A3 <> 'ATA'" world.json ne_50m_admin_0_countries/ne_50m_admin_0_countries.shp`
 3. Transform the geojson into topojson: `topojson --id-property iso_a3 -p name -o world-topo.json world.json`
 4. The object name in the topojson file needs to match the name in our JavaScript file, in this case "countries".
-5. Note that for the border changes I have used https://mapshaper.org/. This allows you to make all of the same changes in the browser and doesn't require any software to be installed
+5. Note that for the border changes I have used https://mapshaper.org/. This allows you to make all of the same changes in the browser and doesn't require any software to be installed. 
 6. The resulting file using mapshaper is a bit larger, 700kb. We could go smaller by doing the same process using the lower resolution (1:110m) or higher by using the higher resolution (1:10m).
 
-## Useful mapshaper console commands
-Mapshaper has a GUI that allows you to view the map and complete some edit functions without using the console. However, you will definitely still need to use the console and use some commands. 
-- Dissolve - if you need to combine more than one feature (e.g. Denmark and Greenland) you will need this command to dissolve the existing borders.
-- Merge-layers - this command is required to merge any layers that you've been editing back into the main layer for the map.
-- Explode - useful if there is a feature (i.e. country or territory) that has been merged into a larger feature in the source shape files.  
+## Useful mapshaper tips and commands
+- Make sure that you open the whole zip file from natural earth. This will ensure that you have all the metadata, rather than just the features. 
+- Mapshaper has a GUI that allows you to view the map and complete some edit functions without using the console. However, you will definitely still need to use the console and use some commands.
+- Make sure when you export the file from mapshaper you save it as topojson, and call it world-topo-1-3.json
+- "objects" in the TopoJSON must be called "countries"
+
+mapshaper commands:
+1. dissolve - if you need to combine more than one feature (e.g. Denmark and Greenland) you will need this command to dissolve the existing borders.
+2. merge-layers - this command is required to merge any layers that you've been editing back into the main layer for the map.
+3. explode - useful if there is a feature (i.e. country or territory) that has been merged into a larger feature in the source shape files.
+4. filter-fields - there are lots of additional fields in the natural earth shape files that you don't need. You just want to keep the iso_a3 ids.
+5. rename-fields - use this to rename the iso_a3 field that you've kept to id. Note that when inspecting elements in mapshaper this shows as "FID" 
 
 Useful links for more info on mapshaper commands
 - https://github.com/mbloch/mapshaper/blob/master/REFERENCE.md
