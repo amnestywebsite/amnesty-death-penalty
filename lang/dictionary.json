@@ -660,7 +660,10 @@
 		"pt": "Quiribáti"
 	},
 	"KOSOVO": {
-		"en": "Kosovo"
+		"en": "Kosovo",
+		"es": "Kosovo",
+		"fr": "Kosovo",
+		"ar": "كوسوفو",
 	},	
 	"LATVIA": {
 		"en": "Latvia",
@@ -996,10 +999,10 @@
 		"en": "Serbia",
 		"es": "Serbia",
 		"fr": "Serbie",
-		"ar": "صربيا وكوسوفو",
-		"zh_Hans": "塞尔维亚与科索沃",
-		"zh_Hant": "塞爾維亞及科索沃",
-		"zh_TW": "塞爾維亞與科索沃",
+		"ar": "صربيا",
+		"zh_Hans": "塞尔维亚",
+		"zh_Hant": "塞爾維亞",
+		"zh_TW": "塞爾維亞",
 		"pt": "Sérvia"
 	},
 	"SEYCHELLES": {
