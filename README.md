@@ -92,6 +92,16 @@ Each year is in a separate sheet. Some things to watch out for:
 5. Note that for the border changes I have used https://mapshaper.org/. This allows you to make all of the same changes in the browser and doesn't require any software to be installed
 6. The resulting file using mapshaper is a bit larger, 700kb. We could go smaller by doing the same process using the lower resolution (1:110m) or higher by using the higher resolution (1:10m).
 
+## Useful mapshaper console commands
+Mapshaper has a GUI that allows you to view the map and complete some edit functions without using the console. However, you will definitely still need to use the console and use some commands. 
+- Dissolve - if you need to combine more than one feature (e.g. Denmark and Greenland) you will need this command to dissolve the existing borders.
+- Merge-layers - this command is required to merge any layers that you've been editing back into the main layer for the map.
+- Explode - useful if there is a feature (i.e. country or territory) that has been merged into a larger feature in the source shape files.  
+
+Useful links for more info on mapshaper commands
+- https://github.com/mbloch/mapshaper/blob/master/REFERENCE.md
+- https://handsondataviz.org/mapshaper.html
+
 ## Fixes disputed territories process
 ### Download shape files for disputed territories 
 See https://www.naturalearthdata.com/downloads/50m-cultural-vectors/ - Admin 0 – Breakaway, disputed areas
