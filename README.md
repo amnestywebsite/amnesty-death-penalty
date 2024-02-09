@@ -109,29 +109,30 @@ Useful links for more info on mapshaper commands
 - https://github.com/mbloch/mapshaper/blob/master/REFERENCE.md
 - https://handsondataviz.org/mapshaper.html
 
-## Fixes disputed territories process
+## Fixing disputed territories 
 ### Download shape files for disputed territories 
 See https://www.naturalearthdata.com/downloads/50m-cultural-vectors/ - Admin 0 – Breakaway, disputed areas
 
 ### Get the two shapefiles into a separate geojson file
-If using ogr2ogr rather than mapshaper you can use the following command: 
+- If using ogr2ogr rather than mapshaper you can use the following command: 
 ogr2ogr -f GeoJSON -where "name IN ('Golan Heights', 'Western Sahara')" disputed.json ne_50m_admin_0_breakaway_disputed_areas/ne_50m_admin_0_breakaway_disputed_areas.shp
+- In mapshaper you can use select and split to move these features to their own layer, so that they can then be merged back into the main map
 
 ### Get the two shapefiles into a separate geojson file
-Merge Western Sahara and Morocco together in single polygon  
+Merge Western Sahara and Morocco together into single polygon (get them on a separate layer in mapshaper and use the dissolve command) 
 iso_a3 - ESH  
 iso_a3 - MAR  
 Include Western Sahara from disputed territory dataset  
 name="Western Sahara"  
 Dotted line for border (NB the dotted line drawn by is custom code in the JavaScript, it is not something thart you can do in mapshaper or ogr2ogr)
 
-Merge Somaliland and Somalia together into single polygon  
+Merge Somaliland and Somalia together into single polygon (get them on a separate layer in mapshaper and use the dissolve command)
 iso_a3 - -99 at the moment  - SOL  
 iso_a3 - SOM  
 Dotted line for Somaliland has been removed
 
-Include Golan Heights from disputed territory  
+Include Golan Heights from disputed territory (merge layer into the main map. the dotted line will show automatically from the js once the feature is part of the map) 
 name="Golan Heights"  
 Dotted line for border (NB, this is also in the JavaScript)
 
-Kosovo and Serbia have no longer been merged
+Kosovo and Serbia are no longer merged, so this step has been removed 
