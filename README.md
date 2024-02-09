@@ -123,7 +123,7 @@ iso_a3 - ESH
 iso_a3 - MAR  
 Include Western Sahara from disputed territory dataset  
 name="Western Sahara"  
-Dotted line for border  
+Dotted line for border (NB the dotted line drawn by is custom code in the JavaScript, it is not something thart you can do in mapshaper or ogr2ogr)
 
 Merge Somaliland and Somalia together into single polygon  
 iso_a3 - -99 at the moment  - SOL  
@@ -132,6 +132,6 @@ Dotted line for Somaliland has been removed
 
 Include Golan Heights from disputed territory  
 name="Golan Heights"  
-Dotted line for border
+Dotted line for border (NB, this is also in the JavaScript)
 
 Kosovo and Serbia have no longer been merged
