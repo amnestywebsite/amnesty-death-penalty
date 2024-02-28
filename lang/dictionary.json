@@ -663,7 +663,11 @@
 		"en": "Kosovo",
 		"es": "Kosovo",
 		"fr": "Kosovo",
-		"ar": "كوسوفو"
+		"ar": "كوسوفو",
+		"zh_Hans": "科索沃",
+		"zh_Hant": "科索沃",
+		"zh_TW": "科索沃",
+		"pt": "Kosovo"
 	},	
 	"LATVIA": {
 		"en": "Latvia",
