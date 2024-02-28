@@ -659,6 +659,12 @@
 		"zh_TW": "吉里巴斯",
 		"pt": "Quiribáti"
 	},
+	"KOSOVO": {
+		"en": "Kosovo",
+		"es": "Kosovo",
+		"fr": "Kosovo",
+		"ar": "كوسوفو"
+	},	
 	"LATVIA": {
 		"en": "Latvia",
 		"es": "Letonia",
@@ -989,15 +995,15 @@
 		"zh_TW": "塞內加爾",
 		"pt": "Senegal"
 	},
-	"SERBIA INCLUDING KOSOVO": {
-		"en": "Serbia and Kosovo",
-		"es": "Serbia y Kosovo",
-		"fr": "Serbie et Kosovo",
-		"ar": "صربيا وكوسوفو",
-		"zh_Hans": "塞尔维亚与科索沃",
-		"zh_Hant": "塞爾維亞及科索沃",
-		"zh_TW": "塞爾維亞與科索沃",
-		"pt": "Sérvia e Kosovo"
+	"SERBIA": {
+		"en": "Serbia",
+		"es": "Serbia",
+		"fr": "Serbie",
+		"ar": "صربيا",
+		"zh_Hans": "塞尔维亚",
+		"zh_Hant": "塞爾維亞",
+		"zh_TW": "塞爾維亞",
+		"pt": "Sérvia"
 	},
 	"SEYCHELLES": {
 		"en": "Seychelles",

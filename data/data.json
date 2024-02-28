@@ -1404,8 +1404,16 @@
          },
          {
             "id":"SRB",
-            "name":"SERBIA INCLUDING KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "name":"SERBIA",
+            "since":"2002",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
+         },
+         {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"1999 (UNMIK/REG/1999/24)",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -1804,6 +1812,14 @@
             "executions":"0",
             "death-penalties":"100+",
             "status":"RETENTIONIST"
+         },
+           {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
          },
          {
             "id":"SSD",
@@ -3193,8 +3209,8 @@
          },
          {
             "id":"SRB",
-            "name":"SERBIA INCLUDING KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "name":"SERBIA",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -3612,6 +3628,14 @@
                "zh_TW":"+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
                "pt":"O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
             }
+         },
+           {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
          },
          {
             "id":"ALB",
@@ -4993,8 +5017,8 @@
          },
          {
             "id":"SRB",
-            "name":"SERBIA INCLUDING KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "name":"SERBIA",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -5408,6 +5432,14 @@
             "since":2007,
             "executions":"",
             "death-penalties":"",
+            "status":"ABOLITIONIST"
+         },
+         {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
             "status":"ABOLITIONIST"
          },
          {
@@ -6742,8 +6774,8 @@
          },
          {
             "id":"SRB",
-            "name":"SERBIA INCLUDING KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "name":"SERBIA",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -7140,6 +7172,14 @@
             "executions":"2",
             "death-penalties":"174",
             "status":"RETENTIONIST"
+         },
+         {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
          },
          {
             "id":"ALB",
@@ -8451,8 +8491,8 @@
          },
          {
             "id":"SRB",
-            "name":"SERBIA INCLUDING KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "name":"SERBIA",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -8839,6 +8879,14 @@
             "executions":"6",
             "death-penalties":"12+",
             "status":"RETENTIONIST"
+         },
+         {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
          },
          {
             "id":"ALB",
@@ -10180,8 +10228,8 @@
          },
          {
             "id":"SRB",
-            "name":"SERBIA INCLUDING KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "name":"SERBIA",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -10588,6 +10636,14 @@
             "executions":1,
             "death-penalties":"12+",
             "status":"RETENTIONIST"
+         },
+         {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
          },
          {
             "id":"ALB",
@@ -11919,8 +11975,8 @@
          },
          {
             "id":"SRB",
-            "name":"SERBIA INCLUDING KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "name":"SERBIA",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -12327,6 +12383,14 @@
             "executions":"6",
             "death-penalties":"4+",
             "status":"RETENTIONIST"
+         },
+         {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
          },
          {
             "id":"ALB",
@@ -13648,8 +13712,8 @@
          },
          {
             "id":"SRB",
-            "name":"SERBIA INCLUDING KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "name":"SERBIA",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -14066,6 +14130,14 @@
             "executions":"5",
             "death-penalties":"11+ ",
             "status":"RETENTIONIST"
+         },
+         {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
          },
          {
             "id":"ALB",
@@ -15374,8 +15446,8 @@
          },
          {
             "id":"SRB",
-            "name":"SERBIA INCLUDING KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "name":"SERBIA",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -15775,6 +15847,14 @@
             "note":{
                "en":" + means Amnesty International is confident that there was more than one death sentence but we could not establish a figure."
             }
+         },
+         {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
          },
          {
             "id":"ALB",
@@ -17073,8 +17153,8 @@
          },
          {
             "id":"SRB",
-            "name":"SERBIA INCLUDING KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "name":"SERBIA",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -17454,6 +17534,14 @@
             "executions":"0",
             "death-penalties":14,
             "status":"RETENTIONIST"
+         },
+         {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
          },
          {
             "id":"ALB",
@@ -18752,8 +18840,8 @@
          },
          {
             "id":"SRB",
-            "name":"SERBIA INCLUDING KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "name":"SERBIA",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -19140,6 +19228,14 @@
             "executions":0,
             "death-penalties":"4+",
             "status":"RETENTIONIST"
+         },
+         {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
          },
          {
             "id":"ALB",
@@ -20439,8 +20535,8 @@
          },
          {
             "id":"SRB",
-            "name":"SERBIA INCLUDING KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "name":"SERBIA",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -20827,6 +20923,14 @@
             "executions":0,
             "death-penalties":"2+",
             "status":"RETENTIONIST"
+         },
+         {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
          },
          {
             "id":"ALB",
@@ -22168,8 +22272,8 @@
          },
          {
             "id":"SRB",
-            "name":"SERBIA INCLUDING KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "name":"SERBIA",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"
@@ -22586,6 +22690,14 @@
                "zh_TW":"+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
                "pt":"O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
             }
+         },
+         {
+            "id":"RKS",
+            "name":"KOSOVO",
+            "since":"1999 (UNMIK/REG/1999/24)",
+            "executions":0,
+            "death-penalties":0,
+            "status":"ABOLITIONIST"
          },
          {
             "id":"ALB",
@@ -23887,8 +23999,8 @@
          },
          {
             "id":"SRB",
-            "name":"SERBIA INCLUDING KOSOVO",
-            "since":"2002/1999 (UNMIK/REG/1999/24)",
+            "name":"SERBIA",
+            "since":"2002",
             "executions":0,
             "death-penalties":0,
             "status":"ABOLITIONIST"

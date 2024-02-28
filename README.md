@@ -85,35 +85,54 @@ Each year is in a separate sheet. Some things to watch out for:
 6. Export the data from json to csv if someone wants to work in a spreadsheet. This will avoid re-introducing errors that have been fixed.
 
 ## "Rolling" the topojson
-
-1. Downloaded [Natural Earth shapefiles](http://www.naturalearthdata.com/downloads/)
+1. Downloaded [Natural Earth shapefiles](http://www.naturalearthdata.com/downloads/). Look for "Cultural", 1:50m Admin 0 - Countries. 
 2. Transform the shapefiles into geojson removing Antarctica: `ogr2ogr -f GeoJSON -where "SU_A3 <> 'ATA'" world.json ne_50m_admin_0_countries/ne_50m_admin_0_countries.shp`
 3. Transform the geojson into topojson: `topojson --id-property iso_a3 -p name -o world-topo.json world.json`
 4. The object name in the topojson file needs to match the name in our JavaScript file, in this case "countries".
-5. The resulting file is around 500kb. We could go smaller by doing the same process using the lower resolution (1:110m) or higher by using the higher resolution (1:10m).
+5. Note that for the border changes I have used https://mapshaper.org/. This allows you to make all of the same changes in the browser and doesn't require any software to be installed. 
+6. The resulting file using mapshaper is a bit larger, 700kb. We could go smaller by doing the same process using the lower resolution (1:110m) or higher by using the higher resolution (1:10m).
 
-## Fixes disputed territories process
+## Useful mapshaper tips and commands
+- Make sure that you open the whole zip file from natural earth. This will ensure that you have all the metadata, rather than just the features. 
+- Mapshaper has a GUI that allows you to view the map and complete some edit functions without using the console. However, you will definitely still need to use the console and use some commands.
+- Make sure when you export the file from mapshaper you save it as topojson, and call it world-topo-1-3.json
+- "objects" in the TopoJSON must be called "countries" (I edited this in the outputed file, which can then be reimported. but there may also be a way to do this in mapshaper)
+
+mapshaper commands:
+1. dissolve - if you need to combine more than one feature (e.g. Denmark and Greenland) you will need this command to dissolve the existing borders.
+2. merge-layers - this command is required to merge any layers that you've been editing back into the main layer for the map.
+3. explode - useful if there is a feature (i.e. country or territory) that has been merged into a larger feature in the source shape files.
+4. filter-fields - there are lots of additional fields in the natural earth shape files that you don't need. You just want to keep the iso_a3 ids.
+5. rename-fields - use this to rename the iso_a3 field that you've kept to id. Note that when inspecting elements in mapshaper this shows as "FID" 
+
+Useful links for more info on mapshaper commands
+- https://github.com/mbloch/mapshaper/blob/master/REFERENCE.md
+- https://handsondataviz.org/mapshaper.html
+
+## Fixing disputed territories 
+### Download shape files for disputed territories 
+See https://www.naturalearthdata.com/downloads/50m-cultural-vectors/ - Admin 0 – Breakaway, disputed areas
+
 ### Get the two shapefiles into a separate geojson file
+- If using ogr2ogr rather than mapshaper you can use the following command: 
 ogr2ogr -f GeoJSON -where "name IN ('Golan Heights', 'Western Sahara')" disputed.json ne_50m_admin_0_breakaway_disputed_areas/ne_50m_admin_0_breakaway_disputed_areas.shp
+- In mapshaper you can use select and split to move these features to their own layer, so that they can then be merged back into the main map
 
 ### Get the two shapefiles into a separate geojson file
-Merge Western Sahara and Morocco together in single polygon  
+Merge Western Sahara and Morocco together into single polygon (get them on a separate layer in mapshaper and use the dissolve command) 
 iso_a3 - ESH  
 iso_a3 - MAR  
 Include Western Sahara from disputed territory dataset  
 name="Western Sahara"  
-Dotted line for border  
+Dotted line for border (NB the dotted line drawn by is custom code in the JavaScript, it is not something thart you can do in mapshaper or ogr2ogr)
 
-Merge Somaliland and Somalia together into single polygon  
+Merge Somaliland and Somalia together into single polygon (get them on a separate layer in mapshaper and use the dissolve command)
 iso_a3 - -99 at the moment  - SOL  
 iso_a3 - SOM  
-Dotted line for border  
+Dotted line for Somaliland has been removed
 
-Merge Kosovo and Serbia together  
-iso_a3 - -99 at the moment  - RKS  
-iso_a3 - SRB  
-Dotted line for border  
-
-Include Golan Heights from disputed territory  
+Include Golan Heights from disputed territory (merge layer into the main map. the dotted line will show automatically from the js once the feature is part of the map) 
 name="Golan Heights"  
-Dotted line for border
+Dotted line for border (NB, this is also in the JavaScript)
+
+Kosovo and Serbia are no longer merged, so this step has been removed 
