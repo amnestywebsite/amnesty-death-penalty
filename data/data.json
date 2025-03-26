@@ -23731,7 +23731,7 @@
  },
  {
    "id": "RUS",
-   "name": "RUSSIA",
+   "name": "RUSSIAN FEDERATION",
    "since": "",
    "executions": "0",
    "death-penalties": "0",
@@ -23763,7 +23763,7 @@
  },
  {
    "id": "VCT",
-   "name": "SAINT VINCENT AND GRENADINES",
+   "name": "SAINT VINCENT AND THE GRENADINES",
    "since": "",
    "executions": "0",
    "death-penalties": "0",
@@ -24045,7 +24045,7 @@
  },
  {
    "id": "TUR",
-   "name": "TÜRKIYE",
+   "name": "TURKEY",
    "since": "2004",
    "executions": "",
    "death-penalties": "",
