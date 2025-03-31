@@ -1540,7 +1540,7 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"RETENTIONIST"
          },
          {
             "id":"SWZ",
@@ -3307,7 +3307,7 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"RETENTIONIST"
          },
          {
             "id":"SWZ",
@@ -5014,7 +5014,7 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"RETENTIONIST"
          },
          {
             "id":"SWZ",
@@ -6761,7 +6761,7 @@
             "since":"",
             "executions":"0",
             "death-penalties":"0",
-            "status":"ABOLITIONIST IN PRACTICE"
+            "status":"RETENTIONIST"
          },
          {
             "id":"SWZ",
@@ -8495,10 +8495,10 @@
          {
             "id":"SUR",
             "name":"SURINAME",
-            "since":2015,
+            "since":"",
             "executions":"",
             "death-penalties":"",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
             "id":"SWZ",
@@ -10242,10 +10242,10 @@
          {
             "id":"SUR",
             "name":"SURINAME",
-            "since":2015,
+            "since":"",
             "executions":"",
             "death-penalties":"",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
             "id":"SWZ",
@@ -11966,10 +11966,10 @@
          {
             "id":"SUR",
             "name":"SURINAME",
-            "since":"2015",
+            "since":"",
           "executions":"",
             "death-penalties":"",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
             "id":"SWZ",
@@ -13666,10 +13666,10 @@
          {
             "id":"SUR",
             "name":"SURINAME",
-            "since":"2015",
+            "since":"",
           "executions":"",
             "death-penalties":"",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
             "id":"SWZ",
@@ -15350,10 +15350,10 @@
          {
             "id":"SUR",
             "name":"SURINAME",
-            "since":2015,
+            "since":"",
             "executions":"",
             "death-penalties":"",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
             "id":"SWZ",
@@ -17045,10 +17045,10 @@
          {
             "id":"SUR",
             "name":"SURINAME",
-            "since":2015,
+            "since":"",
             "executions":"",
             "death-penalties":"",
-            "status":"ABOLITIONIST"
+            "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
             "id":"SWZ",
