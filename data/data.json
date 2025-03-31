@@ -23625,12 +23625,11 @@
    "id": "PSE",
    "name": "STATE OF PALESTINE",
    "since": "",
-   "executions": "0",
-   "death-penalties": "0",
+   "executions": " ",
+   "death-penalties": " ",
    "status": "RETENTIONIST",
             "note":{
-               "en":"Amnesty International was unable to confirm whether death sentences were imposed in this country. 
-               Amnesty International was unable to confirm whether judicial executions took place in this country.",
+               "en":"Amnesty International was unable to confirm whether death sentences were imposed in this country. Amnesty International was unable to confirm whether judicial executions took place in this country.",
                "fr":"Condamnations à mort prononcées par les autorités du Hamas à Gaza",
                "es":"Condenas a muerte por las autoridades de Hamás en Gaza",
                "ar":"أحكام الإعدام الصادرة عن سلطات حماس في غزة",
