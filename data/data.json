@@ -18782,7 +18782,7 @@
          {
             "id":"SUR",
             "name":"SURINAME",
-            "since":2015,
+            "since":2021,
             "executions":"",
             "death-penalties":"",
             "status":"ABOLITIONIST"
@@ -20509,7 +20509,7 @@
          {
             "id":"SUR",
             "name":"SURINAME",
-            "since":2015,
+            "since":2021,
             "executions":"",
             "death-penalties":"",
             "status":"ABOLITIONIST"
@@ -22216,7 +22216,7 @@
  {
    "id": "SUR",
    "name": "SURINAME",
-   "since": "2015",
+   "since": "2021",
   "executions":"",
             "death-penalties":"",
             "status":"ABOLITIONIST"
@@ -23924,7 +23924,7 @@
  {
    "id": "SUR",
    "name": "SURINAME",
-   "since": "2015",
+   "since": "2021",
    "executions": "",
    "death-penalties": "",
    "status": "ABOLITIONIST"
