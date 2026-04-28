@@ -22401,7 +22401,7 @@
     "id": "AFG",
     "name": "AFGHANISTAN",
     "since": "",
-    "Executions": 6,
+    "Executions": "6",
     "Death S.": "+",
     "status": "RETENTIONIST"
   },
@@ -22409,48 +22409,48 @@
     "id": "ALB",
     "name": "ALBANIA",
     "since": 2007,
-    "Executions": 0,
-    "Death S.": 0,
+    "Executions": "0",
+    "Death S.": "0",
     "status": "ABOLITIONIST"
   },
   {
     "id": "DZA",
     "name": "ALGERIA",
     "since": "",
-    "Executions": 0,
-    "Death S.": 11,
+    "Executions": "0",
+    "Death S.": "11",
     "status": "ABOLITIONIST IN PRACTICE"
   },
   {
     "id": "AND",
     "name": "ANDORRA",
     "since": 1990,
-    "Executions": 0,
-    "Death S.": 0,
+    "Executions": "0",
+    "Death S.": "0",
     "status": "ABOLITIONIST"
   },
   {
     "id": "AGO",
     "name": "ANGOLA",
     "since": 1992,
-    "Executions": 0,
-    "Death S.": 0,
+    "Executions": "0",
+    "Death S.": "0",
     "status": "ABOLITIONIST"
   },
   {
     "id": "ATG",
     "name": "ANTIGUA AND BARBUDA",
     "since": "",
-    "Executions": 0,
-    "Death S.": 0,
+    "Executions": "0",
+    "Death S.": "0",
     "status": "RETENTIONIST"
   },
   {
     "id": "ARG",
     "name": "ARGENTINA",
     "since": 2008,
-    "Executions": 0,
-    "Death S.": 0,
+    "Executions": "0",
+    "Death S.": "0",
     "status": "ABOLITIONIST"
   },
   {
