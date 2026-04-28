@@ -22392,10 +22392,10 @@
       "year":"2025",
       "total-executions":"TBC",
       "total-death-sentences":"TBC",
-      "ABOLITIONIST":"",
-      "ABOLITIONIST FOR ORDINARY CRIMES":"",
-      "ABOLITIONIST IN PRACTICE":"",
-      "RETENTIONIST":"",
+      "ABOLITIONIST":"115",
+      "ABOLITIONIST FOR ORDINARY CRIMES":"8",
+      "ABOLITIONIST IN PRACTICE":"23",
+      "RETENTIONIST":"55",
       "countries":[
   {
     "id": "AFG",
