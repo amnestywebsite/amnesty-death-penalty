@@ -23165,6 +23165,8 @@
     "id": "MYS",
     "name": "MALAYSIA",
     "since": "",
+	"executions": "0",
+    "death-penalties": "15",
     "status": "RETENTIONIST"
   },
   {
