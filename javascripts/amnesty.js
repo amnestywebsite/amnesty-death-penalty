@@ -16,9 +16,9 @@ var height = width*mapHeightWidthRatio;
 var mapScale = (width-20)*mapWidthScaleFactor;
 var center = [width / 2, height * 0.567];// For some reason, the height needs to be translated a little more than half to actually center the map. No idea why.
 
-var startYear = '2024';
-var maxYear = '2024';
-var minYear = '2011';
+var startYear = '2025';
+var maxYear = '2025';
+var minYear = '2012';
 var currentYear = startYear;
 var tooltip = d3.select("#map").append("div").attr("class", "tooltip hidden");
 var tooltipOffset;
