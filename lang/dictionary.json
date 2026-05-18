@@ -8,7 +8,7 @@
 		"zh_Hant": "完全廢除死刑",
 		"zh_TW": "所有罪行均無死刑懲罰",
 		"pt": "Abolicionista para todos os crimes",
-		"ru": "Abolitionist for all crimes - Russian"
+		"ru": "Abolitionist for all crimes"
 	},
 	"RETENTIONIST": {
 		"en": "Retentionist",
@@ -28,7 +28,9 @@
 		"zh_Hans": "实际上废除死刑",
 		"zh_Hant": "實質上廢除死刑",
 		"zh_TW": "實際上廢除死刑",
-		"pt": "Abolicionista na prática"
+		"pt": "Abolicionista na prática",
+		"ru": "На практике смертная казнь не применяется"
+
 	},
 	"ABOLITIONIST FOR ORDINARY CRIMES": {
 		"en": "Abolitionist for ordinary crimes",
