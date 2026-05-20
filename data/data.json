@@ -16236,7 +16236,7 @@
          },
          {
             "id":"VAT",
-            "name":"VATICAN CITY",
+            "name":"HOLY SEE",
             "since":1969,
             "executions":"",
             "death-penalties":"",
@@ -18006,7 +18006,7 @@
          },
          {
             "id":"VAT",
-            "name":"VATICAN CITY",
+            "name":"HOLY SEE",
             "since":1969,
             "executions":"",
             "death-penalties":"",
@@ -19713,7 +19713,7 @@
  },
  {
    "id": "VAT",
-   "name": "VATICAN CITY",
+   "name": "HOLY SEE",
    "since": "1969",
   "executions":"",
             "death-penalties":"",
@@ -21429,7 +21429,7 @@
  },
  {
    "id": "VAT",
-   "name": "VATICAN CITY",
+   "name": "HOLY SEE",
    "since": "1969",
    "executions": "",
    "death-penalties": "",
@@ -23058,7 +23058,7 @@
   },
   {
     "id": "VAT",
-    "name": "VATICAN CITY",
+    "name": "HOLY SEE",
     "since": 1969,
     "status": "ABOLITIONIST"
   },
