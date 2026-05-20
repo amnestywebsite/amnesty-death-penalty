@@ -20540,7 +20540,7 @@
  },
  {
    "id": "SWZ",
-   "name": "ESWATINI",
+   "name": "SWAZILAND",
    "since": "",
    "executions": "0",
    "death-penalties": "",
@@ -22256,7 +22256,7 @@
  },
  {
    "id": "SWZ",
-   "name": "ESWATINI",
+   "name": "SWAZILAND",
    "since": "",
    "executions": "0",
    "death-penalties": "0",
@@ -23629,7 +23629,7 @@
   },
   {
     "id": "VCT",
-    "name": "SAINT VINCENT AND GRENADINES",
+    "name": "SAINT VINCENT AND THE GRENADINES",
     "since": "",
     "executions": "0",
     "death-penalties": "0",
@@ -23771,7 +23771,7 @@
   },
   {
     "id": "SWZ",
-    "name": "ESWATINI",
+    "name": "SWAZILAND",
     "since": "",
     "executions": "0",
     "death-penalties": "0",
@@ -23878,7 +23878,7 @@
   },
   {
     "id": "TUR",
-    "name": "TÜRKIYE",
+    "name": "TURKEY",
     "since": 2004,
     "status": "ABOLITIONIST"
   },
