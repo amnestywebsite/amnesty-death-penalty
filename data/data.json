@@ -11895,7 +11895,8 @@
             "death-penalties":"15+",
             "status":"RETENTIONIST",
             "note":{
-               "en":"Death Sentences: 7 by Federal Government of Somalia, 7 in Puntland, 1 in Jubaland.  Executions: 10 in Jubaland, 3 by Federal Government of Somalia. "
+               "en":"Death Sentences: 7 by Federal Government of Somalia, 7 in Puntland, 1 in Jubaland.  Executions: 10 in Jubaland, 3 by Federal Government of Somalia.",
+			   "ru":"Смертные приговоры: 7 — вынесены Федеральным правительством Сомали; 7 — в Пунтленде; 1 — в Джубаленде; казни: 10 — в Джубаленде; 3 — проведены Федеральным правительством Сомали."
             }
          },
          {
